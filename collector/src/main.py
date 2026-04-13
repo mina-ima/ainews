@@ -12,7 +12,6 @@ from pathlib import Path
 from .search import collect_news
 from .summarize import summarize_news, generate_markdown, generate_tts_text
 from .tts import generate_mp3
-from .upload import upload_to_release
 
 JST = timezone(timedelta(hours=9))
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent  # ~/AI/ainews/
@@ -82,15 +81,11 @@ async def run() -> None:
     index_path.write_text(json.dumps(index_data, ensure_ascii=False, indent=2))
     print(f"  → index.json 更新完了")
 
-    # 6. GitHub Releases アップロード（CI環境のみ）
+    # 6. GitHub Releases アップロード
     if repo and os.environ.get("CI"):
-        print("Step 6: GitHub Releases にMP3アップロード中...")
-        url = upload_to_release(mp3_path, date, repo)
-        print(f"  → {url}")
-        # アップロード後にローカルMP3を削除（gitにcommitしないため）
-        os.remove(mp3_path)
-        print("  → ローカルMP3削除")
-    else:
+        # CI環境ではワークフローの別ステップでアップロードするためスキップ
+        print("Step 6: MP3アップロードはワークフローステップで実行")
+    elif not os.environ.get("CI"):
         print("Step 6: ローカル環境のためアップロードをスキップ")
 
     print(f"\n完了! {len(highlights)}件のニュースをまとめました。")
