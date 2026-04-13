@@ -1,8 +1,10 @@
 import Link from "next/link";
 import { getIndex } from "@/lib/articles";
 
-export default function Home() {
-  const { articles } = getIndex();
+export const dynamic = "force-dynamic";
+
+export default async function Home() {
+  const { articles } = await getIndex();
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">

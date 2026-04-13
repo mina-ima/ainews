@@ -1,8 +1,5 @@
 import { NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
-
-const ARTICLES_DIR = path.join(process.cwd(), "..", "articles");
+import { getArticleContent } from "@/lib/articles";
 
 export async function GET(
   _request: Request,
@@ -10,17 +7,15 @@ export async function GET(
 ) {
   const { date } = await params;
 
-  // 日付形式のバリデーション
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
     return NextResponse.json({ error: "Invalid date" }, { status: 400 });
   }
 
-  const filePath = path.join(ARTICLES_DIR, `${date}.md`);
-  if (!fs.existsSync(filePath)) {
+  const content = await getArticleContent(date);
+  if (!content) {
     return NextResponse.json({ error: "Not found" }, { status: 404 });
   }
 
-  const content = fs.readFileSync(filePath, "utf-8");
   return new NextResponse(content, {
     headers: {
       "Content-Type": "text/markdown; charset=utf-8",

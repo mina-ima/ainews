@@ -1,12 +1,10 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getIndex, getArticleContent, getArticleDates } from "@/lib/articles";
+import { getIndex, getArticleContent } from "@/lib/articles";
 import AudioPlayer from "@/components/AudioPlayer";
 import MarkdownView from "@/components/MarkdownView";
 
-export async function generateStaticParams() {
-  return getArticleDates().map((date) => ({ date }));
-}
+export const dynamic = "force-dynamic";
 
 export default async function ArticlePage({
   params,
@@ -14,10 +12,10 @@ export default async function ArticlePage({
   params: Promise<{ date: string }>;
 }) {
   const { date } = await params;
-  const content = getArticleContent(date);
+  const content = await getArticleContent(date);
   if (!content) notFound();
 
-  const { articles } = getIndex();
+  const { articles } = await getIndex();
   const meta = articles.find((a) => a.date === date);
 
   return (
