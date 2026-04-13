@@ -21,6 +21,12 @@ AI_KEYWORDS = {
     "diffusion", "stable diffusion", "midjourney", "dall-e",
     "rag", "fine-tuning", "embedding", "vector",
     "agent", "mcp", "tool use",
+    # メモリ・ハードウェア
+    "memory", "hbm", "dram", "sram", "mram",
+    "cpu", "processor", "intel", "amd", "arm", "risc-v", "qualcomm", "apple silicon",
+    "tpu", "npu", "asic", "fpga",
+    # インフラ・データセンター
+    "data center", "cloud computing", "edge computing",
 }
 
 RSS_FEEDS = [
