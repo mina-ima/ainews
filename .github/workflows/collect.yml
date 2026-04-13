@@ -1,0 +1,53 @@
+name: Daily AI News Collection
+
+on:
+  schedule:
+    - cron: '57 21 * * *'  # UTC 21:57 = JST 6:57
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        working-directory: collector
+        run: uv sync
+
+      - name: Collect and generate news
+        working-directory: collector
+        env:
+          GEMINI_KEY_1: ${{ secrets.GEMINI_KEY_1 }}
+          GEMINI_KEY_2: ${{ secrets.GEMINI_KEY_2 }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          CI: "true"
+        run: uv run python -m src.main
+
+      - name: Commit articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles/
+          git diff --cached --quiet || git commit -m "Add AI news $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          git push
+
+      - name: Upload MP3 to Release
+        if: hashFiles('articles/*.mp3') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          MP3="articles/${DATE}.mp3"
+          if [ -f "$MP3" ]; then
+            gh release create "news-${DATE}" \
+              --title "AI News ${DATE}" \
+              --notes "AI・テクノロジーニュース ${DATE}" || true
+            gh release upload "news-${DATE}" "$MP3" --clobber
+          fi

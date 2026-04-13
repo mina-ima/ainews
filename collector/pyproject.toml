@@ -1,0 +1,12 @@
+[project]
+name = "collector"
+version = "0.1.0"
+description = "AI・テクノロジーニュース自動収集・要約・音声生成"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28",
+    "feedparser>=6.0",
+    "edge-tts>=7.0",
+    "google-genai>=1.0",
+    "groq>=1.1.2",
+]
