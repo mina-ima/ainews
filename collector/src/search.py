@@ -24,19 +24,41 @@ AI_KEYWORDS = {
 }
 
 RSS_FEEDS = [
+    # --- 米国主要テックメディア ---
     ("TechCrunch AI", "https://techcrunch.com/category/artificial-intelligence/feed/"),
     ("The Verge AI", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"),
     ("MIT Tech Review", "https://www.technologyreview.com/feed/"),
-    ("Ars Technica AI", "https://feeds.arstechnica.com/arstechnica/technology-lab"),
+    ("Ars Technica", "https://feeds.arstechnica.com/arstechnica/technology-lab"),
     ("VentureBeat AI", "https://venturebeat.com/category/ai/feed/"),
+    ("Wired AI", "https://www.wired.com/feed/tag/ai/latest/rss"),
+    # --- 学術・研究 ---
+    ("arXiv AI", "https://rss.arxiv.org/rss/cs.AI"),
+    ("arXiv LG", "https://rss.arxiv.org/rss/cs.LG"),
+    # --- 英国・欧州 ---
+    ("BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
+    ("The Guardian Tech", "https://www.theguardian.com/technology/rss"),
+    ("Reuters Tech", "https://www.reutersagency.com/feed/?taxonomy=best-topics&post_type=best"),
+    # --- アジア・グローバル ---
+    ("Nikkei Asia Tech", "https://asia.nikkei.com/rss/feed/nar?t=Technology"),
+    ("South China Morning Post Tech", "https://www.scmp.com/rss/5/feed"),
+    # --- 日本 ---
+    ("ITmedia AI+", "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"),
+    ("日経クロステック", "https://xtech.nikkei.com/rss/xtech-ai.rdf"),
 ]
 
 # プリント配線板（PWB/PCB）業界ニュースソース
 PCB_RSS_FEEDS = [
+    # --- 日本 ---
     ("JPCA", "https://www.jpca.or.jp/news/feed/"),
+    # --- 海外PCB専門 ---
     ("PCB007", "https://pcb.iconnect007.com/rss"),
+    ("SMT007", "https://smt.iconnect007.com/rss"),
+    ("Design007", "https://design.iconnect007.com/rss"),
+    # --- 電子部品・半導体 ---
     ("EE Times", "https://www.eetimes.com/feed/"),
     ("EDN", "https://www.edn.com/feed/"),
+    ("Semiconductor Engineering", "https://semiengineering.com/feed/"),
+    ("Electronics Weekly", "https://www.electronicsweekly.com/feed/"),
 ]
 
 PCB_KEYWORDS = {
