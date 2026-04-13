@@ -2,7 +2,8 @@
 # Mac起動時にObsidianへ未取得のAIニュースを全てダウンロード（差分同期）
 
 REPO_DIR="$HOME/AI/ainews"
-OBSIDIAN_DIR="$HOME/Obsidian/00_Inbox"
+OBSIDIAN_DIR="$HOME/Obsidian/30_Sources"
+OBSIDIAN_ATTACHMENTS="$HOME/Obsidian/_attachments"
 LOG="/tmp/ainews-download.log"
 
 echo "$(date): ainews download start" >> "$LOG"
@@ -36,7 +37,7 @@ for a in data.get('articles', []):
     if url:
         print(a['date'], url)
 " 2>/dev/null | while read -r DATE AUDIO_URL; do
-        DEST="$OBSIDIAN_DIR/ainews-${DATE}.mp3"
+        DEST="$OBSIDIAN_ATTACHMENTS/ainews-${DATE}.mp3"
         if [ -n "$AUDIO_URL" ] && [ ! -f "$DEST" ]; then
             curl -sL "$AUDIO_URL" -o "$DEST" 2>> "$LOG"
             COUNT_MP3=$((COUNT_MP3 + 1))

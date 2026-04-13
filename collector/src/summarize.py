@@ -155,7 +155,10 @@ def generate_markdown(data: dict, date: str | None = None) -> str:
 
     lines = [
         "---",
-        f"date: {date}",
+        "type: source",
+        "source_url: \"\"",
+        "author: AI自動収集",
+        f"captured: {date}",
         "tags:",
         "  - daily-news",
         "  - AI",
