@@ -61,11 +61,58 @@ def _build_user_prompt(items: list[NewsItem]) -> str:
     return "\n".join(lines)
 
 
-GEMINI_MODELS = [
+import re
+
+GEMINI_PREFERRED_MODELS = [
     "gemini-2.5-flash",
-    "gemini-2.0-flash",
-    "gemini-2.0-flash-lite",
+    "gemini-2.5-flash-lite",
 ]
+_MODEL_PATTERN = re.compile(r"^gemini-[\d.]+-flash(?:-lite|-8b|-\d+b)?$")
+_EXCLUDE_KW = ["tts", "image", "vision", "preview"]
+
+
+def _parse_model_version(name: str) -> tuple[float, str]:
+    m = re.match(r"^gemini-([\d.]+)-flash(.*)$", name)
+    return (float(m.group(1)), m.group(2)) if m else (0.0, "")
+
+
+def _discover_models(client: genai.Client) -> list[str]:
+    """フォールバック順にモデルを返す: 優先 → 1つ前 → 未来の新バージョン"""
+    preferred = list(GEMINI_PREFERRED_MODELS)
+    current_ver = max((_parse_model_version(m)[0] for m in preferred), default=0.0)
+
+    try:
+        api_models = []
+        for m in client.models.list():
+            short = m.name.replace("models/", "")
+            if any(kw in short.lower() for kw in _EXCLUDE_KW):
+                continue
+            if _MODEL_PATTERN.match(short) and short not in preferred:
+                api_models.append(short)
+    except Exception:
+        return preferred
+
+    all_vers = sorted(
+        {_parse_model_version(m)[0] for m in api_models} | {current_ver},
+        reverse=True,
+    )
+    one_back = next((v for v in all_vers if v < current_ver), None)
+
+    back, future = [], []
+    for m in api_models:
+        ver, _ = _parse_model_version(m)
+        if one_back is not None and ver == one_back:
+            back.append(m)
+        elif ver > current_ver:
+            future.append(m)
+
+    back.sort(key=lambda m: (_parse_model_version(m)[1], m))
+    future.sort(key=lambda m: (-_parse_model_version(m)[0], _parse_model_version(m)[1], m))
+
+    result = preferred + back + future
+    if back or future:
+        print(f"  モデル検出 - 1つ前: {back}, 未来: {future}")
+    return result
 
 
 def _get_gemini_keys() -> list[str]:
@@ -82,7 +129,8 @@ async def _try_gemini(user_prompt: str) -> dict | None:
 
     for api_key in api_keys:
         client = genai.Client(api_key=api_key)
-        for model in GEMINI_MODELS:
+        models = _discover_models(client)
+        for model in models:
             try:
                 response = client.models.generate_content(
                     model=model,
@@ -97,10 +145,14 @@ async def _try_gemini(user_prompt: str) -> dict | None:
             except Exception as e:
                 error_msg = str(e)
                 if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
+                    print(f"  {model}: レート制限、次のモデルへ")
                     continue
                 if "404" in error_msg or "NOT_FOUND" in error_msg:
                     continue
-                print(f"  Gemini エラー: {e}")
+                if "503" in error_msg or "UNAVAILABLE" in error_msg:
+                    print(f"  {model}: サービス利用不可、次のモデルへ")
+                    continue
+                print(f"  Gemini エラー ({model}): {e}")
     return None
 
 
