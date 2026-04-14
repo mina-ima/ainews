@@ -2,7 +2,7 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    - cron: '57 21 * * *'  # UTC 21:57 = JST 6:57
+    - cron: '30 21 * * *'  # UTC 21:30 = JST 6:30
   workflow_dispatch:
 
 permissions:
