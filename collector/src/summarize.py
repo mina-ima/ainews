@@ -4,12 +4,15 @@ from __future__ import annotations
 
 import json
 import os
+from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
 from google import genai
 from groq import Groq
 
 from .search import NewsItem
+
+_LAST_MODEL_FILE = Path.home() / ".cache" / "ainews" / "last_model.txt"
 
 JST = timezone(timedelta(hours=9))
 
@@ -63,10 +66,6 @@ def _build_user_prompt(items: list[NewsItem]) -> str:
 
 import re
 
-GEMINI_PREFERRED_MODELS = [
-    "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
-]
 _MODEL_PATTERN = re.compile(r"^gemini-[\d.]+-flash(?:-lite|-8b|-\d+b)?$")
 _EXCLUDE_KW = ["tts", "image", "vision", "preview"]
 
@@ -76,42 +75,74 @@ def _parse_model_version(name: str) -> tuple[float, str]:
     return (float(m.group(1)), m.group(2)) if m else (0.0, "")
 
 
+def _load_last_model() -> str | None:
+    try:
+        return _LAST_MODEL_FILE.read_text().strip() or None
+    except FileNotFoundError:
+        return None
+
+
+def _save_last_model(model: str) -> None:
+    _LAST_MODEL_FILE.parent.mkdir(parents=True, exist_ok=True)
+    _LAST_MODEL_FILE.write_text(model)
+
+
 def _discover_models(client: genai.Client) -> list[str]:
-    """フォールバック順にモデルを返す: 優先 → 1つ前 → 未来の新バージョン"""
-    preferred = list(GEMINI_PREFERRED_MODELS)
-    current_ver = max((_parse_model_version(m)[0] for m in preferred), default=0.0)
+    """フォールバック順: 前回成功モデル → 1つ前バージョン → 未来の新バージョン"""
+    last_model = _load_last_model()
 
     try:
-        api_models = []
+        all_models = []
         for m in client.models.list():
             short = m.name.replace("models/", "")
             if any(kw in short.lower() for kw in _EXCLUDE_KW):
                 continue
-            if _MODEL_PATTERN.match(short) and short not in preferred:
-                api_models.append(short)
+            if _MODEL_PATTERN.match(short):
+                all_models.append(short)
     except Exception:
-        return preferred
+        return [last_model] if last_model else ["gemini-2.5-flash"]
 
-    all_vers = sorted(
-        {_parse_model_version(m)[0] for m in api_models} | {current_ver},
-        reverse=True,
-    )
-    one_back = next((v for v in all_vers if v < current_ver), None)
+    if not all_models:
+        return [last_model] if last_model else ["gemini-2.5-flash"]
 
-    back, future = [], []
-    for m in api_models:
+    # 前回成功モデルの基準バージョンを決定
+    if last_model:
+        base_ver, _ = _parse_model_version(last_model)
+    else:
+        base_ver = max((_parse_model_version(m)[0] for m in all_models), default=0.0)
+
+    # バージョンごとに分類
+    all_vers = sorted({_parse_model_version(m)[0] for m in all_models}, reverse=True)
+    one_back_ver = next((v for v in all_vers if v < base_ver), None)
+
+    same, back, future = [], [], []
+    for m in all_models:
+        if last_model and m == last_model:
+            continue  # 先頭に別途追加するので除外
         ver, _ = _parse_model_version(m)
-        if one_back is not None and ver == one_back:
+        if ver == base_ver:
+            same.append(m)
+        elif one_back_ver is not None and ver == one_back_ver:
             back.append(m)
-        elif ver > current_ver:
+        elif ver > base_ver:
             future.append(m)
 
+    same.sort(key=lambda m: (_parse_model_version(m)[1], m))
     back.sort(key=lambda m: (_parse_model_version(m)[1], m))
     future.sort(key=lambda m: (-_parse_model_version(m)[0], _parse_model_version(m)[1], m))
 
-    result = preferred + back + future
-    if back or future:
-        print(f"  モデル検出 - 1つ前: {back}, 未来: {future}")
+    result = []
+    if last_model:
+        result.append(last_model)
+    result += same + back + future
+
+    # 重複除去（順序保持）
+    seen = set()
+    result = [m for m in result if not (m in seen or seen.add(m))]
+
+    print(f"  モデル試行順: {result}")
+    if last_model:
+        print(f"  (前回成功: {last_model})")
     return result
 
 
@@ -141,6 +172,7 @@ async def _try_gemini(user_prompt: str) -> dict | None:
                     },
                 )
                 print(f"  (使用: Gemini {model})")
+                _save_last_model(model)
                 return json.loads(response.text)
             except Exception as e:
                 error_msg = str(e)
@@ -233,6 +265,9 @@ def generate_markdown(data: dict, date: str | None = None) -> str:
 
             importance = "★" * h.get("importance", 3)
             lines.append(f"### {h['title']}")
+            lines.append("")
+            lines.append("- [ ] 興味あり")
+            lines.append("")
             lines.append(f"**重要度**: {importance}")
             lines.append("")
             lines.append(h.get("summary", ""))
