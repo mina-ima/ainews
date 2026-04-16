@@ -17,8 +17,9 @@ _LAST_MODEL_FILE = Path.home() / ".cache" / "ainews" / "last_model.txt"
 JST = timezone(timedelta(hours=9))
 
 SYSTEM_PROMPT = """\
-あなたはAI・テクノロジーニュースの編集者です。
-与えられたニュース一覧を分析し、重要度の高い順に整理して日本語で要約してください。
+あなたはテクノロジー展示会の専属レポーターです。
+毎日テクノロジー展示会を巡回して情報収集しているように、AI・先端技術・製造業界の幅広いニュースを読者に届けてください。
+AIだけでなく、「こんなことができるようになった」「こんなものが実現できた」という技術的ブレイクスルーや新製品の情報も重視します。
 
 ## 出力フォーマット (JSON)
 
@@ -27,26 +28,44 @@ SYSTEM_PROMPT = """\
   "highlights": [
     {
       "title": "日本語タイトル",
-      "category": "LLM・生成AI / AI研究 / AIプロダクト / AI規制 / 半導体・HW / ソフトウェア・ツール / プリント配線板・実装",
+      "category": "カテゴリ名",
       "summary": "2-3文の日本語要約",
       "importance": 5,
       "source_title": "元記事の英語タイトル",
       "source_url": "URL"
     }
   ],
-  "trend_summary": "今日のAI業界の全体的な動向を3-5文で日本語解説"
+  "trend_summary": "今日のテクノロジー業界の全体的な動向を3-5文で日本語解説"
 }
 ```
 
+## カテゴリ一覧（以下から選択）
+- LLM・生成AI
+- AI研究
+- AIプロダクト
+- AI規制・政策
+- 半導体・チップ
+- プリント基板・電子実装
+- ロボティクス・自動化
+- エネルギー・環境技術
+- 宇宙・航空
+- 医療・バイオ
+- 材料・ナノテク
+- 3Dプリンティング・製造
+- 通信・ネットワーク
+- 量子コンピューティング
+- ソフトウェア・開発ツール
+- その他先端技術
+
 ## ルール
-- highlights は重要度の高い順に最大12件
+- highlights は重要度の高い順に最大20件
 - importance は1-5のスケール（5が最重要）
 - 同じトピックの重複記事はまとめる
 - 推測ではなく記事の内容に基づいて要約する
-- カテゴリは上記7種のいずれかを使用
-- プリント配線板（PCB/PWB）・電子実装関連のニュースがあれば必ず含める
+- **バランス重視**: AI系だけに偏らず、各分野からまんべんなく選出する。特にプリント基板・電子実装分野のニュースがあれば必ず含める
+- 「世界初」「画期的」「実用化」「量産開始」「新素材」「新工法」など技術的ブレイクスルーは優先的に取り上げる
 - **全ての出力は日本語で行うこと**。英語の記事タイトルや専門用語はわかりやすく日本語に翻訳する
-- 要約は技術に詳しくない人でも理解できるよう、平易な日本語で書く
+- 要約は技術に詳しくない人でも理解できるよう、平易な日本語で書く。「何がすごいのか」「何が変わるのか」を伝える
 - 固有名詞（企業名・製品名）はカタカナ表記し、初出時に英語を併記する（例: オープンAI（OpenAI）)
 - source_title は元記事の原語タイトルをそのまま保持する
 """
@@ -247,9 +266,11 @@ def generate_markdown(data: dict, date: str | None = None) -> str:
         "  - daily-news",
         "  - AI",
         "  - technology",
+        "  - PCB",
+        "  - manufacturing",
         "---",
         "",
-        f"# AI・テクノロジーニュース {date}（{weekday}）",
+        f"# テクノロジー・デイリーレポート {date}（{weekday}）",
         "",
     ]
 
@@ -300,16 +321,16 @@ def generate_tts_text(data: dict, date: str | None = None) -> str:
     dt = datetime.strptime(date, "%Y-%m-%d")
     weekday = weekdays[dt.weekday()]
 
-    parts = [f"{date}、{weekday}曜日のAI・テクノロジーニュースです。"]
+    parts = [f"{date}、{weekday}曜日のテクノロジー・デイリーレポートです。"]
 
     highlights = data.get("highlights", [])
-    for i, h in enumerate(highlights[:8], 1):
+    for i, h in enumerate(highlights[:10], 1):
         parts.append(f"第{i}位。{h['title']}。{h.get('summary', '')}")
 
     trend = data.get("trend_summary", "")
     if trend:
         parts.append(f"最後に、今日の注目ポイントです。{trend}")
 
-    parts.append("以上、本日のAIニュースでした。")
+    parts.append("以上、本日のテクノロジーレポートでした。")
 
     return "\n\n".join(parts)
