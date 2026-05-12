@@ -1,6 +1,6 @@
 [project]
 name = "collector"
-version = "0.1.0"
+version = "0.1.1"
 description = "AI・テクノロジーニュース自動収集・要約・音声生成"
 requires-python = ">=3.12"
 dependencies = [

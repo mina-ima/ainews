@@ -55,14 +55,17 @@ AIだけでなく、「こんなことができるようになった」「こん
 - 通信・ネットワーク
 - 量子コンピューティング
 - ソフトウェア・開発ツール
+- ガジェット・民生機器
 - その他先端技術
 
 ## ルール
-- highlights は重要度の高い順に最大20件
+- highlights は最大20件
 - importance は1-5のスケール（5が最重要）
 - 同じトピックの重複記事はまとめる
 - 推測ではなく記事の内容に基づいて要約する
+- **重複排除（最重要）**: ユーザープロンプトに「過去の既出ニュース」リストが含まれる場合、そのリストと実質的に同じ内容の記事は highlights に含めないこと。同じURLや同じ出来事を扱った記事は除外する。ただし「続報」「新たな展開」「追加発表」など明確に新情報がある場合はその旨を summary に明記したうえで含めてよい
 - **バランス重視**: AI系だけに偏らず、各分野からまんべんなく選出する。特にプリント基板・電子実装分野のニュースがあれば必ず含める
+- **ガジェット枠**: ギズモードジャパン・GIGAZINE・Impress Watch系などの記事から、「面白い」「変わった」「新しい」民生ガジェット・スマホ・ウェアラブル・家電・オーディオ機器のニュースを2〜4件は必ずピックアップする
 - 「世界初」「画期的」「実用化」「量産開始」「新素材」「新工法」など技術的ブレイクスルーは優先的に取り上げる
 - **全ての出力は日本語で行うこと**。英語の記事タイトルや専門用語はわかりやすく日本語に翻訳する
 - 要約は技術に詳しくない人でも理解できるよう、平易な日本語で書く。「何がすごいのか」「何が変わるのか」を伝える
@@ -70,15 +73,44 @@ AIだけでなく、「こんなことができるようになった」「こん
 - source_title は元記事の原語タイトルをそのまま保持する
 """
 
+# カテゴリのグループ定義（並び順: AI → ガジェット → その他）
+_AI_CATEGORIES = {"LLM・生成AI", "AI研究", "AIプロダクト", "AI規制・政策"}
+_GADGET_CATEGORIES = {"ガジェット・民生機器"}
 
-def _build_user_prompt(items: list[NewsItem]) -> str:
-    lines = ["# 本日のニュース一覧\n"]
+
+def _category_group(cat: str) -> int:
+    if cat in _AI_CATEGORIES:
+        return 0
+    if cat in _GADGET_CATEGORIES:
+        return 1
+    return 2
+
+
+def sort_highlights(highlights: list[dict]) -> list[dict]:
+    """AI関連 → ガジェット → その他の順にソート（グループ内は重要度降順）"""
+    return sorted(
+        highlights,
+        key=lambda h: (_category_group(h.get("category", "")), -h.get("importance", 3)),
+    )
+
+
+def _build_user_prompt(items: list[NewsItem], recent_stories: list[dict] | None = None) -> str:
+    lines = []
+
+    if recent_stories:
+        lines.append("# 過去3日間に既出のニュース（同内容は highlights に含めないこと）\n")
+        for s in recent_stories:
+            title = (s.get("title") or "")[:120]
+            lines.append(f"- {title}  URL: {s.get('source_url', '')}")
+        lines.append("")
+
+    lines.append("# 本日のニュース一覧\n")
     for i, item in enumerate(items, 1):
-        lines.append(f"## {i}. {item.title}")
+        lines.append(f"## {i}. {item.title[:140]}")
         lines.append(f"- Source: {item.source}")
         lines.append(f"- URL: {item.url}")
         if item.summary:
-            lines.append(f"- Snippet: {item.summary}")
+            lines.append(f"- Snippet: {item.summary[:240]}")
         lines.append("")
     return "\n".join(lines)
 
@@ -230,22 +262,35 @@ async def _try_groq(user_prompt: str) -> dict | None:
         return None
 
 
-async def summarize_news(items: list[NewsItem]) -> dict:
+async def summarize_news(items: list[NewsItem], recent_stories: list[dict] | None = None) -> dict:
     """ニュースを要約（Gemini → Groq フォールバック）"""
-    user_prompt = _build_user_prompt(items)
+    user_prompt = _build_user_prompt(items, recent_stories)
 
     result = await _try_gemini(user_prompt)
-    if result:
-        return result
+    if result is None:
+        result = await _try_groq(user_prompt)
+    if result is None:
+        raise RuntimeError(
+            "全てのLLM APIでエラー。GOOGLE_API_KEY/GEMINI_KEY_* または GROQ_API_KEY を設定してください。\n"
+            "Groq APIキーは https://console.groq.com で無料取得できます。"
+        )
 
-    result = await _try_groq(user_prompt)
-    if result:
-        return result
+    # Python側でもURLベースの重複を除去（LLMが見落とした場合の安全策）
+    recent_urls = {s.get("source_url", "") for s in (recent_stories or []) if s.get("source_url")}
+    if recent_urls:
+        before = len(result.get("highlights", []))
+        result["highlights"] = [
+            h for h in result.get("highlights", [])
+            if h.get("source_url", "") not in recent_urls
+        ]
+        removed = before - len(result["highlights"])
+        if removed:
+            print(f"  (URLベース重複排除: {removed}件削除)")
 
-    raise RuntimeError(
-        "全てのLLM APIでエラー。GOOGLE_API_KEY/GEMINI_KEY_* または GROQ_API_KEY を設定してください。\n"
-        "Groq APIキーは https://console.groq.com で無料取得できます。"
-    )
+    # カテゴリ順序を強制ソート（AI → ガジェット → その他）
+    result["highlights"] = sort_highlights(result.get("highlights", []))
+
+    return result
 
 
 def generate_markdown(data: dict, date: str | None = None) -> str:
@@ -321,11 +366,19 @@ def generate_tts_text(data: dict, date: str | None = None) -> str:
     dt = datetime.strptime(date, "%Y-%m-%d")
     weekday = weekdays[dt.weekday()]
 
-    parts = [f"{date}、{weekday}曜日のテクノロジー・デイリーレポートです。"]
-
     highlights = data.get("highlights", [])
-    for i, h in enumerate(highlights[:10], 1):
-        parts.append(f"第{i}位。{h['title']}。{h.get('summary', '')}")
+    parts = [f"{date}、{weekday}曜日のテクノロジー・デイリーレポートです。本日は{len(highlights)}件のニュースをお届けします。"]
+
+    current_category = ""
+    for i, h in enumerate(highlights, 1):
+        cat = h.get("category", "その他")
+        if cat != current_category:
+            current_category = cat
+            parts.append(f"カテゴリ、{cat}。")
+
+        importance = h.get("importance", 3)
+        importance_text = f"重要度{importance}。" if importance >= 4 else ""
+        parts.append(f"第{i}件目。{h['title']}。{importance_text}{h.get('summary', '')}")
 
     trend = data.get("trend_summary", "")
     if trend:
