@@ -16,6 +16,47 @@ from .tts import generate_mp3
 JST = timezone(timedelta(hours=9))
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent  # ~/AI/ainews/
 ARTICLES_DIR = ROOT_DIR / "articles"
+HIGHLIGHTS_CACHE = ARTICLES_DIR / "highlights_cache.json"
+RECENT_DAYS = 3
+
+
+def _load_recent_stories() -> list[dict]:
+    """過去RECENT_DAYS日分のハイライトタイトル・URLを返す"""
+    if not HIGHLIGHTS_CACHE.exists():
+        return []
+    try:
+        cache = json.loads(HIGHLIGHTS_CACHE.read_text())
+    except Exception:
+        return []
+    cutoff = (datetime.now(JST) - timedelta(days=RECENT_DAYS)).strftime("%Y-%m-%d")
+    stories: list[dict] = []
+    for entry in cache.get("entries", []):
+        if entry.get("date", "") >= cutoff:
+            stories.extend(entry.get("stories", []))
+    return stories
+
+
+def _save_highlights_cache(date: str, highlights: list[dict]) -> None:
+    """当日のハイライトをキャッシュに追記し、7日超のエントリを削除する"""
+    if HIGHLIGHTS_CACHE.exists():
+        try:
+            cache = json.loads(HIGHLIGHTS_CACHE.read_text())
+        except Exception:
+            cache = {"entries": []}
+    else:
+        cache = {"entries": []}
+
+    cutoff = (datetime.now(JST) - timedelta(days=7)).strftime("%Y-%m-%d")
+    cache["entries"] = [e for e in cache["entries"] if e.get("date", "") >= cutoff]
+    cache["entries"] = [e for e in cache["entries"] if e.get("date") != date]
+    cache["entries"].append({
+        "date": date,
+        "stories": [
+            {"title": h.get("title", ""), "source_url": h.get("source_url", "")}
+            for h in highlights
+        ],
+    })
+    HIGHLIGHTS_CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=2))
 
 
 async def run() -> None:
@@ -31,9 +72,12 @@ async def run() -> None:
         print("ニュースが見つかりませんでした。終了します。")
         return
 
-    # 2. Gemini で要約
+    # 2. Gemini で要約（過去3日の既出ニュースを除外）
     print("Step 2: AI要約中...")
-    data = await summarize_news(items)
+    recent_stories = _load_recent_stories()
+    if recent_stories:
+        print(f"  (過去{RECENT_DAYS}日間の既出ニュース: {len(recent_stories)}件を除外対象として渡す)")
+    data = await summarize_news(items, recent_stories)
     highlights = data.get("highlights", [])
     print(f"  → {len(highlights)}件のハイライトを生成")
 
@@ -53,8 +97,11 @@ async def run() -> None:
     mp3_size = os.path.getsize(mp3_path) / (1024 * 1024)
     print(f"  → {mp3_path} ({mp3_size:.1f}MB)")
 
-    # 5. index.json 更新
-    print("Step 5: index.json 更新中...")
+    # 5. ハイライトキャッシュ保存
+    _save_highlights_cache(date, highlights)
+
+    # 6. index.json 更新
+    print("Step 6: index.json 更新中...")
     index_path = ARTICLES_DIR / "index.json"
     if index_path.exists():
         index_data = json.loads(index_path.read_text())

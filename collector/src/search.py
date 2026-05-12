@@ -93,6 +93,38 @@ RSS_FEEDS = [
     ("3D Printing Industry", "https://3dprintingindustry.com/feed/"),
 ]
 
+# ガジェット・民生機器ニュースソース（ギズモード系・Impress Watch系など）
+GADGET_RSS_FEEDS = [
+    # --- 日本ガジェット系 ---
+    ("ギズモード・ジャパン", "https://www.gizmodo.jp/atom.xml"),
+    ("GIGAZINE", "https://gigazine.net/news/rss_2.0/"),
+    # --- Impress Watch 系 ---
+    ("PC Watch", "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf"),
+    ("ケータイ Watch", "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf"),
+    ("家電 Watch", "https://kaden.watch.impress.co.jp/data/rss/1.0/kdw/feed.rdf"),
+    ("AV Watch", "https://av.watch.impress.co.jp/data/rss/1.0/avw/feed.rdf"),
+    ("INTERNET Watch", "https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf"),
+    # --- 海外ガジェット系 ---
+    ("Gizmodo", "https://gizmodo.com/rss"),
+    ("Engadget", "https://www.engadget.com/rss.xml"),
+    ("The Verge Gadget", "https://www.theverge.com/rss/reviews/index.xml"),
+    ("9to5Mac", "https://9to5mac.com/feed/"),
+    ("9to5Google", "https://9to5google.com/feed/"),
+    ("Android Police", "https://www.androidpolice.com/feed/"),
+    ("Tom's Hardware", "https://www.tomshardware.com/feeds/all"),
+    ("DPReview", "https://www.dpreview.com/feeds/news.xml"),
+]
+
+# ガジェット系は幅広く拾いたいのでフィルタなし
+GADGET_UNFILTERED_SOURCES = {
+    "ギズモード・ジャパン", "GIGAZINE",
+    "PC Watch", "ケータイ Watch", "家電 Watch", "AV Watch", "INTERNET Watch",
+    "Gizmodo", "Engadget", "The Verge Gadget",
+    "9to5Mac", "9to5Google", "Android Police",
+    "Tom's Hardware", "DPReview",
+}
+
+
 # プリント配線板（PWB/PCB）・電子実装・製造業界ニュースソース
 PCB_RSS_FEEDS = [
     # --- 日本 ---
@@ -229,23 +261,57 @@ async def fetch_pcb_news(client: httpx.AsyncClient, limit_per_feed: int = 10) ->
     return items
 
 
+async def fetch_gadget_news(client: httpx.AsyncClient, limit_per_feed: int = 8) -> list[NewsItem]:
+    """ガジェット・民生機器ニュース（ギズモード系・Impress Watch系）を取得"""
+    items: list[NewsItem] = []
+
+    for source_name, feed_url in GADGET_RSS_FEEDS:
+        try:
+            resp = await client.get(feed_url, timeout=15.0)
+            feed = feedparser.parse(resp.text)
+            for entry in feed.entries[:limit_per_feed]:
+                title = entry.get("title", "")
+                url = entry.get("link", "")
+                summary = entry.get("summary", "")[:300]
+                if title and url:
+                    # ガジェット専門ソースはフィルタなしで全記事取得
+                    if source_name in GADGET_UNFILTERED_SOURCES:
+                        items.append(NewsItem(
+                            title=title,
+                            url=url,
+                            source=source_name,
+                            summary=summary,
+                        ))
+        except Exception:
+            continue
+
+    return items
+
+
 async def collect_news() -> list[NewsItem]:
     """全ソースからニュースを収集して統合"""
     async with httpx.AsyncClient(
         timeout=30.0,
-        headers={"User-Agent": "ainews-collector/1.0"},
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/124.0.0.0 Safari/537.36"
+            ),
+        },
         follow_redirects=True,
     ) as client:
-        hn_items, rss_items, pcb_items = await asyncio.gather(
+        hn_items, rss_items, pcb_items, gadget_items = await asyncio.gather(
             fetch_hackernews(client),
             fetch_rss_feeds(client),
             fetch_pcb_news(client),
+            fetch_gadget_news(client),
         )
 
     # 重複URLを除去
     seen_urls: set[str] = set()
     unique: list[NewsItem] = []
-    for item in hn_items + rss_items + pcb_items:
+    for item in hn_items + rss_items + pcb_items + gadget_items:
         if item.url not in seen_urls:
             seen_urls.add(item.url)
             unique.append(item)
