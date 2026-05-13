@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "date": "2026-05-14",
+      "stories": [
+        {
+          "title": "Google、Android向けAIエージェント「Gemini Intelligence」発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html"
+        },
+        {
+          "title": "ソニー、6680万画素の積層型センサー搭載「α7R VI」を発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/14/news065.html"
+        },
+        {
+          "title": "ソニーの「着るエアコン」REON POCKETの第6世代モデルが登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column_review/kaden/2107921.html"
+        },
+        {
+          "title": "AmazonがKindle Scribeのカラー対応モデルを発表",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2108408.html"
+        },
+        {
+          "title": "AMDがワークステーション向けCPUに「3D V-Cache」技術を初採用",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-expands-its-ryzen-9000-pro-lineup-with-six-new-skus-now-featuring-3d-v-cache-for-the-first-time-new-workstation-cpus-have-up-to-170w-tdps-available-with-oems-later-this-year"
+        },
+        {
+          "title": "PTCがOnshapeとAltiumを接続する設計コラボレーションツールを公開",
+          "source_url": "https://www.engineering.com/ptc-connects-onshape-and-altium-for-design-collaboration/"
+        }
+      ]
+    }
+  ]
+}
