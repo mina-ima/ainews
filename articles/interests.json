@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-05-14T16:13:13.199046+09:00",
+  "updated_at": "2026-05-15T08:10:47.985690+09:00",
   "items": [
-    {
-      "title": "Claude自身が性能低下を認める：LLMの信頼性への懸念",
-      "category": "LLM・生成AI",
-      "date": "2026-04-14",
-      "source_url": "https://www.theregister.com/2026/04/13/claude_outage_quality_complaints/",
-      "importance": 4
-    },
     {
       "title": "Google ChromeにAIプロンプトを再利用可能な「スキル」機能が導入",
       "category": "AIプロダクト",
