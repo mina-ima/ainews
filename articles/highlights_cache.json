@@ -28,6 +28,43 @@
           "source_url": "https://www.engineering.com/ptc-connects-onshape-and-altium-for-design-collaboration/"
         }
       ]
+    },
+    {
+      "date": "2026-05-15",
+      "stories": [
+        {
+          "title": "AnthropicがAIエージェント「Cowork」を発表、デスクトップ操作を自動化",
+          "source_url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+        },
+        {
+          "title": "シャープがテレビでAIキャラと会話できる「AQUOS AI」を開始",
+          "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/14/news118.html"
+        },
+        {
+          "title": "GoogleがAIネイティブノートPC「Googlebook」を発表",
+          "source_url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/"
+        },
+        {
+          "title": "Metaのスマートグラスがサードパーティアプリに対応",
+          "source_url": "https://www.engadget.com/2173297/meta-is-bringing-third-party-apps-and-games-to-its-display-glasses/"
+        },
+        {
+          "title": "Cerebrasが55億ドルを調達しIPO、株価は108%急騰",
+          "source_url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/"
+        },
+        {
+          "title": "世界初のカラーLiDAR「Rev8」が登場、機械に人間のような視覚を提供",
+          "source_url": "https://newatlas.com/technology/ouster-rev8-native-color-lidar/"
+        },
+        {
+          "title": "H3ロケット打ち上げ失敗の原因は衛星搭載アダプターの破損と判明",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03250/051100020/"
+        },
+        {
+          "title": "JR東日本がUWBを活用した次世代改札機を公開",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2108790.html"
+        }
+      ]
     }
   ]
 }
