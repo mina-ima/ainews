@@ -94,8 +94,16 @@ def sort_highlights(highlights: list[dict]) -> list[dict]:
     )
 
 
-def _build_user_prompt(items: list[NewsItem], recent_stories: list[dict] | None = None) -> str:
+def _build_user_prompt(
+    items: list[NewsItem],
+    recent_stories: list[dict] | None = None,
+    interests_section: str = "",
+) -> str:
     lines = []
+
+    if interests_section:
+        lines.append(interests_section)
+        lines.append("")
 
     if recent_stories:
         lines.append("# 過去3日間に既出のニュース（同内容は highlights に含めないこと）\n")
@@ -262,9 +270,16 @@ async def _try_groq(user_prompt: str) -> dict | None:
         return None
 
 
-async def summarize_news(items: list[NewsItem], recent_stories: list[dict] | None = None) -> dict:
-    """ニュースを要約（Gemini → Groq フォールバック）"""
-    user_prompt = _build_user_prompt(items, recent_stories)
+async def summarize_news(
+    items: list[NewsItem],
+    recent_stories: list[dict] | None = None,
+    interests_section: str = "",
+) -> dict:
+    """ニュースを要約（Gemini → Groq フォールバック）
+
+    interests_section: 過去 `[x] 興味あり` を要約に注入する深堀り指示文
+    """
+    user_prompt = _build_user_prompt(items, recent_stories, interests_section)
 
     result = await _try_gemini(user_prompt)
     if result is None:
@@ -293,7 +308,11 @@ async def summarize_news(items: list[NewsItem], recent_stories: list[dict] | Non
     return result
 
 
-def generate_markdown(data: dict, date: str | None = None) -> str:
+def generate_markdown(
+    data: dict,
+    date: str | None = None,
+    deepdive_section: str = "",
+) -> str:
     if date is None:
         date = datetime.now(JST).strftime("%Y-%m-%d")
 
@@ -351,6 +370,9 @@ def generate_markdown(data: dict, date: str | None = None) -> str:
         lines.append("")
         lines.append(trend)
         lines.append("")
+
+    if deepdive_section:
+        lines.append(deepdive_section)
 
     lines.append("---")
     lines.append("*このニュースはAIにより自動収集・要約されました*")

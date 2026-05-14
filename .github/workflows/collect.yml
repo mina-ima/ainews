@@ -2,7 +2,7 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    - cron: '30 21 * * *'  # UTC 21:30 = JST 6:30
+    - cron: '30 20 * * *'  # UTC 20:30 = JST 5:30 (GHA キュー遅延最大75分を見込んで JST 7:00 前完了を担保)
   workflow_dispatch:
 
 permissions:

@@ -125,6 +125,72 @@ GADGET_UNFILTERED_SOURCES = {
 }
 
 
+# YouTube チャンネルのRSSフィード
+# `feeds/videos.xml?channel_id=...` はチャンネルの全アップロードを返すため、
+# Shorts（縦動画 60 秒以内）と通常のロング動画の両方が含まれる。
+# channel_id は https://www.youtube.com/@<handle> のページHTML中の "externalId" / "channelId" から取得。
+YOUTUBE_RSS_FEEDS = [
+    # ギズモード・ジャパン公式
+    (
+        "ギズモード・ジャパン (YouTube)",
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCZm3dECbQU33IWG5MQ-NAdw",
+    ),
+    # ギズモード編集部メンバーが普段視聴しているテック系チャンネル
+    # （動画「ガジェット好きが普段観ているYouTubeは？」内で言及されたチャンネルから、
+    #  テック・ガジェット・サイエンス・AI研究系のみを抽出）
+    (
+        "ShortCircuit",  # Linus Media Group のテックレビュー
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg",
+    ),
+    (
+        "Strange Parts",  # 電子工作・分解動画（Scotty Allen）
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCO8DQrSp5yEP937qNqTooOw",
+    ),
+    (
+        "Google DeepMind",  # AI 研究公式チャンネル
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A",
+    ),
+    (
+        "fpt. (front page tech)",  # テックニュース・解説
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UC8jkbVLPvztz8TuE98OYo8Q",
+    ),
+    (
+        "DKS SYNTH LAB",  # シンセサイザー・楽器エレクトロニクス
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCqbj3X-OxKP0VCDpVC1qKTA",
+    ),
+    (
+        "Hazegrayart",  # 宇宙船・航空機 3DCG 解説
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCh2dnrLCNHDS2IV9I2R58Pw",
+    ),
+    (
+        "Modern Goldsmith",  # 金属加工・職人技
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCgYvqPuBRBL4PAQGts3HFxQ",
+    ),
+    (
+        "TLDR News EU",  # 時事ニュース（EU政治・テック・経済）
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UC-eegKVWEgBCa4OzjnK_PtA",
+    ),
+    (
+        "Auto Focus",  # MKBHD系の自動車テック・EVレビュー
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UC2J-0g_nxlwcD9JBK1eTleQ",
+    ),
+]
+
+# YouTubeソースはチャンネル選定済みのためキーワードフィルタなしで全動画取得
+YOUTUBE_UNFILTERED_SOURCES = {
+    "ギズモード・ジャパン (YouTube)",
+    "ShortCircuit",
+    "Strange Parts",
+    "Google DeepMind",
+    "fpt. (front page tech)",
+    "DKS SYNTH LAB",
+    "Hazegrayart",
+    "Modern Goldsmith",
+    "TLDR News EU",
+    "Auto Focus",
+}
+
+
 # プリント配線板（PWB/PCB）・電子実装・製造業界ニュースソース
 PCB_RSS_FEEDS = [
     # --- 日本 ---
@@ -288,6 +354,55 @@ async def fetch_gadget_news(client: httpx.AsyncClient, limit_per_feed: int = 8) 
     return items
 
 
+YOUTUBE_RECENT_HOURS = 36  # 「最新」とみなす直近時間
+
+
+async def fetch_youtube_videos(
+    client: httpx.AsyncClient,
+    limit_per_feed: int = 10,
+    recent_hours: int = YOUTUBE_RECENT_HOURS,
+) -> list[NewsItem]:
+    """YouTubeチャンネル（gizmodojapan等）の最新動画・Shortsを取得。
+    `recent_hours` 以内に公開された動画のみを対象とする。"""
+    from datetime import datetime, timezone, timedelta
+
+    items: list[NewsItem] = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=recent_hours)
+
+    for source_name, feed_url in YOUTUBE_RSS_FEEDS:
+        try:
+            resp = await client.get(feed_url, timeout=15.0)
+            feed = feedparser.parse(resp.text)
+            for entry in feed.entries[:limit_per_feed]:
+                # 公開日チェック（published_parsed は struct_time、UTC想定）
+                pub = entry.get("published_parsed")
+                if pub:
+                    pub_dt = datetime(*pub[:6], tzinfo=timezone.utc)
+                    if pub_dt < cutoff:
+                        continue
+
+                title = entry.get("title", "")
+                url = entry.get("link", "")
+                # YouTube は media:description が本文。feedparserは media_content/media_description で取れる
+                summary = ""
+                if hasattr(entry, "media_description"):
+                    summary = entry.media_description[:400]
+                elif hasattr(entry, "summary"):
+                    summary = entry.summary[:400]
+                if title and url:
+                    if source_name in YOUTUBE_UNFILTERED_SOURCES:
+                        items.append(NewsItem(
+                            title=title,
+                            url=url,
+                            source=source_name,
+                            summary=summary,
+                        ))
+        except Exception:
+            continue
+
+    return items
+
+
 async def collect_news() -> list[NewsItem]:
     """全ソースからニュースを収集して統合"""
     async with httpx.AsyncClient(
@@ -301,17 +416,18 @@ async def collect_news() -> list[NewsItem]:
         },
         follow_redirects=True,
     ) as client:
-        hn_items, rss_items, pcb_items, gadget_items = await asyncio.gather(
+        hn_items, rss_items, pcb_items, gadget_items, youtube_items = await asyncio.gather(
             fetch_hackernews(client),
             fetch_rss_feeds(client),
             fetch_pcb_news(client),
             fetch_gadget_news(client),
+            fetch_youtube_videos(client),
         )
 
     # 重複URLを除去
     seen_urls: set[str] = set()
     unique: list[NewsItem] = []
-    for item in hn_items + rss_items + pcb_items + gadget_items:
+    for item in hn_items + rss_items + pcb_items + gadget_items + youtube_items:
         if item.url not in seen_urls:
             seen_urls.add(item.url)
             unique.append(item)

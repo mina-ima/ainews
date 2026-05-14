@@ -1,0 +1,467 @@
+{
+  "updated_at": "2026-05-14T16:13:13.199046+09:00",
+  "items": [
+    {
+      "title": "Claude自身が性能低下を認める：LLMの信頼性への懸念",
+      "category": "LLM・生成AI",
+      "date": "2026-04-14",
+      "source_url": "https://www.theregister.com/2026/04/13/claude_outage_quality_complaints/",
+      "importance": 4
+    },
+    {
+      "title": "Google ChromeにAIプロンプトを再利用可能な「スキル」機能が導入",
+      "category": "AIプロダクト",
+      "date": "2026-04-15",
+      "source_url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "importance": 4
+    },
+    {
+      "title": "Science Corp.が初の脳センサーを人体に埋め込みへ",
+      "category": "AI研究",
+      "date": "2026-04-15",
+      "source_url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "importance": 4
+    },
+    {
+      "title": "熱で内部ファイアウォールを生成する「耐火性」バッテリーが登場",
+      "category": "エネルギー・環境技術",
+      "date": "2026-04-16",
+      "source_url": "https://newatlas.com/energy/fireproof-batteries-internal-firewall/",
+      "importance": 5
+    },
+    {
+      "title": "チューリングが国内初のE2E自動運転「VLAモデル」公道走行試験を実施",
+      "category": "ロボティクス・自動化",
+      "date": "2026-04-16",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/041300021/",
+      "importance": 5
+    },
+    {
+      "title": "オープンAI、デスクトップ操作を強化した「Codex」をアップデート",
+      "category": "LLM・生成AI",
+      "date": "2026-04-17",
+      "source_url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "importance": 5
+    },
+    {
+      "title": "Anthropic、最上位モデル「Claude Opus 4.7」を発表　複雑なコーディング能力を大幅向上",
+      "category": "LLM・生成AI",
+      "date": "2026-04-17",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "importance": 5
+    },
+    {
+      "title": "AIによる「無意識な改ざん」に注意、整いすぎた応募書類に採用現場で違和感",
+      "category": "LLM・生成AI",
+      "date": "2026-04-17",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/01775/041500265/",
+      "importance": 3
+    },
+    {
+      "title": "CadenceとNVIDIA、エージェント型AI設計で提携を拡大",
+      "category": "半導体・チップ",
+      "date": "2026-04-17",
+      "source_url": "https://www.engineering.com/cadence-and-nvidia-expand-partnership-for-agentic-ai-design/",
+      "importance": 3
+    },
+    {
+      "title": "「Claude Code」は高価だが、「Goose」は無料で同等の機能を提供",
+      "category": "LLM・生成AI",
+      "date": "2026-04-17",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 2
+    },
+    {
+      "title": "自動PCB解析のためのオープンソースプラットフォーム「PROBoter」発表",
+      "category": "プリント基板・電子実装",
+      "date": "2026-04-18",
+      "source_url": "https://www.schutzwerk.com/en/blog/proboter-01/",
+      "importance": 5
+    },
+    {
+      "title": "独自の酸素を生成する生体工学パッチが創傷治癒と組織成長を促進",
+      "category": "医療・バイオ",
+      "date": "2026-04-18",
+      "source_url": "https://3dprintingindustry.com/news/new-bioengineered-patch-makes-its-own-oxygen-to-heal-wounds-and-grow-tissue-250671/?utm_source=rss&utm_medium=rss&utm_campaign=new-bioengineered-patch-makes-its-own-oxygen-to-heal-wounds-and-grow-tissue",
+      "importance": 5
+    },
+    {
+      "title": "Anthropicが新AIモデル「Claude Opus 4.7」とサイバーセキュリティモデル「Mythos」を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-04-18",
+      "source_url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "importance": 4
+    },
+    {
+      "title": "エージェント型コーディング能力を持つオープンソースモデル「Qwen3.6-35B-A3B」が一般公開",
+      "category": "LLM・生成AI",
+      "date": "2026-04-18",
+      "source_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "importance": 4
+    },
+    {
+      "title": "Anthropicの強力なサイバーセキュリティAIモデル「Mythos」が金融業界で注目、規制当局との対話も",
+      "category": "AIプロダクト",
+      "date": "2026-04-19",
+      "source_url": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
+      "importance": 4
+    },
+    {
+      "title": "ソフトバンクが「ユーザーの行動先読み」を謳うAIスマホ「Natural AI Phone」を国内独占販売",
+      "category": "AIプロダクト",
+      "date": "2026-04-19",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2604/17/news109.html",
+      "importance": 4
+    },
+    {
+      "title": "RAM不足が数年間続く見込み、Meta Questの価格にも影響",
+      "category": "半導体・チップ",
+      "date": "2026-04-19",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "importance": 3
+    },
+    {
+      "title": "Anthropic、AIデザインツール「Claude Design」を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-04-20",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
+      "importance": 4
+    },
+    {
+      "title": "MozillaがAnthropicのAI「Mythos」でFirefoxのバグを修正",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-04-22",
+      "source_url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "importance": 3
+    },
+    {
+      "title": "ISS（国際宇宙ステーション）のノートPCアップグレード",
+      "category": "宇宙・航空",
+      "date": "2026-04-22",
+      "source_url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+      "importance": 2
+    },
+    {
+      "title": "グーグルクラウドがNVIDIAに対抗する2種類の新型AIチップを発表",
+      "category": "半導体・チップ",
+      "date": "2026-04-23",
+      "source_url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "importance": 5
+    },
+    {
+      "title": "モーターやギアなしで動くソフトボディの折り紙ロボットが登場",
+      "category": "ロボティクス・自動化",
+      "date": "2026-04-23",
+      "source_url": "https://newatlas.com/robotics/soft-bodied-origami-robot/",
+      "importance": 4
+    },
+    {
+      "title": "科学者たちが「瓶の中で雷を捕まえる」方法でクリーンな燃料を生成",
+      "category": "エネルギー・環境技術",
+      "date": "2026-04-23",
+      "source_url": "https://newatlas.com/energy/methane-methanol-lightning-in-a-bottle/",
+      "importance": 4
+    },
+    {
+      "title": "TSMCが2029年量産予定の次世代A13およびA12技術を予告",
+      "category": "半導体・チップ",
+      "date": "2026-04-23",
+      "source_url": "https://asia.nikkei.com/business/tech/semiconductors/tsmc-teases-next-gen-a13-and-a12-technologies-for-2029-production",
+      "importance": 4
+    },
+    {
+      "title": "アンスロピック、ハッキング能力を持つAIツール「Mythos」への不正アクセス疑惑を調査中",
+      "category": "AI規制・政策",
+      "date": "2026-04-23",
+      "source_url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "importance": 3
+    },
+    {
+      "title": "オープンAI（OpenAI）が「GPT-5.5」を発表、AIスーパーアプリへの一歩",
+      "category": "LLM・生成AI",
+      "date": "2026-04-24",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "importance": 5
+    },
+    {
+      "title": "Ping-pongロボットがトップレベルの人間プレイヤーに勝利",
+      "category": "ロボティクス・自動化",
+      "date": "2026-04-24",
+      "source_url": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+      "importance": 4
+    },
+    {
+      "title": "量子コンピュータ耐性を持つランサムウェアファミリーが初確認",
+      "category": "量子コンピューティング",
+      "date": "2026-04-24",
+      "source_url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+      "importance": 4
+    },
+    {
+      "title": "AIネックバンドで言葉を話さずにコミュニケーション可能に",
+      "category": "AIプロダクト",
+      "date": "2026-04-24",
+      "source_url": "https://newatlas.com/wearables/postech-ai-neckband-words-speech/",
+      "importance": 3
+    },
+    {
+      "title": "デンソーがローム買収提案を撤回、電子部品業界に影響",
+      "category": "プリント基板・電子実装",
+      "date": "2026-04-25",
+      "source_url": "https://asia.nikkei.com/business/business-deals/toyota-supplier-denso-to-withdraw-proposal-to-take-over-rohm",
+      "importance": 3
+    },
+    {
+      "title": "米国の地熱エネルギー技術が画期的な進展、150ギガワットのエネルギー革命を解き放つ可能性",
+      "category": "エネルギー・環境技術",
+      "date": "2026-04-26",
+      "source_url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "importance": 5
+    },
+    {
+      "title": "AnthropicがAIエージェント同士が取引を行うテスト市場を構築、自律的な経済活動の可能性を示唆",
+      "category": "AIプロダクト",
+      "date": "2026-04-26",
+      "source_url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "importance": 5
+    },
+    {
+      "title": "写真やGPU不要で、わずか8つの質問から3D人体モデルを生成する新技術",
+      "category": "AIプロダクト",
+      "date": "2026-04-26",
+      "source_url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "importance": 4
+    },
+    {
+      "title": "「AIを使わないエンジニアは仕事をしていない」？ シリコンバレーで広がる「Tokenmaxxing」の新常識",
+      "category": "LLM・生成AI",
+      "date": "2026-04-27",
+      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/27/news012.html",
+      "importance": 4
+    },
+    {
+      "title": "アマチュア数学者がChatGPTを活用し、60年前の数学問題を解決",
+      "category": "LLM・生成AI",
+      "date": "2026-04-27",
+      "source_url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "importance": 3
+    },
+    {
+      "title": "プリント基板（PCB）のチュートリアルが公開",
+      "category": "プリント基板・電子実装",
+      "date": "2026-04-27",
+      "source_url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "importance": 3
+    },
+    {
+      "title": "日本、宇宙太陽光発電の地球送電で世界初を目指す",
+      "category": "宇宙・航空",
+      "date": "2026-04-29",
+      "source_url": "https://asia.nikkei.com/business/science/japan-eyes-world-first-transmission-of-space-based-solar-power-to-earth",
+      "importance": 5
+    },
+    {
+      "title": "月間100万DLのオープンソースパッケージがユーザー認証情報を窃取",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-04-29",
+      "source_url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+      "importance": 4
+    },
+    {
+      "title": "Google PhotosがAIでバーチャル試着機能を提供、ワードローブ管理を革新",
+      "category": "AIプロダクト",
+      "date": "2026-04-30",
+      "source_url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "importance": 4
+    },
+    {
+      "title": "Google Geminiがチャットから直接PDFやExcelファイルを生成可能に",
+      "category": "AIプロダクト",
+      "date": "2026-04-30",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2604/30/news063.html",
+      "importance": 4
+    },
+    {
+      "title": "Anthropic、コード解析・修正に特化したAIツール「Claude Security」を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-05-01",
+      "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news051.html",
+      "importance": 4
+    },
+    {
+      "title": "AIがコードを生成・デバッグ・デプロイする時代へ：Cloudflareの新機能",
+      "category": "AIプロダクト",
+      "date": "2026-05-01",
+      "source_url": "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
+      "importance": 4
+    },
+    {
+      "title": "シェルスクリプトで構築されたコーディングエージェント「Pu.sh」",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-05-01",
+      "source_url": "https://pu.dev/",
+      "importance": 3
+    },
+    {
+      "title": "オープンソースの法律AI「Mike」が登場",
+      "category": "AIプロダクト",
+      "date": "2026-05-01",
+      "source_url": "https://mikeoss.com/",
+      "importance": 3
+    },
+    {
+      "title": "Anthropicのコード生成AI「Claude Code」、競合「Goose」は無料提供",
+      "category": "LLM・生成AI",
+      "date": "2026-05-01",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 3
+    },
+    {
+      "title": "3Dプリンティングで肺組織モデルを生成する設計ツールが開発",
+      "category": "3Dプリンティング・製造",
+      "date": "2026-05-02",
+      "source_url": "https://3dprintingindustry.com/news/researchers-develop-voronoi-based-scaffold-design-tool-for-extrusion-3d-printing-of-lung-tissue-models-251045/",
+      "importance": 5
+    },
+    {
+      "title": "OpenAIがAIエージェントがアプリを置き換える「AIフォン」を開発か",
+      "category": "AIプロダクト",
+      "date": "2026-05-02",
+      "source_url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "importance": 5
+    },
+    {
+      "title": "Apple、記録的な売上にもかかわらずチップ不足がMac生産に影響と警告",
+      "category": "半導体・チップ",
+      "date": "2026-05-02",
+      "source_url": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+      "importance": 4
+    },
+    {
+      "title": "ハードウェアを書き換え可能にした画期的なチップ「FPGA」",
+      "category": "半導体・チップ",
+      "date": "2026-05-02",
+      "source_url": "https://spectrum.ieee.org/fpga-chip-ieee-milestone",
+      "importance": 4
+    },
+    {
+      "title": "アカデミー賞がAI生成の俳優と脚本を授賞資格の対象外に",
+      "category": "AI規制・政策",
+      "date": "2026-05-03",
+      "source_url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "importance": 4
+    },
+    {
+      "title": "DAIMON Roboticsがロボットハンドに触覚を与える技術を開発",
+      "category": "ロボティクス・自動化",
+      "date": "2026-05-04",
+      "source_url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "importance": 5
+    },
+    {
+      "title": "思考をテキストに変換するマインドリーディングビーニーが登場",
+      "category": "医療・バイオ",
+      "date": "2026-05-04",
+      "source_url": "https://newatlas.com/wearables/sabi-mind-reading-beanie-typing-eeg/",
+      "importance": 5
+    },
+    {
+      "title": "マネーフォワード、GitHubからのソースコード流出で銀行連携を一時停止",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-05-04",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
+      "importance": 4
+    },
+    {
+      "title": "OpenAIのAI「o1」、救急患者の診断で医師を上回る精度を達成",
+      "category": "AIプロダクト",
+      "date": "2026-05-05",
+      "source_url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "importance": 5
+    },
+    {
+      "title": "AIが「開発者」のように振る舞うべき：コーディングエージェントの教訓",
+      "category": "LLM・生成AI",
+      "date": "2026-05-06",
+      "source_url": "https://finbarr.site/2026/05/05/treat-your-coding-agents-like-developers.",
+      "importance": 4
+    },
+    {
+      "title": "Google DeepMindの英国従業員、軍事AI契約に反対し労働組合を結成",
+      "category": "AI研究",
+      "date": "2026-05-06",
+      "source_url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "importance": 4
+    },
+    {
+      "title": "Google、TPUチップを一部顧客に販売へ、NVIDIAに対抗",
+      "category": "半導体・チップ",
+      "date": "2026-05-07",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
+      "importance": 5
+    },
+    {
+      "title": "Micron、業界最大容量245TBのデータセンター向けSSDを出荷開始",
+      "category": "半導体・チップ",
+      "date": "2026-05-07",
+      "source_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "importance": 4
+    },
+    {
+      "title": "スマートホームセンサー、電池不要で動作する技術が登場",
+      "category": "その他先端技術",
+      "date": "2026-05-07",
+      "source_url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "importance": 3
+    },
+    {
+      "title": "AI悪用によるゼロデイ攻撃の脅威が顕在化",
+      "category": "AI規制・政策",
+      "date": "2026-05-12",
+      "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "importance": 5
+    },
+    {
+      "title": "脳卒中による脳損傷を修復する初の薬剤を発見",
+      "category": "医療・バイオ",
+      "date": "2026-05-12",
+      "source_url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "importance": 5
+    },
+    {
+      "title": "カザフスタン製錬所爆発、はんだ調達に世界的赤信号",
+      "category": "プリント基板・電子実装",
+      "date": "2026-05-13",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/01268/00154/",
+      "importance": 5
+    },
+    {
+      "title": "グーグルとスペースX、軌道上データセンター設置を協議",
+      "category": "宇宙・航空",
+      "date": "2026-05-13",
+      "source_url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "importance": 5
+    },
+    {
+      "title": "グーグル、AI製ゼロデイ攻撃の出現を報告",
+      "category": "AI規制・政策",
+      "date": "2026-05-13",
+      "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/12/news147.html",
+      "importance": 5
+    },
+    {
+      "title": "FairyFuse: CPU上で乗算なしLLM推論を実現し効率を大幅向上",
+      "category": "LLM・生成AI",
+      "date": "2026-05-13",
+      "source_url": "https://arxiv.org/abs/2604.20913",
+      "importance": 4
+    },
+    {
+      "title": "Google、Android向けAIエージェント「Gemini Intelligence」発表",
+      "category": "LLM・生成AI",
+      "date": "2026-05-14",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
+      "importance": 5
+    }
+  ]
+}

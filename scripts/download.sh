@@ -47,3 +47,9 @@ for a in data.get('articles', []):
 fi
 
 echo "$(date): ainews download done (md: $COUNT_MD new)" >> "$LOG"
+
+# Obsidian側でチェックした「[x] 興味あり」を articles/interests.json に同期
+# （CI実行時の深堀り機能で参照される）
+if [ -d "$OBSIDIAN_DIR" ] && command -v uv &>/dev/null; then
+    cd "$REPO_DIR" && uv run --project collector python scripts/sync_interests.py >> "$LOG" 2>&1 || true
+fi

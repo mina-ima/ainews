@@ -12,6 +12,7 @@ from pathlib import Path
 from .search import collect_news
 from .summarize import summarize_news, generate_markdown, generate_tts_text
 from .tts import generate_mp3
+from .deepdive import load_interests, build_prompt_section, build_markdown_section
 
 JST = timezone(timedelta(hours=9))
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent  # ~/AI/ainews/
@@ -72,18 +73,25 @@ async def run() -> None:
         print("ニュースが見つかりませんでした。終了します。")
         return
 
-    # 2. Gemini で要約（過去3日の既出ニュースを除外）
+    # 2. 興味アリ深堀りコンテキストを読み込み
+    interests = load_interests()
+    interests_section = build_prompt_section(interests)
+    if interests:
+        print(f"  (過去30日の興味アリ: {len(interests)}件を深堀り対象として要約に注入)")
+
+    # 3. Gemini で要約（過去3日の既出ニュースを除外）
     print("Step 2: AI要約中...")
     recent_stories = _load_recent_stories()
     if recent_stories:
         print(f"  (過去{RECENT_DAYS}日間の既出ニュース: {len(recent_stories)}件を除外対象として渡す)")
-    data = await summarize_news(items, recent_stories)
+    data = await summarize_news(items, recent_stories, interests_section=interests_section)
     highlights = data.get("highlights", [])
     print(f"  → {len(highlights)}件のハイライトを生成")
 
-    # 3. Markdown生成・保存
+    # 4. Markdown生成・保存（深堀り続報セクションも添付）
     print("Step 3: Markdown生成中...")
-    md_content = generate_markdown(data, date)
+    deepdive_md = build_markdown_section(interests, highlights)
+    md_content = generate_markdown(data, date, deepdive_section=deepdive_md)
     ARTICLES_DIR.mkdir(parents=True, exist_ok=True)
     md_path = ARTICLES_DIR / f"{date}.md"
     md_path.write_text(md_content, encoding="utf-8")
