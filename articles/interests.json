@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-15T08:10:47.985690+09:00",
+  "updated_at": "2026-05-16T08:21:48.314000+09:00",
   "items": [
-    {
-      "title": "Google ChromeにAIプロンプトを再利用可能な「スキル」機能が導入",
-      "category": "AIプロダクト",
-      "date": "2026-04-15",
-      "source_url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "importance": 4
-    },
-    {
-      "title": "Science Corp.が初の脳センサーを人体に埋め込みへ",
-      "category": "AI研究",
-      "date": "2026-04-15",
-      "source_url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
-      "importance": 4
-    },
     {
       "title": "熱で内部ファイアウォールを生成する「耐火性」バッテリーが登場",
       "category": "エネルギー・環境技術",
@@ -455,6 +441,20 @@
       "date": "2026-05-14",
       "source_url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
       "importance": 5
+    },
+    {
+      "title": "世界初のカラーLiDAR「Rev8」が登場、機械に人間のような視覚を提供",
+      "category": "その他先端技術",
+      "date": "2026-05-15",
+      "source_url": "https://newatlas.com/technology/ouster-rev8-native-color-lidar/",
+      "importance": 4
+    },
+    {
+      "title": "JR東日本がUWBを活用した次世代改札機を公開",
+      "category": "通信・ネットワーク",
+      "date": "2026-05-15",
+      "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2108790.html",
+      "importance": 3
     }
   ]
 }
