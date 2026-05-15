@@ -65,6 +65,91 @@
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2108790.html"
         }
       ]
+    },
+    {
+      "date": "2026-05-16",
+      "stories": [
+        {
+          "title": "オープンAIの「Codex」がChatGPTモバイルアプリに統合、デスクトップ操作を強化",
+          "source_url": "https://openai.com/index/work-with-codex-from-anywhere/"
+        },
+        {
+          "title": "Anthropicが法律分野向けAIエージェント「Claude for Legal」を発表",
+          "source_url": "https://github.com/anthropics/claude-for-legal"
+        },
+        {
+          "title": "Geminiツール呼び出し機能を26Mモデルに蒸留する「Needle」が発表",
+          "source_url": "https://github.com/cactus-compute/needle"
+        },
+        {
+          "title": "ChatGPTがPlaid経由で銀行口座と連携、個人向け金融アドバイスを提供開始",
+          "source_url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
+        },
+        {
+          "title": "Anthropicが中小企業向けAIエージェント「Claude for Small Business」を発表",
+          "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news094.html"
+        },
+        {
+          "title": "動画生成AIのRunwayが日本市場に本格進出、60億円超を投資",
+          "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news108.html"
+        },
+        {
+          "title": "オープンAIが組織再編、グレッグ・ブロックマンが全製品の統括責任者に",
+          "source_url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
+        },
+        {
+          "title": "Googleの「Gemini Intelligence」は高いAndroidスペック要件を伴う可能性",
+          "source_url": "https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/"
+        },
+        {
+          "title": "Geminiが複雑な賃貸契約書を平易に解説、実用的なAI活用事例として注目",
+          "source_url": "https://www.androidpolice.com/finally-understand-lease-agreement-had-to-ask-gemini/"
+        },
+        {
+          "title": "GoogleのAIエージェント「Gemini Spark」が自律的なタスク実行能力を披露",
+          "source_url": "https://www.androidpolice.com/googles-ai-agent-gemini-spark-leaks-ahead-of-expected-announcement/"
+        },
+        {
+          "title": "ファーウェイがヘッドライトにフルカラープロジェクターを内蔵する技術を発表",
+          "source_url": "https://newatlas.com/technology/huawei-xpixel-headlights-projector-color/"
+        },
+        {
+          "title": "紙パックの代わりにキッチンペーパーが使えるコードレス掃除機が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2108967.html"
+        },
+        {
+          "title": "飲料をシャーベット状に変える過冷却冷蔵庫が猛暑対策として発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2108208.html"
+        },
+        {
+          "title": "AIの電力需要急増でデータセンターのエネルギー消費が深刻化、住民の懸念も高まる",
+          "source_url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai"
+        },
+        {
+          "title": "ファナックとGoogleが協業、AIエージェントで産業用ロボットを操作するシステムを構築",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2605/15/news087.html"
+        },
+        {
+          "title": "TANIOBISが3Dプリンティングで患者固有のタンタル・ニオブ合金インプラントを実現",
+          "source_url": "https://3dprintingindustry.com/news/taniobis-enables-patient-specific-implants-with-tantalum-and-niobium-alloys-251477/?utm_source=rss&utm_medium=rss&utm_campaign=taniobis-enables-patient-specific-implants-with-tantalum-and-niobium-alloys"
+        },
+        {
+          "title": "中国がNVIDIAのAIチップ「H200」購入を阻止、半導体市場に地政学的影響",
+          "source_url": "https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases"
+        },
+        {
+          "title": "インフィニオンが自動車業界初のRISC-VベースMCUを発表、車載Linux時代へ",
+          "source_url": "https://en.infomaxai.com/news/articleView.html?idxno=116421"
+        },
+        {
+          "title": "ニンテンドースイッチを活用して3Dプリンターを高速化するハックが登場",
+          "source_url": "https://hackaday.com/2026/05/15/using-a-nintendo-switch-to-speed-up-a-3d-printer/"
+        },
+        {
+          "title": "NTTらが約60km離れた遠隔地からドローンを安定操縦する技術を実証",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2108750.html"
+        }
+      ]
     }
   ]
 }
