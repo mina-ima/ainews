@@ -150,6 +150,19 @@
           "source_url": "https://internet.watch.impress.co.jp/docs/news/2108750.html"
         }
       ]
+    },
+    {
+      "date": "2026-05-17",
+      "stories": [
+        {
+          "title": "OpenAIがChatGPTに個人向け資産管理機能を導入",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html"
+        },
+        {
+          "title": "ASUSがROG生誕20周年記念マザーボード「ROG Crosshair 2006」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2109147.html"
+        }
+      ]
     }
   ]
 }
