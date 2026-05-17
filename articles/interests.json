@@ -1,55 +1,6 @@
 {
-  "updated_at": "2026-05-16T08:21:48.314000+09:00",
+  "updated_at": "2026-05-18T07:26:21.966038+09:00",
   "items": [
-    {
-      "title": "熱で内部ファイアウォールを生成する「耐火性」バッテリーが登場",
-      "category": "エネルギー・環境技術",
-      "date": "2026-04-16",
-      "source_url": "https://newatlas.com/energy/fireproof-batteries-internal-firewall/",
-      "importance": 5
-    },
-    {
-      "title": "チューリングが国内初のE2E自動運転「VLAモデル」公道走行試験を実施",
-      "category": "ロボティクス・自動化",
-      "date": "2026-04-16",
-      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03367/041300021/",
-      "importance": 5
-    },
-    {
-      "title": "オープンAI、デスクトップ操作を強化した「Codex」をアップデート",
-      "category": "LLM・生成AI",
-      "date": "2026-04-17",
-      "source_url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "importance": 5
-    },
-    {
-      "title": "Anthropic、最上位モデル「Claude Opus 4.7」を発表　複雑なコーディング能力を大幅向上",
-      "category": "LLM・生成AI",
-      "date": "2026-04-17",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "importance": 5
-    },
-    {
-      "title": "AIによる「無意識な改ざん」に注意、整いすぎた応募書類に採用現場で違和感",
-      "category": "LLM・生成AI",
-      "date": "2026-04-17",
-      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/01775/041500265/",
-      "importance": 3
-    },
-    {
-      "title": "CadenceとNVIDIA、エージェント型AI設計で提携を拡大",
-      "category": "半導体・チップ",
-      "date": "2026-04-17",
-      "source_url": "https://www.engineering.com/cadence-and-nvidia-expand-partnership-for-agentic-ai-design/",
-      "importance": 3
-    },
-    {
-      "title": "「Claude Code」は高価だが、「Goose」は無料で同等の機能を提供",
-      "category": "LLM・生成AI",
-      "date": "2026-04-17",
-      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "importance": 2
-    },
     {
       "title": "自動PCB解析のためのオープンソースプラットフォーム「PROBoter」発表",
       "category": "プリント基板・電子実装",
@@ -455,6 +406,41 @@
       "date": "2026-05-15",
       "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2108790.html",
       "importance": 3
+    },
+    {
+      "title": "Googleの「Gemini Intelligence」は高いAndroidスペック要件を伴う可能性",
+      "category": "LLM・生成AI",
+      "date": "2026-05-16",
+      "source_url": "https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/",
+      "importance": 5
+    },
+    {
+      "title": "Geminiが複雑な賃貸契約書を平易に解説、実用的なAI活用事例として注目",
+      "category": "LLM・生成AI",
+      "date": "2026-05-16",
+      "source_url": "https://www.androidpolice.com/finally-understand-lease-agreement-had-to-ask-gemini/",
+      "importance": 5
+    },
+    {
+      "title": "GoogleのAIエージェント「Gemini Spark」が自律的なタスク実行能力を披露",
+      "category": "LLM・生成AI",
+      "date": "2026-05-16",
+      "source_url": "https://www.androidpolice.com/googles-ai-agent-gemini-spark-leaks-ahead-of-expected-announcement/",
+      "importance": 5
+    },
+    {
+      "title": "AIの電力需要急増でデータセンターのエネルギー消費が深刻化、住民の懸念も高まる",
+      "category": "エネルギー・環境技術",
+      "date": "2026-05-16",
+      "source_url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
+      "importance": 5
+    },
+    {
+      "title": "ニンテンドースイッチを活用して3Dプリンターを高速化するハックが登場",
+      "category": "3Dプリンティング・製造",
+      "date": "2026-05-16",
+      "source_url": "https://hackaday.com/2026/05/15/using-a-nintendo-switch-to-speed-up-a-3d-printer/",
+      "importance": 4
     }
   ]
 }
