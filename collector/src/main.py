@@ -61,7 +61,8 @@ def _save_highlights_cache(date: str, highlights: list[dict]) -> None:
 
 
 async def run() -> None:
-    date = datetime.now(JST).strftime("%Y-%m-%d")
+    # AINEWS_TARGET_DATE で過去日を指定して再生成可能 (障害復旧用)
+    date = os.environ.get("AINEWS_TARGET_DATE") or datetime.now(JST).strftime("%Y-%m-%d")
     print(f"=== AI Daily News: {date} ===")
 
     # 1. ニュース収集

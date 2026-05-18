@@ -155,12 +155,84 @@
       "date": "2026-05-17",
       "stories": [
         {
-          "title": "OpenAIがChatGPTに個人向け資産管理機能を導入",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html"
+          "title": "Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
+          "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/"
         },
         {
-          "title": "ASUSがROG生誕20周年記念マザーボード「ROG Crosshair 2006」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2109147.html"
+          "title": "アメリカ人の大多数がAIを信頼せず、その管理者にも不信感（2025年調査）",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
+        },
+        {
+          "title": "イーロン・マスクとサム・アルトマンの裁判、信頼性を巡る攻防が最終局面へ",
+          "source_url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+        },
+        {
+          "title": "G-SHOCK「MUDMASTER」にマグマカラーのスペシャルモデルが登場",
+          "source_url": "https://www.gizmodo.jp/2026/05/mudmaster_g-shock.html"
+        },
+        {
+          "title": "ソニーの“着るエアコン”「REON POCKET」が6代目に進化、上位機PROの冷却性能を小型化",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/18/news065.html"
+        },
+        {
+          "title": "XPPenが3つのダイヤルと19ボタン搭載の左手デバイス「Pilot Pro 編集コンソール」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2109488.html"
+        },
+        {
+          "title": "シーリングプロジェクター「Aladdin X3」が登場、設置の自由度が高くNetflixにも対応",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2109347.html"
+        },
+        {
+          "title": "科学者たちが太陽エネルギーを貯蔵する液体バッテリーで「太陽を瓶詰め」",
+          "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
+        },
+        {
+          "title": "日本チームがマッハ5航空機エンジンの試験に成功、米国まで2時間飛行を目指す",
+          "source_url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c"
+        },
+        {
+          "title": "1945年の原爆実験で全く新しい物質が生成されていたことが判明",
+          "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/"
+        },
+        {
+          "title": "新「スーパー燃料」が航空機・ロケットの航続距離を32%向上させる可能性",
+          "source_url": "https://newatlas.com/aircraft/superfuel-increase-aircraft-missile-performance/"
+        },
+        {
+          "title": "3Dプリント製ジェットエンジン「Frenzy 8」が米空軍との契約で認証へ",
+          "source_url": "https://3dprintingindustry.com/news/beehive-secures-new-contract-to-qualify-its-3d-printed-frenzy-8-jet-engine-251463/?utm_source=rss&utm_medium=rss&utm_campaign=beehive-secures-new-contract-to-qualify-its-3d-printed-frenzy-8-jet-engine"
+        },
+        {
+          "title": "JetCoolが次世代コンピューティング向けクローズドループ冷却システムを拡張",
+          "source_url": "https://www.globalsmt.net/world-news/jetcool-expands-smartplate-system-portfolio-with-closed-loop-cooling-for-next-generation-compute/"
+        },
+        {
+          "title": "インド初の半導体チップパッケージングクラスターがグジャラート州で稼働",
+          "source_url": "https://www.globalsmt.net/asia-social-media-news/giant-stride-with-micron-precision-inside-indias-1st-semiconductor-chip-packaging-cluster-in-gujarat/"
+        },
+        {
+          "title": "Cyient Semiconductorsがインドで初の窒化ガリウム（GaN）パワーデバイスを発表",
+          "source_url": "https://www.globalsmt.net/asia-industry-news/cyient-semiconductors-launches-first-gan-power-devices-in-india/"
+        },
+        {
+          "title": "インド、3番目のチップ工場が7月稼働、年末までに4番目も計画",
+          "source_url": "https://www.globalsmt.net/asia-industry-news/indias-3rd-chip-plant-set-for-july-launch-4th-plant-by-year-end-ashwini-vaishnaw/"
+        },
+        {
+          "title": "世界半導体売上高が驚異の8割増、月1000億ドルに肉薄（2026年3月）",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11739/"
+        },
+        {
+          "title": "メタレンズ実用化へ、サムスンなど大手企業が可視光領域での応用を発表",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/042300013/"
+        },
+        {
+          "title": "米FTCがArmに対し独占禁止法調査を開始か、AGI CPU発表を受け",
+          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals"
+        },
+        {
+          "title": "退役軍人向け臨床試験でイボガインがPTSDの新たな治療法となる可能性",
+          "source_url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
         }
       ]
     },
@@ -168,84 +240,84 @@
       "date": "2026-05-18",
       "stories": [
         {
-          "title": "Googleの次世代AIモデル「Gemini Omni」の動画生成機能がリーク、数式再現度で注目",
-          "source_url": "https://www.gizmodo.jp/2026/05/google-omni_leak_video.html"
+          "title": "AI搭載ナンバープレートカメラが住民分断、非常事態宣言に発展",
+          "source_url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
         },
         {
-          "title": "イーロン・マスクとOpenAIの裁判で「信頼性」が焦点に、AIガバナンスの重要性浮き彫り",
-          "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/"
-        },
-        {
-          "title": "Google Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
-          "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/"
-        },
-        {
-          "title": "OpenAIとマルタ政府が提携、全市民にChatGPT Plusを無償提供へ",
+          "title": "OpenAIとマルタ政府、全市民にChatGPT Plusを無償提供",
           "source_url": "https://openai.com/index/malta-chatgpt-plus-partnership/"
         },
         {
-          "title": "ソニーの“着るエアコン”「REON POCKET 6」が登場、上位機の冷却性能を小型化",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/18/news065.html"
+          "title": "AIエージェント型トレーディングシステム、安全なガードレールを実装",
+          "source_url": "https://github.com/ShurikenTrade/shuriken-skills"
         },
         {
-          "title": "リュック派の救世主「D2D Pouch V2」レビュー、1秒で全開する拡張ポーチ",
-          "source_url": "https://www.gizmodo.jp/2026/05/machi-ya-d2dpouchv2-review-941094.html"
+          "title": "AppleのSiri刷新、チャット履歴自動削除機能搭載か",
+          "source_url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
         },
         {
-          "title": "Ankerのソーラー充電式360度防犯カメラが1.1万円台で登場、設置のハードルを大幅に低減",
-          "source_url": "https://www.gizmodo.jp/2026/05/anker-eufy_eufycam_amazon.html"
+          "title": "YouTube、AIディープフェイク検出ツールを全成人ユーザーに拡大",
+          "source_url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
         },
         {
-          "title": "貝印が「なでそり」を発売、肌をなでるだけで毛がそれる新感覚シェーバー",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2107968.html"
+          "title": "中国ショートドラマ産業、AI活用でコンテンツ生成を加速",
+          "source_url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
         },
         {
-          "title": "世界半導体売上高が前年比8割増で月1000億ドルに迫る、市場の爆発的成長続く",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11739/"
+          "title": "金融サービス向けエージェント型AI、データレディネスが成功の鍵",
+          "source_url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         },
         {
-          "title": "ASMLがインド初の商業チップ工場に設備供給、110億ドル規模のプロジェクトを支援",
-          "source_url": "https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab"
+          "title": "Listen Labs、AI顧客インタビュー大規模化で6,900万ドル調達",
+          "source_url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
         },
         {
-          "title": "科学者が太陽エネルギーを貯蔵する液体バッテリーを開発、「太陽を瓶詰め」する技術",
-          "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
+          "title": "Salesforce、新Slackbot AIエージェントを発表し職場AI競争激化",
+          "source_url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
         },
         {
-          "title": "日本チームがマッハ5級航空機エンジンの試験に成功、米国まで2時間の飛行視野に",
-          "source_url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c"
+          "title": "カロッツェリア、80年代の“光るボックススピーカー”を最新技術で復活",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2109416.html"
         },
         {
-          "title": "1945年の初の原爆実験で、自然界に存在しない全く新しい物質が生成されていたことが判明",
-          "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/"
+          "title": "AIエージェント向けコード検索ツール「Semble」発表、トークン消費98%削減",
+          "source_url": "https://github.com/MinishLab/semble"
         },
         {
-          "title": "メタレンズの実用化が加速、米展示会で大手企業が可視光対応製品を披露",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/042300013/"
+          "title": "Teslaソーラールーフ、従来のソーラーパネルへ事業転換",
+          "source_url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"
         },
         {
-          "title": "SCSが超薄型パリレンと多層コーティング技術に関するウェビナーを開催、環境保護に貢献",
+          "title": "AMDセキュリティ機能「SEV-SNP」を破る脆弱性「Fabricked」発見",
+          "source_url": "https://xca-attacks.github.io/fabricked/"
+        },
+        {
+          "title": "Unix風Rust製コーディングエージェント「Zerostack」発表",
+          "source_url": "https://crates.io/crates/zerostack/1.0.0"
+        },
+        {
+          "title": "高齢者向けコンパニオンロボット「ElliQ」が予想外の有用性",
+          "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on"
+        },
+        {
+          "title": "Railway、AIネイティブクラウドインフラでAWSに対抗し1億ドル調達",
+          "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+        },
+        {
+          "title": "Absolute EMS、Luminovo導入で見積もりプロセスを効率化",
+          "source_url": "https://www.globalsmt.net/industry-news/absolute-ems-adopts-luminovo-to-modernize-and-streamline-quoting/"
+        },
+        {
+          "title": "SCS、極薄パリレンと多層コーティング技術に関するウェビナー開催",
           "source_url": "https://www.globalsmt.net/industry-news/scs-to-host-webinar-on-ultra-thin-parylene-and-multilayer-coating-technologies/"
         },
         {
-          "title": "JetCoolが次世代コンピューティング向け閉ループ冷却システムを拡充、AIや高密度計算の性能向上に貢献",
-          "source_url": "https://www.globalsmt.net/world-news/jetcool-expands-smartplate-system-portfolio-with-closed-loop-cooling-for-next-generation-compute/"
+          "title": "サンワサプライ、狭い場所でも配線しやすい光ファイバーケーブル発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2108606.html"
         },
         {
-          "title": "Apollo Automobilがハイパーカー向け3Dプリント製チタン排気システムを発表",
-          "source_url": "https://3dprintingindustry.com/news/apollo-automobils-dragon-skin-exhaust-pushes-hypercar-am-forward-251470/?utm_source=rss&utm_medium=rss&utm_campaign=apollo-automobils-dragon-skin-exhaust-pushes-hypercar-am-forward"
-        },
-        {
-          "title": "退役軍人への治験で幻覚剤イボガインがPTSDの新たな治療法となる可能性",
-          "source_url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
-        },
-        {
-          "title": "人間と人型ロボットが作業対決、米Figure社が生配信で性能を披露",
-          "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html"
-        },
-        {
-          "title": "Microsoft Edgeが保存済みパスワードのメモリ読み込み仕様を変更、セキュリティを強化",
-          "source_url": "https://gigazine.net/news/20260518-microsoft-edge-saved-password/"
+          "title": "RBB、AS9100認証取得で航空宇宙・防衛分野を拡大",
+          "source_url": "https://www.globalsmt.net/industry-news/rbb-earns-as9100-certification-expands-aerospace-and-defense-credentials/"
         }
       ]
     }

@@ -230,9 +230,12 @@ def _get_gemini_keys() -> list[str]:
     return [v for k, v in sorted(os.environ.items()) if k.startswith("GEMINI_KEY_") and v]
 
 
-# 要約品質ガード: highlights がこの件数未満なら別モデルへフォールバック
-# (新モデルがプロンプト遵守できず数件しか返さない事故を自動回復させる)
+# 要約品質ガード:
+# - 下限 MIN_HIGHLIGHTS 未満なら別モデルへフォールバック (品質低下事故の自動回復)
+# - 上限 MAX_HIGHLIGHTS を超えたら truncate (LLMが「最大20件」指示を無視して
+#   数百件返す事故を防ぐ。TTS時間とMP3サイズの暴走を抑える)
 MIN_HIGHLIGHTS = 5
+MAX_HIGHLIGHTS = 20
 
 
 async def _try_gemini(user_prompt: str) -> dict | None:
@@ -351,6 +354,18 @@ async def summarize_news(
 
     # カテゴリ順序を強制ソート（AI → ガジェット → その他）
     result["highlights"] = sort_highlights(result.get("highlights", []))
+
+    # 上限ガード: LLMが「最大20件」指示を無視して大量生成した場合に truncate
+    if len(result["highlights"]) > MAX_HIGHLIGHTS:
+        before = len(result["highlights"])
+        # 重要度降順で上位を残す (カテゴリ順は維持できないが暴走防止優先)
+        sorted_by_importance = sorted(
+            result["highlights"],
+            key=lambda h: -h.get("importance", 3),
+        )[:MAX_HIGHLIGHTS]
+        # 元のソート順 (カテゴリ→重要度) に戻す
+        result["highlights"] = sort_highlights(sorted_by_importance)
+        print(f"  (上限ガード: {before}件 → {MAX_HIGHLIGHTS}件に truncate)")
 
     return result
 
