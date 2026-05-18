@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-05-18T15:37:12.922176+09:00",
+  "updated_at": "2026-05-19T08:28:15.489027+09:00",
   "items": [
-    {
-      "title": "自動PCB解析のためのオープンソースプラットフォーム「PROBoter」発表",
-      "category": "プリント基板・電子実装",
-      "date": "2026-04-18",
-      "source_url": "https://www.schutzwerk.com/en/blog/proboter-01/",
-      "importance": 5
-    },
-    {
-      "title": "独自の酸素を生成する生体工学パッチが創傷治癒と組織成長を促進",
-      "category": "医療・バイオ",
-      "date": "2026-04-18",
-      "source_url": "https://3dprintingindustry.com/news/new-bioengineered-patch-makes-its-own-oxygen-to-heal-wounds-and-grow-tissue-250671/?utm_source=rss&utm_medium=rss&utm_campaign=new-bioengineered-patch-makes-its-own-oxygen-to-heal-wounds-and-grow-tissue",
-      "importance": 5
-    },
-    {
-      "title": "Anthropicが新AIモデル「Claude Opus 4.7」とサイバーセキュリティモデル「Mythos」を発表",
-      "category": "LLM・生成AI",
-      "date": "2026-04-18",
-      "source_url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "importance": 4
-    },
-    {
-      "title": "エージェント型コーディング能力を持つオープンソースモデル「Qwen3.6-35B-A3B」が一般公開",
-      "category": "LLM・生成AI",
-      "date": "2026-04-18",
-      "source_url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "importance": 4
-    },
     {
       "title": "Anthropicの強力なサイバーセキュリティAIモデル「Mythos」が金融業界で注目、規制当局との対話も",
       "category": "AIプロダクト",
@@ -441,6 +413,34 @@
       "date": "2026-05-16",
       "source_url": "https://hackaday.com/2026/05/15/using-a-nintendo-switch-to-speed-up-a-3d-printer/",
       "importance": 4
+    },
+    {
+      "title": "Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
+      "category": "LLM・生成AI",
+      "date": "2026-05-17",
+      "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/",
+      "importance": 5
+    },
+    {
+      "title": "1945年の原爆実験で全く新しい物質が生成されていたことが判明",
+      "category": "材料・ナノテク",
+      "date": "2026-05-17",
+      "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
+      "importance": 5
+    },
+    {
+      "title": "OpenAIとマルタ政府、全市民にChatGPT Plusを無償提供",
+      "category": "AI規制・政策",
+      "date": "2026-05-18",
+      "source_url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "importance": 5
+    },
+    {
+      "title": "AIエージェント向けコード検索ツール「Semble」発表、トークン消費98%削減",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-05-18",
+      "source_url": "https://github.com/MinishLab/semble",
+      "importance": 5
     }
   ]
 }
