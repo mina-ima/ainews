@@ -147,8 +147,16 @@ def _save_last_model(model: str) -> None:
 
 
 def _discover_models(client: genai.Client) -> list[str]:
-    """フォールバック順: 前回成功モデル → 1つ前バージョン → 未来の新バージョン"""
+    """フォールバック順: 前回成功モデル → 1つ前バージョン → 未来の新バージョン
+
+    -lite バリアントはプロンプト遵守が弱く、20件指示でも数件しか返さない・
+    既出URL除外指示を無視するなどの品質問題があるため、各カテゴリ内で
+    non-lite を優先し、lite は最終フォールバックとして末尾に回す。
+    """
     last_model = _load_last_model()
+    # 前回成功モデルが lite だった場合は信用せず再選定する
+    if last_model and "-lite" in last_model:
+        last_model = None
 
     try:
         all_models = []
@@ -186,9 +194,14 @@ def _discover_models(client: genai.Client) -> list[str]:
         elif ver > base_ver:
             future.append(m)
 
-    same.sort(key=lambda m: (_parse_model_version(m)[1], m))
-    back.sort(key=lambda m: (_parse_model_version(m)[1], m))
-    future.sort(key=lambda m: (-_parse_model_version(m)[0], _parse_model_version(m)[1], m))
+    # 各カテゴリ内で non-lite を先、lite を後に並べる
+    def _sort_key(m: str) -> tuple:
+        suffix = _parse_model_version(m)[1]
+        return ("lite" in suffix, suffix, m)
+
+    same.sort(key=_sort_key)
+    back.sort(key=_sort_key)
+    future.sort(key=lambda m: ("lite" in _parse_model_version(m)[1], -_parse_model_version(m)[0], _parse_model_version(m)[1], m))
 
     result = []
     if last_model:
@@ -198,6 +211,11 @@ def _discover_models(client: genai.Client) -> list[str]:
     # 重複除去（順序保持）
     seen = set()
     result = [m for m in result if not (m in seen or seen.add(m))]
+
+    # 最終ガード: 全体で non-lite を先、lite を末尾に再配置（順序は維持）
+    non_lite_models = [m for m in result if "-lite" not in m]
+    lite_models = [m for m in result if "-lite" in m]
+    result = non_lite_models + lite_models
 
     print(f"  モデル試行順: {result}")
     if last_model:
@@ -212,10 +230,20 @@ def _get_gemini_keys() -> list[str]:
     return [v for k, v in sorted(os.environ.items()) if k.startswith("GEMINI_KEY_") and v]
 
 
+# 要約品質ガード: highlights がこの件数未満なら別モデルへフォールバック
+# (新モデルがプロンプト遵守できず数件しか返さない事故を自動回復させる)
+MIN_HIGHLIGHTS = 5
+
+
 async def _try_gemini(user_prompt: str) -> dict | None:
     api_keys = _get_gemini_keys()
     if not api_keys:
         return None
+
+    # 全モデルが品質基準を満たさなかった場合のための「最良結果」を保持
+    best_result: dict | None = None
+    best_count = 0
+    best_model = ""
 
     for api_key in api_keys:
         client = genai.Client(api_key=api_key)
@@ -230,9 +258,22 @@ async def _try_gemini(user_prompt: str) -> dict | None:
                         "temperature": 0.3,
                     },
                 )
-                print(f"  (使用: Gemini {model})")
-                _save_last_model(model)
-                return json.loads(response.text)
+                result = json.loads(response.text)
+                count = len(result.get("highlights", []))
+
+                if count >= MIN_HIGHLIGHTS:
+                    print(f"  (使用: Gemini {model}, {count}件)")
+                    _save_last_model(model)
+                    return result
+
+                # 品質基準未達: 次のモデルを試す
+                print(f"  {model}: {count}件のみ生成 (基準{MIN_HIGHLIGHTS}件未満)、次のモデルへフォールバック")
+                if count > best_count:
+                    best_result = result
+                    best_count = count
+                    best_model = model
+                continue
+
             except Exception as e:
                 error_msg = str(e)
                 if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg:
@@ -244,6 +285,12 @@ async def _try_gemini(user_prompt: str) -> dict | None:
                     print(f"  {model}: サービス利用不可、次のモデルへ")
                     continue
                 print(f"  Gemini エラー ({model}): {e}")
+
+    # 全モデル試したが基準未達: 最良結果があれば返す (Groqフォールバックより既出URL除外などのデータが使えるため)
+    if best_result is not None:
+        print(f"  (警告: 全モデル基準未達。最良結果を採用: {best_model}, {best_count}件)")
+        _save_last_model(best_model)
+        return best_result
     return None
 
 

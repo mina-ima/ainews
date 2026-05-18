@@ -168,8 +168,84 @@
       "date": "2026-05-18",
       "stories": [
         {
-          "title": "CO2と大気汚染物質を電力に変える画期的な装置",
-          "source_url": "https://www.gizmodo.jp/2026/05/gas-capture-and-electricity-generator.html"
+          "title": "Googleの次世代AIモデル「Gemini Omni」の動画生成機能がリーク、数式再現度で注目",
+          "source_url": "https://www.gizmodo.jp/2026/05/google-omni_leak_video.html"
+        },
+        {
+          "title": "イーロン・マスクとOpenAIの裁判で「信頼性」が焦点に、AIガバナンスの重要性浮き彫り",
+          "source_url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/"
+        },
+        {
+          "title": "Google Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
+          "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/"
+        },
+        {
+          "title": "OpenAIとマルタ政府が提携、全市民にChatGPT Plusを無償提供へ",
+          "source_url": "https://openai.com/index/malta-chatgpt-plus-partnership/"
+        },
+        {
+          "title": "ソニーの“着るエアコン”「REON POCKET 6」が登場、上位機の冷却性能を小型化",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/18/news065.html"
+        },
+        {
+          "title": "リュック派の救世主「D2D Pouch V2」レビュー、1秒で全開する拡張ポーチ",
+          "source_url": "https://www.gizmodo.jp/2026/05/machi-ya-d2dpouchv2-review-941094.html"
+        },
+        {
+          "title": "Ankerのソーラー充電式360度防犯カメラが1.1万円台で登場、設置のハードルを大幅に低減",
+          "source_url": "https://www.gizmodo.jp/2026/05/anker-eufy_eufycam_amazon.html"
+        },
+        {
+          "title": "貝印が「なでそり」を発売、肌をなでるだけで毛がそれる新感覚シェーバー",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2107968.html"
+        },
+        {
+          "title": "世界半導体売上高が前年比8割増で月1000億ドルに迫る、市場の爆発的成長続く",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11739/"
+        },
+        {
+          "title": "ASMLがインド初の商業チップ工場に設備供給、110億ドル規模のプロジェクトを支援",
+          "source_url": "https://www.tomshardware.com/tech-industry/asml-partners-with-tata-electronics-to-equip-indias-first-commercial-semiconductor-fab"
+        },
+        {
+          "title": "科学者が太陽エネルギーを貯蔵する液体バッテリーを開発、「太陽を瓶詰め」する技術",
+          "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
+        },
+        {
+          "title": "日本チームがマッハ5級航空機エンジンの試験に成功、米国まで2時間の飛行視野に",
+          "source_url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c"
+        },
+        {
+          "title": "1945年の初の原爆実験で、自然界に存在しない全く新しい物質が生成されていたことが判明",
+          "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/"
+        },
+        {
+          "title": "メタレンズの実用化が加速、米展示会で大手企業が可視光対応製品を披露",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/042300013/"
+        },
+        {
+          "title": "SCSが超薄型パリレンと多層コーティング技術に関するウェビナーを開催、環境保護に貢献",
+          "source_url": "https://www.globalsmt.net/industry-news/scs-to-host-webinar-on-ultra-thin-parylene-and-multilayer-coating-technologies/"
+        },
+        {
+          "title": "JetCoolが次世代コンピューティング向け閉ループ冷却システムを拡充、AIや高密度計算の性能向上に貢献",
+          "source_url": "https://www.globalsmt.net/world-news/jetcool-expands-smartplate-system-portfolio-with-closed-loop-cooling-for-next-generation-compute/"
+        },
+        {
+          "title": "Apollo Automobilがハイパーカー向け3Dプリント製チタン排気システムを発表",
+          "source_url": "https://3dprintingindustry.com/news/apollo-automobils-dragon-skin-exhaust-pushes-hypercar-am-forward-251470/?utm_source=rss&utm_medium=rss&utm_campaign=apollo-automobils-dragon-skin-exhaust-pushes-hypercar-am-forward"
+        },
+        {
+          "title": "退役軍人への治験で幻覚剤イボガインがPTSDの新たな治療法となる可能性",
+          "source_url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
+        },
+        {
+          "title": "人間と人型ロボットが作業対決、米Figure社が生配信で性能を披露",
+          "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html"
+        },
+        {
+          "title": "Microsoft Edgeが保存済みパスワードのメモリ読み込み仕様を変更、セキュリティを強化",
+          "source_url": "https://gigazine.net/news/20260518-microsoft-edge-saved-password/"
         }
       ]
     }

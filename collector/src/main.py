@@ -88,6 +88,16 @@ async def run() -> None:
     highlights = data.get("highlights", [])
     print(f"  → {len(highlights)}件のハイライトを生成")
 
+    # 最終ガード: 収集件数に対してハイライトが極端に少ない場合は警告を残す
+    # (CI環境ではログに ::warning:: を出して気づけるようにする)
+    MIN_FINAL_HIGHLIGHTS = 3
+    if len(highlights) < MIN_FINAL_HIGHLIGHTS and len(items) >= 50:
+        msg = (
+            f"ハイライト数が異常に少ない (収集{len(items)}件 / 最終{len(highlights)}件)。"
+            "LLMモデルの応答品質低下の可能性あり。"
+        )
+        print(f"::warning::{msg}" if os.environ.get("CI") else f"  [警告] {msg}")
+
     # 4. Markdown生成・保存（深堀り続報セクションも添付）
     print("Step 3: Markdown生成中...")
     deepdive_md = build_markdown_section(interests, highlights)
