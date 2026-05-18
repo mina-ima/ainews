@@ -127,11 +127,9 @@ async def run() -> None:
     else:
         index_data = {"articles": []}
 
-    # GitHub Releases URL（CI環境ではアップロード後に更新）
-    repo = os.environ.get("GITHUB_REPOSITORY", "")
-    audio_url = ""
-    if repo:
-        audio_url = f"https://github.com/{repo}/releases/download/news-{date}/{date}.mp3"
+    # GitHub Releases URL（ローカル再生成時もデフォルトリポジトリを使う）
+    repo = os.environ.get("GITHUB_REPOSITORY", "mina-ima/ainews")
+    audio_url = f"https://github.com/{repo}/releases/download/news-{date}/{date}.mp3"
 
     entry = {
         "date": date,
