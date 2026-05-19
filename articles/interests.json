@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-19T08:28:15.489027+09:00",
+  "updated_at": "2026-05-20T07:44:16.887222+09:00",
   "items": [
-    {
-      "title": "Anthropicの強力なサイバーセキュリティAIモデル「Mythos」が金融業界で注目、規制当局との対話も",
-      "category": "AIプロダクト",
-      "date": "2026-04-19",
-      "source_url": "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
-      "importance": 4
-    },
-    {
-      "title": "ソフトバンクが「ユーザーの行動先読み」を謳うAIスマホ「Natural AI Phone」を国内独占販売",
-      "category": "AIプロダクト",
-      "date": "2026-04-19",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2604/17/news109.html",
-      "importance": 4
-    },
-    {
-      "title": "RAM不足が数年間続く見込み、Meta Questの価格にも影響",
-      "category": "半導体・チップ",
-      "date": "2026-04-19",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "importance": 3
-    },
     {
       "title": "Anthropic、AIデザインツール「Claude Design」を発表",
       "category": "LLM・生成AI",
