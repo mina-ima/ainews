@@ -401,6 +401,39 @@
           "source_url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/"
         }
       ]
+    },
+    {
+      "date": "2026-05-20",
+      "stories": [
+        {
+          "title": "Google、動画生成・編集AIモデル「Gemini Omni」を発表",
+          "source_url": "https://deepmind.google/models/gemini-omni/"
+        },
+        {
+          "title": "Google検索が25年ぶりの刷新、AIエージェント統合へ",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html"
+        },
+        {
+          "title": "日立製作所、Anthropicと提携しグループ29万人にClaudeを導入",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html"
+        },
+        {
+          "title": "Google、Android XR対応のAIスマートグラスを今秋発売",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html"
+        },
+        {
+          "title": "MetaのAIスマートグラスが日本上陸",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2109918.html"
+        },
+        {
+          "title": "カシオ、耳を塞がないヒアリングアシストイヤフォン「earU」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2109757.html"
+        },
+        {
+          "title": "大学の研究チームがAIデータセンターの熱問題を解決する冷却技術を開発",
+          "source_url": "https://3dprintingindustry.com/news/university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis-251571/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis"
+        }
+      ]
     }
   ]
 }
