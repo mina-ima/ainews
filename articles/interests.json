@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-05-20T07:44:16.887222+09:00",
+  "updated_at": "2026-05-21T07:59:29.341064+09:00",
   "items": [
-    {
-      "title": "Anthropic、AIデザインツール「Claude Design」を発表",
-      "category": "LLM・生成AI",
-      "date": "2026-04-20",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2604/18/news023.html",
-      "importance": 4
-    },
     {
       "title": "MozillaがAnthropicのAI「Mythos」でFirefoxのバグを修正",
       "category": "ソフトウェア・開発ツール",
