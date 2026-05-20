@@ -434,6 +434,75 @@
           "source_url": "https://3dprintingindustry.com/news/university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis-251571/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis"
         }
       ]
+    },
+    {
+      "date": "2026-05-21",
+      "stories": [
+        {
+          "title": "OpenAIのAIモデル、80年間未解決だった幾何学の難問を解明",
+          "source_url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/"
+        },
+        {
+          "title": "アンソロピック、イーロン・マスク氏率いるxAIに月額12.5億ドルの計算資源費用を支払いへ",
+          "source_url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/"
+        },
+        {
+          "title": "グーグル、新世代AI「Gemini 3.5」シリーズを発表、軽量モデル「Flash」を即日提供",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/"
+        },
+        {
+          "title": "アンカー、良質な睡眠を科学する超軽量「寝ホン」の最新モデルを発売",
+          "source_url": "https://www.gizmodo.jp/article/2605-amazon-short-anker-soundcoresleepa30-2-1-fb1-2-3eq-8g6/"
+        },
+        {
+          "title": "ダホン、シートポストにバッテリーを内蔵し125km走行可能な新型折りたたみe-bikeを発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2109404.html"
+        },
+        {
+          "title": "ナンガとJR東海が初コラボ、新幹線「ドクターイエロー」を再現したユニークな寝袋が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2110092.html"
+        },
+        {
+          "title": "「生きてはいないが死んでもいない」体外のヒト脳組織を用いた画期的な創薬テスト",
+          "source_url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing"
+        },
+        {
+          "title": "BMW、人型ロボットとフィジカルAIを本格導入し「自動化第4段階」へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03584/050800007/"
+        },
+        {
+          "title": "銅プレートの微細冷却技術、データセンターの冷却エネルギーを90%削減可能に",
+          "source_url": "https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/"
+        },
+        {
+          "title": "スペースX、史上最大規模となる可能性のあるIPO（新規公開株）を正式申請",
+          "source_url": "https://www.theverge.com/business/902219/spacex-ipo-details"
+        },
+        {
+          "title": "ホルムズ海峡封鎖の影響で半導体用フッ化水素が価格高騰の危機、メモリ供給網に緊張",
+          "source_url": "https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption"
+        },
+        {
+          "title": "TDK、FA機器やロボット向けの小型・高効率な「基板型AC-DC電源」を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11745/"
+        },
+        {
+          "title": "ロケット・ラボ、3Dプリンティング製ロケットエンジン「ラザフォード」の製造1,000基を達成",
+          "source_url": "https://3dprintingindustry.com/news/rocket-labs-3d-printed-engine-hits-1000-units-251599/?utm_source=rss&utm_medium=rss&utm_campaign=rocket-labs-3d-printed-engine-hits-1000-units"
+        },
+        {
+          "title": "GitHub、内部コード流出の侵害経路は「悪意あるVS Code拡張機能」と特定",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html"
+        },
+        {
+          "title": "グリーンスチール新興のボストンメタル、重要金属の生産強化に向け7500万ドルを調達",
+          "source_url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+        },
+        {
+          "title": "700以上の歴史的OSをブラウザ上で起動できる「バーチャルOSミュージアム」が公開",
+          "source_url": "https://virtualosmuseum.org/"
+        }
+      ]
     }
   ]
 }
