@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T07:59:29.341064+09:00",
+  "updated_at": "2026-05-22T08:06:42.522687+09:00",
   "items": [
     {
       "title": "MozillaがAnthropicのAI「Mythos」でFirefoxのバグを修正",
@@ -413,6 +413,48 @@
       "date": "2026-05-18",
       "source_url": "https://github.com/MinishLab/semble",
       "importance": 5
+    },
+    {
+      "title": "グーグル、新世代AI「Gemini 3.5」シリーズを発表、軽量モデル「Flash」を即日提供",
+      "category": "LLM・生成AI",
+      "date": "2026-05-21",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
+      "importance": 5
+    },
+    {
+      "title": "「生きてはいないが死んでもいない」体外のヒト脳組織を用いた画期的な創薬テスト",
+      "category": "医療・バイオ",
+      "date": "2026-05-21",
+      "source_url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "importance": 5
+    },
+    {
+      "title": "ホルムズ海峡封鎖の影響で半導体用フッ化水素が価格高騰の危機、メモリ供給網に緊張",
+      "category": "半導体・チップ",
+      "date": "2026-05-21",
+      "source_url": "https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption",
+      "importance": 5
+    },
+    {
+      "title": "ロケット・ラボ、3Dプリンティング製ロケットエンジン「ラザフォード」の製造1,000基を達成",
+      "category": "3Dプリンティング・製造",
+      "date": "2026-05-21",
+      "source_url": "https://3dprintingindustry.com/news/rocket-labs-3d-printed-engine-hits-1000-units-251599/?utm_source=rss&utm_medium=rss&utm_campaign=rocket-labs-3d-printed-engine-hits-1000-units",
+      "importance": 4
+    },
+    {
+      "title": "GitHub、内部コード流出の侵害経路は「悪意あるVS Code拡張機能」と特定",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-05-21",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
+      "importance": 4
+    },
+    {
+      "title": "700以上の歴史的OSをブラウザ上で起動できる「バーチャルOSミュージアム」が公開",
+      "category": "その他先端技術",
+      "date": "2026-05-21",
+      "source_url": "https://virtualosmuseum.org/",
+      "importance": 3
     }
   ]
 }
