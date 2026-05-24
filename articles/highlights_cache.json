@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-17",
-      "stories": [
-        {
-          "title": "Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
-          "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/"
-        },
-        {
-          "title": "アメリカ人の大多数がAIを信頼せず、その管理者にも不信感（2025年調査）",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai"
-        },
-        {
-          "title": "イーロン・マスクとサム・アルトマンの裁判、信頼性を巡る攻防が最終局面へ",
-          "source_url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
-        },
-        {
-          "title": "G-SHOCK「MUDMASTER」にマグマカラーのスペシャルモデルが登場",
-          "source_url": "https://www.gizmodo.jp/2026/05/mudmaster_g-shock.html"
-        },
-        {
-          "title": "ソニーの“着るエアコン”「REON POCKET」が6代目に進化、上位機PROの冷却性能を小型化",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/18/news065.html"
-        },
-        {
-          "title": "XPPenが3つのダイヤルと19ボタン搭載の左手デバイス「Pilot Pro 編集コンソール」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2109488.html"
-        },
-        {
-          "title": "シーリングプロジェクター「Aladdin X3」が登場、設置の自由度が高くNetflixにも対応",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2109347.html"
-        },
-        {
-          "title": "科学者たちが太陽エネルギーを貯蔵する液体バッテリーで「太陽を瓶詰め」",
-          "source_url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm"
-        },
-        {
-          "title": "日本チームがマッハ5航空機エンジンの試験に成功、米国まで2時間飛行を目指す",
-          "source_url": "https://mainichi.jp/english/articles/20260511/p2a/00m/0sc/015000c"
-        },
-        {
-          "title": "1945年の原爆実験で全く新しい物質が生成されていたことが判明",
-          "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/"
-        },
-        {
-          "title": "新「スーパー燃料」が航空機・ロケットの航続距離を32%向上させる可能性",
-          "source_url": "https://newatlas.com/aircraft/superfuel-increase-aircraft-missile-performance/"
-        },
-        {
-          "title": "3Dプリント製ジェットエンジン「Frenzy 8」が米空軍との契約で認証へ",
-          "source_url": "https://3dprintingindustry.com/news/beehive-secures-new-contract-to-qualify-its-3d-printed-frenzy-8-jet-engine-251463/?utm_source=rss&utm_medium=rss&utm_campaign=beehive-secures-new-contract-to-qualify-its-3d-printed-frenzy-8-jet-engine"
-        },
-        {
-          "title": "JetCoolが次世代コンピューティング向けクローズドループ冷却システムを拡張",
-          "source_url": "https://www.globalsmt.net/world-news/jetcool-expands-smartplate-system-portfolio-with-closed-loop-cooling-for-next-generation-compute/"
-        },
-        {
-          "title": "インド初の半導体チップパッケージングクラスターがグジャラート州で稼働",
-          "source_url": "https://www.globalsmt.net/asia-social-media-news/giant-stride-with-micron-precision-inside-indias-1st-semiconductor-chip-packaging-cluster-in-gujarat/"
-        },
-        {
-          "title": "Cyient Semiconductorsがインドで初の窒化ガリウム（GaN）パワーデバイスを発表",
-          "source_url": "https://www.globalsmt.net/asia-industry-news/cyient-semiconductors-launches-first-gan-power-devices-in-india/"
-        },
-        {
-          "title": "インド、3番目のチップ工場が7月稼働、年末までに4番目も計画",
-          "source_url": "https://www.globalsmt.net/asia-industry-news/indias-3rd-chip-plant-set-for-july-launch-4th-plant-by-year-end-ashwini-vaishnaw/"
-        },
-        {
-          "title": "世界半導体売上高が驚異の8割増、月1000億ドルに肉薄（2026年3月）",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11739/"
-        },
-        {
-          "title": "メタレンズ実用化へ、サムスンなど大手企業が可視光領域での応用を発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03384/042300013/"
-        },
-        {
-          "title": "米FTCがArmに対し独占禁止法調査を開始か、AGI CPU発表を受け",
-          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/us-ftc-reportedly-launches-antitrust-probe-into-arm-following-its-launch-of-its-own-agi-cpu-regulators-investigate-if-chip-designer-is-restricting-architecture-access-to-rivals"
-        },
-        {
-          "title": "退役軍人向け臨床試験でイボガインがPTSDの新たな治療法となる可能性",
-          "source_url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd"
-        }
-      ]
-    },
-    {
       "date": "2026-05-18",
       "stories": [
         {
@@ -429,6 +344,27 @@
         {
           "title": "Huaweiが独自パッケージング技術で122TBのSSDを開発",
           "source_url": "https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "stories": [
+        {
+          "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
+        },
+        {
+          "title": "ソニーのウェアラブルエアコン「REON POCKET PRO PLUS」が登場",
+          "source_url": "https://newatlas.com/wearables/sony-reon-pocket-pro-plus-wearable-air-conditioner-upgrade/"
+        },
+        {
+          "title": "AIチップのコスト構造に変化、メモリが全体の3分の2を占めるまでに",
+          "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+        },
+        {
+          "title": "インドのAgnikul Cosmos、3Dプリントロケットエンジン4基の同時燃焼に成功",
+          "source_url": "https://3dprintingindustry.com/news/indias-first-four-engine-cluster-firing-marks-new-frontier-for-agnikul-cosmos-251760/"
         }
       ]
     }
