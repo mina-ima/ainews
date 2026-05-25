@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-18",
-      "stories": [
-        {
-          "title": "AI搭載ナンバープレートカメラが住民分断、非常事態宣言に発展",
-          "source_url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/"
-        },
-        {
-          "title": "OpenAIとマルタ政府、全市民にChatGPT Plusを無償提供",
-          "source_url": "https://openai.com/index/malta-chatgpt-plus-partnership/"
-        },
-        {
-          "title": "AIエージェント型トレーディングシステム、安全なガードレールを実装",
-          "source_url": "https://github.com/ShurikenTrade/shuriken-skills"
-        },
-        {
-          "title": "AppleのSiri刷新、チャット履歴自動削除機能搭載か",
-          "source_url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
-        },
-        {
-          "title": "YouTube、AIディープフェイク検出ツールを全成人ユーザーに拡大",
-          "source_url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
-        },
-        {
-          "title": "中国ショートドラマ産業、AI活用でコンテンツ生成を加速",
-          "source_url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
-        },
-        {
-          "title": "金融サービス向けエージェント型AI、データレディネスが成功の鍵",
-          "source_url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
-        },
-        {
-          "title": "Listen Labs、AI顧客インタビュー大規模化で6,900万ドル調達",
-          "source_url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
-        },
-        {
-          "title": "Salesforce、新Slackbot AIエージェントを発表し職場AI競争激化",
-          "source_url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-        },
-        {
-          "title": "カロッツェリア、80年代の“光るボックススピーカー”を最新技術で復活",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2109416.html"
-        },
-        {
-          "title": "AIエージェント向けコード検索ツール「Semble」発表、トークン消費98%削減",
-          "source_url": "https://github.com/MinishLab/semble"
-        },
-        {
-          "title": "Teslaソーラールーフ、従来のソーラーパネルへ事業転換",
-          "source_url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/"
-        },
-        {
-          "title": "AMDセキュリティ機能「SEV-SNP」を破る脆弱性「Fabricked」発見",
-          "source_url": "https://xca-attacks.github.io/fabricked/"
-        },
-        {
-          "title": "Unix風Rust製コーディングエージェント「Zerostack」発表",
-          "source_url": "https://crates.io/crates/zerostack/1.0.0"
-        },
-        {
-          "title": "高齢者向けコンパニオンロボット「ElliQ」が予想外の有用性",
-          "source_url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on"
-        },
-        {
-          "title": "Railway、AIネイティブクラウドインフラでAWSに対抗し1億ドル調達",
-          "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-        },
-        {
-          "title": "Absolute EMS、Luminovo導入で見積もりプロセスを効率化",
-          "source_url": "https://www.globalsmt.net/industry-news/absolute-ems-adopts-luminovo-to-modernize-and-streamline-quoting/"
-        },
-        {
-          "title": "SCS、極薄パリレンと多層コーティング技術に関するウェビナー開催",
-          "source_url": "https://www.globalsmt.net/industry-news/scs-to-host-webinar-on-ultra-thin-parylene-and-multilayer-coating-technologies/"
-        },
-        {
-          "title": "サンワサプライ、狭い場所でも配線しやすい光ファイバーケーブル発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2108606.html"
-        },
-        {
-          "title": "RBB、AS9100認証取得で航空宇宙・防衛分野を拡大",
-          "source_url": "https://www.globalsmt.net/industry-news/rbb-earns-as9100-certification-expands-aerospace-and-defense-credentials/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-19",
       "stories": [
         {
@@ -365,6 +280,35 @@
         {
           "title": "インドのAgnikul Cosmos、3Dプリントロケットエンジン4基の同時燃焼に成功",
           "source_url": "https://3dprintingindustry.com/news/indias-first-four-engine-cluster-firing-marks-new-frontier-for-agnikul-cosmos-251760/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "stories": [
+        {
+          "title": "Anthropic、脆弱性発見プロジェクトの初期報告書を公開",
+          "source_url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596"
+        },
+        {
+          "title": "フェラーリ（Ferrari）初の完全電気自動車「Luce」を公開",
+          "source_url": "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car"
+        },
+        {
+          "title": "UGREENの「Nexode モバイルバッテリー 10000mAh 65W」が多機能で注目",
+          "source_url": "https://www.gizmodo.jp/article/2605-amazon-ugreen-mobilebattery3-in-1-s8c-zfb/"
+        },
+        {
+          "title": "ベルギーのimec、High-NA EUV露光を用いた世界初の量子ドット量子ビットデバイスを製造",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines"
+        },
+        {
+          "title": "ファーウェイ（Huawei）が2031年までに1.4nmクラスの半導体製造を目指すと発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law"
+        },
+        {
+          "title": "大阪大学とプロテリアル、分子膜による加工特性制御を研究",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11750/"
         }
       ]
     }
