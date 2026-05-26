@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-19",
-      "stories": [
-        {
-          "title": "イーロン・マスクのOpenAI訴訟、陪審員がOpenAIを支持し敗訴",
-          "source_url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"
-        },
-        {
-          "title": "Anthropicが開発ツールスタートアップStainlessを買収、AI開発効率化へ",
-          "source_url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-        },
-        {
-          "title": "Amazon Alexa+がAI生成ポッドキャスト機能を提供開始",
-          "source_url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/"
-        },
-        {
-          "title": "リヌス・トーバルズ氏、AI生成の脆弱性報告がLinuxセキュリティリストを「管理不能に」",
-          "source_url": "https://www.tomshardware.com/software/linux/linus-torvalds-says-ai-bug-reports-have-made-the-linux-security-mailing-list-almost-entirely-unmanageable"
-        },
-        {
-          "title": "Google検索、AI生成機能にもスパムポリシー適用を明記",
-          "source_url": "https://internet.watch.impress.co.jp/docs/yajiuma/2109368.html"
-        },
-        {
-          "title": "Anthropic、デスクトップAIエージェント「Cowork」を発表、ファイル操作をコーディング不要で実現",
-          "source_url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no/"
-        },
-        {
-          "title": "Walmart、Android 16搭載の低価格タブレットを97ドルから発売",
-          "source_url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets"
-        },
-        {
-          "title": "Dyson、超スリムなハードフロアークリーナー「PencilWash」を発表",
-          "source_url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale"
-        },
-        {
-          "title": "DJI、デュアルレンズ・3倍ズーム搭載の新型Osmo Pocketカメラを発表",
-          "source_url": "https://newatlas.com/consumer-tech/dji-osmo-pocket-4p/"
-        },
-        {
-          "title": "事前充電不要、水や塩水で発電するコンパクト発電機「ELECTROLYTE BATTERY」",
-          "source_url": "https://www.gizmodo.jp/2026/05/machi-ya-electrolytebattery-review-929418.html"
-        },
-        {
-          "title": "中国、洋上風力発電で稼働する世界初の水中データセンターを本格運用開始",
-          "source_url": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power"
-        },
-        {
-          "title": "シンガポール国立大学、ホウレンソウ葉緑体由来構造をマウスの目に投与し光合成に成功",
-          "source_url": "https://gigazine.net/news/20260519-spinach-mouse-eye-photosynthesis/"
-        },
-        {
-          "title": "Intel Core i9-14900KFが9.2GHzでCPU周波数の世界新記録を樹立",
-          "source_url": "https://gigazine.net/news/20260518-intel-i9-14900kf-overclock/"
-        },
-        {
-          "title": "Peopoly、800mm角の大型ペレット3Dプリンター「Giga 800」を発表",
-          "source_url": "https://www.engineering.com/peopoly-launches-giga-800-large-format-pellet-3d-printer/"
-        },
-        {
-          "title": "Skuld、スクラップアルミニウムから鍛造アルミニウムを鋳造するプロセスで特許取得",
-          "source_url": "https://3dprintingindustry.com/news/skuld-patents-its-process-to-cast-wrought-aluminum-from-scrap-251525/?utm_source=rss&utm_medium=rss&utm_campaign=skuld-patents-its-process-to-cast-wrought-aluminum-from-scrap"
-        },
-        {
-          "title": "日産、新型エルグランドにE2E技術を初採用へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/051400020/"
-        },
-        {
-          "title": "3DスタックDRAMを用いた効率的なMoE向けシステム・ハードウェア協調設計「Stratum」",
-          "source_url": "https://dl.acm.org/doi/10.1145/3725843.3756043"
-        },
-        {
-          "title": "サファイア基板上の2D材料向け脱イオン水ベース大規模転写プロセス",
-          "source_url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron/"
-        },
-        {
-          "title": "NASA、1970年代のボイジャー探査機コードを維持、専門家は高齢化",
-          "source_url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-20",
       "stories": [
         {
@@ -309,6 +228,91 @@
         {
           "title": "大阪大学とプロテリアル、分子膜による加工特性制御を研究",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11750/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "stories": [
+        {
+          "title": "グーグル、Gemini APIに標準の半額で利用できる新サービスティア「Flex」を追加",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news039.html"
+        },
+        {
+          "title": "ローマ教皇がAIに関する初の回勅を発表、開発企業アンスロピックをバチカンに招待",
+          "source_url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
+        },
+        {
+          "title": "従業員をAIエージェントに置き換え、生産性ツール「ClickUp」が数百人規模のレイオフを実施",
+          "source_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+        },
+        {
+          "title": "グーグル、あえて画面を排除した超軽量・1週間駆動のトラッカー「Google Fitbit Air」を発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/review/2111599.html"
+        },
+        {
+          "title": "ドローンの羽根と高出力モーターを融合、カーメイトが「爆風ハンディファン」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2111342.html"
+        },
+        {
+          "title": "オッポ、背面カメラで高画質な自撮りができる磁気ワイヤレス丸型画面「Bubble」を発表",
+          "source_url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"
+        },
+        {
+          "title": "Appleの「探す」に対応、iPhoneから愛車の駐車位置がわかるカーチャージャーが発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2111362.html"
+        },
+        {
+          "title": "IBMがスピンオフ、米国初の量子チップ専門ファウンドリ「アンデロン」が誕生",
+          "source_url": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding"
+        },
+        {
+          "title": "日本、マッハ5極超音速旅客機向けのラムジェットエンジン燃焼試験に成功",
+          "source_url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/"
+        },
+        {
+          "title": "考えるだけでPC操作、中国がAI搭載の脳インプラント（BCI）開発と実用化を急加速",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html"
+        },
+        {
+          "title": "AIを活用し脳疾患治療薬の探索を劇的に高速化、運動ニューロン疾患などの治療に光",
+          "source_url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "インフィニオン、基板占有面積を最大82%削減する双方向GaNスイッチを発表",
+          "source_url": "https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/"
+        },
+        {
+          "title": "ラピダス、2028年から複数世代の「後工程」量産へ、光電融合も見据える",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11727/"
+        },
+        {
+          "title": "ソフトバンク、AIデータセンター向け「GPUクラウド」を10月に提供開始",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2111560.html"
+        },
+        {
+          "title": "インドのギグワーカーを活用し、物理AI・ロボット訓練用の実世界データを収集する新試み",
+          "source_url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
+        },
+        {
+          "title": "フランスで欧州最大の3Dプリント製アパートが完成、工期を3ヶ月短縮する快挙",
+          "source_url": "https://3dprintingindustry.com/news/france-just-built-europes-largest-3d-printed-apartment-block-three-months-faster-than-expected-251795/"
+        },
+        {
+          "title": "電気の力を利用し、セメント製造時の二酸化炭素排出量を劇的に削減する新工法",
+          "source_url": "https://newatlas.com/materials/electricity-lowers-carbon-footprint-cement-production/"
+        },
+        {
+          "title": "アップル、画質を維持したままデータ量を3分の1にするAI画像圧縮技術「PICO」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2111678.html"
+        },
+        {
+          "title": "川崎重工、シリコンバレーに「フィジカルAI」の研究開発拠点を新設",
+          "source_url": "https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/"
+        },
+        {
+          "title": "窓ガラスに設置可能、厚さわずか10ナノメートルの透明ペロブスカイト太陽電池が開発",
+          "source_url": "https://newatlas.com/energy/transparent-solar-cells-windows/"
         }
       ]
     }
