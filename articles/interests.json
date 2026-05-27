@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-05-26T18:04:12.408014+09:00",
+  "updated_at": "2026-05-28T08:02:09.608265+09:00",
   "items": [
-    {
-      "title": "米国の地熱エネルギー技術が画期的な進展、150ギガワットのエネルギー革命を解き放つ可能性",
-      "category": "エネルギー・環境技術",
-      "date": "2026-04-26",
-      "source_url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-      "importance": 5
-    },
-    {
-      "title": "AnthropicがAIエージェント同士が取引を行うテスト市場を構築、自律的な経済活動の可能性を示唆",
-      "category": "AIプロダクト",
-      "date": "2026-04-26",
-      "source_url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "importance": 5
-    },
-    {
-      "title": "写真やGPU不要で、わずか8つの質問から3D人体モデルを生成する新技術",
-      "category": "AIプロダクト",
-      "date": "2026-04-26",
-      "source_url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "importance": 4
-    },
-    {
-      "title": "「AIを使わないエンジニアは仕事をしていない」？ シリコンバレーで広がる「Tokenmaxxing」の新常識",
-      "category": "LLM・生成AI",
-      "date": "2026-04-27",
-      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/27/news012.html",
-      "importance": 4
-    },
-    {
-      "title": "アマチュア数学者がChatGPTを活用し、60年前の数学問題を解決",
-      "category": "LLM・生成AI",
-      "date": "2026-04-27",
-      "source_url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "importance": 3
-    },
-    {
-      "title": "プリント基板（PCB）のチュートリアルが公開",
-      "category": "プリント基板・電子実装",
-      "date": "2026-04-27",
-      "source_url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "importance": 3
-    },
     {
       "title": "日本、宇宙太陽光発電の地球送電で世界初を目指す",
       "category": "宇宙・航空",
@@ -371,6 +329,13 @@
       "date": "2026-05-21",
       "source_url": "https://virtualosmuseum.org/",
       "importance": 3
+    },
+    {
+      "title": "YouTube、AI生成動画を自動検出してラベル表示へ",
+      "category": "LLM・生成AI",
+      "date": "2026-05-28",
+      "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "importance": 5
     }
   ]
 }
