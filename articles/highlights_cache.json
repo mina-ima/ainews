@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-20",
-      "stories": [
-        {
-          "title": "Google、動画生成・編集AIモデル「Gemini Omni」を発表",
-          "source_url": "https://deepmind.google/models/gemini-omni/"
-        },
-        {
-          "title": "Google検索が25年ぶりの刷新、AIエージェント統合へ",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html"
-        },
-        {
-          "title": "日立製作所、Anthropicと提携しグループ29万人にClaudeを導入",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html"
-        },
-        {
-          "title": "Google、Android XR対応のAIスマートグラスを今秋発売",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news064.html"
-        },
-        {
-          "title": "MetaのAIスマートグラスが日本上陸",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2109918.html"
-        },
-        {
-          "title": "カシオ、耳を塞がないヒアリングアシストイヤフォン「earU」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2109757.html"
-        },
-        {
-          "title": "大学の研究チームがAIデータセンターの熱問題を解決する冷却技術を開発",
-          "source_url": "https://3dprintingindustry.com/news/university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis-251571/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-illinois-team-is-engineering-the-fix-for-the-ai-heat-crisis"
-        }
-      ]
-    },
-    {
       "date": "2026-05-21",
       "stories": [
         {
@@ -313,6 +280,39 @@
         {
           "title": "窓ガラスに設置可能、厚さわずか10ナノメートルの透明ペロブスカイト太陽電池が開発",
           "source_url": "https://newatlas.com/energy/transparent-solar-cells-windows/"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "stories": [
+        {
+          "title": "YouTube、AI生成動画を自動検出してラベル表示へ",
+          "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
+        },
+        {
+          "title": "AIモデルにも「睡眠」が必要？長期間タスクの効率化に関する研究",
+          "source_url": "https://gigazine.net/news/20260527-ai-need-sleep/"
+        },
+        {
+          "title": "アンカー（Anker）史上最高安全性のモバイルバッテリーが登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2112195.html"
+        },
+        {
+          "title": "シャオミ（Xiaomi）、日本で大型家電カテゴリーの展開を検討",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2112252.html"
+        },
+        {
+          "title": "川崎重工、シリコンバレーに「フィジカルAI」実装拠点を新設",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03243/"
+        },
+        {
+          "title": "NTT、光ネットワーク常時監視機能を小型光トランシーバーに搭載",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2112003.html"
+        },
+        {
+          "title": "睡眠テックスタートアップ「SOND」が700万ドルを調達",
+          "source_url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
         }
       ]
     }
