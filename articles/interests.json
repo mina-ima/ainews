@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T08:02:09.608265+09:00",
+  "updated_at": "2026-05-29T08:16:42.836924+09:00",
   "items": [
     {
       "title": "日本、宇宙太陽光発電の地球送電で世界初を目指す",
@@ -329,6 +329,41 @@
       "date": "2026-05-21",
       "source_url": "https://virtualosmuseum.org/",
       "importance": 3
+    },
+    {
+      "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
+      "category": "LLM・生成AI",
+      "date": "2026-05-25",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "importance": 5
+    },
+    {
+      "title": "日本、マッハ5極超音速旅客機向けのラムジェットエンジン燃焼試験に成功",
+      "category": "宇宙・航空",
+      "date": "2026-05-27",
+      "source_url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "importance": 5
+    },
+    {
+      "title": "考えるだけでPC操作、中国がAI搭載の脳インプラント（BCI）開発と実用化を急加速",
+      "category": "医療・バイオ",
+      "date": "2026-05-27",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html",
+      "importance": 5
+    },
+    {
+      "title": "アップル、画質を維持したままデータ量を3分の1にするAI画像圧縮技術「PICO」を発表",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-05-27",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2111678.html",
+      "importance": 4
+    },
+    {
+      "title": "窓ガラスに設置可能、厚さわずか10ナノメートルの透明ペロブスカイト太陽電池が開発",
+      "category": "エネルギー・環境技術",
+      "date": "2026-05-27",
+      "source_url": "https://newatlas.com/energy/transparent-solar-cells-windows/",
+      "importance": 4
     },
     {
       "title": "YouTube、AI生成動画を自動検出してラベル表示へ",
