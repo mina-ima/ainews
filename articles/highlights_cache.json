@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-22",
-      "stories": [
-        {
-          "title": "OpenAI、サイバーセキュリティ特化型AI「GPT-5.5-Cyber」を日本政府等へ提供へ",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/"
-        },
-        {
-          "title": "Alibaba、AIエージェント向け新モデル「Qwen3.7-Max」発表",
-          "source_url": "https://gigazine.net/news/20260521-qwen-3-7/"
-        },
-        {
-          "title": "サンワサプライ、スマホで操作できる貼るだけIoT指ロボットを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2110663.html"
-        },
-        {
-          "title": "ファーウェイ、心電図測定対応の1.92型スマートウォッチ「WATCH FIT 5 Pro」",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2110608.html"
-        },
-        {
-          "title": "AMD、2nmプロセス採用の256コアCPU「EPYC Venice」の量産を開始",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-begins-production-ramp-of-256-core-epyc-venice-on-tsmcs-2nm-node"
-        },
-        {
-          "title": "早稲田大と富士通、量子アルゴリズムで複雑系材料の開発期間短縮へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03226/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-23",
       "stories": [
         {
@@ -277,6 +248,39 @@
         {
           "title": "Electroninks、PCB製造・実装を統合したデスクトッププラットフォーム「CircuitJet IV」を発表",
           "source_url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "stories": [
+        {
+          "title": "Anthropicが評価額9650億ドルで世界最高価値のAI企業へ",
+          "source_url": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation"
+        },
+        {
+          "title": "OpenAI、日本政府と協力し金融機関へサイバー防衛AIを提供",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/"
+        },
+        {
+          "title": "SwitchBotのスマートトラッカーカードが多機能で実用的",
+          "source_url": "https://www.gizmodo.jp/article/296674-amazon-2605-switchbot-smart-lacquer-card-98b-ieu/"
+        },
+        {
+          "title": "サンコー、USB給電で動く「電動うちわ」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2113031.html"
+        },
+        {
+          "title": "トヨタ、次世代EV「LF-ZC」開発中止もギガキャスト技術は継続",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/052900026/"
+        },
+        {
+          "title": "理化学研究所、「富岳NEXT」で温水冷却技術を採用し電力2割削減へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00003/"
+        },
+        {
+          "title": "NHK技研が空中に浮かぶ「透明ホログラム」を公開",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news028.html"
         }
       ]
     }
