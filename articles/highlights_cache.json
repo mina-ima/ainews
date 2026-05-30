@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-23",
-      "stories": [
-        {
-          "title": "OpenAI、離散幾何学の難問を解決するモデルを発表",
-          "source_url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/"
-        },
-        {
-          "title": "水月雨（MOONDROP）、オーディオファン向け5Gスマホ「MIAD 01」発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2111035.html"
-        },
-        {
-          "title": "Xiaomi（シャオミ）の高性能タブレット「POCO Pad M1」",
-          "source_url": "https://www.gizmodo.jp/article/2605-amazon-xiaomi-pocopadm1-fcq-w2h/"
-        },
-        {
-          "title": "Flipper Devices、Linux搭載のハッカー向けネットワークガジェットを開発中",
-          "source_url": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/"
-        },
-        {
-          "title": "低融点はんだ、チップレットとフォトニクス実装の鍵に",
-          "source_url": "https://semiengineering.com/low-temp-solders-are-suddenly-critical-for-chiplets-and-photonics/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-24",
       "stories": [
         {
@@ -281,6 +256,91 @@
         {
           "title": "NHK技研が空中に浮かぶ「透明ホログラム」を公開",
           "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news028.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "stories": [
+        {
+          "title": "グーグルの自律型AIエージェント「Gemini Spark」が米国で正式提供開始",
+          "source_url": "https://9to5google.com/2026/05/29/gemini-spark-ultra-us/"
+        },
+        {
+          "title": "オープンAI、生命科学特化の推論モデル「GPT-Rosalind」をバイオディフェンス向けに無償提供",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html"
+        },
+        {
+          "title": "AIの利用制限を設定し忘れ、1ヶ月で5億ドルを誤消費した企業が判明",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mystery-company-accidentally-blew-usd500-million-on-claude-in-a-single-month-failed-to-put-usage-limit-on-licenses-for-employees"
+        },
+        {
+          "title": "1インチセンサー搭載のジンバル一体型カメラ「Osmo Pocket 4」が登場",
+          "source_url": "https://gigazine.net/news/20260530-osmo-pocket-4-appearance/"
+        },
+        {
+          "title": "1,000円台でAppleの「探す」に対応、UGREENの超低価格スマートタグ",
+          "source_url": "https://www.gizmodo.jp/article/ugreen-smartfinder-txm/"
+        },
+        {
+          "title": "ソーラー自動充電と大容量バッテリーを搭載した、最長36時間動くポータブル冷却ファン",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-obb-end-936703/"
+        },
+        {
+          "title": "筐体に「コンクリート」を採用した、キークロンの超個性派キーボード",
+          "source_url": "https://www.wired.com/review/keychron-k2-he-concrete-edition/"
+        },
+        {
+          "title": "ファーウェイ会長が米国の輸出規制に「感謝」、独自チップアーキテクチャで中国半導体産業が急成長",
+          "source_url": "https://www.tomshardware.com/tech-industry/huawei-chairman-thanks-the-us-for-supercharging-chinas-semiconductor-industry-washingtons-export-controls-encouraged-chinese-firms-to-invest-in-r-and-d-and-build-their-own-tech-stack-competing-with-american-technologies"
+        },
+        {
+          "title": "電気的ルールに基づくプリント基板レイアウト自動検証技術の進化",
+          "source_url": "https://semiengineering.com/automating-traditional-pcb-layout-verification-with-electrically-based-design-rule-checks/"
+        },
+        {
+          "title": "エヌビディア、アーム、マイクロソフトがWindows向け新型CPUの共同発表を示唆",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2113133.html"
+        },
+        {
+          "title": "ニコンが低価格戦略でASMLの露光装置独占に挑む、自社製造でコスト削減",
+          "source_url": "https://www.tomshardware.com/tech-industry/nikon-plans-to-undercut-asml-on-price-to-win-back-chipmaking-lithography-customers"
+        },
+        {
+          "title": "BMWが欧州の自動車工場に人型ロボットの導入を決定、製造業の未来へ",
+          "source_url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "家庭用ロボットの訓練データ収集のため、無料で家事を代行するスタートアップが登場",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
+        },
+        {
+          "title": "光を当てるだけで硬さを自在に変えられる新素材、NHK技研が開発",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news029.html"
+        },
+        {
+          "title": "厚さ0.01mmのセンサーを曲げる「凹面湾曲イメージセンサー」をNHK技研が発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news022.html"
+        },
+        {
+          "title": "閉経後の記憶力低下、脳内でのエストロゲン生産減少が直接の原因と判明",
+          "source_url": "https://news.northwestern.edu/stories/2026/05/memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain-tissue"
+        },
+        {
+          "title": "EVや蓄電池に不可欠なリチウムを低コスト・低環境負荷で抽出する新技術",
+          "source_url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+        },
+        {
+          "title": "パラボラアンテナは不要に？屋上に設置する小型・平坦な衛星アンテナ技術「ArrayLink」",
+          "source_url": "https://newatlas.com/telecommunications/flat-rooftop-satellite-antennas/"
+        },
+        {
+          "title": "3Dプリンターでの銃器製造を防止するソフトウェアの回避を犯罪化、カリフォルニア州で法案可決",
+          "source_url": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software"
+        },
+        {
+          "title": "キングス・カレッジ・ロンドン、グーグルの最先端量子チップへのアクセス権を獲得",
+          "source_url": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
