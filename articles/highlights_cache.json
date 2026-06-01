@@ -1,27 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-25",
-      "stories": [
-        {
-          "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
-        },
-        {
-          "title": "ソニーのウェアラブルエアコン「REON POCKET PRO PLUS」が登場",
-          "source_url": "https://newatlas.com/wearables/sony-reon-pocket-pro-plus-wearable-air-conditioner-upgrade/"
-        },
-        {
-          "title": "AIチップのコスト構造に変化、メモリが全体の3分の2を占めるまでに",
-          "source_url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
-        },
-        {
-          "title": "インドのAgnikul Cosmos、3Dプリントロケットエンジン4基の同時燃焼に成功",
-          "source_url": "https://3dprintingindustry.com/news/indias-first-four-engine-cluster-firing-marks-new-frontier-for-agnikul-cosmos-251760/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-26",
       "stories": [
         {
@@ -381,6 +360,91 @@
         {
           "title": "AIとレーザーを駆使して蚊を自動追尾・撃墜する「究極の蚊撃退ロボット」を開発",
           "source_url": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "stories": [
+        {
+          "title": "グーグルの自律型AI「ジェミニ・スパーク」先行レビュー、高い実用性とコスト・プライバシーの課題が浮き彫りに",
+          "source_url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on"
+        },
+        {
+          "title": "オープンAIが英国の主要銀行にサイバー防衛AI「GPT 5.5 サイバー」を提案、アンソロピックに対抗",
+          "source_url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "アンソロピックが米SECに上場申請、歴史上最大規模のIPOへ",
+          "source_url": "https://www.tomshardware.com/tech-industry/anthropic-files-to-go-public-claude-maker-races-openai-and-spacex-to-ipo"
+        },
+        {
+          "title": "独自の観測気球とAIで政府機関を超える精度を実現した気象予測スタートアップ「ウインドボーン」",
+          "source_url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/"
+        },
+        {
+          "title": "米フロリダ州がオープンAIを提訴、ChatGPTが銃乱射事件の計画に悪用されたと非難",
+          "source_url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/"
+        },
+        {
+          "title": "スマートリング「オーラリング 5」が登場、さらなる小型・軽量化を実現",
+          "source_url": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on"
+        },
+        {
+          "title": "有機ELディスプレイを搭載し大画面化したポータブルゲーム機「ROG Xbox Ally X20」が発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/event/2113529.html"
+        },
+        {
+          "title": "人気ハンディファン「シルキー・ウィンド・モバイル」に静音性と風量を強化した最新作「4」が登場",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2113517.html"
+        },
+        {
+          "title": "有害物質「PFAS」を使用しないセラミックコーティングのIH炊飯器がドウシシャから発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2112631.html"
+        },
+        {
+          "title": "中国が世界初の侵襲型脳コンピュータチップを承認、脊髄損傷患者の実証を加速",
+          "source_url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+        },
+        {
+          "title": "エヌビディアがPC向け超高性能チップ「RTXスパーク」を発表、自律型AIエージェントがPCを操作する時代へ",
+          "source_url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows"
+        },
+        {
+          "title": "洋上風力で動く世界初の海底データセンターが中国で稼働、AIの電力・冷却問題を解決へ",
+          "source_url": "https://newatlas.com/energy/china-underwater-data-center-opens/"
+        },
+        {
+          "title": "米オハイオ州がデータセンター向け税制優遇を一時停止、AIによる電力負荷急増を懸念",
+          "source_url": "https://www.theregister.com/on-prem/2026/06/01/ohio-hits-pause-on-datacenter-tax-breaks-draining-its-coffers/5249137"
+        },
+        {
+          "title": "イランがホルムズ海峡の「完全封鎖」を警告、半導体原材料の供給網に緊張走る",
+          "source_url": "https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html"
+        },
+        {
+          "title": "シーメンスとサムスンが協業拡大、最先端プロセスでの3D ICパッケージング設計を強化",
+          "source_url": "https://www.engineering.com/siemens-and-samsung-expand-foundry-design-collaboration/"
+        },
+        {
+          "title": "エヌビディアがヒト型ロボットの参照設計を公開、中国ユニツリー「H2」ベースで実機販売へ",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/01/news117.html"
+        },
+        {
+          "title": "NTTら、四足歩行ロボットとフィジカルAIによる工業施設点検の高度化実証に国内初成功",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2113509.html"
+        },
+        {
+          "title": "NASAの静音超音速実証機「X-59」、初の超音速飛行に向けた最終準備段階へ",
+          "source_url": "https://www.engadget.com/2184257/nasa-x-59-first-supersonic-flight-spacex-starship-grounded-and-more-science-stories/"
+        },
+        {
+          "title": "ノクチュアが炭素ナノチューブ技術を用いたAMD CPU向け高性能サーマルパッドを発表",
+          "source_url": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-announces-new-thermal-pad-for-amd-chips-in-partnership-with-carbice-product-will-work-with-processors-in-am5-and-am4-sockets"
+        },
+        {
+          "title": "アンソロピックの有料開発ツールに対抗する、無料のオープンソースAI「グース」が台頭",
+          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
         }
       ]
     }
