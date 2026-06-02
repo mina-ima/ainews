@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-26",
-      "stories": [
-        {
-          "title": "Anthropic、脆弱性発見プロジェクトの初期報告書を公開",
-          "source_url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596"
-        },
-        {
-          "title": "フェラーリ（Ferrari）初の完全電気自動車「Luce」を公開",
-          "source_url": "https://www.topgear.com/car-news/electric/its-finally-here-meet-ferrari-luce-maranellos-first-ever-fully-electric-car"
-        },
-        {
-          "title": "UGREENの「Nexode モバイルバッテリー 10000mAh 65W」が多機能で注目",
-          "source_url": "https://www.gizmodo.jp/article/2605-amazon-ugreen-mobilebattery3-in-1-s8c-zfb/"
-        },
-        {
-          "title": "ベルギーのimec、High-NA EUV露光を用いた世界初の量子ドット量子ビットデバイスを製造",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-builds-worlds-first-high-na-euv-fabricated-quantum-dot-qubit-device-breakthrough-could-pull-quantum-computing-onto-the-same-manufacturing-roadmap-as-next-gen-ai-processors-compressing-timelines"
-        },
-        {
-          "title": "ファーウェイ（Huawei）が2031年までに1.4nmクラスの半導体製造を目指すと発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/huawei-claims-sanctions-busting-breakthrough-with-1-4nm-class-chips-by-2031-claims-55-percent-higher-transistor-density-firm-claims-new-logicfolding-chip-architecture-can-bypass-euv-restrictions-introduces-tau-scaling-law-to-replace-moores-law"
-        },
-        {
-          "title": "大阪大学とプロテリアル、分子膜による加工特性制御を研究",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11750/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-27",
       "stories": [
         {
@@ -445,6 +416,39 @@
         {
           "title": "アンソロピックの有料開発ツールに対抗する、無料のオープンソースAI「グース」が台頭",
           "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "stories": [
+        {
+          "title": "マイクロソフト、AIエージェント向け新モデル「MAI-Thinking-1」と専用PCを発表",
+          "source_url": "https://www.tomshardware.com/desktops/mini-pcs/microsoft-debuts-surface-rtx-spark-dev-box-microsoft-debuts-surface-rtx-spark-dev-box-nvidia-powered-mini-pc-helps-devs-get-ready-for-an-agentic-windows"
+        },
+        {
+          "title": "グーグル、AIによるなりすまし通話を検知する新機能をAndroidに導入",
+          "source_url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/"
+        },
+        {
+          "title": "Shiftall、夏の暑さ対策に向けた水冷ウェア「ChillerX Pro」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2113744.html"
+        },
+        {
+          "title": "サンコー、10年ぶりに復活した「電動うちわ」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2113601.html"
+        },
+        {
+          "title": "エレコム、買い替え時期がわかる半固体電池採用のモバイルバッテリー",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2113444.html"
+        },
+        {
+          "title": "マイクロソフト、量子コンピューティングの信頼性を1,000倍向上させる新チップを発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/quantum-computing/microsoft-announces-majorana-2-quantum-computing-chip-claims-a-practical-machine-will-come-in-2029"
+        },
+        {
+          "title": "ホンダ、ASIMOの技術を応用した「別次元」のロボットハンドを開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03631/052900002/"
         }
       ]
     }
