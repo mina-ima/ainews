@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-27",
-      "stories": [
-        {
-          "title": "グーグル、Gemini APIに標準の半額で利用できる新サービスティア「Flex」を追加",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/26/news039.html"
-        },
-        {
-          "title": "ローマ教皇がAIに関する初の回勅を発表、開発企業アンスロピックをバチカンに招待",
-          "source_url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
-        },
-        {
-          "title": "従業員をAIエージェントに置き換え、生産性ツール「ClickUp」が数百人規模のレイオフを実施",
-          "source_url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
-        },
-        {
-          "title": "グーグル、あえて画面を排除した超軽量・1週間駆動のトラッカー「Google Fitbit Air」を発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/review/2111599.html"
-        },
-        {
-          "title": "ドローンの羽根と高出力モーターを融合、カーメイトが「爆風ハンディファン」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2111342.html"
-        },
-        {
-          "title": "オッポ、背面カメラで高画質な自撮りができる磁気ワイヤレス丸型画面「Bubble」を発表",
-          "source_url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"
-        },
-        {
-          "title": "Appleの「探す」に対応、iPhoneから愛車の駐車位置がわかるカーチャージャーが発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2111362.html"
-        },
-        {
-          "title": "IBMがスピンオフ、米国初の量子チップ専門ファウンドリ「アンデロン」が誕生",
-          "source_url": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding"
-        },
-        {
-          "title": "日本、マッハ5極超音速旅客機向けのラムジェットエンジン燃焼試験に成功",
-          "source_url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/"
-        },
-        {
-          "title": "考えるだけでPC操作、中国がAI搭載の脳インプラント（BCI）開発と実用化を急加速",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/26/news019.html"
-        },
-        {
-          "title": "AIを活用し脳疾患治療薬の探索を劇的に高速化、運動ニューロン疾患などの治療に光",
-          "source_url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "インフィニオン、基板占有面積を最大82%削減する双方向GaNスイッチを発表",
-          "source_url": "https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/"
-        },
-        {
-          "title": "ラピダス、2028年から複数世代の「後工程」量産へ、光電融合も見据える",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11727/"
-        },
-        {
-          "title": "ソフトバンク、AIデータセンター向け「GPUクラウド」を10月に提供開始",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2111560.html"
-        },
-        {
-          "title": "インドのギグワーカーを活用し、物理AI・ロボット訓練用の実世界データを収集する新試み",
-          "source_url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/"
-        },
-        {
-          "title": "フランスで欧州最大の3Dプリント製アパートが完成、工期を3ヶ月短縮する快挙",
-          "source_url": "https://3dprintingindustry.com/news/france-just-built-europes-largest-3d-printed-apartment-block-three-months-faster-than-expected-251795/"
-        },
-        {
-          "title": "電気の力を利用し、セメント製造時の二酸化炭素排出量を劇的に削減する新工法",
-          "source_url": "https://newatlas.com/materials/electricity-lowers-carbon-footprint-cement-production/"
-        },
-        {
-          "title": "アップル、画質を維持したままデータ量を3分の1にするAI画像圧縮技術「PICO」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2111678.html"
-        },
-        {
-          "title": "川崎重工、シリコンバレーに「フィジカルAI」の研究開発拠点を新設",
-          "source_url": "https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/"
-        },
-        {
-          "title": "窓ガラスに設置可能、厚さわずか10ナノメートルの透明ペロブスカイト太陽電池が開発",
-          "source_url": "https://newatlas.com/energy/transparent-solar-cells-windows/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-28",
       "stories": [
         {
@@ -449,6 +364,43 @@
         {
           "title": "ホンダ、ASIMOの技術を応用した「別次元」のロボットハンドを開発",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03631/052900002/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "stories": [
+        {
+          "title": "Alphabet、AIインフラ投資に向け850億ドルの資金調達を計画",
+          "source_url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
+        },
+        {
+          "title": "トランプ米大統領、AI安全保障に関する大統領令に署名",
+          "source_url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
+        },
+        {
+          "title": "英国、パブリッシャーがGoogleのAI検索結果を拒否できる権利を認定",
+          "source_url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
+        },
+        {
+          "title": "Google、Android向けにAIなりすまし通話検知機能を導入",
+          "source_url": "https://itmedia.co.jp/news/articles/2606/03/news137.html"
+        },
+        {
+          "title": "MSI、RTX Spark搭載の8インチゲーミングハンドヘルド「Claw 8 EX AI+」発表",
+          "source_url": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-brings-intel-arc-g3-extreme-to-handhelds-8-inch-120-hz-display-and-new-ergonomic-grips"
+        },
+        {
+          "title": "サンリオコラボの超小型カメラ「Insta360 GO Ultra × Hello Kitty」登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2114110.html"
+        },
+        {
+          "title": "エヌビディア（NVIDIA）の新型PC向けチップ「RTX Spark」発表",
+          "source_url": "https://www.engineering.com/nvidia-unveils-rtx-spark-superchip-for-windows-pcs/"
+        },
+        {
+          "title": "サムスン、次世代HBM5メモリの冷却構造を初公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling"
         }
       ]
     }
