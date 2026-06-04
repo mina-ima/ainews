@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-06-04T16:54:33.992728+09:00",
+  "updated_at": "2026-06-05T08:29:24.100851+09:00",
   "items": [
-    {
-      "title": "OpenAIのAI「o1」、救急患者の診断で医師を上回る精度を達成",
-      "category": "AIプロダクト",
-      "date": "2026-05-05",
-      "source_url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-      "importance": 5
-    },
     {
       "title": "AIが「開発者」のように振る舞うべき：コーディングエージェントの教訓",
       "category": "LLM・生成AI",
