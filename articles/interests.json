@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-06-02T07:59:13.787073+09:00",
+  "updated_at": "2026-06-04T16:54:33.992728+09:00",
   "items": [
-    {
-      "title": "アカデミー賞がAI生成の俳優と脚本を授賞資格の対象外に",
-      "category": "AI規制・政策",
-      "date": "2026-05-03",
-      "source_url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "importance": 4
-    },
-    {
-      "title": "DAIMON Roboticsがロボットハンドに触覚を与える技術を開発",
-      "category": "ロボティクス・自動化",
-      "date": "2026-05-04",
-      "source_url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
-      "importance": 5
-    },
-    {
-      "title": "思考をテキストに変換するマインドリーディングビーニーが登場",
-      "category": "医療・バイオ",
-      "date": "2026-05-04",
-      "source_url": "https://newatlas.com/wearables/sabi-mind-reading-beanie-typing-eeg/",
-      "importance": 5
-    },
-    {
-      "title": "マネーフォワード、GitHubからのソースコード流出で銀行連携を一時停止",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-05-04",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
-      "importance": 4
-    },
     {
       "title": "OpenAIのAI「o1」、救急患者の診断で医師を上回る精度を達成",
       "category": "AIプロダクト",
@@ -280,6 +252,41 @@
       "date": "2026-05-28",
       "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "importance": 5
+    },
+    {
+      "title": "リキッドAI、スマートフォンでローカル動作する日本語対応の軽量AIモデル「LFM2.5-8B-A1B」を公開",
+      "category": "LLM・生成AI",
+      "date": "2026-06-01",
+      "source_url": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
+      "importance": 4
+    },
+    {
+      "title": "膵臓がん患者の生存期間を倍増させる新薬「ダラキソンラシブ」の臨床試験が成功",
+      "category": "医療・バイオ",
+      "date": "2026-06-01",
+      "source_url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "importance": 5
+    },
+    {
+      "title": "AIとレーザーを駆使して蚊を自動追尾・撃墜する「究極の蚊撃退ロボット」を開発",
+      "category": "ロボティクス・自動化",
+      "date": "2026-06-01",
+      "source_url": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests",
+      "importance": 4
+    },
+    {
+      "title": "エヌビディアがPC向け超高性能チップ「RTXスパーク」を発表、自律型AIエージェントがPCを操作する時代へ",
+      "category": "半導体・チップ",
+      "date": "2026-06-02",
+      "source_url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
+      "importance": 5
+    },
+    {
+      "title": "アンソロピックの有料開発ツールに対抗する、無料のオープンソースAI「グース」が台頭",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-06-02",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 4
     }
   ]
 }
