@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-28",
-      "stories": [
-        {
-          "title": "YouTube、AI生成動画を自動検出してラベル表示へ",
-          "source_url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"
-        },
-        {
-          "title": "AIモデルにも「睡眠」が必要？長期間タスクの効率化に関する研究",
-          "source_url": "https://gigazine.net/news/20260527-ai-need-sleep/"
-        },
-        {
-          "title": "アンカー（Anker）史上最高安全性のモバイルバッテリーが登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2112195.html"
-        },
-        {
-          "title": "シャオミ（Xiaomi）、日本で大型家電カテゴリーの展開を検討",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2112252.html"
-        },
-        {
-          "title": "川崎重工、シリコンバレーに「フィジカルAI」実装拠点を新設",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03243/"
-        },
-        {
-          "title": "NTT、光ネットワーク常時監視機能を小型光トランシーバーに搭載",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2112003.html"
-        },
-        {
-          "title": "睡眠テックスタートアップ「SOND」が700万ドルを調達",
-          "source_url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/"
-        }
-      ]
-    },
-    {
       "date": "2026-05-29",
       "stories": [
         {
@@ -401,6 +368,39 @@
         {
           "title": "サムスン、次世代HBM5メモリの冷却構造を初公開",
           "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "stories": [
+        {
+          "title": "エヌビディア（NVIDIA）が物理AIモデル「Cosmos 3」を発表",
+          "source_url": "https://www.engineering.com/nvidia-launches-cosmos-3-for-physical-ai-models/"
+        },
+        {
+          "title": "Shokz、低音を強化したイヤーカフ型イヤホン「OpenDots 2」を発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2114592.html"
+        },
+        {
+          "title": "フィリップス、洗顔やボディケアも可能な最高峰シェーバー「i9000プレステージ」",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2114201.html"
+        },
+        {
+          "title": "住友ゴムと富士通、タイヤ性能予測の解析時間を45分から5分へ短縮",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html"
+        },
+        {
+          "title": "TSMC、AI需要の急増で供給能力の限界を明かす",
+          "source_url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
+        },
+        {
+          "title": "ハーバード大学、生物の筋肉のように動く3Dプリントフィラメントを開発",
+          "source_url": "https://3dprintingindustry.com/news/harvard-3d-prints-filaments-that-bend-and-contract-like-biological-muscle-252097/"
+        },
+        {
+          "title": "Meta、データセンターの建設コスト削減に「テント」を活用",
+          "source_url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
         }
       ]
     }
