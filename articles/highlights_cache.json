@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-30",
-      "stories": [
-        {
-          "title": "Anthropicが評価額9650億ドルで世界最高価値のAI企業へ",
-          "source_url": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation"
-        },
-        {
-          "title": "OpenAI、日本政府と協力し金融機関へサイバー防衛AIを提供",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000037/"
-        },
-        {
-          "title": "SwitchBotのスマートトラッカーカードが多機能で実用的",
-          "source_url": "https://www.gizmodo.jp/article/296674-amazon-2605-switchbot-smart-lacquer-card-98b-ieu/"
-        },
-        {
-          "title": "サンコー、USB給電で動く「電動うちわ」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2113031.html"
-        },
-        {
-          "title": "トヨタ、次世代EV「LF-ZC」開発中止もギガキャスト技術は継続",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/052900026/"
-        },
-        {
-          "title": "理化学研究所、「富岳NEXT」で温水冷却技術を採用し電力2割削減へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00192/00003/"
-        },
-        {
-          "title": "NHK技研が空中に浮かぶ「透明ホログラム」を公開",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/30/news028.html"
-        }
-      ]
-    },
-    {
       "date": "2026-05-31",
       "stories": [
         {
@@ -445,6 +412,31 @@
         {
           "title": "自身の3Dプリント用制御命令「Gコード」を浮き彫り文字で表現するユニークな本が登場",
           "source_url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "stories": [
+        {
+          "title": "Google、SpaceXの計算能力利用で月額9億2000万ドルの巨大契約を締結",
+          "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+        },
+        {
+          "title": "AIコスト高騰により、中国「ディープシーク（DeepSeek）」への乗り換えが急増",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/"
+        },
+        {
+          "title": "Elgato、音割れをリアルタイム防止する高性能USBマイク「Wave:3 MK.2」",
+          "source_url": "https://gigazine.net/news/20260606-elgato-wave-3-mk-2/"
+        },
+        {
+          "title": "ケンブリッジ大学、AI設計の「万能型」ワクチンで臨床試験に成功",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/"
+        },
+        {
+          "title": "MIT、磁石で遠隔操作可能な3Dプリント製「マイクロ磁気ハイドロゲル」を開発",
+          "source_url": "https://3dprintingindustry.com/news/new-method-embeds-independent-magnetic-movement-at-the-microscale-252160/"
         }
       ]
     }
