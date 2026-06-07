@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-06-05T08:29:24.100851+09:00",
+  "updated_at": "2026-06-08T08:57:44.833281+09:00",
   "items": [
-    {
-      "title": "AIが「開発者」のように振る舞うべき：コーディングエージェントの教訓",
-      "category": "LLM・生成AI",
-      "date": "2026-05-06",
-      "source_url": "https://finbarr.site/2026/05/05/treat-your-coding-agents-like-developers.",
-      "importance": 4
-    },
-    {
-      "title": "Google DeepMindの英国従業員、軍事AI契約に反対し労働組合を結成",
-      "category": "AI研究",
-      "date": "2026-05-06",
-      "source_url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "importance": 4
-    },
-    {
-      "title": "Google、TPUチップを一部顧客に販売へ、NVIDIAに対抗",
-      "category": "半導体・チップ",
-      "date": "2026-05-07",
-      "source_url": "https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html",
-      "importance": 5
-    },
-    {
-      "title": "Micron、業界最大容量245TBのデータセンター向けSSDを出荷開始",
-      "category": "半導体・チップ",
-      "date": "2026-05-07",
-      "source_url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "importance": 4
-    },
-    {
-      "title": "スマートホームセンサー、電池不要で動作する技術が登場",
-      "category": "その他先端技術",
-      "date": "2026-05-07",
-      "source_url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
-      "importance": 3
-    },
     {
       "title": "AI悪用によるゼロデイ攻撃の脅威が顕在化",
       "category": "AI規制・政策",
