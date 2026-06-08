@@ -57,7 +57,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # 通知本文のリンク先。独自ドメインがあれば書き換える
-          SITE_URL: "https://ainews.vercel.app"
+          SITE_URL: "https://ainews-eight-theta.vercel.app"
         run: |
           if [ -z "$DISCORD_WEBHOOK_URL" ]; then
             echo "DISCORD_WEBHOOK_URL 未設定のため通知をスキップ"
