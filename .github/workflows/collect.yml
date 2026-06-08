@@ -2,7 +2,7 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    - cron: '30 20 * * *'  # UTC 20:30 = JST 5:30 (GHA キュー遅延最大75分を見込んで JST 7:00 前完了を担保)
+    - cron: '20 20 * * *'  # UTC 20:20 = JST 5:20 (GHA キュー遅延を見込んで JST 7:00 前完了を担保。完了時は Discord 通知)
   workflow_dispatch:
 
 permissions:
@@ -51,3 +51,26 @@ jobs:
               --notes "AI・テクノロジーニュース ${DATE}" || true
             gh release upload "news-${DATE}" "$MP3" --clobber
           fi
+
+      - name: Notify Discord
+        if: success()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          # 通知本文のリンク先。独自ドメインがあれば書き換える
+          SITE_URL: "https://ainews.vercel.app"
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL 未設定のため通知をスキップ"
+            exit 0
+          fi
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          # 本日分の記事数を index.json から取得（取れなければ md の見出し数で代用）
+          COUNT=$(jq -r --arg d "$DATE" '.articles[] | select(.date==$d) | .article_count' articles/index.json 2>/dev/null | head -1)
+          [ -z "$COUNT" ] && COUNT=$(grep -c '^### ' "articles/${DATE}.md" 2>/dev/null || echo "?")
+          # 本日のトップ見出しを1行だけ抜粋
+          TOP=$(grep -m1 '^### ' "articles/${DATE}.md" 2>/dev/null | sed 's/^### //')
+          CONTENT=$(printf '📰 本日のAIニュース %s（%s件）が揃いました！\n%s\n%s' \
+            "$DATE" "$COUNT" "${TOP:+▸ $TOP}" "$SITE_URL")
+          PAYLOAD=$(jq -n --arg c "$CONTENT" '{content: $c}')
+          curl -fsS -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL" \
+            && echo "Discord 通知を送信しました" || echo "Discord 通知の送信に失敗（処理は継続）"
