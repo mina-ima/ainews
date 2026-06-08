@@ -359,16 +359,12 @@
       "date": "2026-06-08",
       "stories": [
         {
-          "title": "SwitchBot、AIが映像内容を言葉で伝える「屋外パンチルトカメラ5MP」発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2114885.html"
+          "title": "グーグル（Google）、SpaceXと月額9億2000万ドルのAI計算能力確保契約を締結",
+          "source_url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
         },
         {
-          "title": "世界最小スマートリング「オーラリング5」レビュー：小型化と性能向上",
-          "source_url": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/"
-        },
-        {
-          "title": "マクセルとJAXA、人工衛星向け全固体電池の実証実験へ",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2114708.html"
+          "title": "OpenAI、ChatGPTに機密データ保護のための「ロックダウンモード」を導入",
+          "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
         }
       ]
     }
