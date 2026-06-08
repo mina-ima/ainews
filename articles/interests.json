@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T08:57:44.833281+09:00",
+  "updated_at": "2026-06-08T11:23:27.974127+09:00",
   "items": [
     {
       "title": "AI悪用によるゼロデイ攻撃の脅威が顕在化",
@@ -245,6 +245,48 @@
       "date": "2026-06-02",
       "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "importance": 4
+    },
+    {
+      "title": "Google、Android向けにAIなりすまし通話検知機能を導入",
+      "category": "AIプロダクト",
+      "date": "2026-06-04",
+      "source_url": "https://itmedia.co.jp/news/articles/2606/03/news137.html",
+      "importance": 4
+    },
+    {
+      "title": "AIコスト高騰に悩む米企業、圧倒的に安価な中国「ディープシーク」への乗り換えが急増",
+      "category": "LLM・生成AI",
+      "date": "2026-06-06",
+      "source_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "importance": 5
+    },
+    {
+      "title": "回路図や建築図面に対応し、工数を最大60%削減する図面解析AI「Drawing-AI」が登場",
+      "category": "AIプロダクト",
+      "date": "2026-06-06",
+      "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
+      "importance": 4
+    },
+    {
+      "title": "ニューヨーク州議会、大規模データセンターの新規建設を1年間禁止する法案を可決",
+      "category": "エネルギー・環境技術",
+      "date": "2026-06-06",
+      "source_url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "importance": 5
+    },
+    {
+      "title": "AIデータセンターのメモリ「爆食い」で他産業が危機、米業界団体が政府に緊急対策を要望",
+      "category": "半導体・チップ",
+      "date": "2026-06-06",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
+      "importance": 5
+    },
+    {
+      "title": "ケンブリッジ大学、AI設計の「万能型」ワクチンで臨床試験に成功",
+      "category": "医療・バイオ",
+      "date": "2026-06-07",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
+      "importance": 5
     }
   ]
 }
