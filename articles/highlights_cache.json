@@ -1,71 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-01",
-      "stories": [
-        {
-          "title": "YouTube、AI生成動画の自動ラベル付けを開始、ショート動画に「AI」タグ表示へ",
-          "source_url": "https://internet.watch.impress.co.jp/docs/yajiuma/2112779.html"
-        },
-        {
-          "title": "リキッドAI、スマートフォンでローカル動作する日本語対応の軽量AIモデル「LFM2.5-8B-A1B」を公開",
-          "source_url": "https://gigazine.net/news/20260531-lfm25-8b-a1b/"
-        },
-        {
-          "title": "手押し車を電動化！わずか3秒で脱着できる後付け用電動アシストユニット「コンボイ」が登場",
-          "source_url": "https://www.gizmodo.jp/article/micro_mobility_labs_convoy-brw/"
-        },
-        {
-          "title": "サンコー、普段着として使えるファン付きTシャツ「T Shirt & Fan」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2112790.html"
-        },
-        {
-          "title": "お気に入りの高音質イヤホンをゲーミング仕様に変えるマイク付きリケーブル「ギーク」第2弾",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-geek-review-907841/"
-        },
-        {
-          "title": "厚さ1.7cmに折りたたんで収納できる、モバイルバッテリー対応の超薄型スマート扇風機",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2605/31/news021.html"
-        },
-        {
-          "title": "ソフトバンクグループ、フランスで最大14兆円を投じ5GW規模のAIデータセンターを整備へ",
-          "source_url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
-        },
-        {
-          "title": "エヌビディアの新型Armプロセッサ「N1/N1X」のスペックがComputex直前にリーク",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/nvidias-long-awaited-n1-n1x-soc-specs-leak-ahead-of-computex-launch-n1-to-feature-up-to-20-arm-based-cores-standard-n1-equipped-with-12-and-10-core-configs"
-        },
-        {
-          "title": "膵臓がん患者の生存期間を倍増させる新薬「ダラキソンラシブ」の臨床試験が成功",
-          "source_url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial"
-        },
-        {
-          "title": "環境活動家エリン・ブロコビッチ氏、AIデータセンター建設に伴う水・電力消費の不透明性を批判",
-          "source_url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
-        },
-        {
-          "title": "筋トレ用サプリ「クレアチン」が脳のエネルギーを高め、アルツハイマー病の認知機能低下を30%抑制",
-          "source_url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/"
-        },
-        {
-          "title": "有毒な濃縮塩水を排出しない、画期的な太陽光海水淡水化技術が開発",
-          "source_url": "https://www.sciencedaily.com/releases/2026/05/260530053418.htm"
-        },
-        {
-          "title": "半導体パッケージング技術の進化：パネルレベルパッケージングとガラスコア基板が注目",
-          "source_url": "https://semiengineering.com/chip-industry-week-in-review-140/"
-        },
-        {
-          "title": "1時間で3kgの高速出力を実現した、1メートル立方サイズの巨大3Dプリンター「Modix MAMA-1000」",
-          "source_url": "https://www.tomshardware.com/3d-printing/new-one-meter-cubed-3d-printer-pumps-out-large-scale-prints-at-3kg-an-hour-modix-mama-1000-also-needs-a-big-wallet-with-prices-starting-at-usd35-000"
-        },
-        {
-          "title": "AIとレーザーを駆使して蚊を自動追尾・撃墜する「究極の蚊撃退ロボット」を開発",
-          "source_url": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests"
-        }
-      ]
-    },
-    {
       "date": "2026-06-02",
       "stories": [
         {
@@ -365,6 +300,35 @@
         {
           "title": "OpenAI、ChatGPTに機密データ保護のための「ロックダウンモード」を導入",
           "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "stories": [
+        {
+          "title": "Appleが次世代AI「Siri AI」と「Apple Intelligence」を発表",
+          "source_url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc"
+        },
+        {
+          "title": "OpenAIが米国証券取引委員会（SEC）へIPOに向けた書類を提出",
+          "source_url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html"
+        },
+        {
+          "title": "Oura Ring 5が発売、従来比40%の小型化を実現",
+          "source_url": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/"
+        },
+        {
+          "title": "UGREENがLDAC対応のハイエンドヘッドフォン「HiTune Max6」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2115316.html"
+        },
+        {
+          "title": "パナソニックエナジー、AIデータセンター向け蓄電システムで売上2兆円を目指す",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html"
+        },
+        {
+          "title": "中国のスタートアップPrinanoがナノインプリント技術でフォトニックチップを低コスト生産",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-startup-claims-photonic-chip-production-without-duv-lithography-says-nanoimprint-process-cuts-costs-by-90-percent-8-inch-wafers-produced-without-conventional-optical-lithography"
         }
       ]
     }
