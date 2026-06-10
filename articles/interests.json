@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T08:50:34.485229+09:00",
+  "updated_at": "2026-06-11T08:10:23.252453+09:00",
   "items": [
     {
       "title": "AI悪用によるゼロデイ攻撃の脅威が顕在化",
@@ -294,6 +294,20 @@
       "date": "2026-06-09",
       "source_url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
       "importance": 5
+    },
+    {
+      "title": "アンソロピック、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
+      "category": "LLM・生成AI",
+      "date": "2026-06-10",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
+      "importance": 5
+    },
+    {
+      "title": "2020年代前半の半導体不足が引き起こした、2026年の計測器における品質問題の教訓",
+      "category": "プリント基板・電子実装",
+      "date": "2026-06-10",
+      "source_url": "https://hackaday.com/2026/06/09/how-the-2020s-chip-crisis-led-to-a-buggy-saeleae-analyzer-in-2026/",
+      "importance": 4
     }
   ]
 }
