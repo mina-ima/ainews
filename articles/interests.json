@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-11T08:10:23.252453+09:00",
+  "updated_at": "2026-06-12T07:59:49.966675+09:00",
   "items": [
-    {
-      "title": "AI悪用によるゼロデイ攻撃の脅威が顕在化",
-      "category": "AI規制・政策",
-      "date": "2026-05-12",
-      "source_url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "importance": 5
-    },
-    {
-      "title": "脳卒中による脳損傷を修復する初の薬剤を発見",
-      "category": "医療・バイオ",
-      "date": "2026-05-12",
-      "source_url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "importance": 5
-    },
     {
       "title": "カザフスタン製錬所爆発、はんだ調達に世界的赤信号",
       "category": "プリント基板・電子実装",
@@ -307,6 +293,13 @@
       "category": "プリント基板・電子実装",
       "date": "2026-06-10",
       "source_url": "https://hackaday.com/2026/06/09/how-the-2020s-chip-crisis-led-to-a-buggy-saeleae-analyzer-in-2026/",
+      "importance": 4
+    },
+    {
+      "title": "三菱電機、バイオマス由来成分40％以上の高耐熱エポキシ樹脂を開発",
+      "category": "材料・ナノテク",
+      "date": "2026-06-11",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03258/",
       "importance": 4
     }
   ]
