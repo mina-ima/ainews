@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-04",
-      "stories": [
-        {
-          "title": "Alphabet、AIインフラ投資に向け850億ドルの資金調達を計画",
-          "source_url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
-        },
-        {
-          "title": "トランプ米大統領、AI安全保障に関する大統領令に署名",
-          "source_url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389"
-        },
-        {
-          "title": "英国、パブリッシャーがGoogleのAI検索結果を拒否できる権利を認定",
-          "source_url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/"
-        },
-        {
-          "title": "Google、Android向けにAIなりすまし通話検知機能を導入",
-          "source_url": "https://itmedia.co.jp/news/articles/2606/03/news137.html"
-        },
-        {
-          "title": "MSI、RTX Spark搭載の8インチゲーミングハンドヘルド「Claw 8 EX AI+」発表",
-          "source_url": "https://www.tomshardware.com/video-games/handheld-gaming/msi-claw-8-ex-ai-brings-intel-arc-g3-extreme-to-handhelds-8-inch-120-hz-display-and-new-ergonomic-grips"
-        },
-        {
-          "title": "サンリオコラボの超小型カメラ「Insta360 GO Ultra × Hello Kitty」登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2114110.html"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）の新型PC向けチップ「RTX Spark」発表",
-          "source_url": "https://www.engineering.com/nvidia-unveils-rtx-spark-superchip-for-windows-pcs/"
-        },
-        {
-          "title": "サムスン、次世代HBM5メモリの冷却構造を初公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-shows-first-hbm5-mockup-at-computex-with-heat-path-block-cooling"
-        }
-      ]
-    },
-    {
       "date": "2026-06-05",
       "stories": [
         {
@@ -309,6 +272,43 @@
         {
           "title": "オークリッジ国立研究所、400℃で強度を保つ3Dプリント用アルミ合金「DuAlumin-3D」を開発",
           "source_url": "https://3dprintingindustry.com/news/ornls-dualumin-3d-a-printable-aluminum-alloy-that-holds-its-strength-at-400c-252199/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "stories": [
+        {
+          "title": "Anthropicが「Claude Fable 5」の保護機能を可視化、不透明な動作を謝罪",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html"
+        },
+        {
+          "title": "NECとアンソロピック、金融8社とAI活用で連携",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news128.html"
+        },
+        {
+          "title": "VisaとOpenAIが提携、AIエージェントによる安全な決済環境を構築",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html"
+        },
+        {
+          "title": "Insta360、ライカ共同開発のジンバルカメラ「Luna Ultra」発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html"
+        },
+        {
+          "title": "MSI、創立40周年記念のRTX 5090搭載18型ゲーミングノート発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2116358.html"
+        },
+        {
+          "title": "スペースエックス（SpaceX）が史上最大のIPOを実施、時価総額に注目",
+          "source_url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
+        },
+        {
+          "title": "島津製作所、中国で半導体製造装置向けターボ分子ポンプの生産開始",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03261/"
+        },
+        {
+          "title": "Apple、Mac上で軽量Linux環境を実現する「Container machine」発表",
+          "source_url": "https://gigazine.net/news/20260611-apple-container-machines/"
         }
       ]
     }
