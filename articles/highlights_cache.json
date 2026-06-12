@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-05",
-      "stories": [
-        {
-          "title": "エヌビディア（NVIDIA）が物理AIモデル「Cosmos 3」を発表",
-          "source_url": "https://www.engineering.com/nvidia-launches-cosmos-3-for-physical-ai-models/"
-        },
-        {
-          "title": "Shokz、低音を強化したイヤーカフ型イヤホン「OpenDots 2」を発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2114592.html"
-        },
-        {
-          "title": "フィリップス、洗顔やボディケアも可能な最高峰シェーバー「i9000プレステージ」",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2114201.html"
-        },
-        {
-          "title": "住友ゴムと富士通、タイヤ性能予測の解析時間を45分から5分へ短縮",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html"
-        },
-        {
-          "title": "TSMC、AI需要の急増で供給能力の限界を明かす",
-          "source_url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
-        },
-        {
-          "title": "ハーバード大学、生物の筋肉のように動く3Dプリントフィラメントを開発",
-          "source_url": "https://3dprintingindustry.com/news/harvard-3d-prints-filaments-that-bend-and-contract-like-biological-muscle-252097/"
-        },
-        {
-          "title": "Meta、データセンターの建設コスト削減に「テント」を活用",
-          "source_url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-06",
       "stories": [
         {
@@ -309,6 +276,91 @@
         {
           "title": "Apple、Mac上で軽量Linux環境を実現する「Container machine」発表",
           "source_url": "https://gigazine.net/news/20260611-apple-container-machines/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "stories": [
+        {
+          "title": "1兆パラメータのコーディング特化AI「Kimi K2.7 Code」が無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2116913.html"
+        },
+        {
+          "title": "グーグルが25年ぶりに「検索窓」を刷新、AIファーストの検索体験へ移行",
+          "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+        },
+        {
+          "title": "自律型AIエージェントに「思考の深さ」を与えるツリー探索フレームワーク「Arbor」が発表",
+          "source_url": "https://arxiv.org/abs/2606.12563"
+        },
+        {
+          "title": "ソニーの最新フラッグシップ「Xperia 1 VIII」登場、最上位SoCの驚異的な実力を検証",
+          "source_url": "https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/"
+        },
+        {
+          "title": "業界初、安全性の高い「半固体バッテリー」を搭載した2in1 PCがフロンティアから登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2116763.html"
+        },
+        {
+          "title": "画面を排除した「アンチ・スマートウォッチ」、グーグルが超軽量「Fitbit Air」を発表",
+          "source_url": "https://www.youtube.com/watch?v=srWmgb7RZMg"
+        },
+        {
+          "title": "強力吸着と水スプレーで窓を自動清掃、エコバックスが小型窓拭きロボを発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2116213.html"
+        },
+        {
+          "title": "CRISPR技術で治療困難ながん細胞を選択的に破壊する新手法が開発",
+          "source_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/"
+        },
+        {
+          "title": "世界初、全固体電池を搭載した有人飛行機がフライトに成功",
+          "source_url": "https://newatlas.com/aircraft/helios-horizon-first-crewed-solid-state-flight-aviation/"
+        },
+        {
+          "title": "ジェフ・ベゾス氏率いるAI企業、物理世界を自動化する「人工汎用エンジニア」開発に120億ドル調達",
+          "source_url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+        },
+        {
+          "title": "キオクシア、メモリ需要急増で日本で最も価値のある企業へ躍進",
+          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/kioxia-caps-years-of-uncertainty-to-become-japan-s-most-valuable-company"
+        },
+        {
+          "title": "AIデータセンターの真のボトルネックは「送電網」の整備遅れ、ガートナーが指摘",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/"
+        },
+        {
+          "title": "空気中から飲料水を自律回収する「魔法のジャケット」をテキサス大学が開発",
+          "source_url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
+        },
+        {
+          "title": "マザーボード各社、メモリの遅延を極限まで抑える「AMD EXPO」超低レイテンシ機能をBIOSで提供開始",
+          "source_url": "https://www.tomshardware.com/pc-components/motherboards/various-vendors-add-amd-expo-ultra-low-latency-to-600-series-motherboards-in-latest-bios-updates-tech-tightens-memory-subtimings-on-compatible-kits-boosting-fps-by-up-to-4-percent"
+        },
+        {
+          "title": "玄武岩繊維と再生プラスチックを融合、大型3Dプリント用の高強度新素材が登場",
+          "source_url": "https://3dprintingindustry.com/news/voltage-launches-eclipse-x9-a-basalt-recycled-petg-composite-for-lfam-252291/"
+        },
+        {
+          "title": "「ポケモンGO」の3Dスキャンデータ、軍用ドローンのGPS不要ナビゲーション技術の訓練に活用",
+          "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
+        },
+        {
+          "title": "エヌビディア、PCIe 6.0対応の超高速2.9PBデータセンターストレージを公開",
+          "source_url": "https://www.tomshardware.com/pc-components/ssds/nvidias-high-speed-ai-data-center-storage-servers-break-cover-touting-2-9-petabytes-of-storage-and-extreme-pcie-6-0-performance-wiwynn-shows-off-scada-server-with-gpu-accelerated-storage"
+        },
+        {
+          "title": "自動車ブレーキの最終形「電動機械ブレーキ（EMB）」、独ZFが2028年量産へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03635/060500002/"
+        },
+        {
+          "title": "ケース全体を一体成形の3Dプリントで製造、高級時計「Exo.1」がデビュー",
+          "source_url": "https://3dprintingindustry.com/news/parivas-exo-1-debuts-a-monolithic-3d-printed-exoskeleton-case-252286/"
+        },
+        {
+          "title": "テスラの自動運転監視を騙す「身代わりフィギュア」、中国でドライバーの裏ワザとして流行",
+          "source_url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/"
         }
       ]
     }
