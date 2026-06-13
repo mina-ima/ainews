@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-06",
-      "stories": [
-        {
-          "title": "AIコスト高騰に悩む米企業、圧倒的に安価な中国「ディープシーク」への乗り換えが急増",
-          "source_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
-        },
-        {
-          "title": "AIが自らAIを開発・改善する「再帰的自己改善」の進捗をアンソロピックが発表",
-          "source_url": "https://www.anthropic.com/institute/recursive-self-improvement"
-        },
-        {
-          "title": "米国家安全保障局がアンソロピックのAI「クロード・ミソス」を攻撃的サイバー作戦に利用か",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nsa-using-clause-mythos-for-offensive-cyber-operations-report-claims-says-half-a-dozen-anthropic-engineers-embedded-inside-the-agency"
-        },
-        {
-          "title": "回路図や建築図面に対応し、工数を最大60%削減する図面解析AI「Drawing-AI」が登場",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html"
-        },
-        {
-          "title": "世界最小のスマートリング「オーラリング5」が国内発売、前モデルから40%の小型化を実現",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2114738.html"
-        },
-        {
-          "title": "日本電気硝子、超薄板ガラス「ソナリオン」振動板を採用した高音質スピーカーを国内発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2113979.html"
-        },
-        {
-          "title": "階段を自律的に上り下りできる革新的なロボット掃除機「サイバーエックス」が日本初披露",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2114709.html"
-        },
-        {
-          "title": "真空管とR2R DACを搭載したSHANLINGの超高級SACDプレーヤー「SCD3.3」が登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2114789.html"
-        },
-        {
-          "title": "グーグルがスペースXに月額9.2億ドルを支払う巨大契約、AI需要急増でxAIデータセンターの計算能力を確保",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal"
-        },
-        {
-          "title": "ニューヨーク州議会、大規模データセンターの新規建設を1年間禁止する法案を可決",
-          "source_url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium"
-        },
-        {
-          "title": "AIデータセンターのメモリ「爆食い」で他産業が危機、米業界団体が政府に緊急対策を要望",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors"
-        },
-        {
-          "title": "生体組織の神経活動を直接誘発できる、プリント可能な「人工ニューロン」を開発",
-          "source_url": "https://3dprintingindustry.com/news/unique-artificial-neurons-trigger-neural-activity-in-living-cells-252133/"
-        },
-        {
-          "title": "次世代パッケージング技術がAIとHPCの限界を再定義、ガラス基板やCPOに注目",
-          "source_url": "https://semiengineering.com/packaging-technologies-redefine-ai-and-hpc-scalability-limits-at-ectc-2026/"
-        },
-        {
-          "title": "MIT、超小型衛星を火星へ送るための親指サイズ静電スプレー推進器を開発",
-          "source_url": "https://newatlas.com/space-systems/mit-thruster-ascent-cubesat-propulsion/"
-        },
-        {
-          "title": "4週間発光し続ける、海洋微生物を埋め込んだ3Dプリント生体発光材料を開発",
-          "source_url": "https://3dprintingindustry.com/news/new-bioluminescent-materials-sustain-light-across-4-weekly-cycles-252137/"
-        },
-        {
-          "title": "三菱電機と千葉工業大学、国産フィジカルAIを用いた自律制御ロボットの事業化で連携",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03251/"
-        },
-        {
-          "title": "わずかな通信量でWebサーバーを停止させる「HTTP/2 Bomb」脆弱性が発見される",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/05/news119.html"
-        },
-        {
-          "title": "自身の3Dプリント用制御命令「Gコード」を浮き彫り文字で表現するユニークな本が登場",
-          "source_url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-07",
       "stories": [
         {
@@ -361,6 +284,27 @@
         {
           "title": "テスラの自動運転監視を騙す「身代わりフィギュア」、中国でドライバーの裏ワザとして流行",
           "source_url": "https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "stories": [
+        {
+          "title": "米政府の輸出規制によりAnthropicの最上位AI「Claude Fable 5」「Mythos 5」が全世界で利用停止",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security"
+        },
+        {
+          "title": "照明一体型プロジェクター「Aladdin X3 Laser 4K」が6月23日発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2116676.html"
+        },
+        {
+          "title": "ソニーの最新ミラーレス一眼「α7R VI」が登場、AI画像処理エンジン搭載",
+          "source_url": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/"
+        },
+        {
+          "title": "SpaceXが史上最大のIPOを実施、時価総額2兆ドル超えで上場",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html"
         }
       ]
     }
