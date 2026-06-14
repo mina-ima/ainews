@@ -1,55 +1,6 @@
 {
-  "updated_at": "2026-06-12T07:59:49.966675+09:00",
+  "updated_at": "2026-06-15T08:17:06.139993+09:00",
   "items": [
-    {
-      "title": "カザフスタン製錬所爆発、はんだ調達に世界的赤信号",
-      "category": "プリント基板・電子実装",
-      "date": "2026-05-13",
-      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/01268/00154/",
-      "importance": 5
-    },
-    {
-      "title": "グーグルとスペースX、軌道上データセンター設置を協議",
-      "category": "宇宙・航空",
-      "date": "2026-05-13",
-      "source_url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "importance": 5
-    },
-    {
-      "title": "グーグル、AI製ゼロデイ攻撃の出現を報告",
-      "category": "AI規制・政策",
-      "date": "2026-05-13",
-      "source_url": "https://www.itmedia.co.jp/aiplus/articles/2605/12/news147.html",
-      "importance": 5
-    },
-    {
-      "title": "FairyFuse: CPU上で乗算なしLLM推論を実現し効率を大幅向上",
-      "category": "LLM・生成AI",
-      "date": "2026-05-13",
-      "source_url": "https://arxiv.org/abs/2604.20913",
-      "importance": 4
-    },
-    {
-      "title": "Google、Android向けAIエージェント「Gemini Intelligence」発表",
-      "category": "LLM・生成AI",
-      "date": "2026-05-14",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
-      "importance": 5
-    },
-    {
-      "title": "世界初のカラーLiDAR「Rev8」が登場、機械に人間のような視覚を提供",
-      "category": "その他先端技術",
-      "date": "2026-05-15",
-      "source_url": "https://newatlas.com/technology/ouster-rev8-native-color-lidar/",
-      "importance": 4
-    },
-    {
-      "title": "JR東日本がUWBを活用した次世代改札機を公開",
-      "category": "通信・ネットワーク",
-      "date": "2026-05-15",
-      "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2108790.html",
-      "importance": 3
-    },
     {
       "title": "Googleの「Gemini Intelligence」は高いAndroidスペック要件を伴う可能性",
       "category": "LLM・生成AI",
