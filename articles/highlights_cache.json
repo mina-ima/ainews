@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-07",
-      "stories": [
-        {
-          "title": "Google、SpaceXの計算能力利用で月額9億2000万ドルの巨大契約を締結",
-          "source_url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
-        },
-        {
-          "title": "AIコスト高騰により、中国「ディープシーク（DeepSeek）」への乗り換えが急増",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000060/"
-        },
-        {
-          "title": "Elgato、音割れをリアルタイム防止する高性能USBマイク「Wave:3 MK.2」",
-          "source_url": "https://gigazine.net/news/20260606-elgato-wave-3-mk-2/"
-        },
-        {
-          "title": "ケンブリッジ大学、AI設計の「万能型」ワクチンで臨床試験に成功",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/"
-        },
-        {
-          "title": "MIT、磁石で遠隔操作可能な3Dプリント製「マイクロ磁気ハイドロゲル」を開発",
-          "source_url": "https://3dprintingindustry.com/news/new-method-embeds-independent-magnetic-movement-at-the-microscale-252160/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-08",
       "stories": [
         {
@@ -305,6 +280,31 @@
         {
           "title": "SpaceXが史上最大のIPOを実施、時価総額2兆ドル超えで上場",
           "source_url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "stories": [
+        {
+          "title": "Anthropicの最新AIモデル「Claude Fable 5」「Mythos 5」が米政府の輸出規制により全世界で利用停止",
+          "source_url": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order"
+        },
+        {
+          "title": "Amazon純正電子書籍リーダー「Kindle Scribe」に初のカラーモデルが登場",
+          "source_url": "https://gigazine.net/news/20260614-kindle-scribe-2026/"
+        },
+        {
+          "title": "トヨタ、液体水素で超電導モーターを冷却する世界初の技術で耐久レースを完走",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/061000033/"
+        },
+        {
+          "title": "NISTが金属3Dプリンティングの新手法を発表、楕円レーザーで合金を「オンデマンド」生成",
+          "source_url": "https://www.tomshardware.com/3d-printing/nist-gets-metal-3d-printers-to-mix-alloys-mid-print-by-rewriting-the-lasers-path"
+        },
+        {
+          "title": "ASUSがルーターと小型サーバーを融合した「ROG Rapture GT-BE19000AI」を発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2116688.html"
         }
       ]
     }
