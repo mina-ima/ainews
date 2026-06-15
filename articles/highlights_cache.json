@@ -1,19 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-08",
-      "stories": [
-        {
-          "title": "グーグル（Google）、SpaceXと月額9億2000万ドルのAI計算能力確保契約を締結",
-          "source_url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html"
-        },
-        {
-          "title": "OpenAI、ChatGPTに機密データ保護のための「ロックダウンモード」を導入",
-          "source_url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-09",
       "stories": [
         {
@@ -305,6 +292,35 @@
         {
           "title": "ASUSがルーターと小型サーバーを融合した「ROG Rapture GT-BE19000AI」を発売",
           "source_url": "https://internet.watch.impress.co.jp/docs/news/2116688.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "stories": [
+        {
+          "title": "XREALとASUSがコラボ、最大240Hz対応のゲーミングARグラス「ROG XREAL R1」発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2117230.html"
+        },
+        {
+          "title": "骨伝導技術を活用した超薄型枕下スピーカーが登場",
+          "source_url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"
+        },
+        {
+          "title": "トヨタ、液体水素で超電導モーターを冷却する世界初の技術で耐久レース完走",
+          "source_url": "https://asia.nikkei.com/spotlight/sports/toyota-s-shakeup-of-racing-division-leads-to-le-mans-enduro-crown"
+        },
+        {
+          "title": "スペースX（SpaceX）がIPOを実施、調達額は857億ドルに拡大",
+          "source_url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
+        },
+        {
+          "title": "ルネサスエレクトロニクス（Renesas Electronics）が語る人型ロボットの核心",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03631/060900008/"
+        },
+        {
+          "title": "インフィニオン（Infineon）とシーメンス（Siemens）が固体回路保護で提携",
+          "source_url": "https://www.engineering.com/infineon-siemens-partner-on-solid-state-circuit-protection/"
         }
       ]
     }
