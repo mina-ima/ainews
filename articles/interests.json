@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-06-15T08:17:06.139993+09:00",
+  "updated_at": "2026-06-16T08:14:36.522653+09:00",
   "items": [
-    {
-      "title": "Googleの「Gemini Intelligence」は高いAndroidスペック要件を伴う可能性",
-      "category": "LLM・生成AI",
-      "date": "2026-05-16",
-      "source_url": "https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/",
-      "importance": 5
-    },
-    {
-      "title": "Geminiが複雑な賃貸契約書を平易に解説、実用的なAI活用事例として注目",
-      "category": "LLM・生成AI",
-      "date": "2026-05-16",
-      "source_url": "https://www.androidpolice.com/finally-understand-lease-agreement-had-to-ask-gemini/",
-      "importance": 5
-    },
-    {
-      "title": "GoogleのAIエージェント「Gemini Spark」が自律的なタスク実行能力を披露",
-      "category": "LLM・生成AI",
-      "date": "2026-05-16",
-      "source_url": "https://www.androidpolice.com/googles-ai-agent-gemini-spark-leaks-ahead-of-expected-announcement/",
-      "importance": 5
-    },
-    {
-      "title": "AIの電力需要急増でデータセンターのエネルギー消費が深刻化、住民の懸念も高まる",
-      "category": "エネルギー・環境技術",
-      "date": "2026-05-16",
-      "source_url": "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
-      "importance": 5
-    },
-    {
-      "title": "ニンテンドースイッチを活用して3Dプリンターを高速化するハックが登場",
-      "category": "3Dプリンティング・製造",
-      "date": "2026-05-16",
-      "source_url": "https://hackaday.com/2026/05/15/using-a-nintendo-switch-to-speed-up-a-3d-printer/",
-      "importance": 4
-    },
     {
       "title": "Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
       "category": "LLM・生成AI",
@@ -251,6 +216,41 @@
       "category": "材料・ナノテク",
       "date": "2026-06-11",
       "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03258/",
+      "importance": 4
+    },
+    {
+      "title": "自律型AIエージェントに「思考の深さ」を与えるツリー探索フレームワーク「Arbor」が発表",
+      "category": "AI研究",
+      "date": "2026-06-13",
+      "source_url": "https://arxiv.org/abs/2606.12563",
+      "importance": 4
+    },
+    {
+      "title": "CRISPR技術で治療困難ながん細胞を選択的に破壊する新手法が開発",
+      "category": "医療・バイオ",
+      "date": "2026-06-13",
+      "source_url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "importance": 5
+    },
+    {
+      "title": "AIデータセンターの真のボトルネックは「送電網」の整備遅れ、ガートナーが指摘",
+      "category": "エネルギー・環境技術",
+      "date": "2026-06-13",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/",
+      "importance": 5
+    },
+    {
+      "title": "「ポケモンGO」の3Dスキャンデータ、軍用ドローンのGPS不要ナビゲーション技術の訓練に活用",
+      "category": "通信・ネットワーク",
+      "date": "2026-06-13",
+      "source_url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "importance": 4
+    },
+    {
+      "title": "自動車ブレーキの最終形「電動機械ブレーキ（EMB）」、独ZFが2028年量産へ",
+      "category": "ロボティクス・自動化",
+      "date": "2026-06-13",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03635/060500002/",
       "importance": 4
     }
   ]
