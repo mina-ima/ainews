@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-09",
-      "stories": [
-        {
-          "title": "Appleが次世代AI「Siri AI」と「Apple Intelligence」を発表",
-          "source_url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc"
-        },
-        {
-          "title": "OpenAIが米国証券取引委員会（SEC）へIPOに向けた書類を提出",
-          "source_url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html"
-        },
-        {
-          "title": "Oura Ring 5が発売、従来比40%の小型化を実現",
-          "source_url": "https://techcrunch.com/2026/06/04/oura-ring-5-review-thinner-lighter-better/"
-        },
-        {
-          "title": "UGREENがLDAC対応のハイエンドヘッドフォン「HiTune Max6」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2115316.html"
-        },
-        {
-          "title": "パナソニックエナジー、AIデータセンター向け蓄電システムで売上2兆円を目指す",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/08/news131.html"
-        },
-        {
-          "title": "中国のスタートアップPrinanoがナノインプリント技術でフォトニックチップを低コスト生産",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-startup-claims-photonic-chip-production-without-duv-lithography-says-nanoimprint-process-cuts-costs-by-90-percent-8-inch-wafers-produced-without-conventional-optical-lithography"
-        }
-      ]
-    },
-    {
       "date": "2026-06-10",
       "stories": [
         {
@@ -321,6 +292,71 @@
         {
           "title": "インフィニオン（Infineon）とシーメンス（Siemens）が固体回路保護で提携",
           "source_url": "https://www.engineering.com/infineon-siemens-partner-on-solid-state-circuit-protection/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "stories": [
+        {
+          "title": "クロード「フェーブル5」利用停止の真相、ハッキングではなく単なる「コード修正」プロンプトに米政府が過剰反応か",
+          "source_url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827"
+        },
+        {
+          "title": "ソフトバンクとオープンAI、高度AIで重要インフラの脆弱性を自動診断・修復する新サービスを発表",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/"
+        },
+        {
+          "title": "シャープがウェアラブル市場に本格参入、食べたカロリーを自動計測するスマートウォッチとリングを発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/16/news121.html"
+        },
+        {
+          "title": "筋肉でAIを動かせ！手回し発電でローカル音声AIを実行する「クランクGPT」が登場",
+          "source_url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/"
+        },
+        {
+          "title": "アップルの「乗り物酔い防止ドット」機能が劇的な効果、車内での画面操作による不快感を解消",
+          "source_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"
+        },
+        {
+          "title": "スペースX、ブロックバスターIPO直後にコード生成AI「カーソル」開発元を600億ドルで買収合意",
+          "source_url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/"
+        },
+        {
+          "title": "ALS患者が脳インプラントの「パワーユーザー」に、考えるだけで高精度な会話を実現",
+          "source_url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+        },
+        {
+          "title": "インテル、改良版プロセス「18A-P」のリスク生産を開始　同電力で9%の性能向上を実現",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intels-performance-enhanced-18a-p-process-enters-risk-production-enhanced-node-promises-9-percent-performance-improvement-at-iso-power"
+        },
+        {
+          "title": "米司法省、エックスアイエーアイ（xAI）の未許可ガスタービン使用を「国家安全保障上の理由」で容認するよう主張",
+          "source_url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/"
+        },
+        {
+          "title": "ジェフ・ベゾス氏支援のプロメテウス、物理世界を自動化する「汎用人工エンジニア」開発に120億ドルを調達",
+          "source_url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+        },
+        {
+          "title": "世界初の快挙！材料内の原子の粒が自由に動き回る様子のリアルタイム撮影に成功",
+          "source_url": "https://www.gizmodo.jp/article/photographing-moving-atoms-ycz/"
+        },
+        {
+          "title": "ギガバイト、自作PCの配線を完全に隠せる背面配線対応の新型マイクロATXマザーボードを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2117677.html"
+        },
+        {
+          "title": "MIT、半導体クリーンルーム不要でドラッグデリバリー用の微細ノズルアレイを3Dプリントする手法を開発",
+          "source_url": "https://3dprintingindustry.com/news/mit-team-3d-prints-low-cost-nozzle-arrays-for-layered-drug-delivery-particles-252359/"
+        },
+        {
+          "title": "東芝、現実の動的環境に対応する組み込み向け「量子インスパイアード最適化技術」を高速・安定化",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/17/news062.html"
+        },
+        {
+          "title": "クアルコム、スマートフォンに代わる次世代ウェアラブル向け最上位チップ「スナップドラゴン・リアリティ・エリート」を発表",
+          "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables"
         }
       ]
     }
