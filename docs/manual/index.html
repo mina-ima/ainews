@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ainews（Technology Daily Report）取扱説明書</title>
+<style>
+:root{--fg:#1a1a1a;--muted:#666;--accent:#2563eb;--bg:#fff;--code:#f4f4f5;--border:#e5e7eb}*{box-sizing:border-box}body{font-family:-apple-system,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;line-height:1.8;color:var(--fg);background:var(--bg);max-width:820px;margin:0 auto;padding:24px 18px}h1{font-size:1.7rem;border-bottom:3px solid var(--accent);padding-bottom:.4em;margin-top:0}h2{font-size:1.3rem;margin-top:2em;border-left:5px solid var(--accent);padding-left:.5em}h3{font-size:1.1rem;margin-top:1.5em}code{background:var(--code);padding:.15em .4em;border-radius:4px;font-size:.9em}pre{background:var(--code);padding:14px;border-radius:8px;overflow-x:auto}pre code{background:none;padding:0}table{border-collapse:collapse;width:100%;margin:1em 0}th,td{border:1px solid var(--border);padding:8px 10px;text-align:left}th{background:#f8fafc}blockquote{border-left:4px solid var(--accent);background:#f0f6ff;margin:1em 0;padding:.6em 1em;color:#334}a{color:var(--accent)}footer{margin-top:3em;padding-top:1em;border-top:1px solid var(--border);color:var(--muted);font-size:.85rem}@media(max-width:600px){body{padding:16px 12px}h1{font-size:1.4rem}}
+</style>
+</head>
+<body>
+<h1>ainews（Technology Daily Report）取扱説明書</h1>
+<blockquote>毎朝、AI・先端技術・製造業界のニュースを自動で集めて要約し、記事一覧と音声（MP3）として届けるシステムです。</blockquote>
+
+<h2>このアプリでできること</h2>
+<ul>
+<li>AI・先端技術・PCB/電子実装業界などのニュースを自動で収集します。</li>
+<li>集めたニュースをAIが日本語で分かりやすく要約します。</li>
+<li>要約をテキスト（Markdown）と音声（MP3）の両方で生成します。</li>
+<li>Webサイト上で記事一覧を読んだり、音声プレイヤーで聞いたりできます。</li>
+<li>毎朝決まった時刻に自動更新されるため、手動操作なしで最新情報が届きます。</li>
+</ul>
+
+<h2>想定ユーザー・利用シーン</h2>
+<ul>
+<li>忙しくて技術ニュースを毎日チェックする時間がない方。</li>
+<li>通勤中などに「ながら聞き」で最新動向をキャッチアップしたい方。</li>
+<li>PCB/電子実装・製造業界の技術ブレイクスルーを定点観測したい方。</li>
+<li>朝のルーティンとして、まとめ記事をさっと読みたい方。</li>
+</ul>
+
+<h2>動作環境・前提</h2>
+<ul>
+<li>閲覧するだけの方: スマートフォンまたはPCのWebブラウザがあれば利用できます。本番サイトにアクセスするだけです。</li>
+<li>自分で動かす・開発する方: Node.js（pnpm）と Python（uv）の環境が必要です。</li>
+<li>AI要約・音声生成には Google Gemini と Groq のAPIキーが必要です（無料枠を利用）。</li>
+</ul>
+
+<h2>セットアップ</h2>
+<p>閲覧だけなら不要です。本番サイトにアクセスしてください。</p>
+<p>自分で動かす場合:</p>
+<ol>
+<li>リポジトリを取得します。</li>
+<li>収集処理（Python）の準備をします。
+<pre><code>cd collector
+# .env ファイルにAPIキーを記入（GEMINI_KEY_*, GROQ_API_KEY）</code></pre></li>
+<li>フロントエンド（Next.js）の準備をします。
+<pre><code>cd frontend &amp;&amp; pnpm install</code></pre></li>
+</ol>
+
+<h2>使い方（ステップbyステップ）</h2>
+<h3>読者として使う場合</h3>
+<ol>
+<li>本番サイトをブラウザで開きます。</li>
+<li>トップページに最新の記事一覧が並びます。</li>
+<li>読みたい記事のタイトルをタップ／クリックします。</li>
+<li>要約本文が表示されます。音声プレイヤーがある記事は再生ボタンで「ながら聞き」できます。</li>
+</ol>
+<h3>自分で収集を実行する場合</h3>
+<ol>
+<li>APIキーを設定した状態で、収集処理を実行します。
+<pre><code>cd collector &amp;&amp; export $(cat .env | xargs) &amp;&amp; uv run python -m src.main</code></pre></li>
+<li><code>articles/</code> フォルダに Markdown と <code>index.json</code> が生成されます。MP3 は GitHub Releases に保存されます。</li>
+<li>フロントエンドを起動して確認します。
+<pre><code>cd frontend &amp;&amp; pnpm dev</code></pre></li>
+</ol>
+
+<h2>主な機能</h2>
+<ul>
+<li>ニュース収集: Hacker News API と RSS から幅広く記事を集めます。</li>
+<li>AI要約: Google Gemini 2.5 Flash（無料枠）で要約。失敗時は Groq Llama にフォールバックします。</li>
+<li>音声生成（TTS）: edge-tts（Microsoft Nanami）で日本語音声を作成します。</li>
+<li>自動実行: GitHub Actions により毎朝 JST 7:00 ごろ（cron は遅延対策で前倒し設定）に自動更新されます。</li>
+<li>通知: 取得完了時に Discord へ通知します（設定時）。</li>
+</ul>
+
+<h2>よくある質問・トラブルシューティング</h2>
+<ul>
+<li><strong>Q: 記事が今日更新されていません。</strong><br>A: 自動実行（GitHub Actions）の遅延や、ニュース元・APIの一時的な不調が考えられます。時間をおいて再度ご確認ください。</li>
+<li><strong>Q: 音声が再生されません。</strong><br>A: その記事にMP3が生成されていない場合があります。また、MP3はGitHub Releasesに置かれているため、ネットワーク状況により読み込みに時間がかかることがあります。</li>
+<li><strong>Q: 自分で動かしたら要約が出ません。</strong><br>A: APIキー（Gemini / Groq）の設定や無料枠の上限を確認してください。Geminiが上限に達するとGroqへ自動的に切り替わります。</li>
+</ul>
+
+<h2>開発者向けメモ（技術スタック/起動コマンド/ビルド/デプロイ先・本番URL）</h2>
+<ul>
+<li>構成:
+  <ul>
+  <li><code>collector/</code> … Python（uv）。ニュース収集・要約・TTS。</li>
+  <li><code>frontend/</code> … Next.js（pnpm）。記事一覧・音声プレイヤーのWeb UI。</li>
+  <li><code>articles/</code> … 生成された Markdown と <code>index.json</code>。</li>
+  <li><code>.github/workflows/collect.yml</code> … 毎朝の自動実行ワークフロー。</li>
+  </ul>
+</li>
+<li>技術スタック: 収集=Hacker News API + RSS / 要約=Google Gemini 2.5 Flash →（フォールバック）Groq Llama / TTS=edge-tts（Microsoft Nanami）/ MP3保存=GitHub Releases / フロント=Next.js 16・React 19・Tailwind CSS・Vercel / CI=GitHub Actions</li>
+<li>起動コマンド:
+<pre><code># 収集
+cd collector &amp;&amp; export $(cat .env | xargs) &amp;&amp; uv run python -m src.main
+# フロント開発
+cd frontend &amp;&amp; pnpm dev
+# フロントビルド
+cd frontend &amp;&amp; pnpm build</code></pre></li>
+<li>本番URL: <a href="https://ainews-eight-theta.vercel.app">https://ainews-eight-theta.vercel.app</a></li>
+<li>状態: デプロイ済み・本番稼働中。</li>
+</ul>
+
+<footer>本書は自動生成された取扱説明書です。</footer>
+</body>
+</html>
