@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-10",
-      "stories": [
-        {
-          "title": "アンソロピック、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/"
-        },
-        {
-          "title": "アップル、グーグルのGeminiモデルを統合した新しいAIアーキテクチャを公開",
-          "source_url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"
-        },
-        {
-          "title": "EU、メタに対し競合のAIチャットボットをWhatsAppに無料で開放するよう命令",
-          "source_url": "https://www.reuters.com/world/eu-regulators-order-meta-allow-rival-ai-chatbots-free-access-whatsapp-2026-06-09/"
-        },
-        {
-          "title": "シャオミ、薄さ約8.7mmで5000mAhの超薄型マグネット式モバイルバッテリーを発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2115479.html"
-        },
-        {
-          "title": "JBL、エッジAIでどんな曲でもリアルタイムにボーカルを消してカラオケ化できるワイヤレスマイクセットを発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2115515.html"
-        },
-        {
-          "title": "サンワサプライ、握って直感操作できる充電式ペン型ワイヤレスマウスを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2115686.html"
-        },
-        {
-          "title": "エヌビディアとSKハイニックス、AIデータセンター向け次世代メモリの開発・供給で提携",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2115543.html"
-        },
-        {
-          "title": "スペースエックス、宇宙データセンター用AI衛星「AI1」の詳細と巨大工場「Gigasat」を公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/spacex-unveils-11-million-square-foot-gigasat-factory-a-new-manufacturing-facility-for-space-based-data-centers-aims-for-1-gw-year-of-space-ai-compute-by-late-2027-from-its-satellites"
-        },
-        {
-          "title": "ゼネラルモーターズ、ナトリウムイオン電池とEVのV2G技術でAIデータセンターの電力需要に対応",
-          "source_url": "https://asia.nikkei.com/business/energy/gm-partners-with-peak-energy-for-sodium-ion-battery-storage"
-        },
-        {
-          "title": "寿命延長スタートアップ、視力低下を逆転させる細胞若返り療法「ER-100」のヒト臨床試験を開始",
-          "source_url": "https://www.wired.com/story/longevity-startup-doses-first-human-in-bid-to-reverse-age-related-sight-loss/"
-        },
-        {
-          "title": "酸化物系固体電解質の進歩により、全固体電池の材料コストが電解液並みに低下する可能性",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03628/052800006/"
-        },
-        {
-          "title": "2020年代前半の半導体不足が引き起こした、2026年の計測器における品質問題の教訓",
-          "source_url": "https://hackaday.com/2026/06/09/how-the-2020s-chip-crisis-led-to-a-buggy-saeleae-analyzer-in-2026/"
-        },
-        {
-          "title": "エヌビディア、人型ロボット向けプラットフォーム「Isaac GR00T」を発表",
-          "source_url": "https://www.engineering.com/nvidia-introduces-isaac-gr00t-reference-humanoid-robot/"
-        },
-        {
-          "title": "マイクロソフトのオープンソースツールがハッキングされ、AI開発者の資格情報が盗まれる",
-          "source_url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-11",
       "stories": [
         {
@@ -357,6 +296,39 @@
         {
           "title": "クアルコム、スマートフォンに代わる次世代ウェアラブル向け最上位チップ「スナップドラゴン・リアリティ・エリート」を発表",
           "source_url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "stories": [
+        {
+          "title": "米国、アンソロピックのAIモデル「Fable 5」の利用を停止",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans"
+        },
+        {
+          "title": "Google、Gemini搭載の新型スマートスピーカー「Google Home スピーカー」を発売",
+          "source_url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
+        },
+        {
+          "title": "スナップ（Snap）、2,195ドルの高性能ARグラス「Specs」を発表",
+          "source_url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/"
+        },
+        {
+          "title": "山善、発火リスクを低減する「準固体モバイルバッテリー」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html"
+        },
+        {
+          "title": "スペースX（SpaceX）がAIコーディングツール「カーソル（Cursor）」を600億ドルで買収",
+          "source_url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
+        },
+        {
+          "title": "アンリツ、1Tbps超の光通信素子を評価可能な広帯域リニアアンプを発売",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11826/"
+        },
+        {
+          "title": "ソニー、スマホ向け1/1.28型イメージセンサー「LYTIA L910」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2117970.html"
         }
       ]
     }
