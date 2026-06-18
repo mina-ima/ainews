@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-11",
-      "stories": [
-        {
-          "title": "NTT、800億円規模のAIファンド「IOWN AI Fund」を組成",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/10/news123.html"
-        },
-        {
-          "title": "Anthropicの最上位モデル「Claude Fable 5」が一般公開",
-          "source_url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-        },
-        {
-          "title": "ポラロイド、小型インスタントカメラ「Go Gen 3」を発売",
-          "source_url": "https://newatlas.com/consumer-tech/polaroid-go-gen-3-instant-camera/"
-        },
-        {
-          "title": "ロジクール、折りたたみ可能な超小型マウス「Mobi Fold」を発表",
-          "source_url": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on"
-        },
-        {
-          "title": "グリーンハウス、USB/乾電池駆動のポータブル燻製器を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2115940.html"
-        },
-        {
-          "title": "メルセデス・ベンツ、電気自動車向けアキシャル磁束モーターの量産を開始",
-          "source_url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"
-        },
-        {
-          "title": "三菱電機、バイオマス由来成分40％以上の高耐熱エポキシ樹脂を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03258/"
-        },
-        {
-          "title": "オークリッジ国立研究所、400℃で強度を保つ3Dプリント用アルミ合金「DuAlumin-3D」を開発",
-          "source_url": "https://3dprintingindustry.com/news/ornls-dualumin-3d-a-printable-aluminum-alloy-that-holds-its-strength-at-400c-252199/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-12",
       "stories": [
         {
@@ -329,6 +292,43 @@
         {
           "title": "ソニー、スマホ向け1/1.28型イメージセンサー「LYTIA L910」を発表",
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2117970.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "stories": [
+        {
+          "title": "オープンAI（OpenAI）、Googleディープマインド（DeepMind）のトランスフォーマー共同発明者ノーム・シャジール氏を引き抜き",
+          "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
+        },
+        {
+          "title": "アドビ（Adobe）、Fireflyをエージェント化しCreative Cloud全製品に統合",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2118366.html"
+        },
+        {
+          "title": "アンカー（Anker）の「Nano Charging Station」、巻取り式ケーブル搭載の7-in-1電源タップ",
+          "source_url": "https://www.gizmodo.jp/article/308526-2606-amazon-anker-nanochargingstation7-in-1/"
+        },
+        {
+          "title": "ニデック（Nidec）、10万円を切る洗剤自動投入機能付きドラム式洗濯乾燥機を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2118119.html"
+        },
+        {
+          "title": "TSMCの生産能力が限界に、GoogleやNVIDIAなどがサムスン（Samsung）を代替候補に検討",
+          "source_url": "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/"
+        },
+        {
+          "title": "Amazon、AIチップの外部販売を検討　エヌビディア（Nvidia）に対抗",
+          "source_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
+        },
+        {
+          "title": "AIデータセンターの電力・水消費が深刻化、2030年にはニューヨーク市並みの水が必要に",
+          "source_url": "https://www.gizmodo.jp/article/us-data-centers-could-require-as-much-water-as-new-york-city-by-2030-study-shows-ash/"
+        },
+        {
+          "title": "酸化亜鉛とテルルを用いた新半導体技術、部品数75％削減で処理速度4倍へ",
+          "source_url": "https://www.gizmodo.jp/article/semiconductors_multi_tasking_zno_te/"
         }
       ]
     }
