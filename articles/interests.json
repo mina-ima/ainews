@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-06-16T08:14:36.522653+09:00",
+  "updated_at": "2026-06-18T12:47:51.776953+09:00",
   "items": [
-    {
-      "title": "Geminiアプリが「Extended」思考レベルとサードパーティ連携を拡大",
-      "category": "LLM・生成AI",
-      "date": "2026-05-17",
-      "source_url": "https://9to5google.com/2026/05/17/gemini-app-thinking-level/",
-      "importance": 5
-    },
-    {
-      "title": "1945年の原爆実験で全く新しい物質が生成されていたことが判明",
-      "category": "材料・ナノテク",
-      "date": "2026-05-17",
-      "source_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
-      "importance": 5
-    },
-    {
-      "title": "OpenAIとマルタ政府、全市民にChatGPT Plusを無償提供",
-      "category": "AI規制・政策",
-      "date": "2026-05-18",
-      "source_url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "importance": 5
-    },
-    {
-      "title": "AIエージェント向けコード検索ツール「Semble」発表、トークン消費98%削減",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-05-18",
-      "source_url": "https://github.com/MinishLab/semble",
-      "importance": 5
-    },
     {
       "title": "グーグル、新世代AI「Gemini 3.5」シリーズを発表、軽量モデル「Flash」を即日提供",
       "category": "LLM・生成AI",
@@ -252,6 +224,34 @@
       "date": "2026-06-13",
       "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03635/060500002/",
       "importance": 4
+    },
+    {
+      "title": "ソフトバンクとオープンAI、高度AIで重要インフラの脆弱性を自動診断・修復する新サービスを発表",
+      "category": "AIプロダクト",
+      "date": "2026-06-17",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
+      "importance": 5
+    },
+    {
+      "title": "筋肉でAIを動かせ！手回し発電でローカル音声AIを実行する「クランクGPT」が登場",
+      "category": "ガジェット・民生機器",
+      "date": "2026-06-17",
+      "source_url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
+      "importance": 4
+    },
+    {
+      "title": "アップルの「乗り物酔い防止ドット」機能が劇的な効果、車内での画面操作による不快感を解消",
+      "category": "ガジェット・民生機器",
+      "date": "2026-06-17",
+      "source_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+      "importance": 4
+    },
+    {
+      "title": "山善、発火リスクを低減する「準固体モバイルバッテリー」を発売",
+      "category": "ガジェット・民生機器",
+      "date": "2026-06-18",
+      "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html",
+      "importance": 3
     }
   ]
 }
