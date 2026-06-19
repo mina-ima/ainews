@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-12",
-      "stories": [
-        {
-          "title": "Anthropicが「Claude Fable 5」の保護機能を可視化、不透明な動作を謝罪",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/12/news068.html"
-        },
-        {
-          "title": "NECとアンソロピック、金融8社とAI活用で連携",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news128.html"
-        },
-        {
-          "title": "VisaとOpenAIが提携、AIエージェントによる安全な決済環境を構築",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html"
-        },
-        {
-          "title": "Insta360、ライカ共同開発のジンバルカメラ「Luna Ultra」発表",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/11/news134.html"
-        },
-        {
-          "title": "MSI、創立40周年記念のRTX 5090搭載18型ゲーミングノート発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2116358.html"
-        },
-        {
-          "title": "スペースエックス（SpaceX）が史上最大のIPOを実施、時価総額に注目",
-          "source_url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/"
-        },
-        {
-          "title": "島津製作所、中国で半導体製造装置向けターボ分子ポンプの生産開始",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03261/"
-        },
-        {
-          "title": "Apple、Mac上で軽量Linux環境を実現する「Container machine」発表",
-          "source_url": "https://gigazine.net/news/20260611-apple-container-machines/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-13",
       "stories": [
         {
@@ -329,6 +292,39 @@
         {
           "title": "酸化亜鉛とテルルを用いた新半導体技術、部品数75％削減で処理速度4倍へ",
           "source_url": "https://www.gizmodo.jp/article/semiconductors_multi_tasking_zno_te/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "stories": [
+        {
+          "title": "アドビ（Adobe）がCreative Cloud全製品にAIエージェントを全面導入",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch"
+        },
+        {
+          "title": "理化学研究所、AI科学研究用スパコン「理究（りきゅう）」の名称を発表",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/"
+        },
+        {
+          "title": "サンワダイレクトの防水Bluetoothスピーカー「400-SP119」",
+          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-sanwadirect-speaker/"
+        },
+        {
+          "title": "サンコー、折りたたみ可能な15.6型4Kデュアルモニターを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2118661.html"
+        },
+        {
+          "title": "ソニーのウェアラブルサーモデバイス「REON POCKET」がアップデート",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2118688.html"
+        },
+        {
+          "title": "TSMC・ASML・imecが2D材料を用いた次世代トランジスタの製造に成功",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer"
+        },
+        {
+          "title": "GMO AI＆ロボティクス商事が中国Unitree Roboticsの国内正規代理店に",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/"
         }
       ]
     }
