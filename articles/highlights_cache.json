@@ -1,27 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-14",
-      "stories": [
-        {
-          "title": "米政府の輸出規制によりAnthropicの最上位AI「Claude Fable 5」「Mythos 5」が全世界で利用停止",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security"
-        },
-        {
-          "title": "照明一体型プロジェクター「Aladdin X3 Laser 4K」が6月23日発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2116676.html"
-        },
-        {
-          "title": "ソニーの最新ミラーレス一眼「α7R VI」が登場、AI画像処理エンジン搭載",
-          "source_url": "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/"
-        },
-        {
-          "title": "SpaceXが史上最大のIPOを実施、時価総額2兆ドル超えで上場",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html"
-        }
-      ]
-    },
-    {
       "date": "2026-06-15",
       "stories": [
         {
@@ -261,6 +240,75 @@
         {
           "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボットの販売・保守を開始",
           "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "stories": [
+        {
+          "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
+          "source_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+        },
+        {
+          "title": "米スタートアップのサブクアドラティック、LLMの10年来の数学的ボトルネックを解消したと発表",
+          "source_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+        },
+        {
+          "title": "60Hz駆動で滑らかに動く、13.3インチのカラー電子ペーパーモニター「モドス・フロー」が登場",
+          "source_url": "https://gigazine.net/news/20260622-modos-flow/"
+        },
+        {
+          "title": "コードパッドとストラム操作で演奏も楽しめる、折りたたみ式Bluetoothスピーカー「サイバーG・ポケット」",
+          "source_url": "https://newatlas.com/consumer-tech/enya-cyber-g-pocket-bluetooth-speaker-music-maker/"
+        },
+        {
+          "title": "「攻殻機動隊」の世界観を完全再現した、アイキューニックスの超クールなメカニカルキーボード",
+          "source_url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review"
+        },
+        {
+          "title": "重いリュックの衝撃をバネで吸収、肩の負担を物理的に和らげる後付けサスペンションが登場",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-backpacksuspension2-review-947250/"
+        },
+        {
+          "title": "住民や環境団体の反対により、わずか3カ月で75件のデータセンター計画が中断",
+          "source_url": "https://www.gizmodo.jp/article/data-center-projects-were-disrupted/"
+        },
+        {
+          "title": "月額200ドルの「Claude Code」に対抗、完全無料で同等機能を提供するオープンソースAI「Goose」が台頭",
+          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+        },
+        {
+          "title": "ノートルダム大学ら、3Dバイオプリンティング技術で毛細血管規模の極微細な血管ネットワークの作製に成功",
+          "source_url": "https://3dprintingindustry.com/news/hybrid-3d-bioprinting-achieves-capillary-scale-vascular-networks-252413/"
+        },
+        {
+          "title": "TOTOが半導体製造装置向けセラミック材料に約500億円を投資、1ナノメートル世代の微細化に対応",
+          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"
+        },
+        {
+          "title": "安川電機、新工場に「セル方式」とフィジカルAIを導入し、ロボットの製造リードタイムを半減",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/061600016/"
+        },
+        {
+          "title": "オートデスク、自然言語や手描きスケッチから3D部品を自動モデリングするAI技術をCADに統合",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11834/"
+        },
+        {
+          "title": "軍用機の寿命を延ばす「半導体ライフライン」、製造中止となったレガシーチップや電子基板を維持する再設計技術",
+          "source_url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems"
+        },
+        {
+          "title": "老化と炎症を引き起こす新たな生体経路を発見、既存の承認薬でブロック可能であることが判明",
+          "source_url": "https://refractor.io/aging/age-related-inflammation-trigger/"
+        },
+        {
+          "title": "電動キックボードの先駆者が宇宙へ、スペースXのロケットを活用した「宇宙データセンター」事業が始動",
+          "source_url": "https://www.gizmodo.jp/article/orbital_ai_space/"
+        },
+        {
+          "title": "低照度環境でも二酸化炭素から「ソーラー燃料」を効率生産できる、革新的な人工光合成システムが開発",
+          "source_url": "https://newatlas.com/energy/artificial-photosynthesis-system-solar-fuel/"
         }
       ]
     }
