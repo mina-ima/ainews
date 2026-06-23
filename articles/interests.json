@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-06-19T09:43:06.963423+09:00",
+  "updated_at": "2026-06-23T14:42:23.909303+09:00",
   "items": [
-    {
-      "title": "グーグル、新世代AI「Gemini 3.5」シリーズを発表、軽量モデル「Flash」を即日提供",
-      "category": "LLM・生成AI",
-      "date": "2026-05-21",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
-      "importance": 5
-    },
-    {
-      "title": "「生きてはいないが死んでもいない」体外のヒト脳組織を用いた画期的な創薬テスト",
-      "category": "医療・バイオ",
-      "date": "2026-05-21",
-      "source_url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "importance": 5
-    },
-    {
-      "title": "ホルムズ海峡封鎖の影響で半導体用フッ化水素が価格高騰の危機、メモリ供給網に緊張",
-      "category": "半導体・チップ",
-      "date": "2026-05-21",
-      "source_url": "https://www.tomshardware.com/tech-industry/memory-makers-brace-for-hydrogen-fluoride-pricing-shock-as-hormuz-blockade-impacts-supply-chain-key-etching-and-cleaning-material-faces-sharp-cost-increase-amid-trade-disruption",
-      "importance": 5
-    },
-    {
-      "title": "ロケット・ラボ、3Dプリンティング製ロケットエンジン「ラザフォード」の製造1,000基を達成",
-      "category": "3Dプリンティング・製造",
-      "date": "2026-05-21",
-      "source_url": "https://3dprintingindustry.com/news/rocket-labs-3d-printed-engine-hits-1000-units-251599/?utm_source=rss&utm_medium=rss&utm_campaign=rocket-labs-3d-printed-engine-hits-1000-units",
-      "importance": 4
-    },
-    {
-      "title": "GitHub、内部コード流出の侵害経路は「悪意あるVS Code拡張機能」と特定",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-05-21",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
-      "importance": 4
-    },
-    {
-      "title": "700以上の歴史的OSをブラウザ上で起動できる「バーチャルOSミュージアム」が公開",
-      "category": "その他先端技術",
-      "date": "2026-05-21",
-      "source_url": "https://virtualosmuseum.org/",
-      "importance": 3
-    },
     {
       "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
       "category": "LLM・生成AI",
@@ -252,6 +210,34 @@
       "date": "2026-06-18",
       "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html",
       "importance": 3
+    },
+    {
+      "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
+      "category": "AI研究",
+      "date": "2026-06-22",
+      "source_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "importance": 5
+    },
+    {
+      "title": "住民や環境団体の反対により、わずか3カ月で75件のデータセンター計画が中断",
+      "category": "エネルギー・環境技術",
+      "date": "2026-06-22",
+      "source_url": "https://www.gizmodo.jp/article/data-center-projects-were-disrupted/",
+      "importance": 5
+    },
+    {
+      "title": "月額200ドルの「Claude Code」に対抗、完全無料で同等機能を提供するオープンソースAI「Goose」が台頭",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-06-22",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 5
+    },
+    {
+      "title": "アンソロピック（Anthropic）の高性能AI「Mythos」、NSAの機密システムを短時間で突破し米政府が規制へ",
+      "category": "AI規制・政策",
+      "date": "2026-06-23",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models",
+      "importance": 5
     }
   ]
 }
