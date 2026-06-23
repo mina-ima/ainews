@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-16",
-      "stories": [
-        {
-          "title": "XREALとASUSがコラボ、最大240Hz対応のゲーミングARグラス「ROG XREAL R1」発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2117230.html"
-        },
-        {
-          "title": "骨伝導技術を活用した超薄型枕下スピーカーが登場",
-          "source_url": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/"
-        },
-        {
-          "title": "トヨタ、液体水素で超電導モーターを冷却する世界初の技術で耐久レース完走",
-          "source_url": "https://asia.nikkei.com/spotlight/sports/toyota-s-shakeup-of-racing-division-leads-to-le-mans-enduro-crown"
-        },
-        {
-          "title": "スペースX（SpaceX）がIPOを実施、調達額は857億ドルに拡大",
-          "source_url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
-        },
-        {
-          "title": "ルネサスエレクトロニクス（Renesas Electronics）が語る人型ロボットの核心",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03631/060900008/"
-        },
-        {
-          "title": "インフィニオン（Infineon）とシーメンス（Siemens）が固体回路保護で提携",
-          "source_url": "https://www.engineering.com/infineon-siemens-partner-on-solid-state-circuit-protection/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-17",
       "stories": [
         {
@@ -317,6 +288,43 @@
         {
           "title": "x86アーキテクチャのAI拡張命令「ACE」の仕様が公開",
           "source_url": "https://gigazine.net/news/20260622-ace-x86-ai-computation-extensions/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "stories": [
+        {
+          "title": "アンソロピック（Anthropic）がSlack向けAIエージェント「Claude Tag」を導入",
+          "source_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+        },
+        {
+          "title": "メタ（Meta）がRay-Banブランドを外した低価格スマートグラスを発表",
+          "source_url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
+        },
+        {
+          "title": "DJIがデュアルカメラ搭載のポケットジンバル「Osmo Pocket 4P」を6月29日に発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2119448.html"
+        },
+        {
+          "title": "指輪型AIレコーダー「Stream Ring」が登場、メモアプリ不要の音声記録を実現",
+          "source_url": "https://www.gizmodo.jp/article/stream_ring_recorder_repost/"
+        },
+        {
+          "title": "NVIDIAがロボティクス向け安全システム「NVIDIA Halos for Robotics」を発表",
+          "source_url": "https://www.engineering.com/nvidia-launches-halos-safety-system-for-robotics/"
+        },
+        {
+          "title": "米政府、原子力発電サプライチェーン強化へ175億ドルの融資を発表",
+          "source_url": "https://www.reuters.com/business/energy/us-announces-175-billion-conditional-loans-nuclear-power-2026-06-23/"
+        },
+        {
+          "title": "キオクシア（Kioxia）が時価総額でトヨタを抜く、半導体市場の急成長を反映",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/02373/062200042/"
+        },
+        {
+          "title": "DMG森精機が欧州工場を拡張、半導体製造装置向け加工能力を2倍に",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/061800017/"
         }
       ]
     }
