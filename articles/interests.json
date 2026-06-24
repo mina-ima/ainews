@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T14:42:23.909303+09:00",
+  "updated_at": "2026-06-24T09:11:26.795569+09:00",
   "items": [
     {
       "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
@@ -210,6 +210,13 @@
       "date": "2026-06-18",
       "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html",
       "importance": 3
+    },
+    {
+      "title": "オープンAI（OpenAI）、Googleディープマインド（DeepMind）のトランスフォーマー共同発明者ノーム・シャジール氏を引き抜き",
+      "category": "LLM・生成AI",
+      "date": "2026-06-19",
+      "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "importance": 5
     },
     {
       "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
