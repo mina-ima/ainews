@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-06-24T09:11:26.795569+09:00",
+  "updated_at": "2026-06-25T17:08:38.787385+09:00",
   "items": [
-    {
-      "title": "DeepSeek、主力AIモデルの利用料金を恒久的に75%値下げ",
-      "category": "LLM・生成AI",
-      "date": "2026-05-25",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-      "importance": 5
-    },
     {
       "title": "日本、マッハ5極超音速旅客機向けのラムジェットエンジン燃焼試験に成功",
       "category": "宇宙・航空",
@@ -244,6 +237,20 @@
       "category": "AI規制・政策",
       "date": "2026-06-23",
       "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models",
+      "importance": 5
+    },
+    {
+      "title": "グーグルからアンソロピックへのトップAI研究者の流出が止まらず",
+      "category": "AI研究",
+      "date": "2026-06-25",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
+      "importance": 5
+    },
+    {
+      "title": "グーグル、軽量高速AI「Gemini 3.5 Flash」にPCを自律操作する機能を導入",
+      "category": "AIプロダクト",
+      "date": "2026-06-25",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
       "importance": 5
     }
   ]
