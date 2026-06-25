@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-18",
-      "stories": [
-        {
-          "title": "米国、アンソロピックのAIモデル「Fable 5」の利用を停止",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-pulls-the-kill-switch-on-anthropics-fable-5-ai-models-sending-global-allies-scrambling-european-and-canadian-leaders-alarm-allies-over-sudden-export-bans"
-        },
-        {
-          "title": "Google、Gemini搭載の新型スマートスピーカー「Google Home スピーカー」を発売",
-          "source_url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/"
-        },
-        {
-          "title": "スナップ（Snap）、2,195ドルの高性能ARグラス「Specs」を発表",
-          "source_url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/"
-        },
-        {
-          "title": "山善、発火リスクを低減する「準固体モバイルバッテリー」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html"
-        },
-        {
-          "title": "スペースX（SpaceX）がAIコーディングツール「カーソル（Cursor）」を600億ドルで買収",
-          "source_url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"
-        },
-        {
-          "title": "アンリツ、1Tbps超の光通信素子を評価可能な広帯域リニアアンプを発売",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11826/"
-        },
-        {
-          "title": "ソニー、スマホ向け1/1.28型イメージセンサー「LYTIA L910」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2117970.html"
-        }
-      ]
-    },
-    {
       "date": "2026-06-19",
       "stories": [
         {
@@ -341,6 +308,35 @@
         {
           "title": "人型ロボット開発のアジリティ・ロボティクスがSPAC上場へ、25億ドル規模",
           "source_url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "stories": [
+        {
+          "title": "オートフォーカス眼鏡「ViXion2」、前モデルの弱点を克服し登場",
+          "source_url": "https://www.gizmodo.jp/article/vixion2-har/"
+        },
+        {
+          "title": "UGREENのカード型スマートトラッカー「FineTrack Slim Duo」、バッテリー寿命5年を実現",
+          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-ugreen-finetrack/"
+        },
+        {
+          "title": "IBM、1ナノメートル未満の0.7nm世代半導体技術を発表",
+          "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
+        },
+        {
+          "title": "オープンAI（OpenAI）、ブロードコム（Broadcom）と共同開発した初のカスタムAIチップを発表",
+          "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
+        },
+        {
+          "title": "オークリッジ国立研究所（ORNL）、折り紙に着想を得た複合材料製造でコストを90%削減",
+          "source_url": "https://3dprintingindustry.com/news/ornls-origami-inspired-process-cuts-composite-fabrication-costs-by-90-252531/"
+        },
+        {
+          "title": "STマイクロエレクトロニクス、dToFセンサー搭載のオールインワンLiDARモジュールを発表",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11844/"
         }
       ]
     }
