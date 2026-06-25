@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T17:08:38.787385+09:00",
+  "updated_at": "2026-06-26T08:06:47.864590+09:00",
   "items": [
     {
       "title": "日本、マッハ5極超音速旅客機向けのラムジェットエンジン燃焼試験に成功",
@@ -252,6 +252,27 @@
       "date": "2026-06-25",
       "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
       "importance": 5
+    },
+    {
+      "title": "深層学習を用いた心電図解析で「突然死」のバイオマーカーを発見",
+      "category": "医療・バイオ",
+      "date": "2026-06-25",
+      "source_url": "https://www.nature.com/articles/s41586-026-10674-6",
+      "importance": 5
+    },
+    {
+      "title": "立体的な回路を紙で作る「折り紙回路基板」の技術が注目を集める",
+      "category": "プリント基板・電子実装",
+      "date": "2026-06-25",
+      "source_url": "https://spectrum.ieee.org/origami-circuit-boards",
+      "importance": 5
+    },
+    {
+      "title": "UGREENのカード型スマートトラッカー「FineTrack Slim Duo」、バッテリー寿命5年を実現",
+      "category": "ガジェット・民生機器",
+      "date": "2026-06-26",
+      "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-ugreen-finetrack/",
+      "importance": 3
     }
   ]
 }
