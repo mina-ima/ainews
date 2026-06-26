@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-19",
-      "stories": [
-        {
-          "title": "オープンAI（OpenAI）、Googleディープマインド（DeepMind）のトランスフォーマー共同発明者ノーム・シャジール氏を引き抜き",
-          "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/"
-        },
-        {
-          "title": "アドビ（Adobe）、Fireflyをエージェント化しCreative Cloud全製品に統合",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2118366.html"
-        },
-        {
-          "title": "アンカー（Anker）の「Nano Charging Station」、巻取り式ケーブル搭載の7-in-1電源タップ",
-          "source_url": "https://www.gizmodo.jp/article/308526-2606-amazon-anker-nanochargingstation7-in-1/"
-        },
-        {
-          "title": "ニデック（Nidec）、10万円を切る洗剤自動投入機能付きドラム式洗濯乾燥機を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2118119.html"
-        },
-        {
-          "title": "TSMCの生産能力が限界に、GoogleやNVIDIAなどがサムスン（Samsung）を代替候補に検討",
-          "source_url": "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/"
-        },
-        {
-          "title": "Amazon、AIチップの外部販売を検討　エヌビディア（Nvidia）に対抗",
-          "source_url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
-        },
-        {
-          "title": "AIデータセンターの電力・水消費が深刻化、2030年にはニューヨーク市並みの水が必要に",
-          "source_url": "https://www.gizmodo.jp/article/us-data-centers-could-require-as-much-water-as-new-york-city-by-2030-study-shows-ash/"
-        },
-        {
-          "title": "酸化亜鉛とテルルを用いた新半導体技術、部品数75％削減で処理速度4倍へ",
-          "source_url": "https://www.gizmodo.jp/article/semiconductors_multi_tasking_zno_te/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-20",
       "stories": [
         {
@@ -337,6 +300,87 @@
         {
           "title": "STマイクロエレクトロニクス、dToFセンサー搭載のオールインワンLiDARモジュールを発表",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11844/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "stories": [
+        {
+          "title": "オープンAIが次世代AI「GPT-5.6」を発表、安全保障を巡り米政府が利用者を個別審査へ",
+          "source_url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
+        },
+        {
+          "title": "中国で広がる「Claude」のグレー市場、公式の10%の価格でAPIを提供するプロキシが台頭",
+          "source_url": "https://gigazine.net/news/20260626-china-anthropic-api/"
+        },
+        {
+          "title": "スマホで毎秒213トークンの爆速処理、リキッドAIが超軽量モデルを無料公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2120513.html"
+        },
+        {
+          "title": "広告詐欺を「生体認証」で撃退、日本の広告代理店が画期的な不正防止アプリを開発",
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-ad-agency-fights-click-fraud-with-biometric-tech-app"
+        },
+        {
+          "title": "漕いで、止まって、発電する「ほぼ無限」に走れる電動アシスト自転車が登場",
+          "source_url": "https://www.gizmodo.jp/article/cyclemode-feremo-mmw/"
+        },
+        {
+          "title": "コンロがストーブに早変わり、イワタニの1台2役カセットガス機器「イザまる」",
+          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-iwatani-izamaru/"
+        },
+        {
+          "title": "横向きに寝ても痛くない、finalが“気持ちよさ”に特化した極小耳栓を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2120256.html"
+        },
+        {
+          "title": "手のひらサイズで本格望遠ズーム、20種類のフィルターを内蔵したミニカメラが登場",
+          "source_url": "https://www.gizmodo.jp/article/2606-costorypo-n300-start-1196858319/"
+        },
+        {
+          "title": "AIブームによるメモリ高騰が直撃、アップルとマイクロソフトが製品を大幅値上げ",
+          "source_url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike"
+        },
+        {
+          "title": "急増するAIデータセンターに住民が猛反発、米国で選挙を左右する政治問題に発展",
+          "source_url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327"
+        },
+        {
+          "title": "【続報】IBMが0.7ナノ半導体を「ウエハー接合」で実現、ラピダス協業は未定",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11848/"
+        },
+        {
+          "title": "ゲーミングGPUの「光の計算コア」でデータベースを高速化、NVIDIA H100を超える",
+          "source_url": "https://sedona.apache.org/latest/blog/2026/06/26/sedonadb-04-gpu-accelerated-spatial-joins/"
+        },
+        {
+          "title": "世界で最も「黒い」車を実現へ、中国がカーボンナノ素材の超堅牢塗料を開発",
+          "source_url": "https://newatlas.com/automotive/ultra-black-cb-cnt-hybrid-coating-robust-cars/"
+        },
+        {
+          "title": "6G通信の電波を劇的に強化、スタンフォード大らが3Dプリント製パネルを開発",
+          "source_url": "https://3dprintingindustry.com/news/aalto-university-and-stanford-test-a-new-architecture-for-6g-surfaces-252578/"
+        },
+        {
+          "title": "推進装置の量産へ、米ビーハイブが5000万ドルで金属3Dプリンター30台を導入",
+          "source_url": "https://3dprintingindustry.com/news/beehive-orders-30-new-eos-m4-onyx-printers-in-50m-deal-252595/"
+        },
+        {
+          "title": "量子コンピューターによる暗号解読に備え、米政府が移行期限を大幅に前倒し",
+          "source_url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
+        },
+        {
+          "title": "宇宙での即応体制を強化、米軍が極秘裏に「超短期間での衛星打ち上げ」演習を実施",
+          "source_url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/"
+        },
+        {
+          "title": "ホンダがEV技術を応用、米国でAIデータセンター向け蓄電池の生産を開始",
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-starts-ai-data-center-battery-production-in-us-after-ev-pivot"
+        },
+        {
+          "title": "鳥の言葉を解読した科学者に10万ドルの賞金、動物との対話実現へ一歩",
+          "source_url": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong"
         }
       ]
     }
