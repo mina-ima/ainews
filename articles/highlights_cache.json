@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-20",
-      "stories": [
-        {
-          "title": "アドビ（Adobe）がCreative Cloud全製品にAIエージェントを全面導入",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch"
-        },
-        {
-          "title": "理化学研究所、AI科学研究用スパコン「理究（りきゅう）」の名称を発表",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/"
-        },
-        {
-          "title": "サンワダイレクトの防水Bluetoothスピーカー「400-SP119」",
-          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-sanwadirect-speaker/"
-        },
-        {
-          "title": "サンコー、折りたたみ可能な15.6型4Kデュアルモニターを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2118661.html"
-        },
-        {
-          "title": "ソニーのウェアラブルサーモデバイス「REON POCKET」がアップデート",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2118688.html"
-        },
-        {
-          "title": "TSMC・ASML・imecが2D材料を用いた次世代トランジスタの製造に成功",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imec-asml-and-tsmc-build-complementary-2d-material-transistors-at-50nm-pitch-on-a-300mm-wafer"
-        },
-        {
-          "title": "GMO AI＆ロボティクス商事が中国Unitree Roboticsの国内正規代理店に",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-21",
       "stories": [
         {
@@ -381,6 +348,35 @@
         {
           "title": "鳥の言葉を解読した科学者に10万ドルの賞金、動物との対話実現へ一歩",
           "source_url": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "stories": [
+        {
+          "title": "OpenAIが次世代AI「GPT-5.6」を発表、米政府の要請で限定公開へ",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview"
+        },
+        {
+          "title": "Anthropicの高性能AI「Mythos 5」、米国の一部組織で利用再開",
+          "source_url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-5-to-some-us-companies"
+        },
+        {
+          "title": "Apple、部品コスト高騰によりMacやiPadを大幅値上げ",
+          "source_url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro"
+        },
+        {
+          "title": "ソニーの最新高画素カメラ「α7R VI」が登場、読み出し速度が5.6倍に",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/27/news006.html"
+        },
+        {
+          "title": "IBM、世界初の0.7ナノメートル世代半導体技術を発表",
+          "source_url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo"
+        },
+        {
+          "title": "超音波でエスプレッソ抽出、消費エネルギーを75%削減",
+          "source_url": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/"
         }
       ]
     }
