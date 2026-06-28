@@ -1,27 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-21",
-      "stories": [
-        {
-          "title": "アドビ（Adobe）がCreative Cloud全製品にAIエージェントを全面導入",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html"
-        },
-        {
-          "title": "パナソニック、LUMIX25周年記念モデルの高級コンパクトカメラ「DC-L10」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/20/news022.html"
-        },
-        {
-          "title": "ソフトバンク、通信障害時にAIが自律対応する仕組みで国内初の「レベル3」認定",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2118536.html"
-        },
-        {
-          "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボットの販売・保守を開始",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-22",
       "stories": [
         {
@@ -377,6 +356,35 @@
         {
           "title": "超音波でエスプレッソ抽出、消費エネルギーを75%削減",
           "source_url": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "stories": [
+        {
+          "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html"
+        },
+        {
+          "title": "Anthropicの高性能AI「Mythos 5」、米政府の許可を得て一部組織で利用再開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/"
+        },
+        {
+          "title": "カシオ計算機、新ブランド「earU」から耳をふさがないヒアリングアシストイヤホン「ER-100」が登場",
+          "source_url": "https://gigazine.net/news/20260628-casio-earu-er-100-appearance/"
+        },
+        {
+          "title": "ソフトバンク孫正義氏、データセンター誘致に向けた電力インフラ戦略を語る",
+          "source_url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html"
+        },
+        {
+          "title": "IEEE Spectrumが紹介する「折り紙回路基板」の技術",
+          "source_url": "https://spectrum.ieee.org/origami-circuit-boards"
+        },
+        {
+          "title": "中国のLoongsonが独自アーキテクチャの16コアサーバーCPU「3C3000」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers"
         }
       ]
     }
