@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-22",
-      "stories": [
-        {
-          "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
-          "source_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
-        },
-        {
-          "title": "米スタートアップのサブクアドラティック、LLMの10年来の数学的ボトルネックを解消したと発表",
-          "source_url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
-        },
-        {
-          "title": "60Hz駆動で滑らかに動く、13.3インチのカラー電子ペーパーモニター「モドス・フロー」が登場",
-          "source_url": "https://gigazine.net/news/20260622-modos-flow/"
-        },
-        {
-          "title": "コードパッドとストラム操作で演奏も楽しめる、折りたたみ式Bluetoothスピーカー「サイバーG・ポケット」",
-          "source_url": "https://newatlas.com/consumer-tech/enya-cyber-g-pocket-bluetooth-speaker-music-maker/"
-        },
-        {
-          "title": "「攻殻機動隊」の世界観を完全再現した、アイキューニックスの超クールなメカニカルキーボード",
-          "source_url": "https://www.theverge.com/tech/951371/iqunix-ev63-ghost-in-the-shell-edition-anime-gaming-mechanical-keyboard-review"
-        },
-        {
-          "title": "重いリュックの衝撃をバネで吸収、肩の負担を物理的に和らげる後付けサスペンションが登場",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-backpacksuspension2-review-947250/"
-        },
-        {
-          "title": "住民や環境団体の反対により、わずか3カ月で75件のデータセンター計画が中断",
-          "source_url": "https://www.gizmodo.jp/article/data-center-projects-were-disrupted/"
-        },
-        {
-          "title": "月額200ドルの「Claude Code」に対抗、完全無料で同等機能を提供するオープンソースAI「Goose」が台頭",
-          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-        },
-        {
-          "title": "ノートルダム大学ら、3Dバイオプリンティング技術で毛細血管規模の極微細な血管ネットワークの作製に成功",
-          "source_url": "https://3dprintingindustry.com/news/hybrid-3d-bioprinting-achieves-capillary-scale-vascular-networks-252413/"
-        },
-        {
-          "title": "TOTOが半導体製造装置向けセラミック材料に約500億円を投資、1ナノメートル世代の微細化に対応",
-          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era"
-        },
-        {
-          "title": "安川電機、新工場に「セル方式」とフィジカルAIを導入し、ロボットの製造リードタイムを半減",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/061600016/"
-        },
-        {
-          "title": "オートデスク、自然言語や手描きスケッチから3D部品を自動モデリングするAI技術をCADに統合",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11834/"
-        },
-        {
-          "title": "軍用機の寿命を延ばす「半導体ライフライン」、製造中止となったレガシーチップや電子基板を維持する再設計技術",
-          "source_url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems"
-        },
-        {
-          "title": "老化と炎症を引き起こす新たな生体経路を発見、既存の承認薬でブロック可能であることが判明",
-          "source_url": "https://refractor.io/aging/age-related-inflammation-trigger/"
-        },
-        {
-          "title": "電動キックボードの先駆者が宇宙へ、スペースXのロケットを活用した「宇宙データセンター」事業が始動",
-          "source_url": "https://www.gizmodo.jp/article/orbital_ai_space/"
-        },
-        {
-          "title": "低照度環境でも二酸化炭素から「ソーラー燃料」を効率生産できる、革新的な人工光合成システムが開発",
-          "source_url": "https://newatlas.com/energy/artificial-photosynthesis-system-solar-fuel/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-23",
       "stories": [
         {
@@ -385,6 +316,35 @@
         {
           "title": "中国のLoongsonが独自アーキテクチャの16コアサーバーCPU「3C3000」を発表",
           "source_url": "https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "stories": [
+        {
+          "title": "DJI、初のデュアルレンズ搭載ジンバルカメラ「Osmo Pocket 4P」を発売",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/29/news127.html"
+        },
+        {
+          "title": "3COINS、スマホ写真を直接プリントできる「フォトプリンター」を発売",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2606/29/news126.html"
+        },
+        {
+          "title": "韓国、サムスン（Samsung）やSKハイニックス（SK Hynix）らと5200億ドルのAI・半導体投資計画を発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support"
+        },
+        {
+          "title": "ファナック（FANUC）、AWS活用でロボットの模倣学習時間を60時間から4.8時間に短縮",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/"
+        },
+        {
+          "title": "NICTら、都市の既存光通信インフラで450Tbpsの超大容量伝送に成功",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2120915.html"
+        },
+        {
+          "title": "Imec、2038年までに0.3nmノード到達を目指すロードマップを公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density"
         }
       ]
     }
