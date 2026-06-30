@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-23",
-      "stories": [
-        {
-          "title": "アンソロピック（Anthropic）の高性能AI「Mythos」、NSAの機密システムを短時間で突破し米政府が規制へ",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models"
-        },
-        {
-          "title": "アンカー（Anker）のAI翻訳機能付きオープンイヤーイヤホン「Soundcore C50i」",
-          "source_url": "https://www.gizmodo.jp/article/2606-amazon-anker-soundcorec50i/"
-        },
-        {
-          "title": "Ankerの極小ウェアラブルAIレコーダー「Soundcore Work（64GB）」",
-          "source_url": "https://www.gizmodo.jp/article/amazon-anker-soundcorework64gb/"
-        },
-        {
-          "title": "Cleer、オープン型でTHX認証を取得した「ながら聴き」イヤホン",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2119084.html"
-        },
-        {
-          "title": "AIチップメーカーのグロク（Groq）、6億5000万ドルの資金調達を実施",
-          "source_url": "https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business"
-        },
-        {
-          "title": "ダイハツ、AI品質検査システムを導入し自動車部品の目視工程を自動化",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/23/news046.html"
-        },
-        {
-          "title": "x86アーキテクチャのAI拡張命令「ACE」の仕様が公開",
-          "source_url": "https://gigazine.net/news/20260622-ace-x86-ai-computation-extensions/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-24",
       "stories": [
         {
@@ -345,6 +312,39 @@
         {
           "title": "Imec、2038年までに0.3nmノード到達を目指すロードマップを公開",
           "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "stories": [
+        {
+          "title": "アンソロピック（Anthropic）が新モデル「Claude Sonnet 5」を発表",
+          "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+        },
+        {
+          "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出でClaudeを凌駕",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon"
+        },
+        {
+          "title": "AIが人の声と雑音を仕分ける集音イヤホン「KIKOE EAR」",
+          "source_url": "https://www.gizmodo.jp/article/2606-costorypo-kikoeear-start-1287765965/"
+        },
+        {
+          "title": "レノボ（Lenovo）のエンタメ特化タブレット「Lenovo Tab Plus Gen 2」",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2121106.html"
+        },
+        {
+          "title": "NTTデータとダイキン、AIによるデータセンター冷却最適化の共同検証を開始",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2120896.html"
+        },
+        {
+          "title": "エヌビディア（Nvidia）の競合Etchedが50億ドルの評価額を達成",
+          "source_url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
+        },
+        {
+          "title": "AIロボット1000万台導入へ、2040年までの経産省目標",
+          "source_url": "https://itmedia.co.jp/aiplus/article/2606/30/2000000144/"
         }
       ]
     }
