@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-07-01T08:01:40.525782+09:00",
+  "updated_at": "2026-07-02T08:08:00.632417+09:00",
   "items": [
-    {
-      "title": "リキッドAI、スマートフォンでローカル動作する日本語対応の軽量AIモデル「LFM2.5-8B-A1B」を公開",
-      "category": "LLM・生成AI",
-      "date": "2026-06-01",
-      "source_url": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
-      "importance": 4
-    },
-    {
-      "title": "膵臓がん患者の生存期間を倍増させる新薬「ダラキソンラシブ」の臨床試験が成功",
-      "category": "医療・バイオ",
-      "date": "2026-06-01",
-      "source_url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
-      "importance": 5
-    },
-    {
-      "title": "AIとレーザーを駆使して蚊を自動追尾・撃墜する「究極の蚊撃退ロボット」を開発",
-      "category": "ロボティクス・自動化",
-      "date": "2026-06-01",
-      "source_url": "https://www.tomshardware.com/maker-stem/robot-kits/the-ultimate-mosquito-killer-uses-lasers-and-ai-custom-model-trained-to-detect-and-lock-lasers-on-these-pests",
-      "importance": 4
-    },
     {
       "title": "エヌビディアがPC向け超高性能チップ「RTXスパーク」を発表、自律型AIエージェントがPCを操作する時代へ",
       "category": "半導体・チップ",
