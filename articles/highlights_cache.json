@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-24",
-      "stories": [
-        {
-          "title": "アンソロピック（Anthropic）がSlack向けAIエージェント「Claude Tag」を導入",
-          "source_url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
-        },
-        {
-          "title": "メタ（Meta）がRay-Banブランドを外した低価格スマートグラスを発表",
-          "source_url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/"
-        },
-        {
-          "title": "DJIがデュアルカメラ搭載のポケットジンバル「Osmo Pocket 4P」を6月29日に発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2119448.html"
-        },
-        {
-          "title": "指輪型AIレコーダー「Stream Ring」が登場、メモアプリ不要の音声記録を実現",
-          "source_url": "https://www.gizmodo.jp/article/stream_ring_recorder_repost/"
-        },
-        {
-          "title": "NVIDIAがロボティクス向け安全システム「NVIDIA Halos for Robotics」を発表",
-          "source_url": "https://www.engineering.com/nvidia-launches-halos-safety-system-for-robotics/"
-        },
-        {
-          "title": "米政府、原子力発電サプライチェーン強化へ175億ドルの融資を発表",
-          "source_url": "https://www.reuters.com/business/energy/us-announces-175-billion-conditional-loans-nuclear-power-2026-06-23/"
-        },
-        {
-          "title": "キオクシア（Kioxia）が時価総額でトヨタを抜く、半導体市場の急成長を反映",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/02373/062200042/"
-        },
-        {
-          "title": "DMG森精機が欧州工場を拡張、半導体製造装置向け加工能力を2倍に",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/061800017/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-25",
       "stories": [
         {
@@ -345,6 +308,39 @@
         {
           "title": "AIロボット1000万台導入へ、2040年までの経産省目標",
           "source_url": "https://itmedia.co.jp/aiplus/article/2606/30/2000000144/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "stories": [
+        {
+          "title": "ソフトバンクグループ、OpenAIへ1兆6273億円の追加出資を実行",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html"
+        },
+        {
+          "title": "Anthropicの高性能AI「Claude Fable 5」、米国政府の規制解除により提供再開",
+          "source_url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted"
+        },
+        {
+          "title": "ソニー（SIE）、2028年1月以降のPlayStation新作ゲームのディスク生産を終了へ",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news156.html"
+        },
+        {
+          "title": "富士フイルム、「写ルンです」の20年ぶり新製品を発表",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news150.html"
+        },
+        {
+          "title": "CIO、モバイルバッテリーの劣化状態を可視化する新機能を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2121579.html"
+        },
+        {
+          "title": "サムスン電子、次世代HBM4Eのサンプル出荷を開始",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11828/"
+        },
+        {
+          "title": "パナソニック、EV充電システム向け小型PCBリレーシリーズを発売",
+          "source_url": "https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/"
         }
       ]
     }
