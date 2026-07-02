@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-25",
-      "stories": [
-        {
-          "title": "高性能AI「ミュトス」を巡る対立で米国家安全保障局がアクセスを喪失",
-          "source_url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html"
-        },
-        {
-          "title": "グーグルからアンソロピックへのトップAI研究者の流出が止まらず",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic"
-        },
-        {
-          "title": "グーグル、軽量高速AI「Gemini 3.5 Flash」にPCを自律操作する機能を導入",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/"
-        },
-        {
-          "title": "富士通、GPU効率を最大475倍にするLLM新アーキテクチャ「PHOTON」開発",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/"
-        },
-        {
-          "title": "企業のAI予算が「小さなタスクの積み重ね」で枯渇、トークン配給制の時代へ",
-          "source_url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/"
-        },
-        {
-          "title": "電子管とニキシー管を搭載したロマン溢れるポータブルアンプ「M6 Double」が発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2119617.html"
-        },
-        {
-          "title": "脳に直接働きかけてストレスを緩和するウェアラブル「Nuropod」が登場",
-          "source_url": "https://www.gizmodo.jp/article/stressed-neuropod-says-it-can-fix-that-by-hacking-your-brain/"
-        },
-        {
-          "title": "「普通のメガネ」に極限まで近づいたシャオミのスマートグラスが発売",
-          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-xiaomi-smartglass/"
-        },
-        {
-          "title": "工事不要で天井から涼しい風が吹く、3COINSのファン付きLED照明",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2119231.html"
-        },
-        {
-          "title": "オープンAI初のカスタムAIチップ「ハラペーニョ」を発表、ブロードコムと共同開発",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno"
-        },
-        {
-          "title": "エヌビディア、45°C温水冷却でデータセンターの水使用量をほぼゼロにする新設計",
-          "source_url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/"
-        },
-        {
-          "title": "深層学習を用いた心電図解析で「突然死」のバイオマーカーを発見",
-          "source_url": "https://www.nature.com/articles/s41586-026-10674-6"
-        },
-        {
-          "title": "中国の新型スパコン「LineShine」が世界最速に、米国を抜き首位獲得",
-          "source_url": "https://www.tomshardware.com/tech-industry/supercomputers/china-tops-the-top500-with-a-cpu-only-supercomputer-ending-el-capitans-reign"
-        },
-        {
-          "title": "立体的な回路を紙で作る「折り紙回路基板」の技術が注目を集める",
-          "source_url": "https://spectrum.ieee.org/origami-circuit-boards"
-        },
-        {
-          "title": "マイクロソフトの量子ブレイクスルー主張に「Pythonの基本エラー」による誤りの指摘",
-          "source_url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489"
-        },
-        {
-          "title": "医療診断AIから訓練データの患者情報を特定できる脆弱性が判明",
-          "source_url": "https://www.theregister.com/ai-and-ml/2026/06/24/medical-diagnosis-ais-can-be-tricked-into-telling-whose-data-trained-them/5261501"
-        },
-        {
-          "title": "人間には不可能な超高効率無線チップをAIが自動設計",
-          "source_url": "https://spectrum.ieee.org/ai-radio-chip-design"
-        },
-        {
-          "title": "陸上自衛隊の駐屯地で国産の四足歩行型警備ロボットの導入検証が開始",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/24/news130.html"
-        },
-        {
-          "title": "人型ロボット開発のアジリティ・ロボティクスがSPAC上場へ、25億ドル規模",
-          "source_url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-26",
       "stories": [
         {
@@ -341,6 +260,39 @@
         {
           "title": "パナソニック、EV充電システム向け小型PCBリレーシリーズを発売",
           "source_url": "https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "stories": [
+        {
+          "title": "アンソロピック（Anthropic）、高性能AI「Claude Fable 5」の提供を世界的に再開",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back"
+        },
+        {
+          "title": "米オープンAI（OpenAI）、科学研究用AIベンチマーク「GeneBench-Pro」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2122022.html"
+        },
+        {
+          "title": "Xiaomi、最大42dBのノイズキャンセリング搭載ワイヤレスヘッドホン「REDMI Headphones Neo」を発売",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-xiaomi-headphones/"
+        },
+        {
+          "title": "無印良品、サウンドチューニングにこだわったワイヤレスオーディオ製品を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2121972.html"
+        },
+        {
+          "title": "インフィニオン（Infineon）、ドイツに大規模半導体工場を開設",
+          "source_url": "https://www.rfi.fr/en/international-news/20260702-germany-s-infineon-opens-major-chip-plant-as-eu-seeks-tech-autonomy"
+        },
+        {
+          "title": "国内ロボット大手3社が「フィジカルAI」向けデータセット構築で連携",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/02/2000000152/"
+        },
+        {
+          "title": "Auburn大学とNASA、微小重力環境下での「インクレス」電子回路プリントに成功",
+          "source_url": "https://3dprintingindustry.com/news/auburn-university-and-nasa-demonstrate-inkless-electronics-printing-in-microgravity-252755/"
         }
       ]
     }
