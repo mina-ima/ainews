@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-26",
-      "stories": [
-        {
-          "title": "オートフォーカス眼鏡「ViXion2」、前モデルの弱点を克服し登場",
-          "source_url": "https://www.gizmodo.jp/article/vixion2-har/"
-        },
-        {
-          "title": "UGREENのカード型スマートトラッカー「FineTrack Slim Duo」、バッテリー寿命5年を実現",
-          "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-ugreen-finetrack/"
-        },
-        {
-          "title": "IBM、1ナノメートル未満の0.7nm世代半導体技術を発表",
-          "source_url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology"
-        },
-        {
-          "title": "オープンAI（OpenAI）、ブロードコム（Broadcom）と共同開発した初のカスタムAIチップを発表",
-          "source_url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/"
-        },
-        {
-          "title": "オークリッジ国立研究所（ORNL）、折り紙に着想を得た複合材料製造でコストを90%削減",
-          "source_url": "https://3dprintingindustry.com/news/ornls-origami-inspired-process-cuts-composite-fabrication-costs-by-90-252531/"
-        },
-        {
-          "title": "STマイクロエレクトロニクス、dToFセンサー搭載のオールインワンLiDARモジュールを発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11844/"
-        }
-      ]
-    },
-    {
       "date": "2026-06-27",
       "stories": [
         {
@@ -293,6 +264,47 @@
         {
           "title": "Auburn大学とNASA、微小重力環境下での「インクレス」電子回路プリントに成功",
           "source_url": "https://3dprintingindustry.com/news/auburn-university-and-nasa-demonstrate-inkless-electronics-printing-in-microgravity-252755/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "stories": [
+        {
+          "title": "OpenAI、米国政府への5%株式譲渡を検討か",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
+        },
+        {
+          "title": "Meta、AIエージェント開発の遅れを認める",
+          "source_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+        },
+        {
+          "title": "Nothingの新作イヤホン「Ear (3a)」が7月7日発表へ",
+          "source_url": "https://www.gizmodo.jp/article/nothing-ear3a-pink/"
+        },
+        {
+          "title": "ブロックで自由にデコれる32型チューナーレステレビ「ORION DECORA」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2122120.html"
+        },
+        {
+          "title": "無印良品、「暮らしに寄り添う」オーディオデバイス5製品を発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2122034.html"
+        },
+        {
+          "title": "Anthropicがサムスン電子と独自AIチップ開発を協議中",
+          "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
+        },
+        {
+          "title": "ユニバーサルロボット、産業用ロボット向け「フィジカルAI」データ収集システムを投入",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11864/"
+        },
+        {
+          "title": "消火栓標識を「災害時の通信拠点」に、Starlink活用技術デモ",
+          "source_url": "https://itmedia.co.jp/news/articles/2607/03/news124.html"
+        },
+        {
+          "title": "サムスン電子、最大転送速度10.8GB/sの「UFS 5.0」フラッシュメモリを開発",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2122212.html"
         }
       ]
     }
