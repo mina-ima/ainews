@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-02T13:08:00.744763+09:00",
+  "updated_at": "2026-07-03T09:22:18.888007+09:00",
   "items": [
-    {
-      "title": "エヌビディアがPC向け超高性能チップ「RTXスパーク」を発表、自律型AIエージェントがPCを操作する時代へ",
-      "category": "半導体・チップ",
-      "date": "2026-06-02",
-      "source_url": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-      "importance": 5
-    },
-    {
-      "title": "アンソロピックの有料開発ツールに対抗する、無料のオープンソースAI「グース」が台頭",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-06-02",
-      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "importance": 4
-    },
     {
       "title": "Google、Android向けにAIなりすまし通話検知機能を導入",
       "category": "AIプロダクト",
