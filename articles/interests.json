@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-07-03T09:22:18.888007+09:00",
+  "updated_at": "2026-07-07T08:06:04.787726+09:00",
   "items": [
-    {
-      "title": "Google、Android向けにAIなりすまし通話検知機能を導入",
-      "category": "AIプロダクト",
-      "date": "2026-06-04",
-      "source_url": "https://itmedia.co.jp/news/articles/2606/03/news137.html",
-      "importance": 4
-    },
-    {
-      "title": "AIコスト高騰に悩む米企業、圧倒的に安価な中国「ディープシーク」への乗り換えが急増",
-      "category": "LLM・生成AI",
-      "date": "2026-06-06",
-      "source_url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "importance": 5
-    },
-    {
-      "title": "回路図や建築図面に対応し、工数を最大60%削減する図面解析AI「Drawing-AI」が登場",
-      "category": "AIプロダクト",
-      "date": "2026-06-06",
-      "source_url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news020.html",
-      "importance": 4
-    },
-    {
-      "title": "ニューヨーク州議会、大規模データセンターの新規建設を1年間禁止する法案を可決",
-      "category": "エネルギー・環境技術",
-      "date": "2026-06-06",
-      "source_url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "importance": 5
-    },
-    {
-      "title": "AIデータセンターのメモリ「爆食い」で他産業が危機、米業界団体が政府に緊急対策を要望",
-      "category": "半導体・チップ",
-      "date": "2026-06-06",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/industry-coalition-urges-trump-administration-to-take-urgent-action-as-ai-data-centers-extreme-memory-consumption-threatens-other-industries-ai-driven-memory-chip-shortage-could-raise-prices-in-automotive-medical-telecommunications-sectors",
-      "importance": 5
-    },
     {
       "title": "ケンブリッジ大学、AI設計の「万能型」ワクチンで臨床試験に成功",
       "category": "医療・バイオ",
@@ -203,6 +168,27 @@
       "date": "2026-06-26",
       "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-ugreen-finetrack/",
       "importance": 3
+    },
+    {
+      "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
+      "category": "LLM・生成AI",
+      "date": "2026-06-29",
+      "source_url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
+      "importance": 5
+    },
+    {
+      "title": "ファナック（FANUC）、AWS活用でロボットの模倣学習時間を60時間から4.8時間に短縮",
+      "category": "ロボティクス・自動化",
+      "date": "2026-06-30",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
+      "importance": 5
+    },
+    {
+      "title": "Anthropicの高性能AI「Claude Fable 5」、米国政府の規制解除により提供再開",
+      "category": "LLM・生成AI",
+      "date": "2026-07-02",
+      "source_url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "importance": 5
     }
   ]
 }
