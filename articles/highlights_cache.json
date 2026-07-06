@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-29",
-      "stories": [
-        {
-          "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html"
-        },
-        {
-          "title": "Anthropicの高性能AI「Mythos 5」、米政府の許可を得て一部組織で利用再開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/"
-        },
-        {
-          "title": "カシオ計算機、新ブランド「earU」から耳をふさがないヒアリングアシストイヤホン「ER-100」が登場",
-          "source_url": "https://gigazine.net/news/20260628-casio-earu-er-100-appearance/"
-        },
-        {
-          "title": "ソフトバンク孫正義氏、データセンター誘致に向けた電力インフラ戦略を語る",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html"
-        },
-        {
-          "title": "IEEE Spectrumが紹介する「折り紙回路基板」の技術",
-          "source_url": "https://spectrum.ieee.org/origami-circuit-boards"
-        },
-        {
-          "title": "中国のLoongsonが独自アーキテクチャの16コアサーバーCPU「3C3000」を発表",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/chinas-loongson-launches-homegrown-16-core-server-cpu-built-on-loongarch-architecture-40w-chip-with-ddr4-ecc-and-32-pcie-lanes-targets-cheap-smb-file-database-and-web-servers"
-        }
-      ]
-    },
-    {
       "date": "2026-06-30",
       "stories": [
         {
@@ -241,6 +212,39 @@
         {
           "title": "米海軍、3Dプリンティングによる戦闘機部品の現場修理を実証",
           "source_url": "https://www.tomshardware.com/3d-printing/us-navy-testing-3d-printed-fighter-jet-parts-for-quick-repairs-composite-parts-printed-at-forward-deployed-3d-printers-to-be-flight-tested-on-operational-f-a-18-super-hornets"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "stories": [
+        {
+          "title": "AIエージェントのエネルギー消費、通常の生成AIの最大136倍に",
+          "source_url": "https://gigazine.net/news/20260706-ai-agents-consume/"
+        },
+        {
+          "title": "XREAL、業界最軽量クラスのARグラス「xbx a01＋」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2122734.html"
+        },
+        {
+          "title": "ゼンハイザー（Sennheiser）の最上位ヘッドフォンにホワイトモデルが登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2122731.html"
+        },
+        {
+          "title": "AMD、ローカルAI開発キット「Ryzen AI Halo」を発表",
+          "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
+        },
+        {
+          "title": "中国のスタートアップが「器用なロボットハンド」の開発で世界をリード",
+          "source_url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid"
+        },
+        {
+          "title": "インフィニオン（Infineon）、ドレスデンの半導体工場を前倒しで稼働",
+          "source_url": "https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/"
+        },
+        {
+          "title": "アイティプロテック、15秒で加熱するUSB充電式はんだこてを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2122702.html"
         }
       ]
     }
