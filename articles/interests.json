@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-07T08:06:04.787726+09:00",
+  "updated_at": "2026-07-08T06:48:24.523635+09:00",
   "items": [
-    {
-      "title": "ケンブリッジ大学、AI設計の「万能型」ワクチンで臨床試験に成功",
-      "category": "医療・バイオ",
-      "date": "2026-06-07",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
-      "importance": 5
-    },
     {
       "title": "Appleが次世代AI「Siri AI」と「Apple Intelligence」を発表",
       "category": "AIプロダクト",
@@ -188,6 +181,20 @@
       "category": "LLM・生成AI",
       "date": "2026-07-02",
       "source_url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "importance": 5
+    },
+    {
+      "title": "XREAL、業界最軽量クラスのARグラス「xbx a01＋」を発売",
+      "category": "ガジェット・民生機器",
+      "date": "2026-07-07",
+      "source_url": "https://av.watch.impress.co.jp/docs/news/2122734.html",
+      "importance": 3
+    },
+    {
+      "title": "AMD、ローカルAI開発キット「Ryzen AI Halo」を発表",
+      "category": "半導体・チップ",
+      "date": "2026-07-07",
+      "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "importance": 5
     }
   ]
