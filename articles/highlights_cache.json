@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-06-30",
-      "stories": [
-        {
-          "title": "DJI、初のデュアルレンズ搭載ジンバルカメラ「Osmo Pocket 4P」を発売",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/29/news127.html"
-        },
-        {
-          "title": "3COINS、スマホ写真を直接プリントできる「フォトプリンター」を発売",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2606/29/news126.html"
-        },
-        {
-          "title": "韓国、サムスン（Samsung）やSKハイニックス（SK Hynix）らと5200億ドルのAI・半導体投資計画を発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support"
-        },
-        {
-          "title": "ファナック（FANUC）、AWS活用でロボットの模倣学習時間を60時間から4.8時間に短縮",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/"
-        },
-        {
-          "title": "NICTら、都市の既存光通信インフラで450Tbpsの超大容量伝送に成功",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2120915.html"
-        },
-        {
-          "title": "Imec、2038年までに0.3nmノード到達を目指すロードマップを公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density"
-        }
-      ]
-    },
-    {
       "date": "2026-07-01",
       "stories": [
         {
@@ -245,6 +216,35 @@
         {
           "title": "アイティプロテック、15秒で加熱するUSB充電式はんだこてを発売",
           "source_url": "https://pc.watch.impress.co.jp/docs/news/2122702.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "stories": [
+        {
+          "title": "英政府、データセンター建設を「国家重要インフラ」に指定",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights"
+        },
+        {
+          "title": "Meta、Instagramアカウントをプロンプトに使える画像生成モデル「Muse」発表",
+          "source_url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
+        },
+        {
+          "title": "Nothing、AI録音・文字起こし対応の新型イヤホン「Ear (3a)」発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2123140.html"
+        },
+        {
+          "title": "サンワダイレクト、重さ30gの超小型ワイヤレスマウス「400-MAWB229」",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-short-sanwadirect-wireless-mouse/"
+        },
+        {
+          "title": "DMG森精機、工作機械向けフィジカルAI開発へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/"
+        },
+        {
+          "title": "修理可能なオープンソースプリンター「Openprinter」プロジェクト",
+          "source_url": "https://gigazine.net/news/20260707-openprinter/"
         }
       ]
     }
