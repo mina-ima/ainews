@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-01",
-      "stories": [
-        {
-          "title": "アンソロピック（Anthropic）が新モデル「Claude Sonnet 5」を発表",
-          "source_url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
-        },
-        {
-          "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出でClaudeを凌駕",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon"
-        },
-        {
-          "title": "AIが人の声と雑音を仕分ける集音イヤホン「KIKOE EAR」",
-          "source_url": "https://www.gizmodo.jp/article/2606-costorypo-kikoeear-start-1287765965/"
-        },
-        {
-          "title": "レノボ（Lenovo）のエンタメ特化タブレット「Lenovo Tab Plus Gen 2」",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2121106.html"
-        },
-        {
-          "title": "NTTデータとダイキン、AIによるデータセンター冷却最適化の共同検証を開始",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2120896.html"
-        },
-        {
-          "title": "エヌビディア（Nvidia）の競合Etchedが50億ドルの評価額を達成",
-          "source_url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
-        },
-        {
-          "title": "AIロボット1000万台導入へ、2040年までの経産省目標",
-          "source_url": "https://itmedia.co.jp/aiplus/article/2606/30/2000000144/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-02",
       "stories": [
         {
@@ -245,6 +212,31 @@
         {
           "title": "修理可能なオープンソースプリンター「Openprinter」プロジェクト",
           "source_url": "https://gigazine.net/news/20260707-openprinter/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "stories": [
+        {
+          "title": "OpenAI、最新AIモデル「GPT-5.6」シリーズを木曜日に一般公開へ",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/08/news107.html"
+        },
+        {
+          "title": "Xiaomi（シャオミ）の11インチタブレット「Redmi Pad 2」がコスパ抜群",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-xiaomitablet/"
+        },
+        {
+          "title": "CIOのQi2認証モバイルバッテリー「SMARTCOBY SLIMⅡ」が薄型で高性能",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-ciosmartcobyslim/"
+        },
+        {
+          "title": "Apple、Broadcomと300億ドル超の米国製チップ製造契約を締結",
+          "source_url": "https://www.apple.com/newsroom/2026/07/08/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
+        },
+        {
+          "title": "JEDEC、AIメモリコストを削減する新規格「SPHBM4」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates"
         }
       ]
     }
