@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-02",
-      "stories": [
-        {
-          "title": "ソフトバンクグループ、OpenAIへ1兆6273億円の追加出資を実行",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html"
-        },
-        {
-          "title": "Anthropicの高性能AI「Claude Fable 5」、米国政府の規制解除により提供再開",
-          "source_url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted"
-        },
-        {
-          "title": "ソニー（SIE）、2028年1月以降のPlayStation新作ゲームのディスク生産を終了へ",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news156.html"
-        },
-        {
-          "title": "富士フイルム、「写ルンです」の20年ぶり新製品を発表",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/01/news150.html"
-        },
-        {
-          "title": "CIO、モバイルバッテリーの劣化状態を可視化する新機能を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2121579.html"
-        },
-        {
-          "title": "サムスン電子、次世代HBM4Eのサンプル出荷を開始",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11828/"
-        },
-        {
-          "title": "パナソニック、EV充電システム向け小型PCBリレーシリーズを発売",
-          "source_url": "https://www.electronicsweekly.com/news/business/panasonic-launches-compact-pcb-relay-series-2026-07/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-03",
       "stories": [
         {
@@ -237,6 +204,39 @@
         {
           "title": "JEDEC、AIメモリコストを削減する新規格「SPHBM4」を発表",
           "source_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "stories": [
+        {
+          "title": "OpenAI、最新AIモデル「GPT-5.6」シリーズを一般公開",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
+        },
+        {
+          "title": "Meta、AIコーディングモデル「Muse Spark 1.1」を発表",
+          "source_url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+        },
+        {
+          "title": "Insta360、わずか53gの4K対応ウェアラブルカメラ「GO Ultra」",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-insta360goultra/"
+        },
+        {
+          "title": "final、トゥルーダイヤモンド振動板搭載のフラッグシップヘッドフォン",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2123912.html"
+        },
+        {
+          "title": "TSMC、AI半導体向けにチップ表面を直接冷却する新技術を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/"
+        },
+        {
+          "title": "三菱自動車、東大発スタートアップと人型ロボットを量産へ",
+          "source_url": "https://itmedia.co.jp/aiplus/article/2607/09/2000000177/"
+        },
+        {
+          "title": "Auxilium Biotechnologies、宇宙ステーションで腎臓・肝臓組織をバイオプリント",
+          "source_url": "https://3dprintingindustry.com/news/auxilium-biotechnologies-bioprints-kidney-and-liver-tissue-aboard-the-iss-252912/"
         }
       ]
     }
