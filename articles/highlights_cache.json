@@ -1,47 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-04",
-      "stories": [
-        {
-          "title": "OpenAI、米国政府への5%株式譲渡を検討か",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump"
-        },
-        {
-          "title": "Meta、AIエージェント開発の遅れを認める",
-          "source_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
-        },
-        {
-          "title": "Nothingの新作イヤホン「Ear (3a)」が7月7日発表へ",
-          "source_url": "https://www.gizmodo.jp/article/nothing-ear3a-pink/"
-        },
-        {
-          "title": "ブロックで自由にデコれる32型チューナーレステレビ「ORION DECORA」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2122120.html"
-        },
-        {
-          "title": "無印良品、「暮らしに寄り添う」オーディオデバイス5製品を発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2122034.html"
-        },
-        {
-          "title": "Anthropicがサムスン電子と独自AIチップ開発を協議中",
-          "source_url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/"
-        },
-        {
-          "title": "ユニバーサルロボット、産業用ロボット向け「フィジカルAI」データ収集システムを投入",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11864/"
-        },
-        {
-          "title": "消火栓標識を「災害時の通信拠点」に、Starlink活用技術デモ",
-          "source_url": "https://itmedia.co.jp/news/articles/2607/03/news124.html"
-        },
-        {
-          "title": "サムスン電子、最大転送速度10.8GB/sの「UFS 5.0」フラッシュメモリを開発",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2122212.html"
-        }
-      ]
-    },
-    {
       "date": "2026-07-05",
       "stories": [
         {
@@ -289,6 +248,27 @@
         {
           "title": "スーツケースに収納可能、パーツを自宅で3Dプリントして組み立てる電動スクーターが登場",
           "source_url": "https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "stories": [
+        {
+          "title": "アップル（Apple）がオープンAI（OpenAI）を提訴、ハードウェア機密の窃盗を主張",
+          "source_url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/"
+        },
+        {
+          "title": "メタ（Meta）、InstagramのAI画像生成機能を削除",
+          "source_url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+        },
+        {
+          "title": "Anker、巻き取り式ケーブル内蔵の「Zolo Power Bank」が完成度高し",
+          "source_url": "https://www.gizmodo.jp/article/2607-amazon-anker-zolopowerbank-1/"
+        },
+        {
+          "title": "セレンディクス（Serendix）、3Dプリント防爆シェルターを開発",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html"
         }
       ]
     }
