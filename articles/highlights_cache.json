@@ -1,27 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-05",
-      "stories": [
-        {
-          "title": "米トランプ大統領、AI規制は「介入最小限」を強調　開発競争での優位性を重視",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/"
-        },
-        {
-          "title": "アンソロピック（Anthropic）の「Claude Fable 5」、サブスク標準機能として復活へ",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/"
-        },
-        {
-          "title": "カメラ付きAirPodsの登場を示唆するコードがiOS 27ベータ版で発見",
-          "source_url": "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras/"
-        },
-        {
-          "title": "ミネベアミツミ、AIデータセンター向けベアリングの生産を増強",
-          "source_url": "https://asia.nikkei.com/business/electronics/japan-s-minebeamitsumi-to-boost-bearings-output-for-ai-data-centers"
-        }
-      ]
-    },
-    {
       "date": "2026-07-06",
       "stories": [
         {
@@ -269,6 +248,19 @@
         {
           "title": "セレンディクス（Serendix）、3Dプリント防爆シェルターを開発",
           "source_url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "stories": [
+        {
+          "title": "アップルがOpenAIを提訴、ハードウェア機密の窃盗を主張",
+          "source_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+        },
+        {
+          "title": "水で光る防災ライト「Aqumo Candle」、おしっこでも発電可能",
+          "source_url": "https://www.gizmodo.jp/article/amazon-primeday-aqumo-candle/"
         }
       ]
     }
