@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-07",
-      "stories": [
-        {
-          "title": "AIエージェントのエネルギー消費、通常の生成AIの最大136倍に",
-          "source_url": "https://gigazine.net/news/20260706-ai-agents-consume/"
-        },
-        {
-          "title": "XREAL、業界最軽量クラスのARグラス「xbx a01＋」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2122734.html"
-        },
-        {
-          "title": "ゼンハイザー（Sennheiser）の最上位ヘッドフォンにホワイトモデルが登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2122731.html"
-        },
-        {
-          "title": "AMD、ローカルAI開発キット「Ryzen AI Halo」を発表",
-          "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo"
-        },
-        {
-          "title": "中国のスタートアップが「器用なロボットハンド」の開発で世界をリード",
-          "source_url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid"
-        },
-        {
-          "title": "インフィニオン（Infineon）、ドレスデンの半導体工場を前倒しで稼働",
-          "source_url": "https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/"
-        },
-        {
-          "title": "アイティプロテック、15秒で加熱するUSB充電式はんだこてを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2122702.html"
-        }
-      ]
-    },
-    {
       "date": "2026-07-08",
       "stories": [
         {
@@ -261,6 +228,43 @@
         {
           "title": "東京消防庁、リチウムイオン電池の出火件数が過去最多ペースで急増",
           "source_url": "https://www.itmedia.co.jp/news/articles/2607/13/news129.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "stories": [
+        {
+          "title": "孫正義氏が語る2040年の未来：人類は「スーパーヒューマン」へ進化する",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/14/news115.html"
+        },
+        {
+          "title": "AppleがOpenAIを提訴、ハードウェア機密の窃盗を主張",
+          "source_url": "https://9to5mac.com/2026/07/14/openai-says-it-has-seen-no-evidence-supporting-apples-trade-secret-theft-claims/"
+        },
+        {
+          "title": "スマホも冷やせるMagSafe対応ペルチェ式ハンディファン",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2125018.html"
+        },
+        {
+          "title": "JINS×「攻殻機動隊」コラボ、電子調光サングラスが登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2124987.html"
+        },
+        {
+          "title": "JEDECがAIアクセラレータ向け新規格「SPHBM4」を発表",
+          "source_url": "https://www.electronicsweekly.com/news/products/memory/jedecs-sphbm4-standard-for-ai-accelerators-on-organic-substrates-2026-07/"
+        },
+        {
+          "title": "AIコーディングエージェントによる「ホームディレクトリ全削除」事例が報告",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html"
+        },
+        {
+          "title": "日本、使用済みEVバッテリーからリチウムを90％回収する新技術を開発",
+          "source_url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"
+        },
+        {
+          "title": "世界初の「スーパーアロイ（超合金）」が金属製造を変革する可能性",
+          "source_url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made"
         }
       ]
     }
