@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-08",
-      "stories": [
-        {
-          "title": "英政府、データセンター建設を「国家重要インフラ」に指定",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights"
-        },
-        {
-          "title": "Meta、Instagramアカウントをプロンプトに使える画像生成モデル「Muse」発表",
-          "source_url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram"
-        },
-        {
-          "title": "Nothing、AI録音・文字起こし対応の新型イヤホン「Ear (3a)」発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2123140.html"
-        },
-        {
-          "title": "サンワダイレクト、重さ30gの超小型ワイヤレスマウス「400-MAWB229」",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-short-sanwadirect-wireless-mouse/"
-        },
-        {
-          "title": "DMG森精機、工作機械向けフィジカルAI開発へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/070500019/"
-        },
-        {
-          "title": "修理可能なオープンソースプリンター「Openprinter」プロジェクト",
-          "source_url": "https://gigazine.net/news/20260707-openprinter/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-09",
       "stories": [
         {
@@ -265,6 +236,39 @@
         {
           "title": "世界初の「スーパーアロイ（超合金）」が金属製造を変革する可能性",
           "source_url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "stories": [
+        {
+          "title": "Anthropicが10月にIPOを計画、AI企業としての上場準備が加速",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears"
+        },
+        {
+          "title": "OpenAI、AIコーディング支援アプリ向けに専用キーボードを発売",
+          "source_url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
+        },
+        {
+          "title": "アイリスオーヤマの「HUGEL」クーラーボックス、13日間の保冷性能を実現",
+          "source_url": "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/"
+        },
+        {
+          "title": "モトローラ、初の横開き折りたたみスマホ「razr fold」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2125358.html"
+        },
+        {
+          "title": "Intel、ASMLの最新露光装置「High NA EUV」を用いた量産を開始",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners"
+        },
+        {
+          "title": "ダイフク、最大6.5トン搬送可能なAGVで自動車生産ラインを刷新",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03669/070300004/"
+        },
+        {
+          "title": "折り紙回路基板の技術が注目、立体的な回路形成が可能に",
+          "source_url": "https://semiengineering.com/research-bits-july-14/"
         }
       ]
     }
