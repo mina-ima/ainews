@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-09",
-      "stories": [
-        {
-          "title": "OpenAI、最新AIモデル「GPT-5.6」シリーズを木曜日に一般公開へ",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/08/news107.html"
-        },
-        {
-          "title": "Xiaomi（シャオミ）の11インチタブレット「Redmi Pad 2」がコスパ抜群",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-xiaomitablet/"
-        },
-        {
-          "title": "CIOのQi2認証モバイルバッテリー「SMARTCOBY SLIMⅡ」が薄型で高性能",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-ciosmartcobyslim/"
-        },
-        {
-          "title": "Apple、Broadcomと300億ドル超の米国製チップ製造契約を締結",
-          "source_url": "https://www.apple.com/newsroom/2026/07/08/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/"
-        },
-        {
-          "title": "JEDEC、AIメモリコストを削減する新規格「SPHBM4」を発表",
-          "source_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates"
-        }
-      ]
-    },
-    {
       "date": "2026-07-10",
       "stories": [
         {
@@ -269,6 +244,31 @@
         {
           "title": "折り紙回路基板の技術が注目、立体的な回路形成が可能に",
           "source_url": "https://semiengineering.com/research-bits-july-14/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "stories": [
+        {
+          "title": "日本、国産フィジカルAI開発プロジェクト「FRONTia Project」始動",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/16/news107.html"
+        },
+        {
+          "title": "レノボ、世界初のインクジェット印刷OLED搭載ノートPC「Legion R9000P」を発表",
+          "source_url": "https://www.tomshardware.com/monitors/lenovo-announces-worlds-first-laptop-with-inkjet-printed-oled-the-legion-r9000p-is-equipped-with-a-240-hz-ijp-panel-from-tcl-csot"
+        },
+        {
+          "title": "AIスマートグラス「INMO GO3」が日本上陸",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2125877.html"
+        },
+        {
+          "title": "Tower Semiconductor、日本で30億ドルのフォトニクス製造拠点を再稼働",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tower-semiconductor-revives-shuttered-panasonic-era-fab-in-3-billion-japan-photonics-expansion"
+        },
+        {
+          "title": "EPFL、高耐久・高弾性の3Dプリント用エラストマーを開発",
+          "source_url": "https://3dprintingindustry.com/news/epfls-3d-printed-elastomer-resists-both-fracture-and-fatigue-253116/?utm_source=rss&utm_medium=rss&utm_campaign=epfls-3d-printed-elastomer-resists-both-fracture-and-fatillery"
         }
       ]
     }
