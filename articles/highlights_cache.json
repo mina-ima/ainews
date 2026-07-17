@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-10",
-      "stories": [
-        {
-          "title": "OpenAI、最新AIモデル「GPT-5.6」シリーズを一般公開",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work"
-        },
-        {
-          "title": "Meta、AIコーディングモデル「Muse Spark 1.1」を発表",
-          "source_url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
-        },
-        {
-          "title": "Insta360、わずか53gの4K対応ウェアラブルカメラ「GO Ultra」",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-insta360goultra/"
-        },
-        {
-          "title": "final、トゥルーダイヤモンド振動板搭載のフラッグシップヘッドフォン",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2123912.html"
-        },
-        {
-          "title": "TSMC、AI半導体向けにチップ表面を直接冷却する新技術を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03322/062800012/"
-        },
-        {
-          "title": "三菱自動車、東大発スタートアップと人型ロボットを量産へ",
-          "source_url": "https://itmedia.co.jp/aiplus/article/2607/09/2000000177/"
-        },
-        {
-          "title": "Auxilium Biotechnologies、宇宙ステーションで腎臓・肝臓組織をバイオプリント",
-          "source_url": "https://3dprintingindustry.com/news/auxilium-biotechnologies-bioprints-kidney-and-liver-tissue-aboard-the-iss-252912/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-11",
       "stories": [
         {
@@ -269,6 +236,83 @@
         {
           "title": "EPFL、高耐久・高弾性の3Dプリント用エラストマーを開発",
           "source_url": "https://3dprintingindustry.com/news/epfls-3d-printed-elastomer-resists-both-fracture-and-fatigue-253116/?utm_source=rss&utm_medium=rss&utm_campaign=epfls-3d-printed-elastomer-resists-both-fracture-and-fatillery"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "stories": [
+        {
+          "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
+          "source_url": "https://www.engineering.com/nvidia-and-noetra-plan-vera-rubin-ai-factory-in-japan/"
+        },
+        {
+          "title": "メタ、アンソロピックに100億ドル規模の計算資源をリースする交渉を進行中",
+          "source_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
+        },
+        {
+          "title": "OpenAIの「GPT-5.6 Sol」でファイルが勝手に削除される不具合、サンドボックスなしのフルアクセスで発生か",
+          "source_url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/"
+        },
+        {
+          "title": "100ドル予算のAIミュージックビデオ対決：Claude Fable 5とGPT-5.6 Solの実力を比較",
+          "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
+        },
+        {
+          "title": "Google、オンデバイスAI「Gemini Nano v3」の処理速度を50%高速化する新技術を開発",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2126133.html"
+        },
+        {
+          "title": "業界最軽量クラスのARグラス「XREAL xbx a01+」実機レビュー、エントリーモデルの決定版",
+          "source_url": "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/"
+        },
+        {
+          "title": "定番のUSBケーブルチェッカーが小型・低価格化して「USB Cable Checker Lite」として新登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126154.html"
+        },
+        {
+          "title": "電子ペーパータブレットの新基準、reMarkableの新型「Paper Pure」が登場",
+          "source_url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/"
+        },
+        {
+          "title": "ケイデンス、プリント基板および先進パッケージ設計向け「AIスーパーエージェント」を導入",
+          "source_url": "https://semiengineering.com/chip-industry-week-in-review-147/"
+        },
+        {
+          "title": "TSMC、次世代1.4nmプロセス「A14」の歩留まりと性能の大幅な向上を確認",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers"
+        },
+        {
+          "title": "ソフトバンクと安川電機、使うほど賢くなる「フィジカルAI」ロボットの共同実証に成功",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/"
+        },
+        {
+          "title": "豪州首相、AIデータセンターに「消費電力と同等の自己発電」を義務付ける新方針を発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights"
+        },
+        {
+          "title": "MIT、3Dプリンターの物理的限界を考慮したコンクリート3Dプリント最適化フレームワークを開発",
+          "source_url": "https://3dprintingindustry.com/news/mit-optimizes-concrete-3d-printing-for-manufacturability-253179/?utm_source=rss&utm_medium=rss&utm_campaign=mit-optimizes-concrete-3d-printing-for-manufacturability"
+        },
+        {
+          "title": "コンコルディア大学、平らな金型から湾曲した風力発電ブレードを製造する「逆4Dプリント」技術を開発",
+          "source_url": "https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156/?utm_source=rss&utm_medium=rss&utm_campaign=concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds"
+        },
+        {
+          "title": "人間の脳は2つの異なる音声を同時に処理できる、脳波測定により実証",
+          "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876"
+        },
+        {
+          "title": "日本の化学メーカー、AIサーバー向け積層板材料の生産能力を倍増へ",
+          "source_url": "https://asia.nikkei.com/business/materials/japan-chemical-maker-to-double-capacity-for-material-in-ai-server-supply-chain"
+        },
+        {
+          "title": "キャピタル・ワン、AIエージェントによるコード脆弱性検知ツール「VulnHunter」をオープンソースで公開",
+          "source_url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
+        },
+        {
+          "title": "アジリティ・ロボティクス、テスラの膝元に人型ロボット「Digit」の訓練施設を開設",
+          "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
         }
       ]
     }
