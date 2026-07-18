@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-11",
-      "stories": [
-        {
-          "title": "OpenAIの「GPT-5.6 Sol Ultra」が数学の難問「サイクル二重被覆予想」の証明を出力",
-          "source_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
-        },
-        {
-          "title": "アンソロピック、AIモデル「Claude」が概念を思考する隠された内部領域「Jスペース」を発見",
-          "source_url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-        },
-        {
-          "title": "マイクロソフト、「Microsoft 365 Copilot」にOpenAIの最新モデル「GPT-5.6」を統合",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/"
-        },
-        {
-          "title": "アップルがオープンAIを提訴、元社員を通じた「AIハードウェア」に関する営業秘密の組織的窃盗を主張",
-          "source_url": "https://www.macrumors.com/2026/07/10/apple-sues-openai/"
-        },
-        {
-          "title": "NTTドコモ、液漏れや発火リスクを極限まで抑えた「準固体モバイルバッテリー」を発売",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/10/news129.html"
-        },
-        {
-          "title": "ジャクリ、歩きながら高効率で太陽光発電できる次世代ソーラーリュックを発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2123875.html"
-        },
-        {
-          "title": "エクスリアル、299ドルの超軽量・低価格ARグラス「A01 Plus」を発表",
-          "source_url": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on"
-        },
-        {
-          "title": "世界初、スターリンクの衛星通信に対応したペット用トラッカー「Fi Ultra」が登場",
-          "source_url": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date"
-        },
-        {
-          "title": "AMDのローカルAI開発キット「Ryzen AI Halo」の実機レビューが公開、圧倒的な処理能力を実証",
-          "source_url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
-        },
-        {
-          "title": "半導体・プリント基板（PCB）設計を自動化する実用的な「EDA AIエージェント」のアーキテクチャが公開",
-          "source_url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent/"
-        },
-        {
-          "title": "AIデータセンター急増の真の壁、電力網（グリッド）の容量不足が深刻化",
-          "source_url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid"
-        },
-        {
-          "title": "マイクロソフトの炭素排出量が前年比25%増加、AIデータセンターの急拡大が環境目標の足かせに",
-          "source_url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
-        },
-        {
-          "title": "遠隔操作の人型ロボットが世界初の「生体手術」に成功、医療ロボティクスの新時代へ",
-          "source_url": "https://newatlas.com/robotics/first-live-surgery-teleoperated-humanoid-robots/"
-        },
-        {
-          "title": "バイオ医学の発見を劇的に加速する、世界初の自律型「共同科学者」AIエージェント「Biomni」が登場",
-          "source_url": "https://refractor.io/medical-ai/ai-agent-biomedical-discoveries/"
-        },
-        {
-          "title": "SKハイニックスが米国市場で約265億ドルの巨額資金を調達、AIメモリ「HBM」の生産拡大へ",
-          "source_url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
-        },
-        {
-          "title": "月額200ドルの「Claude Code」に対抗、完全無料で同等機能を提供するオープンソースAI「Goose」が台頭",
-          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-        },
-        {
-          "title": "メタ、旧型サーバーのDDR4メモリを新型サーバーで再利用する独自カスタムチップ「Vistara」を開発",
-          "source_url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483"
-        },
-        {
-          "title": "クモの糸を超える自然界最強の物質「カサガイの歯」のナノ構造を模倣した新素材開発に期待",
-          "source_url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/"
-        },
-        {
-          "title": "IBMの最新量子プロセッサ「Heron」を活用し、自律システムの意思決定を高速化する「QANTIS」が発表",
-          "source_url": "https://arxiv.org/abs/2607.06760"
-        },
-        {
-          "title": "スーツケースに収納可能、パーツを自宅で3Dプリントして組み立てる電動スクーターが登場",
-          "source_url": "https://hackaday.com/2026/07/10/3d-printed-scooter-fits-in-your-luggage-some-assembly-required/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-12",
       "stories": [
         {
@@ -313,6 +228,91 @@
         {
           "title": "アジリティ・ロボティクス、テスラの膝元に人型ロボット「Digit」の訓練施設を開設",
           "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "stories": [
+        {
+          "title": "次世代AI「GPT-5.6」がプロンプトのみで凸最適化における30年の技術的ギャップを解消",
+          "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
+        },
+        {
+          "title": "「Claude Fable 5」が有料サブスクプランに標準統合、利用制限の50%まで追加費用なしで提供",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126298.html"
+        },
+        {
+          "title": "中国のMoonshot AI、米国大手に匹敵する推論能力を持つ「Kimi K3」を発表",
+          "source_url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "アップルがOpenAIを提訴、さらに数十人の従業員に法的警告書を送付し対立激化",
+          "source_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
+        },
+        {
+          "title": "スマホのローカル環境で直接動作する270億パラメータの超軽量LLM「Bonsai 27B」が登場",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/"
+        },
+        {
+          "title": "Googleが「NotebookLM」を「Gemini Notebook」に改称、エコシステム統合とデータ分析を強化",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html"
+        },
+        {
+          "title": "ソニーの最新フラッグシップRGB LEDテレビ「ブラビア 9 II」が圧倒的な表現力で高評価",
+          "source_url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review"
+        },
+        {
+          "title": "クラフト封筒のようなデザインとタフな防水・耐久性を両立したPCケースが登場",
+          "source_url": "https://www.gizmodo.jp/article/anaheim_laptop-sleeve-13inch/"
+        },
+        {
+          "title": "超高級スマホのヴァルチュ、約6,880ドルのAIエージェント搭載折りたたみスマホを発売",
+          "source_url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
+        },
+        {
+          "title": "摩擦ゼロの解錠体験、顔認証スマートロックが一般家庭向けに実用レベルへ到達",
+          "source_url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review"
+        },
+        {
+          "title": "中国のLONGi、積層型太陽電池で世界最高水準となる変換効率35.5%を達成",
+          "source_url": "https://www.engadget.com/2218081/chinese-solar-cell-efficiency-35-5-percent/"
+        },
+        {
+          "title": "3Dプリンターではんだペースト用ステンシルを自動生成する「ステンチル」が登場",
+          "source_url": "https://www.stenchill.com/en/"
+        },
+        {
+          "title": "Google DeepMindとIsomorphic Labs、AIを用いた「バイオレジリエンス」の取り組みを発表",
+          "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+        },
+        {
+          "title": "AIデータセンターの電力需要急増を背景に、エネルギー関連企業のIPOが今世紀最速で急増",
+          "source_url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
+        },
+        {
+          "title": "皮膚への刺激なしにバイタルサインを24時間監視できる「電子式テンポラリータトゥー」が開発",
+          "source_url": "https://newatlas.com/materials/inktelligent-paintable-electrodes-sensors/"
+        },
+        {
+          "title": "超高速回転により人間の目やカメラから「ほぼ透明」に見えるクモ型ドローンが開発",
+          "source_url": "https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/"
+        },
+        {
+          "title": "物流大手のダイフク、滋賀のマザー工場再開発に520億円を投資し製造・試験機能を大幅拡充",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03669/070600005/"
+        },
+        {
+          "title": "わずか20分でカスタムフィットのコンタクトレンズを造形できる3Dプリント用シリコン素材が開発",
+          "source_url": "https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses"
+        },
+        {
+          "title": "廃ペットボトルに2.5%の添加剤を加えるだけで、高性能なバッテリー用炭素材料へ変換する技術",
+          "source_url": "https://www.gizmodo.jp/article/plastic_bottles_new_life_batteries/"
+        },
+        {
+          "title": "NVIDIAの次世代「RTX 50 Super」GPU、GDDR7メモリの価格高騰により発売延期の危機か",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb"
         }
       ]
     }

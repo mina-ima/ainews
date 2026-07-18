@@ -1,6 +1,13 @@
 {
   "articles": [
     {
+      "date": "2026-07-19",
+      "title": "AI・テクノロジーニュース 2026-07-19",
+      "article_count": 20,
+      "audio_url": "https://github.com/mina-ima/ainews/releases/download/news-2026-07-19/2026-07-19.mp3",
+      "audio_size_mb": 4.7
+    },
+    {
       "date": "2026-07-18",
       "title": "AI・テクノロジーニュース 2026-07-18",
       "article_count": 18,
