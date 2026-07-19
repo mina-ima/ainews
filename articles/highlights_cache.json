@@ -1,27 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-12",
-      "stories": [
-        {
-          "title": "アップル（Apple）がオープンAI（OpenAI）を提訴、ハードウェア機密の窃盗を主張",
-          "source_url": "https://9to5mac.com/2026/07/10/openai-responds-to-apples-trade-secret-theft-lawsuit/"
-        },
-        {
-          "title": "メタ（Meta）、InstagramのAI画像生成機能を削除",
-          "source_url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
-        },
-        {
-          "title": "Anker、巻き取り式ケーブル内蔵の「Zolo Power Bank」が完成度高し",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-anker-zolopowerbank-1/"
-        },
-        {
-          "title": "セレンディクス（Serendix）、3Dプリント防爆シェルターを開発",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html"
-        }
-      ]
-    },
-    {
       "date": "2026-07-13",
       "stories": [
         {
@@ -313,6 +292,31 @@
         {
           "title": "NVIDIAの次世代「RTX 50 Super」GPU、GDDR7メモリの価格高騰により発売延期の危機か",
           "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "stories": [
+        {
+          "title": "中国Moonshot AI、次世代モデル「Kimi K3」を発表しサブスク受付を一時停止",
+          "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
+        },
+        {
+          "title": "Nothingの透明ワイヤレスイヤホン廉価版「Nothing Ear(3a)」が登場",
+          "source_url": "https://gigazine.net/news/20260719-nothing-ear-3a/"
+        },
+        {
+          "title": "世界初の「超合金」：耐火ハイエントロピー合金の新製法が確立",
+          "source_url": "https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/"
+        },
+        {
+          "title": "20分でカスタムフィットレンズを造形できる3Dプリント技術",
+          "source_url": "https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165/"
+        },
+        {
+          "title": "5ドルのESP32で53万件の広告ドメインをブロックするハック",
+          "source_url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
         }
       ]
     }
