@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-07-16T08:04:22.800307+09:00",
+  "updated_at": "2026-07-20T07:14:27.907729+09:00",
   "items": [
-    {
-      "title": "ソフトバンクとオープンAI、高度AIで重要インフラの脆弱性を自動診断・修復する新サービスを発表",
-      "category": "AIプロダクト",
-      "date": "2026-06-17",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
-      "importance": 5
-    },
-    {
-      "title": "筋肉でAIを動かせ！手回し発電でローカル音声AIを実行する「クランクGPT」が登場",
-      "category": "ガジェット・民生機器",
-      "date": "2026-06-17",
-      "source_url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
-      "importance": 4
-    },
-    {
-      "title": "アップルの「乗り物酔い防止ドット」機能が劇的な効果、車内での画面操作による不快感を解消",
-      "category": "ガジェット・民生機器",
-      "date": "2026-06-17",
-      "source_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
-      "importance": 4
-    },
-    {
-      "title": "山善、発火リスクを低減する「準固体モバイルバッテリー」を発売",
-      "category": "ガジェット・民生機器",
-      "date": "2026-06-18",
-      "source_url": "https://kaden.watch.impress.co.jp/docs/news/2117483.html",
-      "importance": 3
-    },
-    {
-      "title": "オープンAI（OpenAI）、Googleディープマインド（DeepMind）のトランスフォーマー共同発明者ノーム・シャジール氏を引き抜き",
-      "category": "LLM・生成AI",
-      "date": "2026-06-19",
-      "source_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "importance": 5
-    },
     {
       "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
       "category": "AI研究",
