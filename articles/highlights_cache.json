@@ -1,19 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-13",
-      "stories": [
-        {
-          "title": "アップルがOpenAIを提訴、ハードウェア機密の窃盗を主張",
-          "source_url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
-        },
-        {
-          "title": "水で光る防災ライト「Aqumo Candle」、おしっこでも発電可能",
-          "source_url": "https://www.gizmodo.jp/article/amazon-primeday-aqumo-candle/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-14",
       "stories": [
         {
@@ -317,6 +304,91 @@
         {
           "title": "5ドルのESP32で53万件の広告ドメインをブロックするハック",
           "source_url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "stories": [
+        {
+          "title": "ハギング・フェイスへのAI主導サイバー攻撃、防御にオープンウェイトモデル「GLM 5.2」を採用し解決",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html"
+        },
+        {
+          "title": "アリババ、2.4兆パラメータの超巨大モデル「Qwen 3.8」のオープンウェイト公開を予告",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126345.html"
+        },
+        {
+          "title": "トランプ政権、中国製高性能AI「Kimi K3」の登場を受けてオープンウェイトモデルの禁止を再検討",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption"
+        },
+        {
+          "title": "ロサンゼルス市警察、誤検知多発を理由にナンバープレート自動認識システム「Flock Safety」との契約を終了",
+          "source_url": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/"
+        },
+        {
+          "title": "企業のAIインフラ支出がコスト管理能力を上回る「AIコンピュート・ギャップ」が深刻化",
+          "source_url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+        },
+        {
+          "title": "学術論文におけるAI執筆の割合を測定する試みと、検出を回避するプロンプト技術による測定の限界",
+          "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
+        },
+        {
+          "title": "貝印、なでるだけでムダ毛を剃れる丸型カミソリ「なでそり」が計画比3倍の大ヒット",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126042.html"
+        },
+        {
+          "title": "8BitDo、スマホをゲームボーイ風に変身させる折りたたみコントローラー「FlipPad」を発売",
+          "source_url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability"
+        },
+        {
+          "title": "山善、テント内や車中泊での一酸化炭素中毒を防ぐ高精度アラーム「COALAN」を先行販売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2125004.html"
+        },
+        {
+          "title": "新幹線や特急の狭いテーブルを拡張するクリップ式ドリンクホルダー「どこでもCup Clip」",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2126144.html"
+        },
+        {
+          "title": "グーグル、AIモデル「Gemini」をシリコンに直接焼き込んだ革新的AIチップを開発中",
+          "source_url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon"
+        },
+        {
+          "title": "自律型AIエージェント「GPT-5.6」がわずか25ドルで50万ドル価値のWordPress脆弱性を発見",
+          "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/"
+        },
+        {
+          "title": "サムテック、高周波基板向けに30度傾斜の同軸コネクタ「185-ALシリーズ」を量産開始",
+          "source_url": "https://www.electronicsweekly.com/news/products/connectors/samtec-angled-launch-connectors-for-precision-rf-2026-07/"
+        },
+        {
+          "title": "韓国で小型モジュール原子炉（SMR）を動力源とする次世代コンテナ船の基本設計が承認",
+          "source_url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
+        },
+        {
+          "title": "高濃度二酸化炭素の吸入により、脳内からアルツハイマー病の原因タンパク質が減少することが判明",
+          "source_url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/"
+        },
+        {
+          "title": "自走式電動トレーラーが貨物輸送の脱炭素化を推進、既存トラックのハイブリッド化を実現",
+          "source_url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization"
+        },
+        {
+          "title": "ドローン向け「反響定位（エコーロケーション）」技術が開発、暗闇や濃霧でも自律飛行可能に",
+          "source_url": "https://hackaday.com/2026/07/20/echolocation-for-drones/"
+        },
+        {
+          "title": "TSMC元マネージャー、機密の半導体製造プロセス文書を中国企業に漏洩した疑いで台湾当局に起訴",
+          "source_url": "https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china"
+        },
+        {
+          "title": "フェムト秒レーザーと電子顕微鏡を融合、昆虫の細胞構造を熱損傷なしでリアルタイム断面観察する新技術",
+          "source_url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4"
+        },
+        {
+          "title": "2000年前に中国で大流行し、その後突如消滅した幻のボードゲーム「六博」の謎に迫る新たな手がかり",
+          "source_url": "https://refractor.io/history/ancient-chess-cousin-liubo/"
         }
       ]
     }
