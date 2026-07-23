@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-16",
-      "stories": [
-        {
-          "title": "Anthropicが10月にIPOを計画、AI企業としての上場準備が加速",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears"
-        },
-        {
-          "title": "OpenAI、AIコーディング支援アプリ向けに専用キーボードを発売",
-          "source_url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
-        },
-        {
-          "title": "アイリスオーヤマの「HUGEL」クーラーボックス、13日間の保冷性能を実現",
-          "source_url": "https://www.gizmodo.jp/article/iris-ohyama-hugel-coolerbox-1-1-nkl/"
-        },
-        {
-          "title": "モトローラ、初の横開き折りたたみスマホ「razr fold」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2125358.html"
-        },
-        {
-          "title": "Intel、ASMLの最新露光装置「High NA EUV」を用いた量産を開始",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-becomes-the-first-company-to-ship-high-volume-logic-chips-made-with-asmls-high-na-euv-select-panther-lake-layers-on-18a-are-now-dual-qualified-for-0-55-na-scanners"
-        },
-        {
-          "title": "ダイフク、最大6.5トン搬送可能なAGVで自動車生産ラインを刷新",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03669/070300004/"
-        },
-        {
-          "title": "折り紙回路基板の技術が注目、立体的な回路形成が可能に",
-          "source_url": "https://semiengineering.com/research-bits-july-14/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-17",
       "stories": [
         {
@@ -413,6 +380,83 @@
         {
           "title": "AMD、アンソロピックへ最大50億ドルの出資と2ギガワット分のGPU供給を発表",
           "source_url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "stories": [
+        {
+          "title": "経産省がフィジカルAIプロジェクト「FRONTia」を始動、ノエトラなど参画で1兆パラメータ級の基盤モデル開発へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/072100009/"
+        },
+        {
+          "title": "ランウェイ、画質・スピード・コストに応じて最適なモデルを自動選択する「メディア・ルーター」を公開",
+          "source_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+        },
+        {
+          "title": "米超党派議員、国土安全保障省に強制停止権限を与える「AIキルスイッチ法案」を準備",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+        },
+        {
+          "title": "アイリスオーヤマ、ゴミを凍らせて臭いを封じ込める「冷凍ごみ箱 45L」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126919.html"
+        },
+        {
+          "title": "パナソニック、手のひらサイズの電気シェーバー「ラムダッシュ パームイン」に初の6枚刃モデルを投入",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2127269.html"
+        },
+        {
+          "title": "ガーミン、画面も通知も排したヘルスデータ特化のスマートバンド「CIRQA」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126966.html"
+        },
+        {
+          "title": "サムスン、Google Geminiを搭載したスマートグラスを海外公開",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2127160.html"
+        },
+        {
+          "title": "AMD、最大256コアと1GB超L3キャッシュを備えた第6世代サーバーCPU「EPYC 9006」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds"
+        },
+        {
+          "title": "過冷却技術により凍結させず保存した臓器の移植に成功、時間の壁を突破",
+          "source_url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
+        },
+        {
+          "title": "Mixx、AI向け共構造光導波路（CPO）実装プラットフォームの設計およびOSAT体制を強化",
+          "source_url": "https://www.engineering.com/mixx-adds-india-design-and-osat-support-for-ai-optics/"
+        },
+        {
+          "title": "プラット＆ホイットニー、燃費30％向上を目指すハイブリッド電動航空機エンジンを発表",
+          "source_url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development"
+        },
+        {
+          "title": "国内ベンチャーのアトラックラボ、画像と触覚で判断する「スパイダーロボ」を開発",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/"
+        },
+        {
+          "title": "英国、8月末よりコンセント挿し込み型のバルコニー設置用太陽光パネルを解禁",
+          "source_url": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels"
+        },
+        {
+          "title": "セラミック3Dプリンティングのリソズ、量産拡大により材料売上高が前年比40%増",
+          "source_url": "https://3dprintingindustry.com/news/lithoz-reports-40-growth-in-ceramic-material-revenue-as-lcm-production-scales-253268/?utm_source=rss&utm_medium=rss&utm_campaign=lithoz-reports-40-growth-in-ceramic-material-revenue-as-lcm-production-scales"
+        },
+        {
+          "title": "TP-Link、Bluetooth 6.0対応の業界初小型USBアダプター「UB6A」を発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2126942.html"
+        },
+        {
+          "title": "グーグル・クラウド、AIエージェントのナレッジ共有規格「Open Knowledge Format」を提案",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html"
+        },
+        {
+          "title": "AMD、フィジカルAI・ロボティクス向けSoC「Ryzen AI Embedded X100」シリーズを発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2127479.html"
+        },
+        {
+          "title": "万博で話題の「ミライ人間洗濯機」が福祉現場へ導入、微細バブルで介助負担を軽減",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html"
         }
       ]
     }
