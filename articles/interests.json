@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-07-22T08:05:38.368037+09:00",
+  "updated_at": "2026-07-24T08:02:36.817786+09:00",
   "items": [
-    {
-      "title": "ノーベル賞受賞のジョン・ジャンパー氏がGoogle DeepMindからAnthropicへ移籍、AI人材争奪戦が激化",
-      "category": "AI研究",
-      "date": "2026-06-22",
-      "source_url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "importance": 5
-    },
-    {
-      "title": "住民や環境団体の反対により、わずか3カ月で75件のデータセンター計画が中断",
-      "category": "エネルギー・環境技術",
-      "date": "2026-06-22",
-      "source_url": "https://www.gizmodo.jp/article/data-center-projects-were-disrupted/",
-      "importance": 5
-    },
-    {
-      "title": "月額200ドルの「Claude Code」に対抗、完全無料で同等機能を提供するオープンソースAI「Goose」が台頭",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-06-22",
-      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "importance": 5
-    },
-    {
-      "title": "アンソロピック（Anthropic）の高性能AI「Mythos」、NSAの機密システムを短時間で突破し米政府が規制へ",
-      "category": "AI規制・政策",
-      "date": "2026-06-23",
-      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-powerful-mythos-ai-reportedly-breached-almost-all-nsa-classified-systems-within-a-few-hours-during-red-team-test-report-sheds-more-light-on-the-u-s-governments-sudden-ban-on-the-flagship-models",
-      "importance": 5
-    },
     {
       "title": "グーグルからアンソロピックへのトップAI研究者の流出が止まらず",
       "category": "AI研究",
