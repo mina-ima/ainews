@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-18",
-      "stories": [
-        {
-          "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
-          "source_url": "https://www.engineering.com/nvidia-and-noetra-plan-vera-rubin-ai-factory-in-japan/"
-        },
-        {
-          "title": "メタ、アンソロピックに100億ドル規模の計算資源をリースする交渉を進行中",
-          "source_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html"
-        },
-        {
-          "title": "OpenAIの「GPT-5.6 Sol」でファイルが勝手に削除される不具合、サンドボックスなしのフルアクセスで発生か",
-          "source_url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/"
-        },
-        {
-          "title": "100ドル予算のAIミュージックビデオ対決：Claude Fable 5とGPT-5.6 Solの実力を比較",
-          "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6"
-        },
-        {
-          "title": "Google、オンデバイスAI「Gemini Nano v3」の処理速度を50%高速化する新技術を開発",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2126133.html"
-        },
-        {
-          "title": "業界最軽量クラスのARグラス「XREAL xbx a01+」実機レビュー、エントリーモデルの決定版",
-          "source_url": "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/"
-        },
-        {
-          "title": "定番のUSBケーブルチェッカーが小型・低価格化して「USB Cable Checker Lite」として新登場",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126154.html"
-        },
-        {
-          "title": "電子ペーパータブレットの新基準、reMarkableの新型「Paper Pure」が登場",
-          "source_url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/"
-        },
-        {
-          "title": "ケイデンス、プリント基板および先進パッケージ設計向け「AIスーパーエージェント」を導入",
-          "source_url": "https://semiengineering.com/chip-industry-week-in-review-147/"
-        },
-        {
-          "title": "TSMC、次世代1.4nmプロセス「A14」の歩留まりと性能の大幅な向上を確認",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-confirms-significant-yield-and-performance-improvements-in-a14-update-strong-interest-from-ai-hpc-and-smartphone-customers"
-        },
-        {
-          "title": "ソフトバンクと安川電機、使うほど賢くなる「フィジカルAI」ロボットの共同実証に成功",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/"
-        },
-        {
-          "title": "豪州首相、AIデータセンターに「消費電力と同等の自己発電」を義務付ける新方針を発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/policy/ai-data-centers-must-produce-as-much-power-as-they-use-australia-pm-says-new-national-ai-framework-will-also-ensure-water-efficiency-and-protect-intellectual-property-rights"
-        },
-        {
-          "title": "MIT、3Dプリンターの物理的限界を考慮したコンクリート3Dプリント最適化フレームワークを開発",
-          "source_url": "https://3dprintingindustry.com/news/mit-optimizes-concrete-3d-printing-for-manufacturability-253179/?utm_source=rss&utm_medium=rss&utm_campaign=mit-optimizes-concrete-3d-printing-for-manufacturability"
-        },
-        {
-          "title": "コンコルディア大学、平らな金型から湾曲した風力発電ブレードを製造する「逆4Dプリント」技術を開発",
-          "source_url": "https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156/?utm_source=rss&utm_medium=rss&utm_campaign=concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds"
-        },
-        {
-          "title": "人間の脳は2つの異なる音声を同時に処理できる、脳波測定により実証",
-          "source_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876"
-        },
-        {
-          "title": "日本の化学メーカー、AIサーバー向け積層板材料の生産能力を倍増へ",
-          "source_url": "https://asia.nikkei.com/business/materials/japan-chemical-maker-to-double-capacity-for-material-in-ai-server-supply-chain"
-        },
-        {
-          "title": "キャピタル・ワン、AIエージェントによるコード脆弱性検知ツール「VulnHunter」をオープンソースで公開",
-          "source_url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/"
-        },
-        {
-          "title": "アジリティ・ロボティクス、テスラの膝元に人型ロボット「Digit」の訓練施設を開設",
-          "source_url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-19",
       "stories": [
         {
@@ -457,6 +380,75 @@
         {
           "title": "AIチップの新興企業Etched、推論特化型プロセッサで評価額100億ドルを突破",
           "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "stories": [
+        {
+          "title": "中国の最新AI「Kimi K3」にアンソロピックの「Claude Fable 5」蒸留疑惑、AIサプライチェーンリスクが露呈",
+          "source_url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities"
+        },
+        {
+          "title": "メシー、生成AIによる3Dモデル自動生成で約600億円の巨額資金調達を実施",
+          "source_url": "https://3dprintingindustry.com/news/meshy-raises-nearly-400m-at-1-5b-valuation-in-largest-ai-3d-round-to-date-253294/?utm_source=rss&utm_medium=rss&utm_campaign=meshy-raises-nearly-400m-at-1-5b-valuation-in-largest-ai-3d-round-to-date"
+        },
+        {
+          "title": "ホンダ、最新ハイブリッドシステムを極めた新生「プレリュード」を本格披露",
+          "source_url": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price"
+        },
+        {
+          "title": "DJI、広角と中望遠の2眼カメラを備えた小型ジンバル「Osmo Pocket 4P」を投入",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/25/news015.html"
+        },
+        {
+          "title": "メタ、スマートグラスの会話クリア機能における月額有料化プランを撤回",
+          "source_url": "https://www.engadget.com/2223212/meta-walks-back-rate-limits-for-smart-glasses-conversation-focus/"
+        },
+        {
+          "title": "アンカー、iPhoneの機種自動検知＆出力表示画面を備えた「Nano Charger 45W」発売",
+          "source_url": "https://gigazine.net/news/20260725-anker-nano-charger-45w-display/"
+        },
+        {
+          "title": "コンガテック、物理AI・エッジシステム向け「COM-HPC」規格モジュールを発表",
+          "source_url": "https://www.engineering.com/congatec-adds-com-hpc-module-for-physical-ai-systems/"
+        },
+        {
+          "title": "エヌビディアとSKグループ、5000億ドル規模の巨大AIインフラ提携を発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories"
+        },
+        {
+          "title": "インド初の民間開発ロケット「アグニカル」、初打ち上げで軌道投入に成功",
+          "source_url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
+        },
+        {
+          "title": "アクラブ、ローカル環境でAIエージェントを動かす5nm SoC「GΞLIX 1」を発表",
+          "source_url": "https://www.engineering.com/acrab-unveils-edge-ai-soc-for-local-agentic-workloads/"
+        },
+        {
+          "title": "BAEシステムズ、自律型無人戦闘機「ブロンタナクス」を公開",
+          "source_url": "https://newatlas.com/military/bae-systems-brontanax-loyal-wingman/"
+        },
+        {
+          "title": "カインド・デザインズ、海洋生態系を再生する3Dプリント人工護岸の量産へ約15億円調達",
+          "source_url": "https://3dprintingindustry.com/news/kind-designs-raises-10m-pre-series-a-at-70m-valuation-to-scale-3d-printed-seawalls-253300/?utm_source=rss&utm_medium=rss&utm_campaign=kind-designs-raises-10m-pre-series-a-at-70m-valuation-to-scale-3d-printed-seawalls"
+        },
+        {
+          "title": "アップルとマイクロンがトランプ政権下で対立、中国製メモリ採用の特別許可を巡り",
+          "source_url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/"
+        },
+        {
+          "title": "MIT、100年前の特許から着想を得た3方向結合技術「Yジッパー」を発表",
+          "source_url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504"
+        },
+        {
+          "title": "AI創薬の最新展開、機械学習によるタンパク質設計で新薬開発の成功率が向上",
+          "source_url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        },
+        {
+          "title": "プラネックス、全5ポートが10GbE対応の超小型ファンレスLANスイッチを発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2127593.html"
         }
       ]
     }
