@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-19",
-      "stories": [
-        {
-          "title": "次世代AI「GPT-5.6」がプロンプトのみで凸最適化における30年の技術的ギャップを解消",
-          "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"
-        },
-        {
-          "title": "「Claude Fable 5」が有料サブスクプランに標準統合、利用制限の50%まで追加費用なしで提供",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126298.html"
-        },
-        {
-          "title": "中国のMoonshot AI、米国大手に匹敵する推論能力を持つ「Kimi K3」を発表",
-          "source_url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "アップルがOpenAIを提訴、さらに数十人の従業員に法的警告書を送付し対立激化",
-          "source_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast"
-        },
-        {
-          "title": "スマホのローカル環境で直接動作する270億パラメータの超軽量LLM「Bonsai 27B」が登場",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/"
-        },
-        {
-          "title": "Googleが「NotebookLM」を「Gemini Notebook」に改称、エコシステム統合とデータ分析を強化",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html"
-        },
-        {
-          "title": "ソニーの最新フラッグシップRGB LEDテレビ「ブラビア 9 II」が圧倒的な表現力で高評価",
-          "source_url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review"
-        },
-        {
-          "title": "クラフト封筒のようなデザインとタフな防水・耐久性を両立したPCケースが登場",
-          "source_url": "https://www.gizmodo.jp/article/anaheim_laptop-sleeve-13inch/"
-        },
-        {
-          "title": "超高級スマホのヴァルチュ、約6,880ドルのAIエージェント搭載折りたたみスマホを発売",
-          "source_url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
-        },
-        {
-          "title": "摩擦ゼロの解錠体験、顔認証スマートロックが一般家庭向けに実用レベルへ到達",
-          "source_url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review"
-        },
-        {
-          "title": "中国のLONGi、積層型太陽電池で世界最高水準となる変換効率35.5%を達成",
-          "source_url": "https://www.engadget.com/2218081/chinese-solar-cell-efficiency-35-5-percent/"
-        },
-        {
-          "title": "3Dプリンターではんだペースト用ステンシルを自動生成する「ステンチル」が登場",
-          "source_url": "https://www.stenchill.com/en/"
-        },
-        {
-          "title": "Google DeepMindとIsomorphic Labs、AIを用いた「バイオレジリエンス」の取り組みを発表",
-          "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
-        },
-        {
-          "title": "AIデータセンターの電力需要急増を背景に、エネルギー関連企業のIPOが今世紀最速で急増",
-          "source_url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
-        },
-        {
-          "title": "皮膚への刺激なしにバイタルサインを24時間監視できる「電子式テンポラリータトゥー」が開発",
-          "source_url": "https://newatlas.com/materials/inktelligent-paintable-electrodes-sensors/"
-        },
-        {
-          "title": "超高速回転により人間の目やカメラから「ほぼ透明」に見えるクモ型ドローンが開発",
-          "source_url": "https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/"
-        },
-        {
-          "title": "物流大手のダイフク、滋賀のマザー工場再開発に520億円を投資し製造・試験機能を大幅拡充",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03669/070600005/"
-        },
-        {
-          "title": "わずか20分でカスタムフィットのコンタクトレンズを造形できる3Dプリント用シリコン素材が開発",
-          "source_url": "https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses"
-        },
-        {
-          "title": "廃ペットボトルに2.5%の添加剤を加えるだけで、高性能なバッテリー用炭素材料へ変換する技術",
-          "source_url": "https://www.gizmodo.jp/article/plastic_bottles_new_life_batteries/"
-        },
-        {
-          "title": "NVIDIAの次世代「RTX 50 Super」GPU、GDDR7メモリの価格高騰により発売延期の危機か",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb"
-        }
-      ]
-    },
-    {
       "date": "2026-07-20",
       "stories": [
         {
@@ -449,6 +364,75 @@
         {
           "title": "プラネックス、全5ポートが10GbE対応の超小型ファンレスLANスイッチを発売",
           "source_url": "https://internet.watch.impress.co.jp/docs/news/2127593.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "stories": [
+        {
+          "title": "ハギング・フェイスCEO、オープンAI攻撃の「自律型AI」脅威に対し徹底した透明性を要求",
+          "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+        },
+        {
+          "title": "超音波ソナーで蚊を追跡しプロペラで物理撃墜する専用ドローン「LeSonar2」が登場",
+          "source_url": "https://newatlas.com/drones/tornyol-mosquito-hunting-drone/"
+        },
+        {
+          "title": "ミニマルスマホのLight、ポップで安価なガラケー型端末「ライト・フリップ」を発表",
+          "source_url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
+        },
+        {
+          "title": "ニトリ、60W急速充電ケーブルと一体化した「1台2役ショルダーストラップ」を発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2127374.html"
+        },
+        {
+          "title": "予冷不要で40分でアイスが作れるコンプレッサー内蔵メーカーがクイジナートから登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2127245.html"
+        },
+        {
+          "title": "IEEE Spectrumが「折り紙」構造を取り入れた3次元電子基板技術を解説",
+          "source_url": "https://spectrum.ieee.org/origami-circuit-boards"
+        },
+        {
+          "title": "オープンソースと3Dプリント技術により約1000万円以下で製作されたポータブルMRI装置",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/open-source-3d-printed-portable-mri-machine-built-for-under-usd70-000-diy-medical-equipment-costs-less-than-7-percent-of-a-full-sized-mri-machines-usd1-1-million-starting-price"
+        },
+        {
+          "title": "わずか8ドルのマイコン「ESP32」上で2890万パラメータのLLMを動かすプロジェクトが登場",
+          "source_url": "https://github.com/slvDev/esp32-ai"
+        },
+        {
+          "title": "ロンドン・ガトウィック空港、自動バレーパーキングロボットによる駐車サービスを導入",
+          "source_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/"
+        },
+        {
+          "title": "GM、大型電力網（グリッド）向け定置型蓄電池として「ナトリウムイオン電池」の導入を支援",
+          "source_url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy"
+        },
+        {
+          "title": "グーグル、スペースXの株式約941億ドル分（持分6%）の保有を公式開示",
+          "source_url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c"
+        },
+        {
+          "title": "LCCのZIPAIR、機内Wi-Fiに「スターリンク」を導入し通信速度約400Mbpsを記録",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/minna/2127355.html"
+        },
+        {
+          "title": "3Dプリント製F-14模型に世界最初のマイクロプロセッサ「MP944」をFPGA復元して搭載",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/3d-printed-f-14-tomcat-uses-an-fpga-recreation-of-the-worlds-first-microprocessor-cadcs-mp944-chip-controls-the-fighters-swing-wing-system-among-other-things"
+        },
+        {
+          "title": "3Dプリント製カスタム車椅子クッション「ベロ」が登場、高度な姿勢保持を実現",
+          "source_url": "https://3dprintingindustry.com/news/kalogon-launches-verro-a-3d-printed-custom-wheelchair-cushion-253310/?utm_source=rss&utm_medium=rss&utm_campaign=kalogon-launches-verro-a-3d-printed-custom-wheelchair-cushion"
+        },
+        {
+          "title": "液体中のカオスな微粒子運動を利用した「リキッド・コンピューター」を物理学者が試作",
+          "source_url": "https://www.tomshardware.com/tech-industry/physicists-build-a-computer-from-400-particles-orbiting-in-liquid-with-10-times-the-error-of-memristor-rivals"
+        },
+        {
+          "title": "AIネイティブなクラウド基盤を展開するレイルウェイが1億ドルを調達",
+          "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
         }
       ]
     }
