@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-20",
-      "stories": [
-        {
-          "title": "中国Moonshot AI、次世代モデル「Kimi K3」を発表しサブスク受付を一時停止",
-          "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130"
-        },
-        {
-          "title": "Nothingの透明ワイヤレスイヤホン廉価版「Nothing Ear(3a)」が登場",
-          "source_url": "https://gigazine.net/news/20260719-nothing-ear-3a/"
-        },
-        {
-          "title": "世界初の「超合金」：耐火ハイエントロピー合金の新製法が確立",
-          "source_url": "https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/"
-        },
-        {
-          "title": "20分でカスタムフィットレンズを造形できる3Dプリント技術",
-          "source_url": "https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165/"
-        },
-        {
-          "title": "5ドルのESP32で53万件の広告ドメインをブロックするハック",
-          "source_url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds"
-        }
-      ]
-    },
-    {
       "date": "2026-07-21",
       "stories": [
         {
@@ -433,6 +408,67 @@
         {
           "title": "AIネイティブなクラウド基盤を展開するレイルウェイが1億ドルを調達",
           "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "stories": [
+        {
+          "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/"
+        },
+        {
+          "title": "NVIDIA主導のオープンAIセキュリティ連合、MicrosoftやIBMなど30社超が参加",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
+        },
+        {
+          "title": "Hugging Faceへの不正アクセス巡り、CEOがOpenAIに透明性と支援を要求",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128099.html"
+        },
+        {
+          "title": "Moonshot AIの超巨大モデル「Kimi K3」オープンウェイト版が公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128308.html"
+        },
+        {
+          "title": "カシオ、AIペットロボット「モフリン」に癒しの新色「さくら」を追加",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2127724.html"
+        },
+        {
+          "title": "厚さわずか67mmの薄型設計、Jackeryから部屋の隙間に置けるポータブル電源が登場",
+          "source_url": "https://www.gizmodo.jp/article/slimpower-h1/"
+        },
+        {
+          "title": "スマホの依存を防ぐ物理キー、わずか9ドルで気を散らすアプリをロック",
+          "source_url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
+        },
+        {
+          "title": "中国のDRAM大手CXMTが上海証券取引所に上場、時価総額約4870億ドルに到達",
+          "source_url": "https://www.electronicsweekly.com/news/business/cxmt-ipos-at-487bn-valuation-2026-07/"
+        },
+        {
+          "title": "中国が国産の浸漬型DUV露光装置の量産を開始、半導体製造の自給化で重大なブレイクスルー",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines"
+        },
+        {
+          "title": "シーメンス、半導体・プリント基板設計を自動化する「キャラクタリゼーションAIエージェント」を導入",
+          "source_url": "https://www.electronicsweekly.com/news/siemens-adds-characterisation-ai-agent-to-automate-design-iteration-2026-07/"
+        },
+        {
+          "title": "中国・Unitreeが最高時速20km超の車輪付き四足ロボット「AS2-W」のデモ映像を公開",
+          "source_url": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html"
+        },
+        {
+          "title": "米海軍研究所、静止軌道衛星の軌道上ロボット保守ミッションを打ち上げ",
+          "source_url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/"
+        },
+        {
+          "title": "アマゾン、直接通信可能な次世代衛星ネットワーク構築へ向け5,000基以上の衛星配備を計画",
+          "source_url": "https://www.engadget.com/2224233/amazon-wants-to-deploy-5105-satellites-for-its-direct-to-mobile-service/"
+        },
+        {
+          "title": "金沢工業大学など、地震時の物流倉庫の揺れを低減する画期的な「防震」システムを開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02881/"
         }
       ]
     }
