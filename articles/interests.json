@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-07-24T08:02:36.817786+09:00",
+  "updated_at": "2026-07-27T14:17:41.357291+09:00",
   "items": [
-    {
-      "title": "グーグルからアンソロピックへのトップAI研究者の流出が止まらず",
-      "category": "AI研究",
-      "date": "2026-06-25",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
-      "importance": 5
-    },
-    {
-      "title": "グーグル、軽量高速AI「Gemini 3.5 Flash」にPCを自律操作する機能を導入",
-      "category": "AIプロダクト",
-      "date": "2026-06-25",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "importance": 5
-    },
-    {
-      "title": "深層学習を用いた心電図解析で「突然死」のバイオマーカーを発見",
-      "category": "医療・バイオ",
-      "date": "2026-06-25",
-      "source_url": "https://www.nature.com/articles/s41586-026-10674-6",
-      "importance": 5
-    },
-    {
-      "title": "立体的な回路を紙で作る「折り紙回路基板」の技術が注目を集める",
-      "category": "プリント基板・電子実装",
-      "date": "2026-06-25",
-      "source_url": "https://spectrum.ieee.org/origami-circuit-boards",
-      "importance": 5
-    },
-    {
-      "title": "UGREENのカード型スマートトラッカー「FineTrack Slim Duo」、バッテリー寿命5年を実現",
-      "category": "ガジェット・民生機器",
-      "date": "2026-06-26",
-      "source_url": "https://www.gizmodo.jp/article/2606-amazon-short-ugreen-finetrack/",
-      "importance": 3
-    },
     {
       "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
       "category": "LLM・生成AI",
