@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-21",
-      "stories": [
-        {
-          "title": "ハギング・フェイスへのAI主導サイバー攻撃、防御にオープンウェイトモデル「GLM 5.2」を採用し解決",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html"
-        },
-        {
-          "title": "アリババ、2.4兆パラメータの超巨大モデル「Qwen 3.8」のオープンウェイト公開を予告",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2126345.html"
-        },
-        {
-          "title": "トランプ政権、中国製高性能AI「Kimi K3」の登場を受けてオープンウェイトモデルの禁止を再検討",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/trump-administration-reportedly-reviving-push-to-ban-chinese-ai-models-following-kimi-k3-launch-citing-cybersecurity-concerns-downloadable-open-weights-could-make-an-outright-u-s-ban-nearly-impossible-to-enforce-amid-growing-adoption"
-        },
-        {
-          "title": "ロサンゼルス市警察、誤検知多発を理由にナンバープレート自動認識システム「Flock Safety」との契約を終了",
-          "source_url": "https://gigazine.net/news/20260720-automatic-license-plate-reader-system/"
-        },
-        {
-          "title": "企業のAIインフラ支出がコスト管理能力を上回る「AIコンピュート・ギャップ」が深刻化",
-          "source_url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-        },
-        {
-          "title": "学術論文におけるAI執筆の割合を測定する試みと、検出を回避するプロンプト技術による測定の限界",
-          "source_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
-        },
-        {
-          "title": "貝印、なでるだけでムダ毛を剃れる丸型カミソリ「なでそり」が計画比3倍の大ヒット",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126042.html"
-        },
-        {
-          "title": "8BitDo、スマホをゲームボーイ風に変身させる折りたたみコントローラー「FlipPad」を発売",
-          "source_url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability"
-        },
-        {
-          "title": "山善、テント内や車中泊での一酸化炭素中毒を防ぐ高精度アラーム「COALAN」を先行販売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2125004.html"
-        },
-        {
-          "title": "新幹線や特急の狭いテーブルを拡張するクリップ式ドリンクホルダー「どこでもCup Clip」",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2126144.html"
-        },
-        {
-          "title": "グーグル、AIモデル「Gemini」をシリコンに直接焼き込んだ革新的AIチップを開発中",
-          "source_url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon"
-        },
-        {
-          "title": "自律型AIエージェント「GPT-5.6」がわずか25ドルで50万ドル価値のWordPress脆弱性を発見",
-          "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/"
-        },
-        {
-          "title": "サムテック、高周波基板向けに30度傾斜の同軸コネクタ「185-ALシリーズ」を量産開始",
-          "source_url": "https://www.electronicsweekly.com/news/products/connectors/samtec-angled-launch-connectors-for-precision-rf-2026-07/"
-        },
-        {
-          "title": "韓国で小型モジュール原子炉（SMR）を動力源とする次世代コンテナ船の基本設計が承認",
-          "source_url": "https://www.world-nuclear-news.org/articles/korean-smr-powered-container-ship-design-certified"
-        },
-        {
-          "title": "高濃度二酸化炭素の吸入により、脳内からアルツハイマー病の原因タンパク質が減少することが判明",
-          "source_url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/"
-        },
-        {
-          "title": "自走式電動トレーラーが貨物輸送の脱炭素化を推進、既存トラックのハイブリッド化を実現",
-          "source_url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization"
-        },
-        {
-          "title": "ドローン向け「反響定位（エコーロケーション）」技術が開発、暗闇や濃霧でも自律飛行可能に",
-          "source_url": "https://hackaday.com/2026/07/20/echolocation-for-drones/"
-        },
-        {
-          "title": "TSMC元マネージャー、機密の半導体製造プロセス文書を中国企業に漏洩した疑いで台湾当局に起訴",
-          "source_url": "https://www.tomshardware.com/tech-industry/taiwan-inducts-ex-tsmc-manager-for-allegedly-stealing-chip-secrets-for-china"
-        },
-        {
-          "title": "フェムト秒レーザーと電子顕微鏡を融合、昆虫の細胞構造を熱損傷なしでリアルタイム断面観察する新技術",
-          "source_url": "https://www.youtube.com/watch?v=NwhVJ7cv9B4"
-        },
-        {
-          "title": "2000年前に中国で大流行し、その後突如消滅した幻のボードゲーム「六博」の謎に迫る新たな手がかり",
-          "source_url": "https://refractor.io/history/ancient-chess-cousin-liubo/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-22",
       "stories": [
         {
@@ -469,6 +384,75 @@
         {
           "title": "金沢工業大学など、地震時の物流倉庫の揺れを低減する画期的な「防震」システムを開発",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02881/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "stories": [
+        {
+          "title": "ハギング・フェイス（Hugging Face）、自律型AI侵入インシデントの詳細な技術タイムラインを公表",
+          "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+        },
+        {
+          "title": "オープンAIやアンソロピックの研究者ら、自律型AIの開発減速を米政府に共同提言",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+        },
+        {
+          "title": "パープレキシティ、Windows PC上で自律動作するローカルAIエージェント機能を正式提供",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+        },
+        {
+          "title": "アンソロピック、AIモデル「クロード」を活用した暗号規格の脆弱性自動発見技術を発表",
+          "source_url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses"
+        },
+        {
+          "title": "厚さわずか6.5mm、折れ曲げてコンパクトに持ち運べる静音マウス「ゴーフォールド」が登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128619.html"
+        },
+        {
+          "title": "掻かずに温冷刺激でかゆみを和らげるハンディデバイス「サーモスクラッチ」がクラファン開始",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2128216.html"
+        },
+        {
+          "title": "バルミューダのLED置き時計「ザ・クロック」、眠りをサポートするナイト機能を追加アプデ",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2128313.html"
+        },
+        {
+          "title": "オウルテック、斜め挿し充電器やネイル配慮ケーブルなど利便性重視の新ブランドを展開",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2128655.html"
+        },
+        {
+          "title": "シノプシスとエヌビディア、半導体およびプリント基板設計向けエージェント型AIを共同開発",
+          "source_url": "https://www.engineering.com/synopsys-and-nvidia-advance-agentic-ai-for-chip-design/"
+        },
+        {
+          "title": "3Dプリンター個体ごとの「癖」を自動学習して製造不具合を激減させるAIアルゴリズムが開発",
+          "source_url": "https://3dprintingindustry.com/news/ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects-253371/?utm_source=rss&utm_medium=rss&utm_campaign=ai-system-learns-each-3d-printers-personality-to-cut-manufacturing-defects"
+        },
+        {
+          "title": "GPU不要で高効率なAI推論を行う新プロセッサ開発の「エッチド」、評価額103億ドルを達成",
+          "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+        },
+        {
+          "title": "チューリング元CTO創業の「アトム」、次世代人型ロボット開発に向け30億円を資金調達",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071700008/"
+        },
+        {
+          "title": "サフランら、F-35戦闘機向け大型チタン部品の3Dプリント量産体制を確立",
+          "source_url": "https://3dprintingindustry.com/news/safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine-253366/?utm_source=rss&utm_medium=rss&utm_campaign=safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine"
+        },
+        {
+          "title": "原子炉燃料の回収・再利用に向け、レーザー技術を用いたウラン濃縮プロセスが実用化へ",
+          "source_url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
+        },
+        {
+          "title": "旭化成エレクトロニクス、プライバシー配慮型のアンテナ一体型ミリ波レーダーを量産開始",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11916/"
+        },
+        {
+          "title": "皮膚へ直接描画して通電できる導電性ポリマー電極技術が開発",
+          "source_url": "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/"
         }
       ]
     }
