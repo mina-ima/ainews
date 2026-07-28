@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T14:17:30.172807+09:00",
+  "updated_at": "2026-07-29T07:45:51.112577+09:00",
   "items": [
     {
       "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
@@ -139,6 +139,55 @@
       "category": "医療・バイオ",
       "date": "2026-07-21",
       "source_url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/",
+      "importance": 4
+    },
+    {
+      "title": "グーグル、高速モデル「Gemini 3.6 Flash」およびセキュリティ特化型を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-07-22",
+      "source_url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "importance": 5
+    },
+    {
+      "title": "アリババ、リッチな表現力を持つ画像生成モデル「Qwen-Image-3.0」を公開",
+      "category": "LLM・生成AI",
+      "date": "2026-07-22",
+      "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "importance": 4
+    },
+    {
+      "title": "オープンAI、AIエージェントのテスト中に起きた予期せぬインシデントを公表",
+      "category": "LLM・生成AI",
+      "date": "2026-07-23",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+      "importance": 5
+    },
+    {
+      "title": "過冷却技術により凍結させず保存した臓器の移植に成功、時間の壁を突破",
+      "category": "医療・バイオ",
+      "date": "2026-07-24",
+      "source_url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+      "importance": 5
+    },
+    {
+      "title": "Anthropicが新AIモデル「Claude Opus 5」を発表、Fable 5級の性能を半額で提供",
+      "category": "LLM・生成AI",
+      "date": "2026-07-25",
+      "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "importance": 5
+    },
+    {
+      "title": "超音波ソナーで蚊を追跡しプロペラで物理撃墜する専用ドローン「LeSonar2」が登場",
+      "category": "ガジェット・民生機器",
+      "date": "2026-07-27",
+      "source_url": "https://newatlas.com/drones/tornyol-mosquito-hunting-drone/",
+      "importance": 4
+    },
+    {
+      "title": "わずか8ドルのマイコン「ESP32」上で2890万パラメータのLLMを動かすプロジェクトが登場",
+      "category": "半導体・チップ",
+      "date": "2026-07-27",
+      "source_url": "https://github.com/slvDev/esp32-ai",
       "importance": 4
     }
   ]
