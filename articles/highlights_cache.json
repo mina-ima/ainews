@@ -1,63 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-22",
-      "stories": [
-        {
-          "title": "Anthropicの著作権訴訟、過去最大の2400億円で和解が成立",
-          "source_url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63"
-        },
-        {
-          "title": "グーグル、高速モデル「Gemini 3.6 Flash」およびセキュリティ特化型を発表",
-          "source_url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
-        },
-        {
-          "title": "オープンAI、ハグギング・フェイスへの不正アクセスは自社モデルのテストが原因と認める",
-          "source_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
-        },
-        {
-          "title": "アリババ、リッチな表現力を持つ画像生成モデル「Qwen-Image-3.0」を公開",
-          "source_url": "https://qwen.ai/blog?id=qwen-image-3.0"
-        },
-        {
-          "title": "メタのAIモデル、ローレンス・バークレー国立研究所の科学プロジェクトに採用",
-          "source_url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1"
-        },
-        {
-          "title": "フランス議会、15歳未満のSNSアクセスを禁止する法案を可決（EU初）",
-          "source_url": "https://www.scmp.com/news/world/europe/article/3361394/frances-parliament-approves-social-media-ban-children-under-15-eu-first?utm_source=rss_feed"
-        },
-        {
-          "title": "USB-Cポートをマグネット式に変換するCIOの便利アダプタが快適",
-          "source_url": "https://www.gizmodo.jp/article/2607-amazon-cio-magnethenkanadaptor/"
-        },
-        {
-          "title": "巻き取り式でカバンがスッキリ、UGREENの100W急速充電ケーブル",
-          "source_url": "https://www.gizmodo.jp/article/amazon-timesale-2026-0721-3/"
-        },
-        {
-          "title": "あえての「ガラケー」回帰、ライト社がスタイリッシュな「Light Flip」を発表",
-          "source_url": "https://www.wired.com/story/light-flip-is-the-modern-stylish-dumb-flip-phone-of-your-luddite-dreams/"
-        },
-        {
-          "title": "ジャック・ドーシー氏の新チャットツール「Buzz」、人間とAIエージェントが協調",
-          "source_url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
-        },
-        {
-          "title": "アルドゥイーノ、長距離センサープロジェクト向けのプラグアンドプレイモジュールを発売",
-          "source_url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/"
-        },
-        {
-          "title": "わずか20分でカスタムコンタクトレンズを造形できる3Dプリント技術が開発",
-          "source_url": "https://newatlas.com/3d-printing/3d-printed-custom-contact-lenses-20-minutes/"
-        },
-        {
-          "title": "AI時代の新しいアプローチ、Cursorが明かす大規模開発でのコスト削減手法",
-          "source_url": "https://cursor.com/blog/agent-swarm-model-economics"
-        }
-      ]
-    },
-    {
       "date": "2026-07-23",
       "stories": [
         {
@@ -453,6 +396,43 @@
         {
           "title": "皮膚へ直接描画して通電できる導電性ポリマー電極技術が開発",
           "source_url": "https://www.gizmodo.jp/article/scientists-created-a-wearable-you-can-paint-directly-onto-your-skin/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "stories": [
+        {
+          "title": "OpenAIの自律型AIエージェント、Hugging Face侵入事件の裏で他社サービスへの不正アクセスも実行していたことが判明",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
+        },
+        {
+          "title": "シャープの自動調理鍋「ホットクック」最新機種が生成AIサービスに対応、9月発売へ",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2128778.html"
+        },
+        {
+          "title": "Bluetooth LEが最大7.5Mbpsへ高速化、新規格「Bluetooth HDT」発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128990.html"
+        },
+        {
+          "title": "RTX 2080 TiのVRAMを11GBから22GBへ倍増させる物理改造サービスが登場",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios"
+        },
+        {
+          "title": "矢崎総業、次世代FA開発拠点でフィジカルAIを活用した配線ハーネス自動化に本腰",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/072700021/"
+        },
+        {
+          "title": "老化由来のタンパク質損傷を酵素で分解・修復する技術「CMLase」が開発される",
+          "source_url": "https://gigazine.net/news/20260729-reversal-of-protein/"
+        },
+        {
+          "title": "エアバス、人工衛星の構造部品製造に向けて高耐熱ポリマーの3Dプリント技術を認定",
+          "source_url": "https://3dprintingindustry.com/news/airbus-qualifies-a-first-alternative-polymer-am-partner-for-satellites-253399/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-qualifies-a-first-alternative-polymer-am-partner-for-satellites"
+        },
+        {
+          "title": "赤外線カメラの熱シグネチャーを完全に隠蔽する「3Dサーマルクローク」が開発",
+          "source_url": "https://newatlas.com/materials/3d-ominidirection-thermal-cloak/"
         }
       ]
     }
