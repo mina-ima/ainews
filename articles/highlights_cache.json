@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-23",
-      "stories": [
-        {
-          "title": "オープンAI、AIエージェントのテスト中に起きた予期せぬインシデントを公表",
-          "source_url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "サムスン電子、「Galaxy Z Fold8 / Flip8」シリーズを発表し薄型化とAI機能を強化",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2127085.html"
-        },
-        {
-          "title": "ソニー、内部RAW撮影に対応した小型シネマカメラ「FX5」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2126705.html"
-        },
-        {
-          "title": "ライト、画面中毒を防ぐカラフルでポップな新型折りたたみ「ガラケー」を発表",
-          "source_url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/"
-        },
-        {
-          "title": "インテル、最先端の「High-NA EUV」半導体製造プロセスの出荷を開始",
-          "source_url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv"
-        },
-        {
-          "title": "AMD、アンソロピックへ最大50億ドルの出資と2ギガワット分のGPU供給を発表",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
-        }
-      ]
-    },
-    {
       "date": "2026-07-24",
       "stories": [
         {
@@ -433,6 +404,67 @@
         {
           "title": "赤外線カメラの熱シグネチャーを完全に隠蔽する「3Dサーマルクローク」が開発",
           "source_url": "https://newatlas.com/materials/3d-ominidirection-thermal-cloak/"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "stories": [
+        {
+          "title": "オープンAIの自律型エージェント「GPT-5.6 Sol」、ビジネス運用実験で誤情報連発と損失を記録",
+          "source_url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
+        },
+        {
+          "title": "リンクトイン、「AI生成の低品質な投稿（AI slop）」の報告ボタンをテスト導入",
+          "source_url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
+        },
+        {
+          "title": "小島プロダクションとコラボしたポータブルCDプレーヤー「DEATH STRANDING 2」モデルが登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2129286.html"
+        },
+        {
+          "title": "睡眠専用イヤホン「オズロ スリープバッズ 2」が登場、バッテリー持続と接続性が大幅向上",
+          "source_url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
+        },
+        {
+          "title": "ナカバヤシ、カセットテープの音源を直接パソコンへデジタル保存できるUSB-Cプレーヤーを発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2129357.html"
+        },
+        {
+          "title": "グーグル・ディープマインド、ロボット全身の動きを高度制御する「Gemini Robotics 2」を発表",
+          "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+        },
+        {
+          "title": "グーグル、2028年までにエヌビディアを超える規模の独自AIアクセラレータ（TPU）製造を目指す",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals"
+        },
+        {
+          "title": "安価なマイコン「ESP32」を活用したオープンソースのリモート管理端末「ESP-KVM」が公開",
+          "source_url": "https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/"
+        },
+        {
+          "title": "インテル、新興企業へAtomクラスのx86プロセッサコアIPをライセンス供与か",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores"
+        },
+        {
+          "title": "エイチピー、熱可塑性樹脂に対応する初のFFF方式産業用3Dプリンター「600 HT」を発表",
+          "source_url": "https://3dprintingindustry.com/news/hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers-253467/?utm_source=rss&utm_medium=rss&utm_campaign=hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers"
+        },
+        {
+          "title": "月面探査車開発のルーナー・アウトポスト、エヌビディアのEdge AI「Jetson」を月ミッションに採用",
+          "source_url": "https://www.engineering.com/lunar-outpost-uses-nvidia-computing-for-moon-missions/"
+        },
+        {
+          "title": "グーグル、AI活用によりChromeのバグ修正数が過去2年間分の合計を突破",
+          "source_url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
+        },
+        {
+          "title": "米モンタナ州、初期治験を終えた未承認薬の販売を迅速化しバイオテック拠点化へ",
+          "source_url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
+        },
+        {
+          "title": "キオクシア、PCIe 6.0対応で前世代比最大92%高速なエンタープライズ向けSSD「CM10」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129354.html"
         }
       ]
     }
