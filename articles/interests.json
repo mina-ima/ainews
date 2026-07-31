@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-29T07:45:51.112577+09:00",
+  "updated_at": "2026-07-31T11:27:36.996037+09:00",
   "items": [
-    {
-      "title": "OpenAIが次世代AI「GPT-5.6」シリーズを発表、米政府の要請で限定プレビュー開始",
-      "category": "LLM・生成AI",
-      "date": "2026-06-29",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2606/28/news020.html",
-      "importance": 5
-    },
-    {
-      "title": "ファナック（FANUC）、AWS活用でロボットの模倣学習時間を60時間から4.8時間に短縮",
-      "category": "ロボティクス・自動化",
-      "date": "2026-06-30",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
-      "importance": 5
-    },
     {
       "title": "Anthropicの高性能AI「Claude Fable 5」、米国政府の規制解除により提供再開",
       "category": "LLM・生成AI",
