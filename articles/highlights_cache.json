@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-24",
-      "stories": [
-        {
-          "title": "経産省がフィジカルAIプロジェクト「FRONTia」を始動、ノエトラなど参画で1兆パラメータ級の基盤モデル開発へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/072100009/"
-        },
-        {
-          "title": "ランウェイ、画質・スピード・コストに応じて最適なモデルを自動選択する「メディア・ルーター」を公開",
-          "source_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
-        },
-        {
-          "title": "米超党派議員、国土安全保障省に強制停止権限を与える「AIキルスイッチ法案」を準備",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
-        },
-        {
-          "title": "アイリスオーヤマ、ゴミを凍らせて臭いを封じ込める「冷凍ごみ箱 45L」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126919.html"
-        },
-        {
-          "title": "パナソニック、手のひらサイズの電気シェーバー「ラムダッシュ パームイン」に初の6枚刃モデルを投入",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2127269.html"
-        },
-        {
-          "title": "ガーミン、画面も通知も排したヘルスデータ特化のスマートバンド「CIRQA」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2126966.html"
-        },
-        {
-          "title": "サムスン、Google Geminiを搭載したスマートグラスを海外公開",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2127160.html"
-        },
-        {
-          "title": "AMD、最大256コアと1GB超L3キャッシュを備えた第6世代サーバーCPU「EPYC 9006」を発表",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/amds-256-core-epyc-9996-venice-claims-up-to-a-3-4x-jump-over-intel-xeon-competition-20-percent-over-nvidia-vera-zen-6-comes-with-up-to-1024mb-of-l3-16-channel-memory-and-5ghz-clock-speeds"
-        },
-        {
-          "title": "過冷却技術により凍結させず保存した臓器の移植に成功、時間の壁を突破",
-          "source_url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
-        },
-        {
-          "title": "Mixx、AI向け共構造光導波路（CPO）実装プラットフォームの設計およびOSAT体制を強化",
-          "source_url": "https://www.engineering.com/mixx-adds-india-design-and-osat-support-for-ai-optics/"
-        },
-        {
-          "title": "プラット＆ホイットニー、燃費30％向上を目指すハイブリッド電動航空機エンジンを発表",
-          "source_url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development"
-        },
-        {
-          "title": "国内ベンチャーのアトラックラボ、画像と触覚で判断する「スパイダーロボ」を開発",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000217/"
-        },
-        {
-          "title": "英国、8月末よりコンセント挿し込み型のバルコニー設置用太陽光パネルを解禁",
-          "source_url": "https://www.theguardian.com/money/2026/jul/23/uk-households-free-install-plug-in-balcony-solar-panels"
-        },
-        {
-          "title": "セラミック3Dプリンティングのリソズ、量産拡大により材料売上高が前年比40%増",
-          "source_url": "https://3dprintingindustry.com/news/lithoz-reports-40-growth-in-ceramic-material-revenue-as-lcm-production-scales-253268/?utm_source=rss&utm_medium=rss&utm_campaign=lithoz-reports-40-growth-in-ceramic-material-revenue-as-lcm-production-scales"
-        },
-        {
-          "title": "TP-Link、Bluetooth 6.0対応の業界初小型USBアダプター「UB6A」を発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2126942.html"
-        },
-        {
-          "title": "グーグル・クラウド、AIエージェントのナレッジ共有規格「Open Knowledge Format」を提案",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html"
-        },
-        {
-          "title": "AMD、フィジカルAI・ロボティクス向けSoC「Ryzen AI Embedded X100」シリーズを発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2127479.html"
-        },
-        {
-          "title": "万博で話題の「ミライ人間洗濯機」が福祉現場へ導入、微細バブルで介助負担を軽減",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/23/news116.html"
-        }
-      ]
-    },
-    {
       "date": "2026-07-25",
       "stories": [
         {
@@ -465,6 +388,67 @@
         {
           "title": "キオクシア、PCIe 6.0対応で前世代比最大92%高速なエンタープライズ向けSSD「CM10」を発表",
           "source_url": "https://pc.watch.impress.co.jp/docs/news/2129354.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "stories": [
+        {
+          "title": "オープンAI（OpenAI）の「GPT-5.6 Sol」、自ら推論システムを自律最適化し性能が飛躍",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129786.html"
+        },
+        {
+          "title": "アンソロピック（Anthropic）のClaude、評価テスト中に設定ミスで実在組織へ誤侵入",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129514.html"
+        },
+        {
+          "title": "ディープシーク（DeepSeek）が「DeepSeek V4 Flash」正式版を公開、下位モデルが上位版を凌駕",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129807.html"
+        },
+        {
+          "title": "レーザー（Razer）、8KHz・ラピッドトリガー対応の磁気式キーボード「Huntsman V3 HE」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129597.html"
+        },
+        {
+          "title": "ワークマン（Workman）、手持ちの私服に取り付けられる「腰つけ爆風ファン」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column_review/kdnreview/2129193.html"
+        },
+        {
+          "title": "メイカーズ（MAKERZ）、トルク可変・デジタル表示対応の充電式電動ドライバーを投入",
+          "source_url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2129402.html"
+        },
+        {
+          "title": "ナイキ（Nike）とハイパーアイス、温熱マッサージ機能を内蔵したリカバリーサンダルを発表",
+          "source_url": "https://newatlas.com/wearables/nike-hyperslide-hyperice-footwear/"
+        },
+        {
+          "title": "キオクシア（Kioxia）、AIデータセンター需要で純利益4500%増の過去最高益を記録",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/"
+        },
+        {
+          "title": "TSMC、インテル（Intel）に対抗する先進半導体パッケージ技術「準EMIB」を開発中",
+          "source_url": "https://gigazine.net/news/20260731-tsmc-quasi-emib/"
+        },
+        {
+          "title": "アイ・ビー・エム（IBM）、量子優位性を証明する新たな検証手法を確立",
+          "source_url": "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage"
+        },
+        {
+          "title": "アーヘン工科大学、3Dプリンター向けCAM処理のメモリを削減する計算幾何学ライブラリを公開",
+          "source_url": "https://3dprintingindustry.com/news/rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements-253474/?utm_source=rss&utm_medium=rss&utm_campaign=rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements"
+        },
+        {
+          "title": "ノースウェスタン大学、オペランドX線分析により金属3Dプリントのリアルタイム制御を実現",
+          "source_url": "https://3dprintingindustry.com/news/new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever-253428/?utm_source=rss&utm_medium=rss&utm_campaign=new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever"
+        },
+        {
+          "title": "ドナウ川の水位低下により、ハンガリー唯一の原子力発電所が史上初の停止",
+          "source_url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
+        },
+        {
+          "title": "画面を見るだけで毎秒190KB送受信、高速QRコード通信技術が登場",
+          "source_url": "https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access"
         }
       ]
     }
