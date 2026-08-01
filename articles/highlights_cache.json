@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-25",
-      "stories": [
-        {
-          "title": "Anthropicが新AIモデル「Claude Opus 5」を発表、Fable 5級の性能を半額で提供",
-          "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
-        },
-        {
-          "title": "NVIDIAやMicrosoftなど25社、オープンウェイトAIの規制回避を求める共同書簡を発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban"
-        },
-        {
-          "title": "Boox、3.97インチの超小型モノクロ電子ペーパー端末「Picco」を予告",
-          "source_url": "https://www.engadget.com/2222691/boox-teases-incredibly-tiny-picco-ereader/"
-        },
-        {
-          "title": "三菱マテリアル、1GPa級の高強度と高導電率を両立する超高強度銅合金を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03311/"
-        },
-        {
-          "title": "AIチップの新興企業Etched、推論特化型プロセッサで評価額100億ドルを突破",
-          "source_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-26",
       "stories": [
         {
@@ -449,6 +424,75 @@
         {
           "title": "画面を見るだけで毎秒190KB送受信、高速QRコード通信技術が登場",
           "source_url": "https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "stories": [
+        {
+          "title": "オープンAI、東大・京大を含む15大学をはじめ世界10万人の研究者に最上位モデルを無料開放",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/"
+        },
+        {
+          "title": "欧州連合、リアルなAI生成コンテンツに対する識別ラベルの表示義務化を導入",
+          "source_url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules"
+        },
+        {
+          "title": "米ミネソタ州のコラ画像生成アプリ禁止法に対し、xAIが申し立てた差し止め請求が棄却",
+          "source_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+        },
+        {
+          "title": "ハギング・フェイスの7.6ペタバイトのデータから機密情報やAPIキーを検出",
+          "source_url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets"
+        },
+        {
+          "title": "ノクチュア製ファンを内部に直接搭載した過酷な手汗対策ゲーミングマウスが登場",
+          "source_url": "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/"
+        },
+        {
+          "title": "撮影した最新の1枚だけを表示し続けるDIY電子ペーパーカメラ「reFrame」",
+          "source_url": "https://gigazine.net/news/20260801-epaper-camera-reframe/"
+        },
+        {
+          "title": "DJI、画角の異なる2つのレンズを内蔵したVlog向け小型カメラ「Osmo Pocket 4P」を発表",
+          "source_url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review"
+        },
+        {
+          "title": "アンカー、耳を塞がないオープンイヤー型イヤホンに「イーブイ」限定モデルを追加",
+          "source_url": "https://gigazine.net/news/20260801-soundcore-c50i-eevee/"
+        },
+        {
+          "title": "トヨタやホンダの自社工場で実証が進む、ディープマインドの多目的自律ロボット制御AI",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00197/00002/"
+        },
+        {
+          "title": "プリント基板（PCB）設計ソフトウェアの比較ガイド2026年版が公開",
+          "source_url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/"
+        },
+        {
+          "title": "メモリチップの供給不足を受け、マイクロソフトがWindows 11の8GB RAM向け軽量化を推進",
+          "source_url": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun"
+        },
+        {
+          "title": "アイ・ビー・エム、老朽化システムの自動刷新AI「IBM Bob」に専用ワークフローを追加",
+          "source_url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html"
+        },
+        {
+          "title": "人間との本格的なラリーやキャッチボールが可能なテニス練習ロボットが登場",
+          "source_url": "https://newatlas.com/sports/review-ball-catching-tennis-robot/"
+        },
+        {
+          "title": "スターリンクのKuバンドダウンリンク信号構造を解析した技術論文が公開",
+          "source_url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf"
+        },
+        {
+          "title": "中国でEVが急速普及する一方、大量の使用済みバッテリーリサイクル体制が課題に",
+          "source_url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/"
+        },
+        {
+          "title": "プルーサの最新3Dプリンターでノズル加工不具合が発生、メーカー側が認める",
+          "source_url": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix"
         }
       ]
     }
