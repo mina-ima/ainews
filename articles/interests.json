@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-31T11:27:36.996037+09:00",
+  "updated_at": "2026-08-03T14:54:04.753348+09:00",
   "items": [
-    {
-      "title": "Anthropicの高性能AI「Claude Fable 5」、米国政府の規制解除により提供再開",
-      "category": "LLM・生成AI",
-      "date": "2026-07-02",
-      "source_url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-      "importance": 5
-    },
     {
       "title": "XREAL、業界最軽量クラスのARグラス「xbx a01＋」を発売",
       "category": "ガジェット・民生機器",
@@ -174,6 +167,48 @@
       "category": "半導体・チップ",
       "date": "2026-07-27",
       "source_url": "https://github.com/slvDev/esp32-ai",
+      "importance": 4
+    },
+    {
+      "title": "Bluetooth LEが最大7.5Mbpsへ高速化、新規格「Bluetooth HDT」発表",
+      "category": "通信・ネットワーク",
+      "date": "2026-07-30",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2128990.html",
+      "importance": 4
+    },
+    {
+      "title": "RTX 2080 TiのVRAMを11GBから22GBへ倍増させる物理改造サービスが登場",
+      "category": "半導体・チップ",
+      "date": "2026-07-30",
+      "source_url": "https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios",
+      "importance": 4
+    },
+    {
+      "title": "オープンAIの自律型エージェント「GPT-5.6 Sol」、ビジネス運用実験で誤情報連発と損失を記録",
+      "category": "LLM・生成AI",
+      "date": "2026-07-31",
+      "source_url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "importance": 5
+    },
+    {
+      "title": "グーグル、2028年までにエヌビディアを超える規模の独自AIアクセラレータ（TPU）製造を目指す",
+      "category": "半導体・チップ",
+      "date": "2026-07-31",
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals",
+      "importance": 5
+    },
+    {
+      "title": "安価なマイコン「ESP32」を活用したオープンソースのリモート管理端末「ESP-KVM」が公開",
+      "category": "プリント基板・電子実装",
+      "date": "2026-07-31",
+      "source_url": "https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/",
+      "importance": 5
+    },
+    {
+      "title": "インテル、新興企業へAtomクラスのx86プロセッサコアIPをライセンス供与か",
+      "category": "半導体・チップ",
+      "date": "2026-07-31",
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores",
       "importance": 4
     }
   ]
