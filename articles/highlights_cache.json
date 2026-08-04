@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-28",
-      "stories": [
-        {
-          "title": "NVIDIA、Microsoft、OpenAIなどがオープンモデル規制反対を表明",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/"
-        },
-        {
-          "title": "NVIDIA主導のオープンAIセキュリティ連合、MicrosoftやIBMなど30社超が参加",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
-        },
-        {
-          "title": "Hugging Faceへの不正アクセス巡り、CEOがOpenAIに透明性と支援を要求",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128099.html"
-        },
-        {
-          "title": "Moonshot AIの超巨大モデル「Kimi K3」オープンウェイト版が公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128308.html"
-        },
-        {
-          "title": "カシオ、AIペットロボット「モフリン」に癒しの新色「さくら」を追加",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2127724.html"
-        },
-        {
-          "title": "厚さわずか67mmの薄型設計、Jackeryから部屋の隙間に置けるポータブル電源が登場",
-          "source_url": "https://www.gizmodo.jp/article/slimpower-h1/"
-        },
-        {
-          "title": "スマホの依存を防ぐ物理キー、わずか9ドルで気を散らすアプリをロック",
-          "source_url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/"
-        },
-        {
-          "title": "中国のDRAM大手CXMTが上海証券取引所に上場、時価総額約4870億ドルに到達",
-          "source_url": "https://www.electronicsweekly.com/news/business/cxmt-ipos-at-487bn-valuation-2026-07/"
-        },
-        {
-          "title": "中国が国産の浸漬型DUV露光装置の量産を開始、半導体製造の自給化で重大なブレイクスルー",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/china-begins-mass-production-of-domestic-immersion-duv-lithography-machines"
-        },
-        {
-          "title": "シーメンス、半導体・プリント基板設計を自動化する「キャラクタリゼーションAIエージェント」を導入",
-          "source_url": "https://www.electronicsweekly.com/news/siemens-adds-characterisation-ai-agent-to-automate-design-iteration-2026-07/"
-        },
-        {
-          "title": "中国・Unitreeが最高時速20km超の車輪付き四足ロボット「AS2-W」のデモ映像を公開",
-          "source_url": "https://www.itmedia.co.jp/news/articles/2607/27/news099.html"
-        },
-        {
-          "title": "米海軍研究所、静止軌道衛星の軌道上ロボット保守ミッションを打ち上げ",
-          "source_url": "https://www.nrl.navy.mil/Media/News/Article/4551871/robotic-servicing-of-geosynchronous-satellites-launches-into-orbit/"
-        },
-        {
-          "title": "アマゾン、直接通信可能な次世代衛星ネットワーク構築へ向け5,000基以上の衛星配備を計画",
-          "source_url": "https://www.engadget.com/2224233/amazon-wants-to-deploy-5105-satellites-for-its-direct-to-mobile-service/"
-        },
-        {
-          "title": "金沢工業大学など、地震時の物流倉庫の揺れを低減する画期的な「防震」システムを開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00154/02881/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-29",
       "stories": [
         {
@@ -465,6 +404,51 @@
         {
           "title": "北京理工大学、赤外線を「フルカラー」で見えるようにする光電変換デバイスを試作",
           "source_url": "https://gigazine.net/news/20260803-full-color-night-vision/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "stories": [
+        {
+          "title": "塩野義製薬、生成AIの正答率を90%に向上させた機密データ最適化手法を公開",
+          "source_url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html"
+        },
+        {
+          "title": "欧州連合、AI規制法「EU AI Act」に基づく生成コンテンツへの透明性義務の適用を開始",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/04/2000000366/"
+        },
+        {
+          "title": "DJI、32bitフロート録音に対応した超小型ワイヤレスマイク「Mic Mini 2S」発売",
+          "source_url": "https://www.dpreview.com/news/djis-mini-mics-get-a-big-upgrade-with-32-bit-float-internal-recording/"
+        },
+        {
+          "title": "アンカーのサブブランド「CMF by Nothing」、回転ダイヤル付きケースを採用したオープンイヤー型イヤホン発売",
+          "source_url": "https://9to5google.com/2026/08/04/cmf-clip-pro-earbuds-launch/"
+        },
+        {
+          "title": "サンワサプライ、風量を無段階調整できる最大45m/sのコードレス電動エアダスター発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2130324.html"
+        },
+        {
+          "title": "Kioxiaとサンディスク、世界最高密度となる332層3D NANDフラッシュを発表",
+          "source_url": "https://www.tomshardware.com/pc-components/ssds/kioxia-and-sandisk-demostrate-the-worlds-highest-density-3d-nand-flash-332-active-layers-and-up-to-4-800-mt-s-interface"
+        },
+        {
+          "title": "テキサス州、電力需要逼迫を受け約1,800件のデータセンター新規申請を一時停止",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/texas-slams-on-the-breaks-for-1-800-data-centers-power-grid-requirements-are-five-times-higher-than-peak-record-demand-474-gigawatts-of-power-requests-are-now-subject-to-new-moratorium"
+        },
+        {
+          "title": "TEコネクティビティ、カテーテル製造を自動化する新しい3Dプリンティングプロセスを導入",
+          "source_url": "https://3dprintingindustry.com/news/te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing-253537/?utm_source=rss&utm_medium=rss&utm_campaign=te-connectivitys-new-3d-printing-process-for-catheter-shaft-jacketing"
+        },
+        {
+          "title": "シンガポール国立大学、水中での自己修復と損傷検知が可能な電子スキンを開発",
+          "source_url": "https://newatlas.com/technology/underwater-electronic-skin-detect-damage-self-repair/"
+        },
+        {
+          "title": "マイクロソフト、PC画面の操作を録画してAIエージェントのスキルを作成する無料アプリ公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/"
         }
       ]
     }
