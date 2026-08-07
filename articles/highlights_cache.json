@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-30",
-      "stories": [
-        {
-          "title": "OpenAIの自律型AIエージェント、Hugging Face侵入事件の裏で他社サービスへの不正アクセスも実行していたことが判明",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face"
-        },
-        {
-          "title": "シャープの自動調理鍋「ホットクック」最新機種が生成AIサービスに対応、9月発売へ",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2128778.html"
-        },
-        {
-          "title": "Bluetooth LEが最大7.5Mbpsへ高速化、新規格「Bluetooth HDT」発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2128990.html"
-        },
-        {
-          "title": "RTX 2080 TiのVRAMを11GBから22GBへ倍増させる物理改造サービスが登場",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/gpu-repair-service-will-upgrade-the-11gb-of-vram-on-your-rtx-2080-ti-to-22gb-mod-involves-physically-adjusting-the-strap-resistors-on-the-pcb-to-support-a-new-bios"
-        },
-        {
-          "title": "矢崎総業、次世代FA開発拠点でフィジカルAIを活用した配線ハーネス自動化に本腰",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03352/072700021/"
-        },
-        {
-          "title": "老化由来のタンパク質損傷を酵素で分解・修復する技術「CMLase」が開発される",
-          "source_url": "https://gigazine.net/news/20260729-reversal-of-protein/"
-        },
-        {
-          "title": "エアバス、人工衛星の構造部品製造に向けて高耐熱ポリマーの3Dプリント技術を認定",
-          "source_url": "https://3dprintingindustry.com/news/airbus-qualifies-a-first-alternative-polymer-am-partner-for-satellites-253399/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-qualifies-a-first-alternative-polymer-am-partner-for-satellites"
-        },
-        {
-          "title": "赤外線カメラの熱シグネチャーを完全に隠蔽する「3Dサーマルクローク」が開発",
-          "source_url": "https://newatlas.com/materials/3d-ominidirection-thermal-cloak/"
-        }
-      ]
-    },
-    {
       "date": "2026-07-31",
       "stories": [
         {
@@ -453,6 +416,55 @@
         {
           "title": "グーグル（Google）、25年ぶりに検索ボックスのUIを全面刷新へ",
           "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "stories": [
+        {
+          "title": "オープンAI、ChatGPTのデフォルトモデルを「GPT-5.6 Sol」へ刷新し無料版ではテキスト無制限化",
+          "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
+        },
+        {
+          "title": "グーグル・ディープマインド、最先端AIモデルで従来の予報を上回る15日先のハリケーン早期予測を実現",
+          "source_url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/"
+        },
+        {
+          "title": "厚さ5.5mmでスマホからApple Watchまで充電可能な半固体モバイルバッテリー",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-slimplatebank-start-965649/"
+        },
+        {
+          "title": "オープンAI、Jony Ive氏と共同開発中のAIスマートスピーカーは300〜400ドルの円盤型デバイスか",
+          "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+        },
+        {
+          "title": "耳をふさがずに最高峰の音質を届けるSkullcandyの震える最上位ワイヤレスヘッドフォン",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2131239.html"
+        },
+        {
+          "title": "AMD、AIチップ新興企業Taalasを買収して推論モデルをシリコンに直接焼き込み性能を極限まで加速",
+          "source_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
+        },
+        {
+          "title": "プロトタイプ基板を数週間から数日へ短縮、YC採択の製造スタートアップ「ProvenMetal」が登場",
+          "source_url": "https://provenmetal.com"
+        },
+        {
+          "title": "イーロン・マスク氏のSpaceXとTesla、テキサス州に168億ドルの次世代半導体工場「Terafab」を建設",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/"
+        },
+        {
+          "title": "パナソニックが赤外線・レーザー技術で超音速機の気流抵抗を低減する新技術を公開",
+          "source_url": "https://www.twz.com/33859/blasting-the-air-in-front-of-hypersonic-vehicles-with-lasers-could-unlock-unpercedented-speeds"
+        },
+        {
+          "title": "自己修復・再生機能を備えた「生きた菌糸体」によるサステナブルなアパレル素材が登場",
+          "source_url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/"
+        },
+        {
+          "title": "ゼールフェルト、3Dプリント製フットウェアのマーケットプレイスを刷新し個別最適化機能を強化",
+          "source_url": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles"
         }
       ]
     }
