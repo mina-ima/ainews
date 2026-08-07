@@ -2,7 +2,10 @@ name: Daily AI News Collection
 
 on:
   schedule:
-    - cron: '0 20 * * *'  # UTC 20:00 = JST 5:00 (通知が遅いため 5:20 から 20 分前倒し。GHA キュー遅延を見込んで JST 7:00 前完了を担保。完了時は Discord 通知)
+    # GitHub は毎時 :00 ちょうどのスケジュールが最も混雑し、遅延（実績 42〜68 分）や
+    # 実行そのもののドロップが起きる。混雑帯を外した半端な分を指定する。
+    - cron: '37 19 * * *'  # UTC 19:37 = JST 4:37（本命）
+    - cron: '23 21 * * *'  # UTC 21:23 = JST 6:23（本命がドロップした場合の保険。当日分があればスキップ）
   workflow_dispatch:
 
 permissions:
@@ -14,13 +17,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 保険 cron の二重実行を防ぐ。当日分が既にある schedule 実行は以降を全てスキップ。
+      # workflow_dispatch（手動）は強制再生成できるよう常に実行する。
+      - name: Check if today's article already exists
+        id: guard
+        run: |
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "articles/${DATE}.md" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "articles/${DATE}.md は生成済みのためスキップ"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: astral-sh/setup-uv@v4
+        if: steps.guard.outputs.skip != 'true'
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         working-directory: collector
         run: uv sync
 
       - name: Collect and generate news
+        if: steps.guard.outputs.skip != 'true'
         working-directory: collector
         env:
           GEMINI_KEY_1: ${{ secrets.GEMINI_KEY_1 }}
@@ -31,6 +50,7 @@ jobs:
         run: uv run python -m src.main
 
       - name: Commit articles
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -39,7 +59,7 @@ jobs:
           git push
 
       - name: Upload MP3 to Release
-        if: hashFiles('articles/*.mp3') != ''
+        if: steps.guard.outputs.skip != 'true' && hashFiles('articles/*.mp3') != ''
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -53,7 +73,7 @@ jobs:
           fi
 
       - name: Notify Discord
-        if: success()
+        if: success() && steps.guard.outputs.skip != 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # 通知本文のリンク先。独自ドメインがあれば書き換える
