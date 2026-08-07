@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-08-06T17:16:04.815781+09:00",
+  "updated_at": "2026-08-07T09:08:38.996911+09:00",
   "items": [
-    {
-      "title": "XREAL、業界最軽量クラスのARグラス「xbx a01＋」を発売",
-      "category": "ガジェット・民生機器",
-      "date": "2026-07-07",
-      "source_url": "https://av.watch.impress.co.jp/docs/news/2122734.html",
-      "importance": 3
-    },
-    {
-      "title": "AMD、ローカルAI開発キット「Ryzen AI Halo」を発表",
-      "category": "半導体・チップ",
-      "date": "2026-07-07",
-      "source_url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "importance": 5
-    },
     {
       "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
       "category": "AI研究",
