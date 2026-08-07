@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-07-31",
-      "stories": [
-        {
-          "title": "オープンAIの自律型エージェント「GPT-5.6 Sol」、ビジネス運用実験で誤情報連発と損失を記録",
-          "source_url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses"
-        },
-        {
-          "title": "リンクトイン、「AI生成の低品質な投稿（AI slop）」の報告ボタンをテスト導入",
-          "source_url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/"
-        },
-        {
-          "title": "小島プロダクションとコラボしたポータブルCDプレーヤー「DEATH STRANDING 2」モデルが登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2129286.html"
-        },
-        {
-          "title": "睡眠専用イヤホン「オズロ スリープバッズ 2」が登場、バッテリー持続と接続性が大幅向上",
-          "source_url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
-        },
-        {
-          "title": "ナカバヤシ、カセットテープの音源を直接パソコンへデジタル保存できるUSB-Cプレーヤーを発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2129357.html"
-        },
-        {
-          "title": "グーグル・ディープマインド、ロボット全身の動きを高度制御する「Gemini Robotics 2」を発表",
-          "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
-        },
-        {
-          "title": "グーグル、2028年までにエヌビディアを超える規模の独自AIアクセラレータ（TPU）製造を目指す",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-could-build-more-ai-accelerators-than-nvidia-sells-in-2028-analyst-claims-could-push-the-company-to-use-intel-foundry-to-meet-its-goals"
-        },
-        {
-          "title": "安価なマイコン「ESP32」を活用したオープンソースのリモート管理端末「ESP-KVM」が公開",
-          "source_url": "https://hackaday.com/2026/07/30/a-capable-kvm-built-with-the-esp32/"
-        },
-        {
-          "title": "インテル、新興企業へAtomクラスのx86プロセッサコアIPをライセンス供与か",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores"
-        },
-        {
-          "title": "エイチピー、熱可塑性樹脂に対応する初のFFF方式産業用3Dプリンター「600 HT」を発表",
-          "source_url": "https://3dprintingindustry.com/news/hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers-253467/?utm_source=rss&utm_medium=rss&utm_campaign=hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers"
-        },
-        {
-          "title": "月面探査車開発のルーナー・アウトポスト、エヌビディアのEdge AI「Jetson」を月ミッションに採用",
-          "source_url": "https://www.engineering.com/lunar-outpost-uses-nvidia-computing-for-moon-missions/"
-        },
-        {
-          "title": "グーグル、AI活用によりChromeのバグ修正数が過去2年間分の合計を突破",
-          "source_url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/"
-        },
-        {
-          "title": "米モンタナ州、初期治験を終えた未承認薬の販売を迅速化しバイオテック拠点化へ",
-          "source_url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
-        },
-        {
-          "title": "キオクシア、PCIe 6.0対応で前世代比最大92%高速なエンタープライズ向けSSD「CM10」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129354.html"
-        }
-      ]
-    },
-    {
       "date": "2026-08-01",
       "stories": [
         {
@@ -465,6 +404,47 @@
         {
           "title": "ゼールフェルト、3Dプリント製フットウェアのマーケットプレイスを刷新し個別最適化機能を強化",
           "source_url": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "stories": [
+        {
+          "title": "音声の無断利用は権利侵害、法務省が生成AIに関する民事責任の解釈指針を公表",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000452/"
+        },
+        {
+          "title": "米オープンAI、サイバーリスクを理由に次世代モデル「Astra」のリリースを一時停止",
+          "source_url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks"
+        },
+        {
+          "title": "パナソニック、レッド（RED）のRAW動画特許を無効化することに成功",
+          "source_url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/"
+        },
+        {
+          "title": "生地以外をすべてカーボンで作った軽量長傘が登場、高級ステッキのような佇まい",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-carbonumbrella4-review-955682/"
+        },
+        {
+          "title": "ソニーの人気ノイズキャンセリングヘッドフォン「WH-1000XM4」の廉価版が発売か",
+          "source_url": "https://9to5google.com/2026/08/07/sony-wh-1000xm4-re-release-leak/"
+        },
+        {
+          "title": "スイッチ2の5.1chサラウンド音声をそのまま録画できる業務用キャプチャーボード",
+          "source_url": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/"
+        },
+        {
+          "title": "オムロン、NVIDIAの技術を活用して半導体パッケージ基板の検査を高度化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
+        },
+        {
+          "title": "クラウドフレア、AIエージェント専用に最適化されたクラウドブラウザ「Kitesurf」を公開",
+          "source_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+        },
+        {
+          "title": "世界的な半導体・メモリ不足が長期化、2027年分もすでに完売状態との報道",
+          "source_url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"
         }
       ]
     }
