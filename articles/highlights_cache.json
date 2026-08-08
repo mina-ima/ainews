@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-01",
-      "stories": [
-        {
-          "title": "オープンAI（OpenAI）の「GPT-5.6 Sol」、自ら推論システムを自律最適化し性能が飛躍",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129786.html"
-        },
-        {
-          "title": "アンソロピック（Anthropic）のClaude、評価テスト中に設定ミスで実在組織へ誤侵入",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129514.html"
-        },
-        {
-          "title": "ディープシーク（DeepSeek）が「DeepSeek V4 Flash」正式版を公開、下位モデルが上位版を凌駕",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129807.html"
-        },
-        {
-          "title": "レーザー（Razer）、8KHz・ラピッドトリガー対応の磁気式キーボード「Huntsman V3 HE」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129597.html"
-        },
-        {
-          "title": "ワークマン（Workman）、手持ちの私服に取り付けられる「腰つけ爆風ファン」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/column_review/kdnreview/2129193.html"
-        },
-        {
-          "title": "メイカーズ（MAKERZ）、トルク可変・デジタル表示対応の充電式電動ドライバーを投入",
-          "source_url": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/2129402.html"
-        },
-        {
-          "title": "ナイキ（Nike）とハイパーアイス、温熱マッサージ機能を内蔵したリカバリーサンダルを発表",
-          "source_url": "https://newatlas.com/wearables/nike-hyperslide-hyperice-footwear/"
-        },
-        {
-          "title": "キオクシア（Kioxia）、AIデータセンター需要で純利益4500%増の過去最高益を記録",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/"
-        },
-        {
-          "title": "TSMC、インテル（Intel）に対抗する先進半導体パッケージ技術「準EMIB」を開発中",
-          "source_url": "https://gigazine.net/news/20260731-tsmc-quasi-emib/"
-        },
-        {
-          "title": "アイ・ビー・エム（IBM）、量子優位性を証明する新たな検証手法を確立",
-          "source_url": "https://spectrum.ieee.org/ibm-verifiable-quantum-advantage"
-        },
-        {
-          "title": "アーヘン工科大学、3Dプリンター向けCAM処理のメモリを削減する計算幾何学ライブラリを公開",
-          "source_url": "https://3dprintingindustry.com/news/rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements-253474/?utm_source=rss&utm_medium=rss&utm_campaign=rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements"
-        },
-        {
-          "title": "ノースウェスタン大学、オペランドX線分析により金属3Dプリントのリアルタイム制御を実現",
-          "source_url": "https://3dprintingindustry.com/news/new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever-253428/?utm_source=rss&utm_medium=rss&utm_campaign=new-operando-x-ray-method-could-give-metal-3d-printing-a-real-time-control-lever"
-        },
-        {
-          "title": "ドナウ川の水位低下により、ハンガリー唯一の原子力発電所が史上初の停止",
-          "source_url": "https://www.bbc.com/news/articles/cn0nqv05g0do"
-        },
-        {
-          "title": "画面を見るだけで毎秒190KB送受信、高速QRコード通信技術が登場",
-          "source_url": "https://www.tomshardware.com/networking/streaming-qr-codes-at-60-fps-achieves-nearly-190-kb-s-data-rate-in-phone-to-phone-tests-browser-based-method-requires-no-app-no-networking-no-pairing-and-no-permissions-beyond-camera-access"
-        }
-      ]
-    },
-    {
       "date": "2026-08-02",
       "stories": [
         {
@@ -445,6 +384,79 @@
         {
           "title": "世界的な半導体・メモリ不足が長期化、2027年分もすでに完売状態との報道",
           "source_url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "stories": [
+        {
+          "title": "OpenAIによるHugging Faceへの偶発的攻撃のタイムラインが判明、JFrogのゼロデイ脆弱性が原因",
+          "source_url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+        },
+        {
+          "title": "アンソロピックが「Fable 5」の生物学分野における過剰な安全制限を緩和、利便性が大幅向上",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/"
+        },
+        {
+          "title": "デンマーク、学生の生成AIによる不正行為に対抗するため筆記課題への「口頭試問」を義務化へ",
+          "source_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
+        },
+        {
+          "title": "ライカと共同開発した2眼ジンバルカメラ「Insta360 Luna Ultra」が登場、圧倒的な画質と安定性を両立",
+          "source_url": "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/"
+        },
+        {
+          "title": "サーキュレーター不要！天井から360度送風する画期的なシーリングファンライト「AIR LIGHT ONE KAZE」",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-ceilingfanlight-start-967443/"
+        },
+        {
+          "title": "最大35日間駆動！アナログ時計の美しさと高度な健康測定を両立したスマートウォッチ「ScanWatch Vitals」",
+          "source_url": "https://gigazine.net/news/20260808-scanwatch-vitals/"
+        },
+        {
+          "title": "ペンで文字を書くように直感操作できるサンワサプライの「ペン型マウス」が実用的",
+          "source_url": "https://gigazine.net/news/20260808-pen-mouth-sanwa/"
+        },
+        {
+          "title": "ベルギー研究機関アイメック、フレキシブル基板の潤滑接合における接合前線速度の予測モデルを開発",
+          "source_url": "https://semiengineering.com/model-tracks-bond-front-velocity-for-wafer-and-die-bonding-imec/"
+        },
+        {
+          "title": "アップルがM6 Pro/Maxチップをスキップし、次世代「M7」チップの立ち上げを加速する計画",
+          "source_url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/"
+        },
+        {
+          "title": "一部のx86プロセッサにハードウェアレベルのバックドア「ローゼンブリッジ」が存在することが判明",
+          "source_url": "https://github.com/xoreaxeaxeax/rosenbridge"
+        },
+        {
+          "title": "クラウドフレア、APIキーを配らずに社内システムとAIを安全連携できる「Cloudflare OS」を公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2131532.html"
+        },
+        {
+          "title": "タンパク質の異常折り畳みを「あえて折り畳ませない」ことで防ぐ革新的な医療アプローチ",
+          "source_url": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding"
+        },
+        {
+          "title": "NASA、打ち上げから48年が経過した探査機「ボイジャー2号」の寿命をさらに1年延ばす運用技術を確立",
+          "source_url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
+        },
+        {
+          "title": "インテル、数千機の低軌道衛星を宇宙空間から一括管理する「軌道上データセンター」構想を提案",
+          "source_url": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit"
+        },
+        {
+          "title": "アマゾン、テキサス州の巨大AIデータセンター向けに米国最大級の汚染源となるガス火力発電所を建設へ",
+          "source_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
+        },
+        {
+          "title": "金属3Dプリント大手EOS、水素エネルギー向け次世代材料を開発する「MAT-H2」コンソーシアムに参画",
+          "source_url": "https://www.engineering.com/eos-joins-mat-h2-consortium-to-advance-hydrogen-materials/"
+        },
+        {
+          "title": "散らばったネジやボルトを自動で高速仕分けするオープンソースのロボットソーターが開発",
+          "source_url": "https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/"
         }
       ]
     }
