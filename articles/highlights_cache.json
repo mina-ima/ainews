@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-02",
-      "stories": [
-        {
-          "title": "オープンAI、東大・京大を含む15大学をはじめ世界10万人の研究者に最上位モデルを無料開放",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/"
-        },
-        {
-          "title": "欧州連合、リアルなAI生成コンテンツに対する識別ラベルの表示義務化を導入",
-          "source_url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules"
-        },
-        {
-          "title": "米ミネソタ州のコラ画像生成アプリ禁止法に対し、xAIが申し立てた差し止め請求が棄却",
-          "source_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
-        },
-        {
-          "title": "ハギング・フェイスの7.6ペタバイトのデータから機密情報やAPIキーを検出",
-          "source_url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets"
-        },
-        {
-          "title": "ノクチュア製ファンを内部に直接搭載した過酷な手汗対策ゲーミングマウスが登場",
-          "source_url": "https://www.gizmodo.jp/article/feinmann-f01-noctua-edition/"
-        },
-        {
-          "title": "撮影した最新の1枚だけを表示し続けるDIY電子ペーパーカメラ「reFrame」",
-          "source_url": "https://gigazine.net/news/20260801-epaper-camera-reframe/"
-        },
-        {
-          "title": "DJI、画角の異なる2つのレンズを内蔵したVlog向け小型カメラ「Osmo Pocket 4P」を発表",
-          "source_url": "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review"
-        },
-        {
-          "title": "アンカー、耳を塞がないオープンイヤー型イヤホンに「イーブイ」限定モデルを追加",
-          "source_url": "https://gigazine.net/news/20260801-soundcore-c50i-eevee/"
-        },
-        {
-          "title": "トヨタやホンダの自社工場で実証が進む、ディープマインドの多目的自律ロボット制御AI",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00197/00002/"
-        },
-        {
-          "title": "プリント基板（PCB）設計ソフトウェアの比較ガイド2026年版が公開",
-          "source_url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/"
-        },
-        {
-          "title": "メモリチップの供給不足を受け、マイクロソフトがWindows 11の8GB RAM向け軽量化を推進",
-          "source_url": "https://www.tomshardware.com/software/windows/microsoft-vows-to-make-windows-11-fly-on-8gb-ram-amid-memory-shortage-optimizations-to-reduce-os-memory-footprint-have-begun"
-        },
-        {
-          "title": "アイ・ビー・エム、老朽化システムの自動刷新AI「IBM Bob」に専用ワークフローを追加",
-          "source_url": "https://www.itmedia.co.jp/enterprise/articles/2607/31/news094.html"
-        },
-        {
-          "title": "人間との本格的なラリーやキャッチボールが可能なテニス練習ロボットが登場",
-          "source_url": "https://newatlas.com/sports/review-ball-catching-tennis-robot/"
-        },
-        {
-          "title": "スターリンクのKuバンドダウンリンク信号構造を解析した技術論文が公開",
-          "source_url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf"
-        },
-        {
-          "title": "中国でEVが急速普及する一方、大量の使用済みバッテリーリサイクル体制が課題に",
-          "source_url": "https://www.wired.com/story/china-millions-of-evs-battery-recycling/"
-        },
-        {
-          "title": "プルーサの最新3Dプリンターでノズル加工不具合が発生、メーカー側が認める",
-          "source_url": "https://www.tomshardware.com/3d-printing/nozzlegate-erupts-as-prusa-core-one-3d-ptinter-kits-arrive-with-soft-steel-nozzles-bondtech-admits-machining-flaws-with-no-quick-fix"
-        }
-      ]
-    },
-    {
       "date": "2026-08-03",
       "stories": [
         {
@@ -457,6 +388,91 @@
         {
           "title": "散らばったネジやボルトを自動で高速仕分けするオープンソースのロボットソーターが開発",
           "source_url": "https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "stories": [
+        {
+          "title": "オープンAI（OpenAI）、Hugging Face侵入実験の最新詳細を公表──AIエージェントが自主的に「秘密掲示板」を作成",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/"
+        },
+        {
+          "title": "オープンAI（OpenAI）、自動プレゼン作成スタートアップ「ネクストスライド（NextSlide）」を買収",
+          "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+        },
+        {
+          "title": "X（旧Twitter）、生成AIの無断転載・スパム対策として新報酬制度「オリジナル・コンテンツ・リワーズ」へ移行",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/09/2000000464/"
+        },
+        {
+          "title": "手のひらサイズで星空を自動追尾する超小型スマート天体望遠鏡「ドワーフ・ミニ（DWARF mini）」が登場",
+          "source_url": "https://www.gizmodo.jp/article/dwarf-mini/"
+        },
+        {
+          "title": "映画館級の大画面と立体音響を携行できる最新ARグラス「レイネオ・エアー4プロ（RayNeo Air 4 Pro）」",
+          "source_url": "https://www.gizmodo.jp/article/amazon-timesale-2026-0809-2/"
+        },
+        {
+          "title": "PFU、ポインティングスティックと静音メカニカルキーを融合したフラッグシップキーボード「HHKB Studio」",
+          "source_url": "https://gigazine.net/news/20260809-hhkb-studio/"
+        },
+        {
+          "title": "後輪が折りたためる革新機構！狭い都市部での駐車課題を解決する電動モペッド「オーグメント360」",
+          "source_url": "https://newatlas.com/urban-transport/augment-360-27mph-moped-parking-folding-wheel-electric/"
+        },
+        {
+          "title": "アンソロピック（Anthropic）、開発ツール「クロード・コード（Claude Code）」で「オートモード」を標準化",
+          "source_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+        },
+        {
+          "title": "ノースウェスタン大学、本体ごと高速回転して残像で姿を消す「透明ドローン」を開発",
+          "source_url": "https://gigazine.net/news/20260809-phantom-twist-drone/"
+        },
+        {
+          "title": "アディダス、プロサッカーの公式戦で「完全3Dプリント製スパイク」を世界初投入",
+          "source_url": "https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603/"
+        },
+        {
+          "title": "東芝、産業・家電向け基板のセキュリティとモーター制御を強化するマイコン「M4Vグループ」を発表",
+          "source_url": "https://www.engineering.com/toshiba-introduces-m4v-microcontrollers-for-secure-iot-devices/"
+        },
+        {
+          "title": "ペンシルベニア大学、噛むだけで頭頸部がん関連のウイルスや細菌を大幅減少させる「予防用ガム」を開発",
+          "source_url": "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/"
+        },
+        {
+          "title": "米宇宙軍とロケット・ラボ（Rocket Lab）、大量打ち上げに最適化した超薄型衛星「フラテライト」を開発",
+          "source_url": "https://newatlas.com/space-systems/us-space-force-flatellites-rocket-lab/"
+        },
+        {
+          "title": "エヌビディア（NVIDIA）の次世代SoC「RTX Spark」のベンチマークが流出──x86モバイルCPUを圧倒する性能",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests"
+        },
+        {
+          "title": "痛みのない永久タトゥーを実現！超微細なマイクロドットアレイを用いた「サイファーエックス（CipherX）」技術",
+          "source_url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches"
+        },
+        {
+          "title": "耐量子暗号の有力候補「HAWK」に致命的脆弱性が発見──AI解析ツール「ミソス（Mythos）」が欠陥を暴露",
+          "source_url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+        },
+        {
+          "title": "日産自動車、車の開発期間を従来の約50カ月から30〜37カ月へ大幅短縮──E/Eアーキテクチャ統合で爆速開発へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/073100033/"
+        },
+        {
+          "title": "米国でコンセントに挿すだけの「プラグイン太陽光パネル」が普及加速、家庭用再エネ導入の敷居を下げる",
+          "source_url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html"
+        },
+        {
+          "title": "レーザー光線で直接アナログ映像を送信！無線電波に頼らない高速光空間通信（OWC）のDIY実験が成功",
+          "source_url": "https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/"
+        },
+        {
+          "title": "3Dプリント製水冷ブロックでGPUダイを直接液体冷却！負荷時温度28℃を実現する極限冷却モッド",
+          "source_url": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks"
         }
       ]
     }
