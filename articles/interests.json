@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:08:38.996911+09:00",
+  "updated_at": "2026-08-09T10:41:04.578717+09:00",
   "items": [
     {
       "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
@@ -195,6 +195,48 @@
       "category": "半導体・チップ",
       "date": "2026-07-31",
       "source_url": "https://www.tomshardware.com/pc-components/cpus/intel-licenses-atom-class-x86-cores-to-startup-firm-reportedly-sharing-rtl-enabling-customer-to-build-its-own-custom-processors-based-on-x86-general-purpose-cores",
+      "importance": 4
+    },
+    {
+      "title": "塩野義製薬、生成AIの正答率を90%に向上させた機密データ最適化手法を公開",
+      "category": "LLM・生成AI",
+      "date": "2026-08-05",
+      "source_url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
+      "importance": 5
+    },
+    {
+      "title": "マイクロソフト、PC画面の操作を録画してAIエージェントのスキルを作成する無料アプリ公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-05",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
+      "importance": 4
+    },
+    {
+      "title": "アイフォーン（iPhone）で動く超軽量AI「メイプル・プレビュー（Maple-Preview）」が登場、Bonsai 27Bと同性能で13倍高速化",
+      "category": "LLM・生成AI",
+      "date": "2026-08-06",
+      "source_url": "https://gigazine.net/news/20260805-maple-preview/",
+      "importance": 5
+    },
+    {
+      "title": "リキッドAI（Liquid AI）、スマホ上で自律AIエージェントを動かす軽量モデル「LFM2.5-2.6B」を公開",
+      "category": "AIプロダクト",
+      "date": "2026-08-06",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2130685.html",
+      "importance": 4
+    },
+    {
+      "title": "わずか8ドルのマイコン「ESP32-S3」上で直接動作する超小型言語モデル「キャプラ（qapla）」が公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-06",
+      "source_url": "https://github.com/Carloscodix/qapla",
+      "importance": 5
+    },
+    {
+      "title": "エヌビディア（NVIDIA）がストレージをGPUメモリ直結にする「cuFile API」をオープンソース化",
+      "category": "半導体・チップ",
+      "date": "2026-08-06",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2130757.html",
       "importance": 4
     }
   ]
