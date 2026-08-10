@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-03",
-      "stories": [
-        {
-          "title": "グーグル、バックグラウンド自動処理AI「ジェミニ・スパーク」を日本含む160カ国へ展開",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/"
-        },
-        {
-          "title": "オープンAI、アクティブユーザー10億人突破を発表　法人導入も200万社超へ",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/"
-        },
-        {
-          "title": "欧州連合（EU）の「AI法」モデル規制が施行段階へ移行、義務化が本格化",
-          "source_url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change"
-        },
-        {
-          "title": "セブン＆アイとPayPayが資本提携、「7iD」を「PayPay ID」へ統合しAI購買予測を推進",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2129787.html"
-        },
-        {
-          "title": "28度以下で自然凍結、ヘルメットや帽子内を頭部冷却する「256 アイスメット」が登場",
-          "source_url": "https://www.gizmodo.jp/article/suo_icemet_icecap-qhu/"
-        },
-        {
-          "title": "サンスター文具、自動で芯が出続けるノック不要のメタルシャープペン「ノクフリーメタル」を発売",
-          "source_url": "https://gigazine.net/news/20260802-sun-star-nocfree-metal/"
-        },
-        {
-          "title": "アップルウォッチ充電やLEDライトを内蔵したカラビナ型モバイルバッテリー「マジェット」が登場",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2129705.html"
-        },
-        {
-          "title": "アプリ中毒を防ぐ、物理的にNFCキーをかざして解錠する9ドルのスマホロック端末が登場",
-          "source_url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-        },
-        {
-          "title": "サムスン、AI需要急増による世界的なメモリ不足が2028年まで長期化と予測",
-          "source_url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/"
-        },
-        {
-          "title": "村田製作所、自動運転の高度化を支える車載電子部品・基板実装技術の技術白書を公開",
-          "source_url": "https://www.engineering.com/murata-enabling-the-future-of-autonomous-driving/"
-        },
-        {
-          "title": "業界団体がプリント基板（PCB）設計者のスキル標準化に向けたAI統合認定プログラムを策定",
-          "source_url": "https://semiengineering.com/chip-industry-week-in-review-149/"
-        },
-        {
-          "title": "皮膚のほくろや病変を3Dマッピングして早期発見するオープンソースカメラ「オープンダーム」",
-          "source_url": "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/"
-        },
-        {
-          "title": "衣服に直接組み込める「電子糸」が登場、目立たないウェアラブル医療モニタリングを実現",
-          "source_url": "https://newatlas.com/wearables/thread-ectronic-wearables/"
-        },
-        {
-          "title": "パーツ交換で寿命が5倍に伸びる3Dプリント製バレエ用ポワントシューズが登場",
-          "source_url": "https://3dprintingindustry.com/news/actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer-253442/?utm_source=rss&utm_medium=rss&utm_campaign=actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer"
-        },
-        {
-          "title": "「吹き出し翼」技術を採用した垂直離着陸無人機「ノマド 100」が飛行実験に成功",
-          "source_url": "https://newatlas.com/military/nomad-100-marks-breakthrough-in-blown-wing-vtol-technology/"
-        },
-        {
-          "title": "中国BYD、日本市場専用にゼロから開発した小型軽乗用EV「ラッコ」を発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/073000037/"
-        },
-        {
-          "title": "AM5プラットフォーム初の完全オープンソースファームウェア「Dasharo v0.9.0」が提供開始",
-          "source_url": "https://www.tomshardware.com/pc-components/motherboards/first-open-source-firmware-for-am5-officially-launches-dasharo-v0-9-0-brings-coreboot-and-opensil-to-zen-4-apus-on-msi-b850"
-        },
-        {
-          "title": "ソニーの熊本半導体工場、地震被害から8月中旬に完全復旧見込み",
-          "source_url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-04",
       "stories": [
         {
@@ -473,6 +396,67 @@
         {
           "title": "3Dプリント製水冷ブロックでGPUダイを直接液体冷却！負荷時温度28℃を実現する極限冷却モッド",
           "source_url": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "stories": [
+        {
+          "title": "メタ（Meta）、コンシューマーPCで完全ローカル動作する300億パラメータAI「ミューズ・グリマー（Muse Glimmer）」をオープンソース公開",
+          "source_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
+        },
+        {
+          "title": "クリック感のある物理キーボードをスマホに追加！MagSafe対応「クリック・パワーキーボード（Clicks Power Keyboard）」が登場",
+          "source_url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/"
+        },
+        {
+          "title": "大型ポンプはもう不要？トレックから重さわずか133gのポケットサイズ電動空気入れ「エア・ラッシュ」が発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column_review/yajreview/2130038.html"
+        },
+        {
+          "title": "5.5インチのサブ液晶ディスプレイを一体化した万能USBハブ「スクリーンドック（ScreenDock）」",
+          "source_url": "https://newatlas.com/consumer-tech/cabletime-screendock-usb-hub-display/"
+        },
+        {
+          "title": "スタイルを完全に捨てて太陽光発電に全振りした尖りすぎ電動バイク「ライトフット（Lightfoot）」",
+          "source_url": "https://www.gizmodo.jp/article/lightfoot-evbike/"
+        },
+        {
+          "title": "アンソロピック（Anthropic）、自社専用AIチップの開発チーム立ち上げに向けて採用を開始",
+          "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+        },
+        {
+          "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
+          "source_url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/"
+        },
+        {
+          "title": "冷却装置が不要な国産常温量子コンピューター「モクレン（Moquren）」が本格稼働を開始",
+          "source_url": "https://www.gizmodo.jp/article/moquren_launch/"
+        },
+        {
+          "title": "NASA、火星到達時間を短縮する高出力リチウム供給型電気推進スラスターの点火試験に成功",
+          "source_url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"
+        },
+        {
+          "title": "主要メーカーの基板管理コントローラー（BMC）に深刻な脆弱性、数千台のサーバーにバックドアのリスク",
+          "source_url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
+        },
+        {
+          "title": "飛翔中のドローンへ地上からレーザー光で無接点給電、飛行時間を飛躍的に延ばす新技術",
+          "source_url": "https://newatlas.com/drones/improved-receiver-laser-powered-drones/"
+        },
+        {
+          "title": "世界初の太陽光発電救急車「ステラ・ジュバ（Stella Juva）」がオフグリッド地域での運用を開始",
+          "source_url": "https://newatlas.com/automotive/stella-juva-solar-powered-ambulance/"
+        },
+        {
+          "title": "AIチップの発熱限界を突破せよ、AIで新素材を探索するディスカバード・マテリアルズが900万ドル調達",
+          "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
+        },
+        {
+          "title": "3Dプリント製の超低音再生冷却ロケットエンジン、液酸/IPAによる燃焼実験に初成功",
+          "source_url": "https://3dprintingindustry.com/news/eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test-253690/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test"
         }
       ]
     }
