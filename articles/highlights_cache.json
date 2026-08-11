@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-04",
-      "stories": [
-        {
-          "title": "アリババ、2.4兆パラメータの超巨大AIモデル「Qwen3.8-Max」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2129964.html"
-        },
-        {
-          "title": "スクウェア・エニックス、ゲームの品質検証を「Gemini」で自動化",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/"
-        },
-        {
-          "title": "ダイソーからUSB Type-Cで直接充電できる単3電池が登場",
-          "source_url": "https://www.gizmodo.jp/article/daiso-type-c_rechargeable-battery_review-hru/"
-        },
-        {
-          "title": "シャオミ、空間に広がる立体サウンドを謳うデスクトップスピーカー発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2129944.html"
-        },
-        {
-          "title": "パナソニック、ロードノイズとエンジンノイズを同時低減する世界初の車載アクティブノイズコントロール開発",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2130120.html"
-        },
-        {
-          "title": "シーメンスとアリゾナ州立大学、プリント基板設計のオンライン認定プログラムを設立",
-          "source_url": "https://www.engineering.com/siemens-and-asu-launch-pcb-design-credential/"
-        },
-        {
-          "title": "北京理工大学、赤外線を「フルカラー」で見えるようにする光電変換デバイスを試作",
-          "source_url": "https://gigazine.net/news/20260803-full-color-night-vision/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-05",
       "stories": [
         {
@@ -457,6 +424,79 @@
         {
           "title": "3Dプリント製の超低音再生冷却ロケットエンジン、液酸/IPAによる燃焼実験に初成功",
           "source_url": "https://3dprintingindustry.com/news/eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test-253690/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "stories": [
+        {
+          "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/"
+        },
+        {
+          "title": "GPT 5.6が計算機科学の難問「(2,1)-C1P」を解決",
+          "source_url": "https://www.reddit.com/r/accelerate/comments/1vkzfk7/gpt_56_just_solved_21c1p/"
+        },
+        {
+          "title": "アンソロピックの未発表AIモデル、数学の超難問「リーマン予想」関連課題で進展",
+          "source_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
+        },
+        {
+          "title": "アップル、iPhoneで撮影された写真であることを証明する「Apple Reference Image」を開発中",
+          "source_url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata"
+        },
+        {
+          "title": "Zoomの画面共有機能にデバイスを乗っ取られる脆弱性、AIプロンプト20回未満で発見される",
+          "source_url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
+        },
+        {
+          "title": "カシオの伝説的デジタルウォッチ「F-91W」に歩数計とBluetoothを搭載した新モデルが登場",
+          "source_url": "https://newatlas.com/wearables/casio-f91w-fb100w-digital-watch-counts-steps-bluetooth/"
+        },
+        {
+          "title": "ドックから外すと空中コントローラーに変形する分割式エルゴノミクスマウス「DS21」が登場",
+          "source_url": "https://newatlas.com/consumer-tech/mbox-ds21-ergonomic-mouse-air-controller/"
+        },
+        {
+          "title": "指先サイズなのに実際に映像が映り、リモコンも付属するミニチュアテレビ「TinyTV 2」",
+          "source_url": "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/"
+        },
+        {
+          "title": "final、人気VTuberとコラボしたASMR専用ワイヤレスイヤホン「ZE500 for ASMR CyberPatra」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2132120.html"
+        },
+        {
+          "title": "オムロン、NVIDIAと磨く半導体実装検査技術　AIエージェントで効率化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
+        },
+        {
+          "title": "わずか14MBの自律型エージェントLLM「Needle2」が登場、スマホやロボットで直接動作",
+          "source_url": "https://cactuscompute.com/needle"
+        },
+        {
+          "title": "インテル、次世代「14A」プロセス製造に向けて197億ドルの資金を調達",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims"
+        },
+        {
+          "title": "MIT、電子部品を使わずに物理操作で見た目が変わる3Dプリント技術「ShiftLens」を開発",
+          "source_url": "https://3dprintingindustry.com/news/mits-shiftlens-3d-prints-objects-that-change-their-appearance-when-you-use-them-without-electronics-253675/"
+        },
+        {
+          "title": "石炭を使わない「水素製鉄」により、日本国内で1トンの鉄の製造に成功",
+          "source_url": "https://www.gizmodo.jp/article/iron_using_green_hydrogen/"
+        },
+        {
+          "title": "自律型戦闘機「X-62A」、実際のセンサーデータを用いた完全自律空中迎撃に初成功",
+          "source_url": "https://newatlas.com/military/x-62a-goes-full-autonomous-first-time-live-sensor-data/"
+        },
+        {
+          "title": "メルボルン大学、3Dプリント製ロケットエンジンの燃焼試験に成功し競技会で優勝",
+          "source_url": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/"
+        },
+        {
+          "title": "真空管もトランジスタも使わない、1954年の磁気素子コンピュータ「PC-1」の技術的系譜",
+          "source_url": "https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/"
         }
       ]
     }
