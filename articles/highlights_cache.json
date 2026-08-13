@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-06",
-      "stories": [
-        {
-          "title": "グーグル・ディープマインド（Google DeepMind）で体制刷新、ハサビス氏が会長へ移行し最高科学者ディーン氏らは起業へ",
-          "source_url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
-        },
-        {
-          "title": "アイフォーン（iPhone）で動く超軽量AI「メイプル・プレビュー（Maple-Preview）」が登場、Bonsai 27Bと同性能で13倍高速化",
-          "source_url": "https://gigazine.net/news/20260805-maple-preview/"
-        },
-        {
-          "title": "英政府機関のテストでAIエージェントが偽プロフィールを作成し人間を騙す暴走行動を記録",
-          "source_url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go"
-        },
-        {
-          "title": "リキッドAI（Liquid AI）、スマホ上で自律AIエージェントを動かす軽量モデル「LFM2.5-2.6B」を公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2130685.html"
-        },
-        {
-          "title": "エムエスアイ（MSI）、世界初となるインクジェット印刷方式の有機ELパネル採用27型4Kモニターを発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2130699.html"
-        },
-        {
-          "title": "機材の盗難・紛失を防ぐ！アップル（Apple）の「探す」機能を内蔵したカメラバッテリー「タグバット」",
-          "source_url": "https://www.dpreview.com/news/this-camera-battery-doubles-as-a-secret-tracker-for-iphone-users/"
-        },
-        {
-          "title": "力を込めずにスイスイ切れる！毎秒4万回振動のUSB給電式パワフル超音波カッターが登場",
-          "source_url": "https://www.gizmodo.jp/article/2608-costorypo-pendoracutter-start-1666843821/"
-        },
-        {
-          "title": "ニンテンドースイッチ2やスマホの映像出力ドックにもなるポータブルSSD「シャージ・ディスク・プロ2」",
-          "source_url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock"
-        },
-        {
-          "title": "かざすだけで音楽が再生される！NFC内蔵カケットテープ型キーホルダー「ミュージック・タッチ」に新色",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2130663.html"
-        },
-        {
-          "title": "アンソロピック（Anthropic）が独自のAI半導体設計チームを結成、モデルとハードの共同設計を推進",
-          "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-        },
-        {
-          "title": "わずか8ドルのマイコン「ESP32-S3」上で直接動作する超小型言語モデル「キャプラ（qapla）」が公開",
-          "source_url": "https://github.com/Carloscodix/qapla"
-        },
-        {
-          "title": "失明患者の視力を再現するワイヤレス網膜インプラント「プリマ（PRIMA）」が欧州30カ国で承認獲得",
-          "source_url": "https://newatlas.com/medical-tech/vision-restoring-retinal-implant-approval-europe/"
-        },
-        {
-          "title": "ロビット（Robit）、製造現場でAIモデルの構築や追加学習が完結する外観検査専用PC「テスレイ・オムニ」を発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03326/"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）がストレージをGPUメモリ直結にする「cuFile API」をオープンソース化",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2130757.html"
-        },
-        {
-          "title": "マイクロ波化学、閉鎖容器を不要にする「開放空間でのマイクロ波照射技術」を新開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03327/"
-        },
-        {
-          "title": "ゲフェルテック（GEFERTEC）、チタン加工に特化した密閉チャンバー型WAAM 3Dプリンターを発表",
-          "source_url": "https://3dprintingindustry.com/news/gefertec-launches-arctitan-a-sealed-chamber-waam-system-built-for-titanium-253549/"
-        },
-        {
-          "title": "グーグル（Google）、25年ぶりに検索ボックスのUIを全面刷新へ",
-          "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-        }
-      ]
-    },
-    {
       "date": "2026-08-07",
       "stories": [
         {
@@ -529,6 +456,87 @@
         {
           "title": "アルテック3D（Artec 3D）、毎秒580万点を計測する産業用超高精度レーザースキャナー「アルテック・ポイント II（Artec Point II）」を発表",
           "source_url": "https://www.engineering.com/artec-3d-launches-artec-point-ii-metrology-grade-laser-scanner/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "stories": [
+        {
+          "title": "オープンAI（OpenAI）の「GPT-5.6 Sol」を最大14倍高速化する「ウルトラファスト」モードが発表、セレブラス（Cerebras）の超巨大チップで実現",
+          "source_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+        },
+        {
+          "title": "グーグル（Google）、新世代の高速・低遅延モデル「Gemini 3.7 Flash」を電撃発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "title": "リキッドAI（Liquid AI）、スマホで動く日本語対応の視覚言語モデル「LFM2.5-VL-3B」をオープン公開",
+          "source_url": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/"
+        },
+        {
+          "title": "AIエージェント同士を同一タスクで競わせると「縄張り争い」や意図せぬ結託が起きる現象が判明",
+          "source_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
+        },
+        {
+          "title": "Insta360、ソニー製大型センサーとAI自動編集を搭載した8K 360度カメラ「X6」を発売",
+          "source_url": "https://newatlas.com/consumer-tech/insta360-x6-8k-360-degree-actioncam/"
+        },
+        {
+          "title": "キークロン（Keychron）、100個のキーを完全カスタマイズできる超巨大マクロパッド「C100 8K」を発売",
+          "source_url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control"
+        },
+        {
+          "title": "ボーズ（Bose）、空間オーディオとANCを大幅強化した「QuietComfort Headphones 第2世代」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2132518.html"
+        },
+        {
+          "title": "ソニーとTSMCが次世代イメージセンサーの量産合弁会社を設立",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132492.html"
+        },
+        {
+          "title": "光電融合の難題を打開する「近接パッケージ光学（NPO）」技術がAI基板実装で台頭",
+          "source_url": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains"
+        },
+        {
+          "title": "指差しや音声で「そこを掃除して」と指示できるロボット掃除機「Matic Cues」が登場",
+          "source_url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review"
+        },
+        {
+          "title": "ハート・エアロスペース（Heart Aerospace）、世界最大の完全電動航空機で初飛行に成功",
+          "source_url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft"
+        },
+        {
+          "title": "DapuStor、1ドライブで「512TB」の超巨大容量を誇るSSD「R6060」を展示発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132491.html"
+        },
+        {
+          "title": "サムスン電子（Samsung）、先端半導体設計の検証にClaudeを導入するも予期せぬ課題に直面",
+          "source_url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/"
+        },
+        {
+          "title": "長時間のCNC精密加工における寸法ズレをリアルタイムAI温度補正で解決する新工法",
+          "source_url": "https://www.engineering.com/fixing-cnc-part-size-drift-with-real-time-ai-temperature-offset/"
+        },
+        {
+          "title": "シカゴ・マーカンタイル取引所（CME）、GPU計算能力のコスト変動をヘッジする「GPU先物」を上場へ",
+          "source_url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html"
+        },
+        {
+          "title": "大学院生がフラクタル構造における「量子不確定性原理」を数学的に完全証明",
+          "source_url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
+        },
+        {
+          "title": "ミストラルAI（Mistral AI）、自社プラットフォームで外部オープンモデルを統合提供開始",
+          "source_url": "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/"
+        },
+        {
+          "title": "中国メモリ大手CXMT、上場17日で時価総額5200億ドル突破しテンセント超えの中国トップに",
+          "source_url": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo"
+        },
+        {
+          "title": "ルーマニア、記録的熱波による河川水位低下で唯一の原子力発電所を運転停止",
+          "source_url": "https://www.bbc.com/news/articles/cqlxpq5q799o"
         }
       ]
     }
