@@ -1,55 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-07",
-      "stories": [
-        {
-          "title": "オープンAI、ChatGPTのデフォルトモデルを「GPT-5.6 Sol」へ刷新し無料版ではテキスト無制限化",
-          "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/"
-        },
-        {
-          "title": "グーグル・ディープマインド、最先端AIモデルで従来の予報を上回る15日先のハリケーン早期予測を実現",
-          "source_url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/"
-        },
-        {
-          "title": "厚さ5.5mmでスマホからApple Watchまで充電可能な半固体モバイルバッテリー",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-slimplatebank-start-965649/"
-        },
-        {
-          "title": "オープンAI、Jony Ive氏と共同開発中のAIスマートスピーカーは300〜400ドルの円盤型デバイスか",
-          "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
-        },
-        {
-          "title": "耳をふさがずに最高峰の音質を届けるSkullcandyの震える最上位ワイヤレスヘッドフォン",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2131239.html"
-        },
-        {
-          "title": "AMD、AIチップ新興企業Taalasを買収して推論モデルをシリコンに直接焼き込み性能を極限まで加速",
-          "source_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
-        },
-        {
-          "title": "プロトタイプ基板を数週間から数日へ短縮、YC採択の製造スタートアップ「ProvenMetal」が登場",
-          "source_url": "https://provenmetal.com"
-        },
-        {
-          "title": "イーロン・マスク氏のSpaceXとTesla、テキサス州に168億ドルの次世代半導体工場「Terafab」を建設",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/07/2000000436/"
-        },
-        {
-          "title": "パナソニックが赤外線・レーザー技術で超音速機の気流抵抗を低減する新技術を公開",
-          "source_url": "https://www.twz.com/33859/blasting-the-air-in-front-of-hypersonic-vehicles-with-lasers-could-unlock-unpercedented-speeds"
-        },
-        {
-          "title": "自己修復・再生機能を備えた「生きた菌糸体」によるサステナブルなアパレル素材が登場",
-          "source_url": "https://www.dezeen.com/2026/08/05/dress-living-mycelium-renew-repair/"
-        },
-        {
-          "title": "ゼールフェルト、3Dプリント製フットウェアのマーケットプレイスを刷新し個別最適化機能を強化",
-          "source_url": "https://3dprintingindustry.com/news/zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles-253553/?utm_source=rss&utm_medium=rss&utm_campaign=zellerfeld-relaunches-marketplace-with-live-creator-rankings-and-persistent-fit-profiles"
-        }
-      ]
-    },
-    {
       "date": "2026-08-08",
       "stories": [
         {
@@ -537,6 +488,83 @@
         {
           "title": "ルーマニア、記録的熱波による河川水位低下で唯一の原子力発電所を運転停止",
           "source_url": "https://www.bbc.com/news/articles/cqlxpq5q799o"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "stories": [
+        {
+          "title": "アリババ、「Qwen3.8-27B」のモデルウェイトを商用可能なApache 2.0で無償公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/"
+        },
+        {
+          "title": "Z.ai、事後学習の拡張のみで大幅に推論・防御力を強化した「GLM-5.3」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132889.html"
+        },
+        {
+          "title": "オープンAI、PCの画面操作履歴をAIが文脈として記憶する「コンピューター・ヒストリー」を公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/"
+        },
+        {
+          "title": "グーグル、データを暗号化したままAI推論を行う「完全準同型暗号」の実用化を推進",
+          "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
+        },
+        {
+          "title": "8BitDo、スマホをゲームボーイ風に変形させる折りたたみコントローラー「FlipPad」を発売",
+          "source_url": "https://www.androidpolice.com/the-8bitdo-flippad-turns-your-android-phone-into-a-game-boy/"
+        },
+        {
+          "title": "サイコロサイズの超小型デジカメ「LIGAR」、手ぶら感覚でマグネット装着撮影が可能に",
+          "source_url": "https://www.gizmodo.jp/article/ligar-review-2/"
+        },
+        {
+          "title": "インスタ360、既存の枠を超えた独創的な形状のレンズ交換式ミラーレスカメラを開発中と公表",
+          "source_url": "https://www.dpreview.com/news/insta360-confirms-its-working-on-two-surprising-mirrorless-cameras/"
+        },
+        {
+          "title": "グーグル、「Wear OS 7」でスマートウォッチ画面に触れず操作できる「片手ジェスチャーAPI」を開発者に開放",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2132794.html"
+        },
+        {
+          "title": "ディープシーク、完全プラグイン設計のAIエージェント基盤「DeepSeek Harness」を公開",
+          "source_url": "https://deepseek.com/harness/en/"
+        },
+        {
+          "title": "南海電鉄と日立、疑似量子「CMOSアニーリング」で乗務員計画作成を数カ月から1週間に短縮",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html"
+        },
+        {
+          "title": "LGエレクトロニクスとエヌビディア、人型ロボットおよびAIスマート工場基盤の共同開発で提携",
+          "source_url": "https://www.engineering.com/lg-and-nvidia-develop-humanoid-robot-platform/"
+        },
+        {
+          "title": "クアンタとクアンティニュアム、スケーラブルな量子コンピュータハードウェアの量産に向け協業",
+          "source_url": "https://www.engineering.com/quanta-and-quantinuum-develop-quantum-hardware/"
+        },
+        {
+          "title": "ファイアストーム・ラボ、米海軍艦艇上の移動コンテナ工場で1000個の部品と12機のドローンを洋上3Dプリント製造",
+          "source_url": "https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795/"
+        },
+        {
+          "title": "大気中の分子を吸い込んで推進力に変える「大気吸入型」人工衛星が超低軌道の常時維持に道",
+          "source_url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713"
+        },
+        {
+          "title": "NTTドコモ、スペースXの次世代衛星を活用し2028年度中にスマホ直接の通話・ブラウジングに対応へ",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2132800.html"
+        },
+        {
+          "title": "3Dシステムズ、米空軍の大型金属3Dプリンタ開発プロジェクトで追加900万ドルの契約を獲得",
+          "source_url": "https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803/"
+        },
+        {
+          "title": "水上でレゴのように自律合体して浮体構造物を形成するスマートロボット「フロートフォーム」が登場",
+          "source_url": "https://newatlas.com/robotics/floatform-robots-form-floating-structures/"
+        },
+        {
+          "title": "BMW、航続距離900km超を実現した次世代EV「ノイエ・クラッセ」第1弾を国内投入",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/080500039/"
         }
       ]
     }
