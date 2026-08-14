@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T16:09:36.082871+09:00",
+  "updated_at": "2026-08-15T08:33:08.180270+09:00",
   "items": [
     {
       "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
@@ -238,6 +238,20 @@
       "date": "2026-08-06",
       "source_url": "https://pc.watch.impress.co.jp/docs/news/2130757.html",
       "importance": 4
+    },
+    {
+      "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
+      "category": "半導体・チップ",
+      "date": "2026-08-11",
+      "source_url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+      "importance": 5
+    },
+    {
+      "title": "わずか14MBの自律型エージェントLLM「Needle2」が登場、スマホやロボットで直接動作",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-12",
+      "source_url": "https://cactuscompute.com/needle",
+      "importance": 5
     }
   ]
 }
