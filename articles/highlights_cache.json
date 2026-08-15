@@ -1,47 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-08",
-      "stories": [
-        {
-          "title": "音声の無断利用は権利侵害、法務省が生成AIに関する民事責任の解釈指針を公表",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000452/"
-        },
-        {
-          "title": "米オープンAI、サイバーリスクを理由に次世代モデル「Astra」のリリースを一時停止",
-          "source_url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks"
-        },
-        {
-          "title": "パナソニック、レッド（RED）のRAW動画特許を無効化することに成功",
-          "source_url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/"
-        },
-        {
-          "title": "生地以外をすべてカーボンで作った軽量長傘が登場、高級ステッキのような佇まい",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-carbonumbrella4-review-955682/"
-        },
-        {
-          "title": "ソニーの人気ノイズキャンセリングヘッドフォン「WH-1000XM4」の廉価版が発売か",
-          "source_url": "https://9to5google.com/2026/08/07/sony-wh-1000xm4-re-release-leak/"
-        },
-        {
-          "title": "スイッチ2の5.1chサラウンド音声をそのまま録画できる業務用キャプチャーボード",
-          "source_url": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/"
-        },
-        {
-          "title": "オムロン、NVIDIAの技術を活用して半導体パッケージ基板の検査を高度化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
-        },
-        {
-          "title": "クラウドフレア、AIエージェント専用に最適化されたクラウドブラウザ「Kitesurf」を公開",
-          "source_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
-        },
-        {
-          "title": "世界的な半導体・メモリ不足が長期化、2027年分もすでに完売状態との報道",
-          "source_url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"
-        }
-      ]
-    },
-    {
       "date": "2026-08-09",
       "stories": [
         {
@@ -565,6 +524,87 @@
         {
           "title": "BMW、航続距離900km超を実現した次世代EV「ノイエ・クラッセ」第1弾を国内投入",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/080500039/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "stories": [
+        {
+          "title": "AIコードエージェント「Codex」による自動最適化で、GPUカーネルの実行速度を232倍に高速化",
+          "source_url": "https://sankalp.bearblog.dev/autoresearch/"
+        },
+        {
+          "title": "オープンAIとジョニー・アイブ氏、ホッケーパック型のスマートホーム向けAIハードウェアを開発中",
+          "source_url": "https://newatlas.com/ai-humanoids/openai-hockey-puck-smart-home/"
+        },
+        {
+          "title": "アンスロピック、EU AI法に対応するためClaude生成テキストへの「電子水透かし」技術を標準化",
+          "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+        },
+        {
+          "title": "蚊を自動でレーザー照準・撃墜する個人向け超小型防空システムが1,000ドルで一般発売",
+          "source_url": "https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000"
+        },
+        {
+          "title": "一見ただのペンダント？データとスタイルを融合させたネックレス型USBメモリ「パフ（Puff）」",
+          "source_url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/"
+        },
+        {
+          "title": "送信機に電子ペーパー画面を搭載した高音質ワイヤレスマイク「インスタ360 マイクプロ」が登場",
+          "source_url": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/"
+        },
+        {
+          "title": "世界最軽量45gの超音波式風向風速センサー「アルサ・エヴォ（ULSA EVO）」が予約開始",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2131152.html"
+        },
+        {
+          "title": "釘を刺しても発火しない！厚さわずか5.5mmの超安全・薄型モバイルバッテリーが登場",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-slimplatebank-additional-965649/"
+        },
+        {
+          "title": "オムロンとエヌビディア、AIエージェントを活用した半導体パッケージ基板の3D検査技術を共同開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
+        },
+        {
+          "title": "FPGA上に486クラスのCPUとFPUを完全実装したオープンソースプロジェクト「z486」が登場",
+          "source_url": "https://nand2mario.github.io/posts/2026/z486/"
+        },
+        {
+          "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」が話題に",
+          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+        },
+        {
+          "title": "AIが実用的な人工ウイルスをゼロから自動設計することに成功、バイオ安全保障議論が加速",
+          "source_url": "https://spectrum.ieee.org/ai-designed-virus"
+        },
+        {
+          "title": "電子回路の敵「熱雑音」を計算に変換する「熱力学コンピューティング」の原理検証が進展",
+          "source_url": "https://gigazine.net/news/20260815-thermodynamic-computing/"
+        },
+        {
+          "title": "超小型EVトラック「テロ MT1」が大型ピックアップを超える牽引性能を実証デモ",
+          "source_url": "https://newatlas.com/automotive/telo-mt1-towing-capacity/"
+        },
+        {
+          "title": "大型3Dプリンターでキャンピングカーの内装を一元出力、従来の木材構造より680kg軽量化",
+          "source_url": "https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817/"
+        },
+        {
+          "title": "Linux業界を長年苦しめた25年前の動画圧縮関連特許が失効、オープンソース開発が自由化へ",
+          "source_url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/"
+        },
+        {
+          "title": "コンテナ1つに発射インフラを収めた移動型ロケット打ち上げシステム「GHOST」が登場",
+          "source_url": "https://newatlas.com/military/ghost-gives-rocket-launch-sites-flat-pack-treatment/"
+        },
+        {
+          "title": "日産自動車、中国メーカーに倣い新車開発期間を50カ月から30〜37カ月へ大幅短縮",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/073100033/"
+        },
+        {
+          "title": "複数の主要データベースを共通画面で一括操作できるオープンソース管理ツール「DbGate」が登場",
+          "source_url": "https://gigazine.net/news/20260815-dbgate/"
         }
       ]
     }
