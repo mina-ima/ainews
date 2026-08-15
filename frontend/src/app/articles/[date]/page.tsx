@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getIndex, getArticleContent } from "@/lib/articles";
 import AudioPlayer from "@/components/AudioPlayer";
 import MarkdownView from "@/components/MarkdownView";
+import NewsChat from "@/components/NewsChat";
 
 export const dynamic = "force-dynamic";
 
@@ -41,6 +42,8 @@ export default async function ArticlePage({
           Markdownをダウンロード
         </a>
       </div>
+
+      <NewsChat date={date} />
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import Link from "next/link";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -35,9 +36,9 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col bg-slate-950 text-slate-100">
         <header className="border-b border-slate-800 px-4 py-3">
-          <a href="/" className="text-lg font-bold text-blue-400">
+          <Link href="/" className="text-lg font-bold text-blue-400">
             AI Daily News
-          </a>
+          </Link>
         </header>
         <main className="flex-1">{children}</main>
       </body>
