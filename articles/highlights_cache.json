@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-09",
-      "stories": [
-        {
-          "title": "OpenAIによるHugging Faceへの偶発的攻撃のタイムラインが判明、JFrogのゼロデイ脆弱性が原因",
-          "source_url": "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-        },
-        {
-          "title": "アンソロピックが「Fable 5」の生物学分野における過剰な安全制限を緩和、利便性が大幅向上",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/"
-        },
-        {
-          "title": "デンマーク、学生の生成AIによる不正行為に対抗するため筆記課題への「口頭試問」を義務化へ",
-          "source_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
-        },
-        {
-          "title": "ライカと共同開発した2眼ジンバルカメラ「Insta360 Luna Ultra」が登場、圧倒的な画質と安定性を両立",
-          "source_url": "https://www.gizmodo.jp/article/insta360-luna-ultra-review-this-is-the-only-gimbal-camera-you-need/"
-        },
-        {
-          "title": "サーキュレーター不要！天井から360度送風する画期的なシーリングファンライト「AIR LIGHT ONE KAZE」",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-ceilingfanlight-start-967443/"
-        },
-        {
-          "title": "最大35日間駆動！アナログ時計の美しさと高度な健康測定を両立したスマートウォッチ「ScanWatch Vitals」",
-          "source_url": "https://gigazine.net/news/20260808-scanwatch-vitals/"
-        },
-        {
-          "title": "ペンで文字を書くように直感操作できるサンワサプライの「ペン型マウス」が実用的",
-          "source_url": "https://gigazine.net/news/20260808-pen-mouth-sanwa/"
-        },
-        {
-          "title": "ベルギー研究機関アイメック、フレキシブル基板の潤滑接合における接合前線速度の予測モデルを開発",
-          "source_url": "https://semiengineering.com/model-tracks-bond-front-velocity-for-wafer-and-die-bonding-imec/"
-        },
-        {
-          "title": "アップルがM6 Pro/Maxチップをスキップし、次世代「M7」チップの立ち上げを加速する計画",
-          "source_url": "https://9to5mac.com/2026/08/08/apple-m7-chip-heres-why-it-matters-ai/"
-        },
-        {
-          "title": "一部のx86プロセッサにハードウェアレベルのバックドア「ローゼンブリッジ」が存在することが判明",
-          "source_url": "https://github.com/xoreaxeaxeax/rosenbridge"
-        },
-        {
-          "title": "クラウドフレア、APIキーを配らずに社内システムとAIを安全連携できる「Cloudflare OS」を公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2131532.html"
-        },
-        {
-          "title": "タンパク質の異常折り畳みを「あえて折り畳ませない」ことで防ぐ革新的な医療アプローチ",
-          "source_url": "https://www.science.org/content/blog-post/preventing-misfolding-preventing-folding"
-        },
-        {
-          "title": "NASA、打ち上げから48年が経過した探査機「ボイジャー2号」の寿命をさらに1年延ばす運用技術を確立",
-          "source_url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year"
-        },
-        {
-          "title": "インテル、数千機の低軌道衛星を宇宙空間から一括管理する「軌道上データセンター」構想を提案",
-          "source_url": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit"
-        },
-        {
-          "title": "アマゾン、テキサス州の巨大AIデータセンター向けに米国最大級の汚染源となるガス火力発電所を建設へ",
-          "source_url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html"
-        },
-        {
-          "title": "金属3Dプリント大手EOS、水素エネルギー向け次世代材料を開発する「MAT-H2」コンソーシアムに参画",
-          "source_url": "https://www.engineering.com/eos-joins-mat-h2-consortium-to-advance-hydrogen-materials/"
-        },
-        {
-          "title": "散らばったネジやボルトを自動で高速仕分けするオープンソースのロボットソーターが開発",
-          "source_url": "https://hackaday.com/2026/08/08/robotic-screw-and-bolt-sorter-seeks-a-new-challenge/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-10",
       "stories": [
         {
@@ -605,6 +532,79 @@
         {
           "title": "複数の主要データベースを共通画面で一括操作できるオープンソース管理ツール「DbGate」が登場",
           "source_url": "https://gigazine.net/news/20260815-dbgate/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "stories": [
+        {
+          "title": "高度な数学計算とプログラム実装を連携させる専門AIエージェント「マスコード（MathCode）」が登場",
+          "source_url": "https://math-ai-org.github.io/mathcode/"
+        },
+        {
+          "title": "ソニー（Sony）、6680万画素の超高画質モンスター一眼カメラ「α7R VI」を発表",
+          "source_url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review"
+        },
+        {
+          "title": "サンドバー（Sandbar）、音声操作と文字起こしに特化した指輪型AIウェアラブル端末を公開",
+          "source_url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
+        },
+        {
+          "title": "テラモウ（TerraMow）、AIカメラと自動マッピング機能を搭載した次世代スマートロボット草刈り機「V1000」を発表",
+          "source_url": "https://www.wired.com/review/terramow-v1000/"
+        },
+        {
+          "title": "カンマ・エーアイ（comma.ai）、オープンソースファームウェアで動作する外付けGPUドック「チェストナット（Chestnut）」を発表",
+          "source_url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/"
+        },
+        {
+          "title": "サイバーパワー（CyberPower）、コンパクトかつ雷サージ保護機能を備えた格安無停電電源装置「ST425JP」を発表",
+          "source_url": "https://gigazine.net/news/20260816-cyberpower-st425jp/"
+        },
+        {
+          "title": "グーグル（Google）、AMDと連携してCPUコア統合の次世代AIチップ「TPU」を設計か",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning"
+        },
+        {
+          "title": "エヌビディア（NVIDIA）、スペースエックス（SpaceX）へ210億ドル規模の出資を開示",
+          "source_url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html"
+        },
+        {
+          "title": "スペースエックス（SpaceX）、AIコーディング支援ツール開発のカーソル（Cursor）買収を正式完了",
+          "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+        },
+        {
+          "title": "超音波の音圧で推力を生み出す無音の「音響駆動型マイクロドローン」が開発される",
+          "source_url": "https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers"
+        },
+        {
+          "title": "岩石への通電で天然水素の生成を劇的に加速させる技術「刺激型地質水素」が登場",
+          "source_url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
+        },
+        {
+          "title": "アルツハイマー病の症状を劇的に改善・反転させる革新的な外科手術手法が脚光",
+          "source_url": "https://www.nature.com/articles/d41586-026-02448-x"
+        },
+        {
+          "title": "エージェント型AI（Agentic AI）が電子回路およびハードウェア設計の現場へ浸透開始",
+          "source_url": "https://www.engineering.com/agentic-ai-the-next-step-for-hardware-engineering/"
+        },
+        {
+          "title": "3Dプリンターの積層強度を劇的に高める「レーザー照射層補強」工法が開発される",
+          "source_url": "https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/"
+        },
+        {
+          "title": "AIを活用し、25万行におよぶ巨大なレガシー気象シミュレーションコードをGPU環境へ自動移植することに成功",
+          "source_url": "https://arxiv.org/abs/2608.13122"
+        },
+        {
+          "title": "レイルウェイ（Railway）、AI時代のクラウド基盤拡大に向けて1億ドルの資金調達を実施",
+          "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+        },
+        {
+          "title": "メタ（Meta）のAI音声コーデックを活用し、2.9MBの楽曲を1000分の1に超圧縮してQRコード印刷・再生に成功",
+          "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes"
         }
       ]
     }
