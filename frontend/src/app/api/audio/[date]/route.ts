@@ -3,7 +3,6 @@ import fs from "fs";
 import path from "path";
 
 const ARTICLES_DIR = path.join(process.cwd(), "..", "articles");
-const isLocal = fs.existsSync(ARTICLES_DIR);
 const REPO = "mina-ima/ainews";
 
 export async function GET(
@@ -18,12 +17,9 @@ export async function GET(
 
   const rangeHeader = request.headers.get("range");
 
-  if (isLocal) {
-    const mp3Path = path.join(ARTICLES_DIR, `${date}.mp3`);
-    if (!fs.existsSync(mp3Path)) {
-      return NextResponse.json({ error: "Not found" }, { status: 404 });
-    }
-
+  // ローカルに MP3 があればそれを配信。無ければ GitHub Releases へ委譲する
+  const mp3Path = path.join(ARTICLES_DIR, `${date}.mp3`);
+  if (fs.existsSync(mp3Path)) {
     const stat = fs.statSync(mp3Path);
     const fileSize = stat.size;
 
@@ -64,27 +60,10 @@ export async function GET(
     });
   }
 
-  // Vercel: GitHub Releases からプロキシ
-  const releaseUrl = `https://github.com/${REPO}/releases/download/news-${date}/${date}.mp3`;
-  const fetchHeaders: HeadersInit = {};
-  if (rangeHeader) fetchHeaders["Range"] = rangeHeader;
-
-  const upstream = await fetch(releaseUrl, { headers: fetchHeaders });
-  if (!upstream.ok && upstream.status !== 206) {
-    return NextResponse.json({ error: "Audio not available" }, { status: 404 });
-  }
-
-  const responseHeaders: Record<string, string> = {
-    "Content-Type": "audio/mpeg",
-    "Accept-Ranges": "bytes",
-  };
-  const contentRange = upstream.headers.get("content-range");
-  const contentLength = upstream.headers.get("content-length");
-  if (contentRange) responseHeaders["Content-Range"] = contentRange;
-  if (contentLength) responseHeaders["Content-Length"] = contentLength;
-
-  return new NextResponse(upstream.body, {
-    status: upstream.status,
-    headers: responseHeaders,
-  });
+  // Vercel: GitHub Releases へリダイレクト（Range 処理も帯域も GitHub 側に任せる。
+  // プロキシすると Vercel のレスポンス上限 4.5MB に MP3 が引っかかる）
+  return NextResponse.redirect(
+    `https://github.com/${REPO}/releases/download/news-${date}/${date}.mp3`,
+    302
+  );
 }
