@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-10",
-      "stories": [
-        {
-          "title": "オープンAI（OpenAI）、Hugging Face侵入実験の最新詳細を公表──AIエージェントが自主的に「秘密掲示板」を作成",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/"
-        },
-        {
-          "title": "オープンAI（OpenAI）、自動プレゼン作成スタートアップ「ネクストスライド（NextSlide）」を買収",
-          "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-        },
-        {
-          "title": "X（旧Twitter）、生成AIの無断転載・スパム対策として新報酬制度「オリジナル・コンテンツ・リワーズ」へ移行",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/09/2000000464/"
-        },
-        {
-          "title": "手のひらサイズで星空を自動追尾する超小型スマート天体望遠鏡「ドワーフ・ミニ（DWARF mini）」が登場",
-          "source_url": "https://www.gizmodo.jp/article/dwarf-mini/"
-        },
-        {
-          "title": "映画館級の大画面と立体音響を携行できる最新ARグラス「レイネオ・エアー4プロ（RayNeo Air 4 Pro）」",
-          "source_url": "https://www.gizmodo.jp/article/amazon-timesale-2026-0809-2/"
-        },
-        {
-          "title": "PFU、ポインティングスティックと静音メカニカルキーを融合したフラッグシップキーボード「HHKB Studio」",
-          "source_url": "https://gigazine.net/news/20260809-hhkb-studio/"
-        },
-        {
-          "title": "後輪が折りたためる革新機構！狭い都市部での駐車課題を解決する電動モペッド「オーグメント360」",
-          "source_url": "https://newatlas.com/urban-transport/augment-360-27mph-moped-parking-folding-wheel-electric/"
-        },
-        {
-          "title": "アンソロピック（Anthropic）、開発ツール「クロード・コード（Claude Code）」で「オートモード」を標準化",
-          "source_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
-        },
-        {
-          "title": "ノースウェスタン大学、本体ごと高速回転して残像で姿を消す「透明ドローン」を開発",
-          "source_url": "https://gigazine.net/news/20260809-phantom-twist-drone/"
-        },
-        {
-          "title": "アディダス、プロサッカーの公式戦で「完全3Dプリント製スパイク」を世界初投入",
-          "source_url": "https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603/"
-        },
-        {
-          "title": "東芝、産業・家電向け基板のセキュリティとモーター制御を強化するマイコン「M4Vグループ」を発表",
-          "source_url": "https://www.engineering.com/toshiba-introduces-m4v-microcontrollers-for-secure-iot-devices/"
-        },
-        {
-          "title": "ペンシルベニア大学、噛むだけで頭頸部がん関連のウイルスや細菌を大幅減少させる「予防用ガム」を開発",
-          "source_url": "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/"
-        },
-        {
-          "title": "米宇宙軍とロケット・ラボ（Rocket Lab）、大量打ち上げに最適化した超薄型衛星「フラテライト」を開発",
-          "source_url": "https://newatlas.com/space-systems/us-space-force-flatellites-rocket-lab/"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）の次世代SoC「RTX Spark」のベンチマークが流出──x86モバイルCPUを圧倒する性能",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/two-variants-of-nvidias-rtx-spark-show-up-on-geekbench-revealing-a-cut-down-18-core-model-full-20-core-beats-most-x86-mobile-chips-across-multi-core-and-single-core-tests"
-        },
-        {
-          "title": "痛みのない永久タトゥーを実現！超微細なマイクロドットアレイを用いた「サイファーエックス（CipherX）」技術",
-          "source_url": "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches"
-        },
-        {
-          "title": "耐量子暗号の有力候補「HAWK」に致命的脆弱性が発見──AI解析ツール「ミソス（Mythos）」が欠陥を暴露",
-          "source_url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-        },
-        {
-          "title": "日産自動車、車の開発期間を従来の約50カ月から30〜37カ月へ大幅短縮──E/Eアーキテクチャ統合で爆速開発へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/073100033/"
-        },
-        {
-          "title": "米国でコンセントに挿すだけの「プラグイン太陽光パネル」が普及加速、家庭用再エネ導入の敷居を下げる",
-          "source_url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html"
-        },
-        {
-          "title": "レーザー光線で直接アナログ映像を送信！無線電波に頼らない高速光空間通信（OWC）のDIY実験が成功",
-          "source_url": "https://hackaday.com/2026/08/09/transmitting-analog-video-via-frikkin-laser-beams/"
-        },
-        {
-          "title": "3Dプリント製水冷ブロックでGPUダイを直接液体冷却！負荷時温度28℃を実現する極限冷却モッド",
-          "source_url": "https://www.tomshardware.com/pc-components/liquid-cooling/modder-pumps-liquid-directly-over-bare-gpu-silicon-via-3d-printed-block-drops-rtx-2060-super-load-temps-to-28-c-despite-initial-leaks"
-        }
-      ]
-    },
-    {
       "date": "2026-08-11",
       "stories": [
         {
@@ -605,6 +520,79 @@
         {
           "title": "メタ（Meta）のAI音声コーデックを活用し、2.9MBの楽曲を1000分の1に超圧縮してQRコード印刷・再生に成功",
           "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "stories": [
+        {
+          "title": "ハギング・フェイス統計、アリババ「Qwen」派生モデルが15万件を突破しオープンモデルの事実上標準へ",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/"
+        },
+        {
+          "title": "オープンAIの「GPT-5.6 Sol」、歴代最強の画像認識・解析能力を備えたビジョンモデルと実証",
+          "source_url": "https://blog.roboflow.com/openai-gpt-5-6/"
+        },
+        {
+          "title": "アンスロピック、最上位「Mythos」を超える未公開超高性能モデル「Model 2」の存在を示唆",
+          "source_url": "https://gigazine.net/news/20260817-anthropic-model-2/"
+        },
+        {
+          "title": "AI同士が自律対話して共同作業、「Hermes Desktop」にボット協調モードが標準搭載",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133094.html"
+        },
+        {
+          "title": "普通の自転車を後付けでスマート電動化、エイスースがローラー駆動ユニット「Oxiis E250G1」を発表",
+          "source_url": "https://gigazine.net/news/20260817-asus-oxiis-e250g1/"
+        },
+        {
+          "title": "写りはあえて「平成のガラケー画質」、3,960円の手のひらトイデジカメ「C520」が人気に",
+          "source_url": "https://www.gizmodo.jp/article/2608-c520-minicamera-review/"
+        },
+        {
+          "title": "ピクシオ、4K/160HzとフルHD/320Hzを瞬時に切り替えられる31.5型デュアルモニターを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133137.html"
+        },
+        {
+          "title": "スマホでハイレゾ音楽を聴きながらPD急速充電できる2股USB-C変換アダプタが登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2133204.html"
+        },
+        {
+          "title": "中国ユニツリー、助走なしで2m跳躍・時速45kmで疾走する驚異の新型ヒューマノイドを公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/"
+        },
+        {
+          "title": "DDR5メモリ価格が1年で500%暴騰、AI特需による深刻な供給不足が直撃",
+          "source_url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
+        },
+        {
+          "title": "AIチップ企業グロック、ハード専業からAIクラウド「ネオクラウド」へ転換し3.5億ドルを調達",
+          "source_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
+        },
+        {
+          "title": "大型ロボット3Dプリント技術で無人ドローンボート「TF-179」の一体出力製造に成功",
+          "source_url": "https://3dprintingindustry.com/news/haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel-253825/?utm_source=rss&utm_medium=rss&utm_campaign=haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel"
+        },
+        {
+          "title": "プリント基板の供給課題と宇宙・大気圏再突入機間の「レーザー光通信リンク」初成功",
+          "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-pcb-supplies-intel-memory-laser-links-2026-08/"
+        },
+        {
+          "title": "皮膚に貼るだけで気体・液体の有害物質を検知し振動で警告するウェアラブルパッチが登場",
+          "source_url": "https://newatlas.com/wearables/poison-detecting-wearable-skin-patch/"
+        },
+        {
+          "title": "ウーバー、ドローン開発のジップラインと提携し本格フードデリバリーへ出資",
+          "source_url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment"
+        },
+        {
+          "title": "全米最大の送電網PJM、電力不足時は一般家庭より先に50MW超のAIデータセンターへの送電遮断を提案",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power"
+        },
+        {
+          "title": "AIの自動コード修正機能「Copilot Autofix」を悪用した企業環境侵害の脆弱性が判明",
+          "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
         }
       ]
     }
