@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-11",
-      "stories": [
-        {
-          "title": "メタ（Meta）、コンシューマーPCで完全ローカル動作する300億パラメータAI「ミューズ・グリマー（Muse Glimmer）」をオープンソース公開",
-          "source_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/"
-        },
-        {
-          "title": "クリック感のある物理キーボードをスマホに追加！MagSafe対応「クリック・パワーキーボード（Clicks Power Keyboard）」が登場",
-          "source_url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/"
-        },
-        {
-          "title": "大型ポンプはもう不要？トレックから重さわずか133gのポケットサイズ電動空気入れ「エア・ラッシュ」が発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/column_review/yajreview/2130038.html"
-        },
-        {
-          "title": "5.5インチのサブ液晶ディスプレイを一体化した万能USBハブ「スクリーンドック（ScreenDock）」",
-          "source_url": "https://newatlas.com/consumer-tech/cabletime-screendock-usb-hub-display/"
-        },
-        {
-          "title": "スタイルを完全に捨てて太陽光発電に全振りした尖りすぎ電動バイク「ライトフット（Lightfoot）」",
-          "source_url": "https://www.gizmodo.jp/article/lightfoot-evbike/"
-        },
-        {
-          "title": "アンソロピック（Anthropic）、自社専用AIチップの開発チーム立ち上げに向けて採用を開始",
-          "source_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
-        },
-        {
-          "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
-          "source_url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/"
-        },
-        {
-          "title": "冷却装置が不要な国産常温量子コンピューター「モクレン（Moquren）」が本格稼働を開始",
-          "source_url": "https://www.gizmodo.jp/article/moquren_launch/"
-        },
-        {
-          "title": "NASA、火星到達時間を短縮する高出力リチウム供給型電気推進スラスターの点火試験に成功",
-          "source_url": "https://www.nasa.gov/missions/tech-demonstration/nasa-fires-up-powerful-lithium-fed-thruster-for-trips-to-mars/"
-        },
-        {
-          "title": "主要メーカーの基板管理コントローラー（BMC）に深刻な脆弱性、数千台のサーバーにバックドアのリスク",
-          "source_url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
-        },
-        {
-          "title": "飛翔中のドローンへ地上からレーザー光で無接点給電、飛行時間を飛躍的に延ばす新技術",
-          "source_url": "https://newatlas.com/drones/improved-receiver-laser-powered-drones/"
-        },
-        {
-          "title": "世界初の太陽光発電救急車「ステラ・ジュバ（Stella Juva）」がオフグリッド地域での運用を開始",
-          "source_url": "https://newatlas.com/automotive/stella-juva-solar-powered-ambulance/"
-        },
-        {
-          "title": "AIチップの発熱限界を突破せよ、AIで新素材を探索するディスカバード・マテリアルズが900万ドル調達",
-          "source_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/"
-        },
-        {
-          "title": "3Dプリント製の超低音再生冷却ロケットエンジン、液酸/IPAによる燃焼実験に初成功",
-          "source_url": "https://3dprintingindustry.com/news/eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test-253690/?utm_source=rss&utm_medium=rss&utm_campaign=eplus3d-supports-ucl-rocket-in-first-cryogenic-lox-ipa-engine-hot-fire-test"
-        }
-      ]
-    },
-    {
       "date": "2026-08-12",
       "stories": [
         {
@@ -593,6 +532,75 @@
         {
           "title": "AIの自動コード修正機能「Copilot Autofix」を悪用した企業環境侵害の脆弱性が判明",
           "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "stories": [
+        {
+          "title": "オープンAI、Hugging Faceへの影響を受けた新たなAI安全・セキュリティ管理体制を発表",
+          "source_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
+        },
+        {
+          "title": "AIモデル配信のOpenRouter、オープンAIの最新フラグシップ「GPT-5.6 Sol」の利用料を50%値下げ",
+          "source_url": "https://openrouter.ai/openai/gpt-5.6-sol"
+        },
+        {
+          "title": "修復しやすく長寿命なサステナブルスマホ「フェアフォン 6+」が米国市場に正式上陸",
+          "source_url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
+        },
+        {
+          "title": "アップルが「カメラ搭載AirPods」を開発中か、macOSの最新内部ファイルから未発表端末の痕跡が見つかる",
+          "source_url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+        },
+        {
+          "title": "多摩電子工業、発火リスクを抑えた「準固体リチウムイオン電池」採用のモバイルバッテリーを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133574.html"
+        },
+        {
+          "title": "エレコム、手元の物理スイッチで画面出力を瞬時にオン/オフできるType-C to HDMIアダプタを発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133554.html"
+        },
+        {
+          "title": "ニトリ、ストラップ自体がType-C充電ケーブルに変身する「スマホショルダーストラップ」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133125.html"
+        },
+        {
+          "title": "サンコー、最短14分でご飯とおかずを同時調理できる「真・2段式弁当箱炊飯器」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133237.html"
+        },
+        {
+          "title": "AIトランスフォーマー専用チップ開発のエッチド、評価額が210億ドルへ倍増し量産システムを初出荷",
+          "source_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+        },
+        {
+          "title": "三菱電機とKOA、プリント基板の硫化ガス腐食を検知・推定する新形チップ抵抗器「SK73」を発売",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11942/"
+        },
+        {
+          "title": "AIコードエディタのカーソル、独自コードホスティング機能「Origin」を発表しギットハブと同期対応",
+          "source_url": "https://cursor.com/changelog/origin-code-hosting"
+        },
+        {
+          "title": "グーグル、AIエージェントの基礎から本番実装まで学べる5つの実践的開発ガイドを無料公開",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html"
+        },
+        {
+          "title": "宇宙企業のロケット・ラボ、ドイツに現地法人を設立し欧州での人工衛星製造とロケット打ち上げ事業を加速",
+          "source_url": "https://3dprintingindustry.com/news/rocket-lab-sets-up-german-subsidiary-opening-the-door-to-satellite-manufacturing-in-europe-253920/"
+        },
+        {
+          "title": "インド工科大、プラスチックゴミを3Dプリンター用フィラメントへ変換するポータブル押出機の特許を取得",
+          "source_url": "https://3dprintingindustry.com/news/nit-rourkela-patents-low-cost-extruder-for-turning-plastic-waste-into-3d-printing-filament-253908/"
+        },
+        {
+          "title": "英国でAIを活用して航空機の飛行機雲を回避する実証実験がスタート、地球温暖化防止へ",
+          "source_url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo"
+        },
+        {
+          "title": "うつ病患者の脳内において、記憶や学習を司る海馬の特定領域が減少していることが判明",
+          "source_url": "https://gigazine.net/news/20260818-depression-linked-smaller-volume-hippocampus/"
         }
       ]
     }
