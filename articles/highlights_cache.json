@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-12",
-      "stories": [
-        {
-          "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/"
-        },
-        {
-          "title": "GPT 5.6が計算機科学の難問「(2,1)-C1P」を解決",
-          "source_url": "https://www.reddit.com/r/accelerate/comments/1vkzfk7/gpt_56_just_solved_21c1p/"
-        },
-        {
-          "title": "アンソロピックの未発表AIモデル、数学の超難問「リーマン予想」関連課題で進展",
-          "source_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/"
-        },
-        {
-          "title": "アップル、iPhoneで撮影された写真であることを証明する「Apple Reference Image」を開発中",
-          "source_url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata"
-        },
-        {
-          "title": "Zoomの画面共有機能にデバイスを乗っ取られる脆弱性、AIプロンプト20回未満で発見される",
-          "source_url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/"
-        },
-        {
-          "title": "カシオの伝説的デジタルウォッチ「F-91W」に歩数計とBluetoothを搭載した新モデルが登場",
-          "source_url": "https://newatlas.com/wearables/casio-f91w-fb100w-digital-watch-counts-steps-bluetooth/"
-        },
-        {
-          "title": "ドックから外すと空中コントローラーに変形する分割式エルゴノミクスマウス「DS21」が登場",
-          "source_url": "https://newatlas.com/consumer-tech/mbox-ds21-ergonomic-mouse-air-controller/"
-        },
-        {
-          "title": "指先サイズなのに実際に映像が映り、リモコンも付属するミニチュアテレビ「TinyTV 2」",
-          "source_url": "https://www.gizmodo.jp/article/tinytv-2-with-tiny-remote-abt/"
-        },
-        {
-          "title": "final、人気VTuberとコラボしたASMR専用ワイヤレスイヤホン「ZE500 for ASMR CyberPatra」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2132120.html"
-        },
-        {
-          "title": "オムロン、NVIDIAと磨く半導体実装検査技術　AIエージェントで効率化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
-        },
-        {
-          "title": "わずか14MBの自律型エージェントLLM「Needle2」が登場、スマホやロボットで直接動作",
-          "source_url": "https://cactuscompute.com/needle"
-        },
-        {
-          "title": "インテル、次世代「14A」プロセス製造に向けて197億ドルの資金を調達",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims"
-        },
-        {
-          "title": "MIT、電子部品を使わずに物理操作で見た目が変わる3Dプリント技術「ShiftLens」を開発",
-          "source_url": "https://3dprintingindustry.com/news/mits-shiftlens-3d-prints-objects-that-change-their-appearance-when-you-use-them-without-electronics-253675/"
-        },
-        {
-          "title": "石炭を使わない「水素製鉄」により、日本国内で1トンの鉄の製造に成功",
-          "source_url": "https://www.gizmodo.jp/article/iron_using_green_hydrogen/"
-        },
-        {
-          "title": "自律型戦闘機「X-62A」、実際のセンサーデータを用いた完全自律空中迎撃に初成功",
-          "source_url": "https://newatlas.com/military/x-62a-goes-full-autonomous-first-time-live-sensor-data/"
-        },
-        {
-          "title": "メルボルン大学、3Dプリント製ロケットエンジンの燃焼試験に成功し競技会で優勝",
-          "source_url": "https://3dprintingindustry.com/news/university-of-melbourne-and-csiro-win-race2space-lox-bipropellant-category-253678/"
-        },
-        {
-          "title": "真空管もトランジスタも使わない、1954年の磁気素子コンピュータ「PC-1」の技術的系譜",
-          "source_url": "https://hackaday.com/2026/08/11/pc-1-the-1954-computer-with-no-tubes-relays-or-transistors/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-13",
       "stories": [
         {
@@ -601,6 +528,91 @@
         {
           "title": "うつ病患者の脳内において、記憶や学習を司る海馬の特定領域が減少していることが判明",
           "source_url": "https://gigazine.net/news/20260818-depression-linked-smaller-volume-hippocampus/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "stories": [
+        {
+          "title": "複数AIエージェントが「縄張り争い」や価格カルテルを自律的に結託、アンスロピックが実験結果を公開",
+          "source_url": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/"
+        },
+        {
+          "title": "オープンAI、2027年までのIPO方針を従業員へ示唆　巨額開発資金の確保へ",
+          "source_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html"
+        },
+        {
+          "title": "オープンAI、AIエージェントの安全対策強化のため最新モデルの強化学習を2週間一時停止",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133872.html"
+        },
+        {
+          "title": "国立情報学研究所、332億パラメータのオープンな国産LLM「LLM-jp-4 33B」を公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133929.html"
+        },
+        {
+          "title": "グーグル、「Google Pixel 11」シリーズおよび「Pixel Watch 5」を国内発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/review/2133906.html"
+        },
+        {
+          "title": "スイッチボット、紛失防止・カギ解錠・家電操作が1枚にまとまった薄型カード端末を発売",
+          "source_url": "https://www.gizmodo.jp/article/2608-amazon-smarttrakcer-zef/"
+        },
+        {
+          "title": "タイガー魔法瓶、ドリップと浸漬を組み合わせたハイブリッド全自動コーヒーメーカーを発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133988.html"
+        },
+        {
+          "title": "スーディオ、ノイズキャンセリング搭載の格安Type-C有線イヤホン「V3 Pro」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2133884.html"
+        },
+        {
+          "title": "C言語のみで書かれた超極小LLM「microgpt」、Apple M5上で毎秒1,000万トークンの超高速推論を達成",
+          "source_url": "https://github.com/vixhal-baraiya/microgpt-c"
+        },
+        {
+          "title": "セレブラス、巨大半導体を束ねGPU比最大30倍のAI推論を実現する「CS-4」ラックスケールを発表",
+          "source_url": "https://gigazine.net/news/20260819-cerebras-cs-4/"
+        },
+        {
+          "title": "メルクとモデルナ、悪性黒色腫向けmRNA個別化がんワクチンの最終治験で有望な結果",
+          "source_url": "https://www.scmp.com/news/world/united-states-canada/article/3364603/merck-moderna-claim-encouraging-melanoma-vaccine-trial-results?utm_source=rss_feed"
+        },
+        {
+          "title": "ダイキン工業、インド工場でエアコン電子制御基板の生産効率を向上",
+          "source_url": "https://asia.nikkei.com/business/electronics/daikin-lifts-production-efficiency-for-ac-control-boards-in-india"
+        },
+        {
+          "title": "MIT、単一分子を安定した電子デバイスへ転換する新ナノ実装技術を開発",
+          "source_url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
+        },
+        {
+          "title": "クアルコム傘下のモジュラー、高性能AI開発言語「Mojo」をオープンソース公開",
+          "source_url": "https://www.modular.com/blog/modcon-announcements"
+        },
+        {
+          "title": "テラパワーの次世代ナトリウム冷却原子炉、AIデータセンター向け給電で優位性を確立へ",
+          "source_url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
+        },
+        {
+          "title": "ヘキサゴン・ロボティクス、シェフラーの工場で産業用ヒューマノイド1,000台配備に向けた訓練を開始",
+          "source_url": "https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/"
+        },
+        {
+          "title": "リンクソリューション、AIデータセンター冷却用「3Dプリント製熱交換器」の量産化研究を開始",
+          "source_url": "https://3dprintingindustry.com/news/lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research-253916/?utm_source=rss&utm_medium=rss&utm_campaign=lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research"
+        },
+        {
+          "title": "日本発エナクティック、5,000ドルで1,000台以上出荷した上半身特化ロボットでNVIDIAが注目",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/080300012/"
+        },
+        {
+          "title": "コムキャスト、既存の家庭用ルーターを機器追加なしでWi-Fi動体検知センサー化する機能を無料提供",
+          "source_url": "https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required"
+        },
+        {
+          "title": "月の裏側を電波シールドにする超小型探査衛星、宇宙黎明期のシグナル観測へ",
+          "source_url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe"
         }
       ]
     }
