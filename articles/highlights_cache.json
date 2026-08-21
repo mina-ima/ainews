@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-14",
-      "stories": [
-        {
-          "title": "オープンAI（OpenAI）の「GPT-5.6 Sol」を最大14倍高速化する「ウルトラファスト」モードが発表、セレブラス（Cerebras）の超巨大チップで実現",
-          "source_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
-        },
-        {
-          "title": "グーグル（Google）、新世代の高速・低遅延モデル「Gemini 3.7 Flash」を電撃発表",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
-        },
-        {
-          "title": "リキッドAI（Liquid AI）、スマホで動く日本語対応の視覚言語モデル「LFM2.5-VL-3B」をオープン公開",
-          "source_url": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/"
-        },
-        {
-          "title": "AIエージェント同士を同一タスクで競わせると「縄張り争い」や意図せぬ結託が起きる現象が判明",
-          "source_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/"
-        },
-        {
-          "title": "Insta360、ソニー製大型センサーとAI自動編集を搭載した8K 360度カメラ「X6」を発売",
-          "source_url": "https://newatlas.com/consumer-tech/insta360-x6-8k-360-degree-actioncam/"
-        },
-        {
-          "title": "キークロン（Keychron）、100個のキーを完全カスタマイズできる超巨大マクロパッド「C100 8K」を発売",
-          "source_url": "https://www.tomshardware.com/peripherals/mechanical-keyboards/keychron-launches-ludicrous-100-key-custom-macro-pad-10-x-10-keyboard-uses-exclusive-keychron-apex-switches-and-features-per-key-rgb-control"
-        },
-        {
-          "title": "ボーズ（Bose）、空間オーディオとANCを大幅強化した「QuietComfort Headphones 第2世代」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2132518.html"
-        },
-        {
-          "title": "ソニーとTSMCが次世代イメージセンサーの量産合弁会社を設立",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132492.html"
-        },
-        {
-          "title": "光電融合の難題を打開する「近接パッケージ光学（NPO）」技術がAI基板実装で台頭",
-          "source_url": "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains"
-        },
-        {
-          "title": "指差しや音声で「そこを掃除して」と指示できるロボット掃除機「Matic Cues」が登場",
-          "source_url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review"
-        },
-        {
-          "title": "ハート・エアロスペース（Heart Aerospace）、世界最大の完全電動航空機で初飛行に成功",
-          "source_url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft"
-        },
-        {
-          "title": "DapuStor、1ドライブで「512TB」の超巨大容量を誇るSSD「R6060」を展示発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132491.html"
-        },
-        {
-          "title": "サムスン電子（Samsung）、先端半導体設計の検証にClaudeを導入するも予期せぬ課題に直面",
-          "source_url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/"
-        },
-        {
-          "title": "長時間のCNC精密加工における寸法ズレをリアルタイムAI温度補正で解決する新工法",
-          "source_url": "https://www.engineering.com/fixing-cnc-part-size-drift-with-real-time-ai-temperature-offset/"
-        },
-        {
-          "title": "シカゴ・マーカンタイル取引所（CME）、GPU計算能力のコスト変動をヘッジする「GPU先物」を上場へ",
-          "source_url": "https://www.cmegroup.com/media-room/press-releases/2026/8/11/cme_group_and_silicondatatolaunchcomputefuturesonoctober5tounloc.html"
-        },
-        {
-          "title": "大学院生がフラクタル構造における「量子不確定性原理」を数学的に完全証明",
-          "source_url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/"
-        },
-        {
-          "title": "ミストラルAI（Mistral AI）、自社プラットフォームで外部オープンモデルを統合提供開始",
-          "source_url": "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/"
-        },
-        {
-          "title": "中国メモリ大手CXMT、上場17日で時価総額5200億ドル突破しテンセント超えの中国トップに",
-          "source_url": "https://www.tomshardware.com/tech-industry/cxmt-overtakes-tencent-to-become-chinas-most-valuable-company-17-days-after-its-ipo"
-        },
-        {
-          "title": "ルーマニア、記録的熱波による河川水位低下で唯一の原子力発電所を運転停止",
-          "source_url": "https://www.bbc.com/news/articles/cqlxpq5q799o"
-        }
-      ]
-    },
-    {
       "date": "2026-08-15",
       "stories": [
         {
@@ -601,6 +520,83 @@
         {
           "title": "トリチウム活用の原子力バッテリー、宇宙機器や体内埋め込み医療用電源として実用化へ",
           "source_url": "https://www.gizmodo.jp/article/tritium_nuclear_battery/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "stories": [
+        {
+          "title": "リキッドAI、スマホ向けモデル「LFM2.5」を2倍以上高速化する「DSpark」適用版を発表",
+          "source_url": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/"
+        },
+        {
+          "title": "エヌビディア、AIモデル単体よりも「ハーネス構造」がAI性能を高める鍵であることを実証",
+          "source_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+        },
+        {
+          "title": "クロード 4.8並みの性能を持つオープンソースAIモデル「オーニス 1.5」が登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134570.html"
+        },
+        {
+          "title": "AI企業による希少本の購入・裁断に対抗し、オープンライブラリが物理書籍の緊急スキャンボランティアを募集",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers"
+        },
+        {
+          "title": "3Wスピーカー内蔵！エフェクターサイズなのに直接音が鳴る超小型ギターアンプペダルが登場",
+          "source_url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review"
+        },
+        {
+          "title": "レーザー、超薄型かつラピッドトリガー対応のロープロファイルキーボードを発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134580.html"
+        },
+        {
+          "title": "シャークニンジャ、空気の汚れをリアルタイムで数値化するコンパクト空気清浄機を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134152.html"
+        },
+        {
+          "title": "ビクター、圧迫感を抑えた耳を塞がない開放型完全ワイヤレスイヤホン「HA-A4T」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2134571.html"
+        },
+        {
+          "title": "LG、TSMCの供給不足を受けハイエンド基板・半導体パッケージング向けレーザー直接描画装置（LDI）を公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput"
+        },
+        {
+          "title": "世界初、3Dプリント製メタマテリアル人工骨の患者体内への移植手術に成功",
+          "source_url": "https://3dprintingindustry.com/news/gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis-253969/?utm_source=rss&utm_medium=rss&utm_campaign=gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis"
+        },
+        {
+          "title": "宇宙データセンター開発のスタークラウドが2億5000万ドルを調達",
+          "source_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
+        },
+        {
+          "title": "プードゥ・ロボティクス、2トン対応のAI搭載パレット搬送ロボット「PUDU MP2000」を発売",
+          "source_url": "https://www.engineering.com/pudu-robotics-launches-pudu-mp2000-pallet-robot/"
+        },
+        {
+          "title": "中国・杭州市で交通整理を行う「ロボット警察官」の本格実証テストが開始",
+          "source_url": "https://gigazine.net/news/20260821-supcon-traffic-police-robot-in-hangzhou/"
+        },
+        {
+          "title": "わずか約120円（0.60ポンド）の超格安マイコン上でPhotoshopを動作させる実験が話題に",
+          "source_url": "https://pointinthecloud.com/2026-08-19-144600.html"
+        },
+        {
+          "title": "マイクロソフト、Excel用の自然言語AI関数「=COPILOT」を公開からわずか1年でお蔵入りへ",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134594.html"
+        },
+        {
+          "title": "グーグル、Android 17にメモリ過剰使用アプリを自動強制終了するシステム制限を導入",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134666.html"
+        },
+        {
+          "title": "テスラ、屋根一体型太陽光パネル「ソーラー・ルーフ」の販売・製造を終了へ",
+          "source_url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued"
+        },
+        {
+          "title": "宇宙から太陽光を反射する「宇宙ミラー」計画が夜空の光害を急悪化させるとの研究結果",
+          "source_url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
         }
       ]
     }
