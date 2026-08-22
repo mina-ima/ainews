@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-15",
-      "stories": [
-        {
-          "title": "アリババ、「Qwen3.8-27B」のモデルウェイトを商用可能なApache 2.0で無償公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/"
-        },
-        {
-          "title": "Z.ai、事後学習の拡張のみで大幅に推論・防御力を強化した「GLM-5.3」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2132889.html"
-        },
-        {
-          "title": "オープンAI、PCの画面操作履歴をAIが文脈として記憶する「コンピューター・ヒストリー」を公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/"
-        },
-        {
-          "title": "グーグル、データを暗号化したままAI推論を行う「完全準同型暗号」の実用化を推進",
-          "source_url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/"
-        },
-        {
-          "title": "8BitDo、スマホをゲームボーイ風に変形させる折りたたみコントローラー「FlipPad」を発売",
-          "source_url": "https://www.androidpolice.com/the-8bitdo-flippad-turns-your-android-phone-into-a-game-boy/"
-        },
-        {
-          "title": "サイコロサイズの超小型デジカメ「LIGAR」、手ぶら感覚でマグネット装着撮影が可能に",
-          "source_url": "https://www.gizmodo.jp/article/ligar-review-2/"
-        },
-        {
-          "title": "インスタ360、既存の枠を超えた独創的な形状のレンズ交換式ミラーレスカメラを開発中と公表",
-          "source_url": "https://www.dpreview.com/news/insta360-confirms-its-working-on-two-surprising-mirrorless-cameras/"
-        },
-        {
-          "title": "グーグル、「Wear OS 7」でスマートウォッチ画面に触れず操作できる「片手ジェスチャーAPI」を開発者に開放",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2132794.html"
-        },
-        {
-          "title": "ディープシーク、完全プラグイン設計のAIエージェント基盤「DeepSeek Harness」を公開",
-          "source_url": "https://deepseek.com/harness/en/"
-        },
-        {
-          "title": "南海電鉄と日立、疑似量子「CMOSアニーリング」で乗務員計画作成を数カ月から1週間に短縮",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html"
-        },
-        {
-          "title": "LGエレクトロニクスとエヌビディア、人型ロボットおよびAIスマート工場基盤の共同開発で提携",
-          "source_url": "https://www.engineering.com/lg-and-nvidia-develop-humanoid-robot-platform/"
-        },
-        {
-          "title": "クアンタとクアンティニュアム、スケーラブルな量子コンピュータハードウェアの量産に向け協業",
-          "source_url": "https://www.engineering.com/quanta-and-quantinuum-develop-quantum-hardware/"
-        },
-        {
-          "title": "ファイアストーム・ラボ、米海軍艦艇上の移動コンテナ工場で1000個の部品と12機のドローンを洋上3Dプリント製造",
-          "source_url": "https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795/"
-        },
-        {
-          "title": "大気中の分子を吸い込んで推進力に変える「大気吸入型」人工衛星が超低軌道の常時維持に道",
-          "source_url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713"
-        },
-        {
-          "title": "NTTドコモ、スペースXの次世代衛星を活用し2028年度中にスマホ直接の通話・ブラウジングに対応へ",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2132800.html"
-        },
-        {
-          "title": "3Dシステムズ、米空軍の大型金属3Dプリンタ開発プロジェクトで追加900万ドルの契約を獲得",
-          "source_url": "https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803/"
-        },
-        {
-          "title": "水上でレゴのように自律合体して浮体構造物を形成するスマートロボット「フロートフォーム」が登場",
-          "source_url": "https://newatlas.com/robotics/floatform-robots-form-floating-structures/"
-        },
-        {
-          "title": "BMW、航続距離900km超を実現した次世代EV「ノイエ・クラッセ」第1弾を国内投入",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/080500039/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-16",
       "stories": [
         {
@@ -597,6 +520,87 @@
         {
           "title": "宇宙から太陽光を反射する「宇宙ミラー」計画が夜空の光害を急悪化させるとの研究結果",
           "source_url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "stories": [
+        {
+          "title": "インヘレント、科学論文の自律再現実験で大手AIを凌駕する研究特化AIエージェントを発表",
+          "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+        },
+        {
+          "title": "ディープシーク、画像認識に対応した軽量マルチモーダルモデル「DeepSeek-V4-Flash-Vision」を実験公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134780.html"
+        },
+        {
+          "title": "電子ペーパーと物理ボタンを備えたミニマルなハッカースマートウォッチ「Pebble Time 2」が復活",
+          "source_url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/"
+        },
+        {
+          "title": "50倍超望遠とAI鳥類自動追跡をポケットサイズに凝縮した小型カメラ「RocXZoom」が登場",
+          "source_url": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/"
+        },
+        {
+          "title": "SPARKLE、最大140W給電＆AC電源内蔵のコンパクトな4ポートUSB-Cドック「Power Dock Boost」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134653.html"
+        },
+        {
+          "title": "ラズベリーパイ（Raspberry Pi）純正タッチ液晶に高解像度な10インチ大型モデルが登場",
+          "source_url": "https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/"
+        },
+        {
+          "title": "硬い素材も力をいれずに切断・加工できるコードレス対応のペン型超音波カッターが登場",
+          "source_url": "https://www.gizmodo.jp/article/2608-costorypo-pendoracutter-review-1666843821-rfv/"
+        },
+        {
+          "title": "ESP32向けDockerコンテナを活用した高再現性ファームウェア開発環境が提案",
+          "source_url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/"
+        },
+        {
+          "title": "中国のロボットが100m走でウサイン・ボルト氏の世界記録を超える速度を記録",
+          "source_url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record"
+        },
+        {
+          "title": "ウェイモ、ロボタクシーのリアルタイムAI推論向けカスタムASICチップを独自開発",
+          "source_url": "https://gigazine.net/news/20260822-waymo-brain/"
+        },
+        {
+          "title": "エヌビディア、大手EDAベンダーと連携しAIエージェントによる半導体設計の自動化を強化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/"
+        },
+        {
+          "title": "ビシェイ、温度センサ内蔵可能な最大650W対応の高電力厚膜抵抗器「RPWA 650」を発表",
+          "source_url": "https://www.engineering.com/vishay-adds-650-w-thick-film-power-resistor-series/"
+        },
+        {
+          "title": "NTTやKDDIなど、次世代の低遅延・省電力光ネットワーク設計で国際標準規格を確立",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2134671.html"
+        },
+        {
+          "title": "高レベル放射性廃棄物を実用的な燃料や医療用放射性同位体へ再資源化する新プロセスが開発",
+          "source_url": "https://newatlas.com/energy/new-process-spins-nuclear-waste-into-radioactive-gold/"
+        },
+        {
+          "title": "プラスチック不使用の菌糸体（キノコ）レザー、工業スケールでの連続シート製造に成功",
+          "source_url": "https://newatlas.com/materials/vtt-practical-mushroom-leather/"
+        },
+        {
+          "title": "BYD、新型軽EV「ラッコ」の車体骨格に2GPa級超高張力鋼板を7割以上採用し安全性を強化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/081900011/"
+        },
+        {
+          "title": "生体組織の感触や物理応答を再現する医療実習用3Dプリント歯科学習モデルが開発",
+          "source_url": "https://3dprintingindustry.com/news/fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue-253939/?utm_source=rss&utm_medium=rss&utm_campaign=fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue"
+        },
+        {
+          "title": "プルーシャ、大型・マルチツールヘッド3Dプリンター「Prusa XL+」など次世代機ラインナップを発表",
+          "source_url": "https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981/?utm_source=rss&utm_medium=rss&utm_campaign=prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths"
+        },
+        {
+          "title": "遺伝子組み換えしたレタスを用いて植物体内で「動物性肉タンパク質」の生成に成功",
+          "source_url": "https://gigazine.net/news/20260822-meat-protein-grown-lettuce-plant/"
         }
       ]
     }
