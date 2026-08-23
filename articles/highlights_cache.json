@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-16",
-      "stories": [
-        {
-          "title": "AIコードエージェント「Codex」による自動最適化で、GPUカーネルの実行速度を232倍に高速化",
-          "source_url": "https://sankalp.bearblog.dev/autoresearch/"
-        },
-        {
-          "title": "オープンAIとジョニー・アイブ氏、ホッケーパック型のスマートホーム向けAIハードウェアを開発中",
-          "source_url": "https://newatlas.com/ai-humanoids/openai-hockey-puck-smart-home/"
-        },
-        {
-          "title": "アンスロピック、EU AI法に対応するためClaude生成テキストへの「電子水透かし」技術を標準化",
-          "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-        },
-        {
-          "title": "蚊を自動でレーザー照準・撃墜する個人向け超小型防空システムが1,000ドルで一般発売",
-          "source_url": "https://www.tomshardware.com/peripherals/futuristic-mosquito-zapping-laser-now-available-to-buy-video-shows-device-in-action-tiny-device-shoots-down-bugs-like-a-personal-air-defense-system-but-costs-usd1-000"
-        },
-        {
-          "title": "一見ただのペンダント？データとスタイルを融合させたネックレス型USBメモリ「パフ（Puff）」",
-          "source_url": "https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/"
-        },
-        {
-          "title": "送信機に電子ペーパー画面を搭載した高音質ワイヤレスマイク「インスタ360 マイクプロ」が登場",
-          "source_url": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/"
-        },
-        {
-          "title": "世界最軽量45gの超音波式風向風速センサー「アルサ・エヴォ（ULSA EVO）」が予約開始",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2131152.html"
-        },
-        {
-          "title": "釘を刺しても発火しない！厚さわずか5.5mmの超安全・薄型モバイルバッテリーが登場",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-slimplatebank-additional-965649/"
-        },
-        {
-          "title": "オムロンとエヌビディア、AIエージェントを活用した半導体パッケージ基板の3D検査技術を共同開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11946/"
-        },
-        {
-          "title": "FPGA上に486クラスのCPUとFPUを完全実装したオープンソースプロジェクト「z486」が登場",
-          "source_url": "https://nand2mario.github.io/posts/2026/z486/"
-        },
-        {
-          "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」が話題に",
-          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-        },
-        {
-          "title": "AIが実用的な人工ウイルスをゼロから自動設計することに成功、バイオ安全保障議論が加速",
-          "source_url": "https://spectrum.ieee.org/ai-designed-virus"
-        },
-        {
-          "title": "電子回路の敵「熱雑音」を計算に変換する「熱力学コンピューティング」の原理検証が進展",
-          "source_url": "https://gigazine.net/news/20260815-thermodynamic-computing/"
-        },
-        {
-          "title": "超小型EVトラック「テロ MT1」が大型ピックアップを超える牽引性能を実証デモ",
-          "source_url": "https://newatlas.com/automotive/telo-mt1-towing-capacity/"
-        },
-        {
-          "title": "大型3Dプリンターでキャンピングカーの内装を一元出力、従来の木材構造より680kg軽量化",
-          "source_url": "https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817/"
-        },
-        {
-          "title": "Linux業界を長年苦しめた25年前の動画圧縮関連特許が失効、オープンソース開発が自由化へ",
-          "source_url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/"
-        },
-        {
-          "title": "コンテナ1つに発射インフラを収めた移動型ロケット打ち上げシステム「GHOST」が登場",
-          "source_url": "https://newatlas.com/military/ghost-gives-rocket-launch-sites-flat-pack-treatment/"
-        },
-        {
-          "title": "日産自動車、中国メーカーに倣い新車開発期間を50カ月から30〜37カ月へ大幅短縮",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/073100033/"
-        },
-        {
-          "title": "複数の主要データベースを共通画面で一括操作できるオープンソース管理ツール「DbGate」が登場",
-          "source_url": "https://gigazine.net/news/20260815-dbgate/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-17",
       "stories": [
         {
@@ -601,6 +520,75 @@
         {
           "title": "遺伝子組み換えしたレタスを用いて植物体内で「動物性肉タンパク質」の生成に成功",
           "source_url": "https://gigazine.net/news/20260822-meat-protein-grown-lettuce-plant/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "stories": [
+        {
+          "title": "オープンAIが最上位モデル「GPT-5.6 Sol」のAPI料金を最大33％値下げ、企業導入を強力推進",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/"
+        },
+        {
+          "title": "アンソロピックが最上位AI「クロード・ミュトス 5」をセキュリティ脆弱性検出用に公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/"
+        },
+        {
+          "title": "オープンモデル「Gemma 4 31B」が特定財務タスクで高級モデルと同等の性能を40分の1のコストで実現",
+          "source_url": "https://gigazine.net/news/20260823-gemma-4-benchmark/"
+        },
+        {
+          "title": "米司法省とTikTokが児童プライバシー違反を巡る訴訟で4億ドルの過去最大規模の和解金に合意",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/23/2000000701/"
+        },
+        {
+          "title": "分解・修理が容易なモジュール構造スマートフォン「Fairphone 6+」が待望の米国正式発売を開始",
+          "source_url": "https://newatlas.com/mobile-technology/fairphone-6-plus-usa-launch/"
+        },
+        {
+          "title": "アナログがシュプリームとコラボした24金メッキ＆レッドカラーの高級限定版「Analogue Pocket」を発表",
+          "source_url": "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/"
+        },
+        {
+          "title": "エイスースが文字の可読性と画質を大幅向上させた新型サブピクセル構造の有機ELモニターを発表",
+          "source_url": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/"
+        },
+        {
+          "title": "フィーオが単結晶銅銀メッキ線とアルミCNC筐体を採用した高品質USB-Cオーディオケーブル「LINK-TC2L」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2134404.html"
+        },
+        {
+          "title": "エッチドがNVIDIAのGPUに対抗するTransformer専用ASIC「Sohu」の比較結果を提示",
+          "source_url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/"
+        },
+        {
+          "title": "ミシックが超低消費電力なアナログIn-Memoryコンピューティング構造の最新技術を公開",
+          "source_url": "https://www.mythic.ai"
+        },
+        {
+          "title": "自作ファブ環境でLED発光素子の物理製作に成功、個人レベルの電子実装・半導体製造が開花",
+          "source_url": "https://hackaday.com/2026/08/23/making-leds-in-the-home-fab/"
+        },
+        {
+          "title": "AIエージェントの内部処理とトークン消費量を視覚的に追跡できるOSSツール「Langfuse」が登場",
+          "source_url": "https://gigazine.net/news/20260823-langfuse/"
+        },
+        {
+          "title": "日本政府と民間ファンドが核融合および資源再活用スタートアップに1億2500万ドルを共同支援",
+          "source_url": "https://asia.nikkei.com/business/startups/japan-backs-fusion-recycling-startups-in-125m-public-private-funding"
+        },
+        {
+          "title": "米陸軍がショットガン付き自律防衛砲塔を載せた自動運転トラックの実弾迎撃テストを実施",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range"
+        },
+        {
+          "title": "中国が硬い岩盤の爆破と掘削を同時進行できる巨大トンネル掘削機「Xianglong」を公開",
+          "source_url": "https://newatlas.com/engineering/china-tunneling-machine-bores-and-blasts/"
+        },
+        {
+          "title": "生成AIが創案した新薬の特許権や発見者の栄誉を人間とAIのどちらに帰属させるかの議論が加熱",
+          "source_url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
         }
       ]
     }
