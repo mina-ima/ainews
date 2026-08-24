@@ -15,7 +15,7 @@ jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4
 
       # 保険 cron の二重実行を防ぐ。当日分が既にある schedule 実行は以降を全てスキップ。
       # workflow_dispatch（手動）は強制再生成できるよう常に実行する。
@@ -30,7 +30,7 @@ jobs:
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - uses: astral-sh/setup-uv@v4
+      - uses: astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a  # v4
         if: steps.guard.outputs.skip != 'true'
 
       - name: Install dependencies

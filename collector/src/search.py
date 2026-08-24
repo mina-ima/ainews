@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import asyncio
+import json
+import zlib
 from dataclasses import dataclass
 
 import feedparser
@@ -10,6 +12,12 @@ import httpx
 
 HN_TOP_URL = "https://hacker-news.firebaseio.com/v0/topstories.json"
 HN_ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{}.json"
+
+# レスポンス受信量の上限。フィード側が無制限に返しても runner のメモリを食い潰さない
+# （HNアイテムは最大100件を同時保持するので小さめに）
+MAX_FEED_BYTES = 2 * 1024 * 1024
+MAX_JSON_BYTES = 256 * 1024
+MAX_ITEM_BYTES = 64 * 1024
 
 AI_KEYWORDS = {
     "ai", "artificial intelligence", "llm", "gpt", "claude", "gemini",
@@ -245,19 +253,58 @@ def _is_tech_related(title: str) -> bool:
     )
 
 
+def _decompress_bounded(raw: bytes, encoding: str, max_bytes: int) -> bytes:
+    """出力長を max_bytes で縛って展開する。未対応の方式はそのまま返す
+    （呼び出し側のパースが失敗し、そのフィードはスキップされる）"""
+    enc = encoding.lower().strip()
+    try:
+        if enc in ("gzip", "x-gzip"):
+            return zlib.decompressobj(16 + zlib.MAX_WBITS).decompress(raw, max_bytes)
+        if enc == "deflate":
+            return zlib.decompressobj().decompress(raw, max_bytes)
+    except zlib.error:
+        return b""
+    return raw
+
+
+async def _get_bounded(
+    client: httpx.AsyncClient, url: str, max_bytes: int, timeout: float = 15.0
+) -> bytes:
+    """max_bytes に達した時点で受信を打ち切る（全量をバッファしない）。
+
+    aiter_bytes ではなく aiter_raw を使うのは、前者だと httpx が「展開してから」
+    チャンクを渡すため、圧縮爆弾がこちらの上限判定より先にメモリを埋めるから。
+    展開は出力長を縛って自分で行う（ピークは高々 max_bytes の2倍）。
+    """
+    buf = bytearray()
+    async with client.stream("GET", url, timeout=timeout) as resp:
+        resp.raise_for_status()
+        encoding = resp.headers.get("content-encoding", "")
+        async for chunk in resp.aiter_raw():
+            buf += chunk[: max_bytes - len(buf)]
+            if len(buf) >= max_bytes:
+                break
+    return _decompress_bounded(bytes(buf), encoding, max_bytes)
+
+
 async def fetch_hackernews(client: httpx.AsyncClient, limit: int = 40) -> list[NewsItem]:
     """Hacker News トップストーリーからテクノロジー関連記事を取得"""
-    resp = await client.get(HN_TOP_URL)
-    story_ids = resp.json()[:200]
+    story_ids = json.loads(await _get_bounded(client, HN_TOP_URL, MAX_JSON_BYTES))[:200]
 
     items: list[NewsItem] = []
-    tasks = [client.get(HN_ITEM_URL.format(sid)) for sid in story_ids[:100]]
+    tasks = [
+        _get_bounded(client, HN_ITEM_URL.format(sid), MAX_ITEM_BYTES)
+        for sid in story_ids[:100]
+    ]
     results = await asyncio.gather(*tasks, return_exceptions=True)
 
     for r in results:
-        if isinstance(r, Exception):
+        if isinstance(r, BaseException):
             continue
-        story = r.json()
+        try:
+            story = json.loads(r)
+        except ValueError:
+            continue
         if not story or story.get("type") != "story":
             continue
         title = story.get("title", "")
@@ -276,8 +323,9 @@ async def fetch_rss_feeds(client: httpx.AsyncClient, limit_per_feed: int = 5) ->
 
     for source_name, feed_url in RSS_FEEDS:
         try:
-            resp = await client.get(feed_url, timeout=15.0)
-            feed = feedparser.parse(resp.text)
+            feed = feedparser.parse(
+                await _get_bounded(client, feed_url, MAX_FEED_BYTES)
+            )
             for entry in feed.entries[:limit_per_feed]:
                 title = entry.get("title", "")
                 url = entry.get("link", "")
@@ -306,8 +354,9 @@ async def fetch_pcb_news(client: httpx.AsyncClient, limit_per_feed: int = 10) ->
 
     for source_name, feed_url in PCB_RSS_FEEDS:
         try:
-            resp = await client.get(feed_url, timeout=15.0)
-            feed = feedparser.parse(resp.text)
+            feed = feedparser.parse(
+                await _get_bounded(client, feed_url, MAX_FEED_BYTES)
+            )
             for entry in feed.entries[:limit_per_feed]:
                 title = entry.get("title", "")
                 url = entry.get("link", "")
@@ -333,8 +382,9 @@ async def fetch_gadget_news(client: httpx.AsyncClient, limit_per_feed: int = 8) 
 
     for source_name, feed_url in GADGET_RSS_FEEDS:
         try:
-            resp = await client.get(feed_url, timeout=15.0)
-            feed = feedparser.parse(resp.text)
+            feed = feedparser.parse(
+                await _get_bounded(client, feed_url, MAX_FEED_BYTES)
+            )
             for entry in feed.entries[:limit_per_feed]:
                 title = entry.get("title", "")
                 url = entry.get("link", "")
@@ -371,8 +421,9 @@ async def fetch_youtube_videos(
 
     for source_name, feed_url in YOUTUBE_RSS_FEEDS:
         try:
-            resp = await client.get(feed_url, timeout=15.0)
-            feed = feedparser.parse(resp.text)
+            feed = feedparser.parse(
+                await _get_bounded(client, feed_url, MAX_FEED_BYTES)
+            )
             for entry in feed.entries[:limit_per_feed]:
                 # 公開日チェック（published_parsed は struct_time、UTC想定）
                 pub = entry.get("published_parsed")
@@ -413,6 +464,8 @@ async def collect_news() -> list[NewsItem]:
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/124.0.0.0 Safari/537.36"
             ),
+            # 圧縮を受け取らない: 展開後サイズが上限を超える増幅を防ぐ
+            "Accept-Encoding": "identity",
         },
         follow_redirects=True,
     ) as client:

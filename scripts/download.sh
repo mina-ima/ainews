@@ -4,7 +4,9 @@
 REPO_DIR="$HOME/AI/ainews"
 OBSIDIAN_DIR="$HOME/Obsidian/30_Sources"
 OBSIDIAN_ATTACHMENTS="$HOME/Obsidian/_attachments"
-LOG="/tmp/ainews-download.log"
+# 共有の /tmp は他ユーザーが同名の symlink を先に置ける（追記先を乗っ取られる）
+LOG="$HOME/Library/Logs/ainews-download.log"
+mkdir -p "$(dirname "$LOG")"
 
 echo "$(date): ainews download start" >> "$LOG"
 

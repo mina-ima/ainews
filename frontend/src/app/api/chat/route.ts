@@ -26,6 +26,72 @@ const GEMINI_API_BASE = "https://generativelanguage.googleapis.com/v1beta/models
 const GEMINI_MODEL = process.env.GEMINI_MODEL ?? "gemini-2.5-flash";
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
+// このルートはサーバー側の Gemini キーで課金される。認証がないので
+// 「同一オリジンからのみ」「IPあたり毎分N回」「ボディNバイトまで」で入口を絞る
+const MAX_BODY_BYTES = 32 * 1024;
+const RATE_LIMIT = 10;
+const RATE_WINDOW_MS = 60_000;
+
+// ponytail: プロセス内カウンタ。サーバレスはインスタンスごとに独立なので実効上限は
+// 「インスタンス数 × RATE_LIMIT」。厳密に絞るなら Vercel Firewall のレート制限か KV へ
+const hits = new Map<string, { count: number; reset: number }>();
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now();
+  const entry = hits.get(ip);
+  if (!entry || now > entry.reset) {
+    if (hits.size > 10_000) {
+      for (const [k, v] of hits) if (now > v.reset) hits.delete(k);
+    }
+    hits.set(ip, { count: 1, reset: now + RATE_WINDOW_MS });
+    return false;
+  }
+  entry.count++;
+  return entry.count > RATE_LIMIT;
+}
+
+// 受信しながらバイト数を数え、上限を超えた時点で打ち切る。
+// Content-Length は自己申告なので当てにしない（chunked では付かない）
+async function readBounded(req: Request, maxBytes: number): Promise<string | null> {
+  if (!req.body) return null;
+
+  const reader = req.body.getReader();
+  const chunks: Uint8Array[] = [];
+  let total = 0;
+
+  for (;;) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    total += value.byteLength;
+    if (total > maxBytes) {
+      await reader.cancel();
+      return null;
+    }
+    chunks.push(value);
+  }
+
+  const merged = new Uint8Array(total);
+  let offset = 0;
+  for (const chunk of chunks) {
+    merged.set(chunk, offset);
+    offset += chunk.byteLength;
+  }
+  return new TextDecoder().decode(merged);
+}
+
+// ブラウザは同一オリジンの POST にも Origin を付けるため、欠落＝ブラウザ外からの呼び出し。
+// ただしヘッダは詐称できるので、これ単体は入口の門であって認証ではない
+function isSameOrigin(req: Request): boolean {
+  const origin = req.headers.get("origin");
+  const host = req.headers.get("host");
+  if (!origin || !host) return false;
+  try {
+    return new URL(origin).host === host;
+  } catch {
+    return false;
+  }
+}
+
 // Build context from articles (date and previous 6)
 async function buildContext(date: string): Promise<string> {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
@@ -122,6 +188,28 @@ async function findBestGeminiModel(apiKey: string): Promise<string> {
 
 export async function POST(req: Request) {
   try {
+    // サーバー構成を無関係な相手に晒さないよう、入口の門から先に通す
+    if (!isSameOrigin(req)) {
+      return new Response(
+        JSON.stringify({ error: "許可されていないリクエスト元です" }),
+        { status: 403, headers: { "Content-Type": "application/json" } }
+      );
+    }
+
+    const ip = (req.headers.get("x-forwarded-for") ?? "unknown").split(",")[0].trim();
+    if (isRateLimited(ip)) {
+      return new Response(
+        JSON.stringify({ error: "リクエストが多すぎます。しばらく待ってから試してください" }),
+        {
+          status: 429,
+          headers: {
+            "Content-Type": "application/json",
+            "Retry-After": String(RATE_WINDOW_MS / 1000),
+          },
+        }
+      );
+    }
+
     if (!GEMINI_API_KEY) {
       return new Response(
         JSON.stringify({
@@ -131,7 +219,23 @@ export async function POST(req: Request) {
       );
     }
 
-    const body: ChatRequest = await req.json();
+    const raw = await readBounded(req, MAX_BODY_BYTES);
+    if (raw === null) {
+      return new Response(
+        JSON.stringify({ error: "リクエストが大きすぎます" }),
+        { status: 413, headers: { "Content-Type": "application/json" } }
+      );
+    }
+
+    let body: ChatRequest;
+    try {
+      body = JSON.parse(raw);
+    } catch {
+      return new Response(
+        JSON.stringify({ error: "無効なリクエスト形式です" }),
+        { status: 400, headers: { "Content-Type": "application/json" } }
+      );
+    }
     const { date, messages } = body;
 
     // Validate date format
@@ -217,7 +321,13 @@ export async function POST(req: Request) {
           }
         );
 
-        if (response.status === 404 || response.status === 429) {
+        // 429（クォータ枯渇）で別モデルを探して再試行すると、枯渇時ほど
+        // 呼び出しが増える。モデルが消えた 404 のときだけ探し直す
+        if (response.status === 429) {
+          break;
+        }
+
+        if (response.status === 404) {
           if (attempt === 0) {
             // Try to find a better model
             model = await findBestGeminiModel(GEMINI_API_KEY);
