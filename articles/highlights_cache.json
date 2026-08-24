@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-17",
-      "stories": [
-        {
-          "title": "高度な数学計算とプログラム実装を連携させる専門AIエージェント「マスコード（MathCode）」が登場",
-          "source_url": "https://math-ai-org.github.io/mathcode/"
-        },
-        {
-          "title": "ソニー（Sony）、6680万画素の超高画質モンスター一眼カメラ「α7R VI」を発表",
-          "source_url": "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review"
-        },
-        {
-          "title": "サンドバー（Sandbar）、音声操作と文字起こしに特化した指輪型AIウェアラブル端末を公開",
-          "source_url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/"
-        },
-        {
-          "title": "テラモウ（TerraMow）、AIカメラと自動マッピング機能を搭載した次世代スマートロボット草刈り機「V1000」を発表",
-          "source_url": "https://www.wired.com/review/terramow-v1000/"
-        },
-        {
-          "title": "カンマ・エーアイ（comma.ai）、オープンソースファームウェアで動作する外付けGPUドック「チェストナット（Chestnut）」を発表",
-          "source_url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/"
-        },
-        {
-          "title": "サイバーパワー（CyberPower）、コンパクトかつ雷サージ保護機能を備えた格安無停電電源装置「ST425JP」を発表",
-          "source_url": "https://gigazine.net/news/20260816-cyberpower-st425jp/"
-        },
-        {
-          "title": "グーグル（Google）、AMDと連携してCPUコア統合の次世代AIチップ「TPU」を設計か",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reportedly-taps-amd-to-design-next-generation-tpu-hybrid-ai-asic-could-integrate-on-package-cpu-cores-for-reinforcement-learning"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）、スペースエックス（SpaceX）へ210億ドル規模の出資を開示",
-          "source_url": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html"
-        },
-        {
-          "title": "スペースエックス（SpaceX）、AIコーディング支援ツール開発のカーソル（Cursor）買収を正式完了",
-          "source_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
-        },
-        {
-          "title": "超音波の音圧で推力を生み出す無音の「音響駆動型マイクロドローン」が開発される",
-          "source_url": "https://www.tomshardware.com/3d-printing/3d-printed-sound-powered-jet-engines-propel-micro-drones-fliers-are-completely-silent-researchers-use-ultrasonic-frequencies-to-drive-12-000-rpm-silent-hovering-fliers"
-        },
-        {
-          "title": "岩石への通電で天然水素の生成を劇的に加速させる技術「刺激型地質水素」が登場",
-          "source_url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen"
-        },
-        {
-          "title": "アルツハイマー病の症状を劇的に改善・反転させる革新的な外科手術手法が脚光",
-          "source_url": "https://www.nature.com/articles/d41586-026-02448-x"
-        },
-        {
-          "title": "エージェント型AI（Agentic AI）が電子回路およびハードウェア設計の現場へ浸透開始",
-          "source_url": "https://www.engineering.com/agentic-ai-the-next-step-for-hardware-engineering/"
-        },
-        {
-          "title": "3Dプリンターの積層強度を劇的に高める「レーザー照射層補強」工法が開発される",
-          "source_url": "https://hackaday.com/2026/08/16/laser-layers-for-almost-isotropicly-strong-prints/"
-        },
-        {
-          "title": "AIを活用し、25万行におよぶ巨大なレガシー気象シミュレーションコードをGPU環境へ自動移植することに成功",
-          "source_url": "https://arxiv.org/abs/2608.13122"
-        },
-        {
-          "title": "レイルウェイ（Railway）、AI時代のクラウド基盤拡大に向けて1億ドルの資金調達を実施",
-          "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
-        },
-        {
-          "title": "メタ（Meta）のAI音声コーデックを活用し、2.9MBの楽曲を1000分の1に超圧縮してQRコード印刷・再生に成功",
-          "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes"
-        }
-      ]
-    },
-    {
       "date": "2026-08-18",
       "stories": [
         {
@@ -589,6 +516,83 @@
         {
           "title": "生成AIが創案した新薬の特許権や発見者の栄誉を人間とAIのどちらに帰属させるかの議論が加熱",
           "source_url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "stories": [
+        {
+          "title": "8GBのVRAMで350億パラメータの巨大AIモデルを駆動する「フリートークン（FreeToken）」が公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134988.html"
+        },
+        {
+          "title": "コンテキスト100万トークン対応で超高速処理、謎の匿名AIモデル「オックス・アルファ（Ox Alpha）」が無料公開",
+          "source_url": "https://gigazine.net/news/20260824-ox-alpha/"
+        },
+        {
+          "title": "エルジー（LG）、キャスター付き・平置き対応の32型4Kコードレススマートモニター「スタンバイミー2 マックス」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2135147.html"
+        },
+        {
+          "title": "エイスース（ASUS）、普通の自転車を電動アシスト化する変換キット「オキシス（oxiis）E250G1」を発表",
+          "source_url": "https://www.gizmodo.jp/article/asus-oxiis-e250g1/"
+        },
+        {
+          "title": "ポケットに入る極小サイズで強力噴射、スパイサー（SPICERR）が「ポケッタブルジェットファン SJU-1」を発売",
+          "source_url": "https://www.gizmodo.jp/article/303542-2608-amazon-spicerrsju1-urc/"
+        },
+        {
+          "title": "タコやエビをまるごとプレス！サンコーが「復刻版 プレスでパリパリなんでもせんべいメーカー2」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134480.html"
+        },
+        {
+          "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」の実力が脚光",
+          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
+        },
+        {
+          "title": "米FDA、40歳から測定可能なアルツハイマー病の早期血液診断テストを初承認",
+          "source_url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
+        },
+        {
+          "title": "アイビーエム（IBM）、同一コアでArmとz/Architectureをネイティブ実行する2nmメインフレーム用チップを発表",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores"
+        },
+        {
+          "title": "エヌビディア（NVIDIA）とスペースX（SpaceX）、宇宙空間に最適化した軌道上AIサーバーを共同開発",
+          "source_url": "https://twitter.com/elonmusk/status/2091939113008238838"
+        },
+        {
+          "title": "SKハイニックス（SK Hynix）、次世代AIメモリ「HBM5」の積層限界と実装上の課題を明らかに",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
+        },
+        {
+          "title": "エレコム（ELECOM）、ファンレス設計の10GbE対応5ポート小型スイッチ「EHC-X05MA-HB」を発売",
+          "source_url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2134596.html"
+        },
+        {
+          "title": "エヌビディア（NVIDIA）、大手顧客に対しAIサーバーおよび次世代チップの15％以上の値上げを予告",
+          "source_url": "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/"
+        },
+        {
+          "title": "中国の二足歩行ロボ「天工 Omni」、人型ロボット運動会の400m走で驚異の45秒66を叩き出し優勝",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/"
+        },
+        {
+          "title": "欧州ハイパフォーマンス・コンピューティング共同事業（EuroHPC）、量子技術へ1億1900万ユーロの大型支援を開始",
+          "source_url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/"
+        },
+        {
+          "title": "日本政府、AIを活用して材料開発スピードを10倍に高速化する国家推進プロジェクトを開始",
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold"
+        },
+        {
+          "title": "NTTドコモと三菱地所、丸の内エリアで街の景観に溶け込む5Gミリ波基地局を共同開発",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2135078.html"
+        },
+        {
+          "title": "シャープ、狭小・複雑な屋根にも隙間なく設置できる住宅用単結晶太陽光モジュール「Full Fit」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134967.html"
         }
       ]
     }
