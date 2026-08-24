@@ -1,139 +1,6 @@
 {
-  "updated_at": "2026-08-17T08:15:14.666485+09:00",
+  "updated_at": "2026-08-24T09:36:02.873447+09:00",
   "items": [
-    {
-      "title": "国産AI開発「ノエトラ」、NVIDIAのGPU2万7500基で「実世界モデル」構築へ",
-      "category": "AI研究",
-      "date": "2026-07-18",
-      "source_url": "https://www.engineering.com/nvidia-and-noetra-plan-vera-rubin-ai-factory-in-japan/",
-      "importance": 5
-    },
-    {
-      "title": "OpenAIの「GPT-5.6 Sol」でファイルが勝手に削除される不具合、サンドボックスなしのフルアクセスで発生か",
-      "category": "LLM・生成AI",
-      "date": "2026-07-18",
-      "source_url": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
-      "importance": 5
-    },
-    {
-      "title": "業界最軽量クラスのARグラス「XREAL xbx a01+」実機レビュー、エントリーモデルの決定版",
-      "category": "ガジェット・民生機器",
-      "date": "2026-07-18",
-      "source_url": "https://www.gizmodo.jp/article/x-by-xreal-a01-review-ar-glasses-that-are-light-on-your-face-and-wallet/",
-      "importance": 4
-    },
-    {
-      "title": "ケイデンス、プリント基板および先進パッケージ設計向け「AIスーパーエージェント」を導入",
-      "category": "プリント基板・電子実装",
-      "date": "2026-07-18",
-      "source_url": "https://semiengineering.com/chip-industry-week-in-review-147/",
-      "importance": 5
-    },
-    {
-      "title": "コンコルディア大学、平らな金型から湾曲した風力発電ブレードを製造する「逆4Dプリント」技術を開発",
-      "category": "3Dプリンティング・製造",
-      "date": "2026-07-18",
-      "source_url": "https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156/?utm_source=rss&utm_medium=rss&utm_campaign=concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds",
-      "importance": 4
-    },
-    {
-      "title": "次世代AI「GPT-5.6」がプロンプトのみで凸最適化における30年の技術的ギャップを解消",
-      "category": "LLM・生成AI",
-      "date": "2026-07-19",
-      "source_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "importance": 5
-    },
-    {
-      "title": "スマホのローカル環境で直接動作する270億パラメータの超軽量LLM「Bonsai 27B」が登場",
-      "category": "LLM・生成AI",
-      "date": "2026-07-19",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/",
-      "importance": 4
-    },
-    {
-      "title": "Googleが「NotebookLM」を「Gemini Notebook」に改称、エコシステム統合とデータ分析を強化",
-      "category": "AIプロダクト",
-      "date": "2026-07-19",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "importance": 4
-    },
-    {
-      "title": "超高速回転により人間の目やカメラから「ほぼ透明」に見えるクモ型ドローンが開発",
-      "category": "ロボティクス・自動化",
-      "date": "2026-07-19",
-      "source_url": "https://hackaday.com/2026/07/18/spidery-drone-goes-near-invisible-by-spinning-really-really-fast/",
-      "importance": 4
-    },
-    {
-      "title": "NVIDIAの次世代「RTX 50 Super」GPU、GDDR7メモリの価格高騰により発売延期の危機か",
-      "category": "半導体・チップ",
-      "date": "2026-07-19",
-      "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-50-super-gpus-are-reportedly-ready-but-stuck-in-limbo-due-to-excessive-gddr7-pricing-3gb-gddr7-module-costs-triple-the-price-of-2gb",
-      "importance": 4
-    },
-    {
-      "title": "世界初の「超合金」：耐火ハイエントロピー合金の新製法が確立",
-      "category": "材料・ナノテク",
-      "date": "2026-07-20",
-      "source_url": "https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/",
-      "importance": 4
-    },
-    {
-      "title": "ハギング・フェイスへのAI主導サイバー攻撃、防御にオープンウェイトモデル「GLM 5.2」を採用し解決",
-      "category": "AIプロダクト",
-      "date": "2026-07-21",
-      "source_url": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
-      "importance": 5
-    },
-    {
-      "title": "アリババ、2.4兆パラメータの超巨大モデル「Qwen 3.8」のオープンウェイト公開を予告",
-      "category": "LLM・生成AI",
-      "date": "2026-07-21",
-      "source_url": "https://pc.watch.impress.co.jp/docs/news/2126345.html",
-      "importance": 5
-    },
-    {
-      "title": "グーグル、AIモデル「Gemini」をシリコンに直接焼き込んだ革新的AIチップを開発中",
-      "category": "半導体・チップ",
-      "date": "2026-07-21",
-      "source_url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon",
-      "importance": 5
-    },
-    {
-      "title": "高濃度二酸化炭素の吸入により、脳内からアルツハイマー病の原因タンパク質が減少することが判明",
-      "category": "医療・バイオ",
-      "date": "2026-07-21",
-      "source_url": "https://www.newscientist.com/article/2580471-inhaling-high-dose-co2-clears-alzheimers-proteins-from-the-brain/",
-      "importance": 4
-    },
-    {
-      "title": "グーグル、高速モデル「Gemini 3.6 Flash」およびセキュリティ特化型を発表",
-      "category": "LLM・生成AI",
-      "date": "2026-07-22",
-      "source_url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "importance": 5
-    },
-    {
-      "title": "アリババ、リッチな表現力を持つ画像生成モデル「Qwen-Image-3.0」を公開",
-      "category": "LLM・生成AI",
-      "date": "2026-07-22",
-      "source_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "importance": 4
-    },
-    {
-      "title": "オープンAI、AIエージェントのテスト中に起きた予期せぬインシデントを公表",
-      "category": "LLM・生成AI",
-      "date": "2026-07-23",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "importance": 5
-    },
-    {
-      "title": "過冷却技術により凍結させず保存した臓器の移植に成功、時間の壁を突破",
-      "category": "医療・バイオ",
-      "date": "2026-07-24",
-      "source_url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-      "importance": 5
-    },
     {
       "title": "Anthropicが新AIモデル「Claude Opus 5」を発表、Fable 5級の性能を半額で提供",
       "category": "LLM・生成AI",
@@ -252,6 +119,83 @@
       "date": "2026-08-12",
       "source_url": "https://cactuscompute.com/needle",
       "importance": 5
+    },
+    {
+      "title": "南海電鉄と日立、疑似量子「CMOSアニーリング」で乗務員計画作成を数カ月から1週間に短縮",
+      "category": "量子コンピューティング",
+      "date": "2026-08-15",
+      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+      "importance": 4
+    },
+    {
+      "title": "BMW、航続距離900km超を実現した次世代EV「ノイエ・クラッセ」第1弾を国内投入",
+      "category": "エネルギー・環境技術",
+      "date": "2026-08-15",
+      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/080500039/",
+      "importance": 3
+    },
+    {
+      "title": "AIコードエージェント「Codex」による自動最適化で、GPUカーネルの実行速度を232倍に高速化",
+      "category": "AI研究",
+      "date": "2026-08-16",
+      "source_url": "https://sankalp.bearblog.dev/autoresearch/",
+      "importance": 5
+    },
+    {
+      "title": "アンスロピック、EU AI法に対応するためClaude生成テキストへの「電子水透かし」技術を標準化",
+      "category": "AI規制・政策",
+      "date": "2026-08-16",
+      "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "importance": 4
+    },
+    {
+      "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」が話題に",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-16",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 5
+    },
+    {
+      "title": "AIが実用的な人工ウイルスをゼロから自動設計することに成功、バイオ安全保障議論が加速",
+      "category": "医療・バイオ",
+      "date": "2026-08-16",
+      "source_url": "https://spectrum.ieee.org/ai-designed-virus",
+      "importance": 5
+    },
+    {
+      "title": "複数の主要データベースを共通画面で一括操作できるオープンソース管理ツール「DbGate」が登場",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-16",
+      "source_url": "https://gigazine.net/news/20260815-dbgate/",
+      "importance": 4
+    },
+    {
+      "title": "岩石への通電で天然水素の生成を劇的に加速させる技術「刺激型地質水素」が登場",
+      "category": "エネルギー・環境技術",
+      "date": "2026-08-17",
+      "source_url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "importance": 5
+    },
+    {
+      "title": "アルツハイマー病の症状を劇的に改善・反転させる革新的な外科手術手法が脚光",
+      "category": "医療・バイオ",
+      "date": "2026-08-17",
+      "source_url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "importance": 5
+    },
+    {
+      "title": "エージェント型AI（Agentic AI）が電子回路およびハードウェア設計の現場へ浸透開始",
+      "category": "プリント基板・電子実装",
+      "date": "2026-08-17",
+      "source_url": "https://www.engineering.com/agentic-ai-the-next-step-for-hardware-engineering/",
+      "importance": 4
+    },
+    {
+      "title": "メタ（Meta）のAI音声コーデックを活用し、2.9MBの楽曲を1000分の1に超圧縮してQRコード印刷・再生に成功",
+      "category": "その他先端技術",
+      "date": "2026-08-17",
+      "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
+      "importance": 4
     }
   ]
 }
