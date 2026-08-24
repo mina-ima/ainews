@@ -1,6 +1,12 @@
 "use client";
 
-import { useEffect, useRef, useState, useCallback } from "react";
+import {
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+  useSyncExternalStore,
+} from "react";
 
 interface ChatMessage {
   role: "user" | "assistant";
@@ -54,17 +60,72 @@ interface SpeechRecognition extends EventTarget {
 
 const STORAGE_KEY = "ainews-tts";
 
+// 変化しない値なので購読は空。サーバー側スナップショットは false（SSR時に window が無い）
+const subscribeNever = () => () => {};
+const getMicSupported = () =>
+  Boolean(
+    (window as WindowWithSpeechRecognition).SpeechRecognition ||
+      (window as WindowWithSpeechRecognition).webkitSpeechRecognition
+  );
+const getTtsSupported = () => Boolean(window.speechSynthesis);
+const getServerFalse = () => false;
+
+// 読み上げ設定は localStorage が持つ外部状態。プライベートモード等で
+// localStorage 自体が例外を投げうるので、読み書きとも失敗時は既定値に倒す
+const ttsListeners = new Set<() => void>();
+const subscribeTtsEnabled = (onChange: () => void) => {
+  ttsListeners.add(onChange);
+  window.addEventListener("storage", onChange);
+  return () => {
+    ttsListeners.delete(onChange);
+    window.removeEventListener("storage", onChange);
+  };
+};
+// localStorage が使えない環境（プライベートモード等）でセッション内だけ保持する値
+let ttsFallback: boolean | null = null;
+const getTtsEnabled = () => {
+  if (ttsFallback !== null) return ttsFallback;
+  try {
+    return localStorage.getItem(STORAGE_KEY) !== "false";
+  } catch {
+    return true;
+  }
+};
+const getTtsEnabledServer = () => true;
+const storeTtsEnabled = (value: boolean) => {
+  try {
+    localStorage.setItem(STORAGE_KEY, String(value));
+    ttsFallback = null;
+  } catch {
+    // 保存できないので、次のリロードまではメモリ側の値を正とする
+    ttsFallback = value;
+  }
+  ttsListeners.forEach((notify) => notify());
+};
+
 export default function NewsChat({ date }: { date: string }) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [interimTranscript, setInterimTranscript] = useState("");
   const [isListening, setIsListening] = useState(false);
-  const [ttsEnabled, setTtsEnabled] = useState(true);
+  const ttsEnabled = useSyncExternalStore(
+    subscribeTtsEnabled,
+    getTtsEnabled,
+    getTtsEnabledServer
+  );
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [micSupported, setMicSupported] = useState(false);
-  const [ttsSupported, setTtsSupported] = useState(false);
+  const micSupported = useSyncExternalStore(
+    subscribeNever,
+    getMicSupported,
+    getServerFalse
+  );
+  const ttsSupported = useSyncExternalStore(
+    subscribeNever,
+    getTtsSupported,
+    getServerFalse
+  );
 
   const recognitionRef = useRef<SpeechRecognition | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
@@ -198,7 +259,6 @@ export default function NewsChat({ date }: { date: string }) {
       (window as WindowWithSpeechRecognition).webkitSpeechRecognition;
 
     if (SpeechRecognitionClass) {
-      setMicSupported(true);
       recognitionRef.current = new SpeechRecognitionClass();
       recognitionRef.current.lang = "ja-JP";
       recognitionRef.current.continuous = false;
@@ -243,14 +303,6 @@ export default function NewsChat({ date }: { date: string }) {
       };
     }
 
-    if (window.speechSynthesis) {
-      setTtsSupported(true);
-      const saved = localStorage.getItem(STORAGE_KEY);
-      if (saved !== null) {
-        setTtsEnabled(saved === "true");
-      }
-    }
-
     return () => {
       if (recognitionRef.current) {
         recognitionRef.current.abort();
@@ -264,10 +316,6 @@ export default function NewsChat({ date }: { date: string }) {
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
-
-  useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, String(ttsEnabled));
-  }, [ttsEnabled]);
 
   const handleMicToggle = () => {
     if (isListening) {
@@ -347,7 +395,7 @@ export default function NewsChat({ date }: { date: string }) {
         <div className="flex gap-2">
           <button
             onClick={handleSend}
-            disabled={loading || (!input && !interimTranscript) || isSubmittingRef.current}
+            disabled={loading || (!input && !interimTranscript)}
             className="px-4 py-2 rounded-lg bg-blue-600 hover:bg-blue-700 disabled:bg-slate-700 text-white text-sm font-medium transition"
           >
             {loading ? "送信中…" : "送信"}
@@ -371,7 +419,7 @@ export default function NewsChat({ date }: { date: string }) {
           {ttsSupported && (
             <>
               <button
-                onClick={() => setTtsEnabled(!ttsEnabled)}
+                onClick={() => storeTtsEnabled(!ttsEnabled)}
                 className={`px-4 py-2 rounded-lg text-sm font-medium transition ${
                   ttsEnabled
                     ? "bg-slate-600 hover:bg-slate-500 text-white"
