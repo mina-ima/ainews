@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-18",
-      "stories": [
-        {
-          "title": "ハギング・フェイス統計、アリババ「Qwen」派生モデルが15万件を突破しオープンモデルの事実上標準へ",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/"
-        },
-        {
-          "title": "オープンAIの「GPT-5.6 Sol」、歴代最強の画像認識・解析能力を備えたビジョンモデルと実証",
-          "source_url": "https://blog.roboflow.com/openai-gpt-5-6/"
-        },
-        {
-          "title": "アンスロピック、最上位「Mythos」を超える未公開超高性能モデル「Model 2」の存在を示唆",
-          "source_url": "https://gigazine.net/news/20260817-anthropic-model-2/"
-        },
-        {
-          "title": "AI同士が自律対話して共同作業、「Hermes Desktop」にボット協調モードが標準搭載",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133094.html"
-        },
-        {
-          "title": "普通の自転車を後付けでスマート電動化、エイスースがローラー駆動ユニット「Oxiis E250G1」を発表",
-          "source_url": "https://gigazine.net/news/20260817-asus-oxiis-e250g1/"
-        },
-        {
-          "title": "写りはあえて「平成のガラケー画質」、3,960円の手のひらトイデジカメ「C520」が人気に",
-          "source_url": "https://www.gizmodo.jp/article/2608-c520-minicamera-review/"
-        },
-        {
-          "title": "ピクシオ、4K/160HzとフルHD/320Hzを瞬時に切り替えられる31.5型デュアルモニターを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133137.html"
-        },
-        {
-          "title": "スマホでハイレゾ音楽を聴きながらPD急速充電できる2股USB-C変換アダプタが登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2133204.html"
-        },
-        {
-          "title": "中国ユニツリー、助走なしで2m跳躍・時速45kmで疾走する驚異の新型ヒューマノイドを公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/"
-        },
-        {
-          "title": "DDR5メモリ価格が1年で500%暴騰、AI特需による深刻な供給不足が直撃",
-          "source_url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399"
-        },
-        {
-          "title": "AIチップ企業グロック、ハード専業からAIクラウド「ネオクラウド」へ転換し3.5億ドルを調達",
-          "source_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/"
-        },
-        {
-          "title": "大型ロボット3Dプリント技術で無人ドローンボート「TF-179」の一体出力製造に成功",
-          "source_url": "https://3dprintingindustry.com/news/haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel-253825/?utm_source=rss&utm_medium=rss&utm_campaign=haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel"
-        },
-        {
-          "title": "プリント基板の供給課題と宇宙・大気圏再突入機間の「レーザー光通信リンク」初成功",
-          "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-pcb-supplies-intel-memory-laser-links-2026-08/"
-        },
-        {
-          "title": "皮膚に貼るだけで気体・液体の有害物質を検知し振動で警告するウェアラブルパッチが登場",
-          "source_url": "https://newatlas.com/wearables/poison-detecting-wearable-skin-patch/"
-        },
-        {
-          "title": "ウーバー、ドローン開発のジップラインと提携し本格フードデリバリーへ出資",
-          "source_url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment"
-        },
-        {
-          "title": "全米最大の送電網PJM、電力不足時は一般家庭より先に50MW超のAIデータセンターへの送電遮断を提案",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power"
-        },
-        {
-          "title": "AIの自動コード修正機能「Copilot Autofix」を悪用した企業環境侵害の脆弱性が判明",
-          "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
-        }
-      ]
-    },
-    {
       "date": "2026-08-19",
       "stories": [
         {
@@ -593,6 +520,75 @@
         {
           "title": "シャープ、狭小・複雑な屋根にも隙間なく設置できる住宅用単結晶太陽光モジュール「Full Fit」を発表",
           "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134967.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "stories": [
+        {
+          "title": "アンスロピック（Anthropic）、「クロード（Claude）」の対話機能と「コワーク」で記憶を一元化",
+          "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+        },
+        {
+          "title": "マイクロソフト（Microsoft）、ペイントやフォトでAI処理した画像に「隠し電子水透かし（GUID）」を埋め込み",
+          "source_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
+        },
+        {
+          "title": "ビクター（Victor）、逆位相の音波で音漏れを相殺するオープンイヤー型完全ワイヤレスイヤホン「HA-NP80T」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2135304.html"
+        },
+        {
+          "title": "エコバックス（ECOVACS）、全自動給排気＆コード収納ステーション付き窓拭きロボット「WINBOT W2S PRO OMNI」発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135118.html"
+        },
+        {
+          "title": "パイオニア、ニンテンドースイッチ2やスマホに一体装着できるポータブルゲーミングスピーカー「TQ-PG400」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2135369.html"
+        },
+        {
+          "title": "フィットビット（Fitbit）創業者ら、スマホ不要で動作するLTE通信搭載ヘルスバンド「ラフ・リンク（Luffu Link）」を発表",
+          "source_url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/"
+        },
+        {
+          "title": "オープンAI（OpenAI）、自社開発AI推論チップ「ハラペーニョ（Jalapeño）」のベンチマーク結果を初公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks"
+        },
+        {
+          "title": "アップル（Apple）、2nmプロセスの「M6」およびクアッドダイ構造の最高峰「M5 Ultra」を発表",
+          "source_url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/"
+        },
+        {
+          "title": "サムスン（Samsung）、メモリ内部でAI演算を行う「LPDDR5X-PIM」を発表 推論処理を3倍高速化",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth"
+        },
+        {
+          "title": "米FDA、ケトン体と血糖値をリアルタイムに同時測定できる初のウェアラブル機器を承認",
+          "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
+        },
+        {
+          "title": "ノードソン（Nordson）、大型パネルレベルパッケージング対応の精密液体塗布装置「バンテージ XL」を発表",
+          "source_url": "https://www.engineering.com/nordson-introduces-vantage-xl-for-panel-level-packaging/"
+        },
+        {
+          "title": "1700ドル未満の家庭用お手伝いロボット「ノリ A3（Nori A3）」が登場、日常家事の自動化を目指す",
+          "source_url": "https://newatlas.com/robotics/household-robot-chores-nori-a3/"
+        },
+        {
+          "title": "わずか5.9MBの超軽量オープンソースPostgres管理ツール「Pgbot」が公開",
+          "source_url": "https://pgbot.dev/"
+        },
+        {
+          "title": "クアルコム（Qualcomm）、スマホ向けプロセッサとして業界初の5GHz駆動を実現した「オーリオン（Oryon）」新アーキテクチャを発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2135548.html"
+        },
+        {
+          "title": "AIデータセンターの急速な拡大に伴い「隠れた水リスク」が深刻化、環境団体が報告書を発表",
+          "source_url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers"
+        },
+        {
+          "title": "防衛装備庁、テラドローンと自爆型無人機を防ぐ国産迎撃ドローン「Terra B1」の量産契約を締結",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/25/2000000772/"
         }
       ]
     }
