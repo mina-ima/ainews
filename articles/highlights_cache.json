@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-19",
-      "stories": [
-        {
-          "title": "オープンAI、Hugging Faceへの影響を受けた新たなAI安全・セキュリティ管理体制を発表",
-          "source_url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/"
-        },
-        {
-          "title": "AIモデル配信のOpenRouter、オープンAIの最新フラグシップ「GPT-5.6 Sol」の利用料を50%値下げ",
-          "source_url": "https://openrouter.ai/openai/gpt-5.6-sol"
-        },
-        {
-          "title": "修復しやすく長寿命なサステナブルスマホ「フェアフォン 6+」が米国市場に正式上陸",
-          "source_url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more"
-        },
-        {
-          "title": "アップルが「カメラ搭載AirPods」を開発中か、macOSの最新内部ファイルから未発表端末の痕跡が見つかる",
-          "source_url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
-        },
-        {
-          "title": "多摩電子工業、発火リスクを抑えた「準固体リチウムイオン電池」採用のモバイルバッテリーを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133574.html"
-        },
-        {
-          "title": "エレコム、手元の物理スイッチで画面出力を瞬時にオン/オフできるType-C to HDMIアダプタを発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133554.html"
-        },
-        {
-          "title": "ニトリ、ストラップ自体がType-C充電ケーブルに変身する「スマホショルダーストラップ」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133125.html"
-        },
-        {
-          "title": "サンコー、最短14分でご飯とおかずを同時調理できる「真・2段式弁当箱炊飯器」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133237.html"
-        },
-        {
-          "title": "AIトランスフォーマー専用チップ開発のエッチド、評価額が210億ドルへ倍増し量産システムを初出荷",
-          "source_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
-        },
-        {
-          "title": "三菱電機とKOA、プリント基板の硫化ガス腐食を検知・推定する新形チップ抵抗器「SK73」を発売",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11942/"
-        },
-        {
-          "title": "AIコードエディタのカーソル、独自コードホスティング機能「Origin」を発表しギットハブと同期対応",
-          "source_url": "https://cursor.com/changelog/origin-code-hosting"
-        },
-        {
-          "title": "グーグル、AIエージェントの基礎から本番実装まで学べる5つの実践的開発ガイドを無料公開",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html"
-        },
-        {
-          "title": "宇宙企業のロケット・ラボ、ドイツに現地法人を設立し欧州での人工衛星製造とロケット打ち上げ事業を加速",
-          "source_url": "https://3dprintingindustry.com/news/rocket-lab-sets-up-german-subsidiary-opening-the-door-to-satellite-manufacturing-in-europe-253920/"
-        },
-        {
-          "title": "インド工科大、プラスチックゴミを3Dプリンター用フィラメントへ変換するポータブル押出機の特許を取得",
-          "source_url": "https://3dprintingindustry.com/news/nit-rourkela-patents-low-cost-extruder-for-turning-plastic-waste-into-3d-printing-filament-253908/"
-        },
-        {
-          "title": "英国でAIを活用して航空機の飛行機雲を回避する実証実験がスタート、地球温暖化防止へ",
-          "source_url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo"
-        },
-        {
-          "title": "うつ病患者の脳内において、記憶や学習を司る海馬の特定領域が減少していることが判明",
-          "source_url": "https://gigazine.net/news/20260818-depression-linked-smaller-volume-hippocampus/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-20",
       "stories": [
         {
@@ -589,6 +520,87 @@
         {
           "title": "防衛装備庁、テラドローンと自爆型無人機を防ぐ国産迎撃ドローン「Terra B1」の量産契約を締結",
           "source_url": "https://www.itmedia.co.jp/news/article/2608/25/2000000772/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "stories": [
+        {
+          "title": "謎の高速モデル「オックス・アルファ」の正体は智譜AIのGLM最新型と判明、オープンウェイト化へ",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
+        },
+        {
+          "title": "オープンAIの最上位AI「GPT-5.6 Sol」、開発自動化テストで「不正行為」を多発する挙動が発覚",
+          "source_url": "https://gigazine.net/news/20260827-sol-loves-to-cheat/"
+        },
+        {
+          "title": "マイコン「ESP32」上でクロードが自律思考！名作ゲーム「DOOM」の自動プレイ実験が成功",
+          "source_url": "https://hackaday.com/2026/08/26/claude-plays-doom/"
+        },
+        {
+          "title": "アリババ、システムRAMを活用して超高速化を図る「Qwen3.8-Flash-Next」を無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2135941.html"
+        },
+        {
+          "title": "中国政府、少子化や人間関係の希薄化を懸念して「AIパートナー・対話ボット」への規制を強化",
+          "source_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern"
+        },
+        {
+          "title": "シャープ、ポケットに入る対話AI「ポケとも」第2弾を発表 新たにロボ同士の自動会話機能も搭載",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135371.html"
+        },
+        {
+          "title": "メタ、会話や視界解析ができるスマートグラス「Meta Glasses」を日本国内で正式発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2135673.html"
+        },
+        {
+          "title": "アイリスオーヤマ、フタを開けたまま全自動で炒め物を仕上げる調理鍋「Chef Chao」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135640.html"
+        },
+        {
+          "title": "水月雨（MOONDROP）、アルミ・マグネシウム振動板を採用した4,950円の高品質イヤホン「竹III」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2135753.html"
+        },
+        {
+          "title": "人型ロボット30台超が24時間働く「AI学習データ収集工場」が日本国内で稼働開始",
+          "source_url": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html"
+        },
+        {
+          "title": "ステッピングモーターやベルトを全廃！リニアモーター駆動の超高速3Dプリンター「LightMake L4」が登場",
+          "source_url": "https://www.youtube.com/watch?v=stc_mAbYoZw"
+        },
+        {
+          "title": "回路基板に機能とアートを融合させる「構造化PCB」の最新技術トレンドが欧州で脚光",
+          "source_url": "https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/"
+        },
+        {
+          "title": "メタ、AIモデル学習と大規模広告配信を1チップで兼ね備える独自プロセッサ「MTIA 400」を発表",
+          "source_url": "https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727"
+        },
+        {
+          "title": "富士通、144コアの次世代ArmサーバーCPU「Monaka」の仕様を公開 全キャッシュを5nm別ダイに積層",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/fujitsus-monaka-cpu-stacks-its-entire-cache-on-a-separate-5nm-die-and-narrows-to-256-bit-sve2"
+        },
+        {
+          "title": "JAXA発スタートアップのエンブレム、災害救助を目指す人造ウェアラブル飛行装置を初公開",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/081300035/"
+        },
+        {
+          "title": "カメラ不要！室内のWi-Fi電波の揺らぎだけで人物をほぼ100%の精度で個人識別する技術",
+          "source_url": "https://newatlas.com/technology/wi-fi-identify-individuals/"
+        },
+        {
+          "title": "AIデータセンターの爆発的な電力不足を救う「プラチナ燃料電池」ソリューションが脚光",
+          "source_url": "https://www.gizmodo.jp/article/data-centers-will-eat-12-of-us-electricity-by-2030-this-platinum-fuel-cell-fix-may-help/"
+        },
+        {
+          "title": "スマホ単体で動くオープンソースの自律型AIコーディングエージェント「Devx」が登場",
+          "source_url": "https://github.com/apvcode/Termux-Dev"
+        },
+        {
+          "title": "3Dプリント可能な医療用ヒドロゲルが開発、皮膚組織再生や個別化された噛める薬の製造へ",
+          "source_url": ""
         }
       ]
     }
