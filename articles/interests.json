@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T08:08:31.892359+09:00",
+  "updated_at": "2026-08-26T11:05:30.925748+09:00",
   "items": [
     {
       "title": "超音波ソナーで蚊を追跡しプロペラで物理撃墜する専用ドローン「LeSonar2」が登場",
@@ -189,6 +189,27 @@
       "date": "2026-08-17",
       "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
       "importance": 4
+    },
+    {
+      "title": "コンテキスト100万トークン対応で超高速処理、謎の匿名AIモデル「オックス・アルファ（Ox Alpha）」が無料公開",
+      "category": "LLM・生成AI",
+      "date": "2026-08-25",
+      "source_url": "https://gigazine.net/news/20260824-ox-alpha/",
+      "importance": 4
+    },
+    {
+      "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」の実力が脚光",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-25",
+      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "importance": 5
+    },
+    {
+      "title": "米FDA、40歳から測定可能なアルツハイマー病の早期血液診断テストを初承認",
+      "category": "医療・バイオ",
+      "date": "2026-08-25",
+      "source_url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "importance": 5
     }
   ]
 }
