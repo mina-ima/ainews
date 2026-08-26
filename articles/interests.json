@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-08-26T11:05:30.925748+09:00",
+  "updated_at": "2026-08-27T08:05:36.965777+09:00",
   "items": [
-    {
-      "title": "超音波ソナーで蚊を追跡しプロペラで物理撃墜する専用ドローン「LeSonar2」が登場",
-      "category": "ガジェット・民生機器",
-      "date": "2026-07-27",
-      "source_url": "https://newatlas.com/drones/tornyol-mosquito-hunting-drone/",
-      "importance": 4
-    },
-    {
-      "title": "わずか8ドルのマイコン「ESP32」上で2890万パラメータのLLMを動かすプロジェクトが登場",
-      "category": "半導体・チップ",
-      "date": "2026-07-27",
-      "source_url": "https://github.com/slvDev/esp32-ai",
-      "importance": 4
-    },
     {
       "title": "Bluetooth LEが最大7.5Mbpsへ高速化、新規格「Bluetooth HDT」発表",
       "category": "通信・ネットワーク",
