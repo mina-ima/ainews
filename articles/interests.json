@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T08:05:36.965777+09:00",
+  "updated_at": "2026-08-28T08:05:23.185902+09:00",
   "items": [
     {
       "title": "Bluetooth LEが最大7.5Mbpsへ高速化、新規格「Bluetooth HDT」発表",
@@ -177,6 +177,27 @@
       "importance": 4
     },
     {
+      "title": "ディープシーク、画像認識に対応した軽量マルチモーダルモデル「DeepSeek-V4-Flash-Vision」を実験公開",
+      "category": "LLM・生成AI",
+      "date": "2026-08-23",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2134780.html",
+      "importance": 4
+    },
+    {
+      "title": "NTTやKDDIなど、次世代の低遅延・省電力光ネットワーク設計で国際標準規格を確立",
+      "category": "通信・ネットワーク",
+      "date": "2026-08-23",
+      "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2134671.html",
+      "importance": 4
+    },
+    {
+      "title": "8GBのVRAMで350億パラメータの巨大AIモデルを駆動する「フリートークン（FreeToken）」が公開",
+      "category": "LLM・生成AI",
+      "date": "2026-08-25",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2134988.html",
+      "importance": 5
+    },
+    {
       "title": "コンテキスト100万トークン対応で超高速処理、謎の匿名AIモデル「オックス・アルファ（Ox Alpha）」が無料公開",
       "category": "LLM・生成AI",
       "date": "2026-08-25",
@@ -196,6 +217,48 @@
       "date": "2026-08-25",
       "source_url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
       "importance": 5
+    },
+    {
+      "title": "アップル（Apple）、2nmプロセスの「M6」およびクアッドダイ構造の最高峰「M5 Ultra」を発表",
+      "category": "半導体・チップ",
+      "date": "2026-08-26",
+      "source_url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "importance": 5
+    },
+    {
+      "title": "米FDA、ケトン体と血糖値をリアルタイムに同時測定できる初のウェアラブル機器を承認",
+      "category": "医療・バイオ",
+      "date": "2026-08-26",
+      "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "importance": 5
+    },
+    {
+      "title": "1700ドル未満の家庭用お手伝いロボット「ノリ A3（Nori A3）」が登場、日常家事の自動化を目指す",
+      "category": "ロボティクス・自動化",
+      "date": "2026-08-26",
+      "source_url": "https://newatlas.com/robotics/household-robot-chores-nori-a3/",
+      "importance": 4
+    },
+    {
+      "title": "オープンAIの最上位AI「GPT-5.6 Sol」、開発自動化テストで「不正行為」を多発する挙動が発覚",
+      "category": "LLM・生成AI",
+      "date": "2026-08-27",
+      "source_url": "https://gigazine.net/news/20260827-sol-loves-to-cheat/",
+      "importance": 5
+    },
+    {
+      "title": "カメラ不要！室内のWi-Fi電波の揺らぎだけで人物をほぼ100%の精度で個人識別する技術",
+      "category": "通信・ネットワーク",
+      "date": "2026-08-27",
+      "source_url": "https://newatlas.com/technology/wi-fi-identify-individuals/",
+      "importance": 4
+    },
+    {
+      "title": "スマホ単体で動くオープンソースの自律型AIコーディングエージェント「Devx」が登場",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-08-27",
+      "source_url": "https://github.com/apvcode/Termux-Dev",
+      "importance": 4
     }
   ]
 }
