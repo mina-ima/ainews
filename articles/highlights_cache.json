@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-20",
-      "stories": [
-        {
-          "title": "複数AIエージェントが「縄張り争い」や価格カルテルを自律的に結託、アンスロピックが実験結果を公開",
-          "source_url": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/"
-        },
-        {
-          "title": "オープンAI、2027年までのIPO方針を従業員へ示唆　巨額開発資金の確保へ",
-          "source_url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html"
-        },
-        {
-          "title": "オープンAI、AIエージェントの安全対策強化のため最新モデルの強化学習を2週間一時停止",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133872.html"
-        },
-        {
-          "title": "国立情報学研究所、332億パラメータのオープンな国産LLM「LLM-jp-4 33B」を公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2133929.html"
-        },
-        {
-          "title": "グーグル、「Google Pixel 11」シリーズおよび「Pixel Watch 5」を国内発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/review/2133906.html"
-        },
-        {
-          "title": "スイッチボット、紛失防止・カギ解錠・家電操作が1枚にまとまった薄型カード端末を発売",
-          "source_url": "https://www.gizmodo.jp/article/2608-amazon-smarttrakcer-zef/"
-        },
-        {
-          "title": "タイガー魔法瓶、ドリップと浸漬を組み合わせたハイブリッド全自動コーヒーメーカーを発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133988.html"
-        },
-        {
-          "title": "スーディオ、ノイズキャンセリング搭載の格安Type-C有線イヤホン「V3 Pro」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2133884.html"
-        },
-        {
-          "title": "C言語のみで書かれた超極小LLM「microgpt」、Apple M5上で毎秒1,000万トークンの超高速推論を達成",
-          "source_url": "https://github.com/vixhal-baraiya/microgpt-c"
-        },
-        {
-          "title": "セレブラス、巨大半導体を束ねGPU比最大30倍のAI推論を実現する「CS-4」ラックスケールを発表",
-          "source_url": "https://gigazine.net/news/20260819-cerebras-cs-4/"
-        },
-        {
-          "title": "メルクとモデルナ、悪性黒色腫向けmRNA個別化がんワクチンの最終治験で有望な結果",
-          "source_url": "https://www.scmp.com/news/world/united-states-canada/article/3364603/merck-moderna-claim-encouraging-melanoma-vaccine-trial-results?utm_source=rss_feed"
-        },
-        {
-          "title": "ダイキン工業、インド工場でエアコン電子制御基板の生産効率を向上",
-          "source_url": "https://asia.nikkei.com/business/electronics/daikin-lifts-production-efficiency-for-ac-control-boards-in-india"
-        },
-        {
-          "title": "MIT、単一分子を安定した電子デバイスへ転換する新ナノ実装技術を開発",
-          "source_url": "https://news.mit.edu/2026/turning-molecules-into-reliable-electronic-devices-0803"
-        },
-        {
-          "title": "クアルコム傘下のモジュラー、高性能AI開発言語「Mojo」をオープンソース公開",
-          "source_url": "https://www.modular.com/blog/modcon-announcements"
-        },
-        {
-          "title": "テラパワーの次世代ナトリウム冷却原子炉、AIデータセンター向け給電で優位性を確立へ",
-          "source_url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/"
-        },
-        {
-          "title": "ヘキサゴン・ロボティクス、シェフラーの工場で産業用ヒューマノイド1,000台配備に向けた訓練を開始",
-          "source_url": "https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/"
-        },
-        {
-          "title": "リンクソリューション、AIデータセンター冷却用「3Dプリント製熱交換器」の量産化研究を開始",
-          "source_url": "https://3dprintingindustry.com/news/lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research-253916/?utm_source=rss&utm_medium=rss&utm_campaign=lincsolution-targets-ai-data-center-cooling-with-3d-printed-heat-exchanger-research"
-        },
-        {
-          "title": "日本発エナクティック、5,000ドルで1,000台以上出荷した上半身特化ロボットでNVIDIAが注目",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/080300012/"
-        },
-        {
-          "title": "コムキャスト、既存の家庭用ルーターを機器追加なしでWi-Fi動体検知センサー化する機能を無料提供",
-          "source_url": "https://www.tomshardware.com/networking/routers/comcast-turns-xfinity-routers-into-home-motion-detectors-free-wi-fi-sensing-feature-tracks-rf-interference-with-zero-extra-hardware-required"
-        },
-        {
-          "title": "月の裏側を電波シールドにする超小型探査衛星、宇宙黎明期のシグナル観測へ",
-          "source_url": "https://www.cam.ac.uk/research/news/tiny-satellite-will-use-the-dark-side-of-the-moon-to-eavesdrop-on-whispers-from-the-early-universe"
-        }
-      ]
-    },
-    {
       "date": "2026-08-21",
       "stories": [
         {
@@ -601,6 +516,71 @@
         {
           "title": "3Dプリント可能な医療用ヒドロゲルが開発、皮膚組織再生や個別化された噛める薬の製造へ",
           "source_url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "stories": [
+        {
+          "title": "オープンAIなどの100社以上が自律型AIのサイバー攻撃リスクに警鐘、集団防衛を呼びかけ",
+          "source_url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
+        },
+        {
+          "title": "エヌビディア、AIモデル共有基盤ハギング・フェイスを130億ドルで買収合意",
+          "source_url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+        },
+        {
+          "title": "ハギング・フェイス、強化学習が学べる10インチのアヒル型ロボ「Microduck」を発売",
+          "source_url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+        },
+        {
+          "title": "プラウド、会話を自動要約するイヤホン型AIレコーダー「Plaud One」を発表",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability"
+        },
+        {
+          "title": "レガート、ツル部分にAI補聴技術を内蔵したスマートグラス「Legato Frames」を公開",
+          "source_url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/"
+        },
+        {
+          "title": "バンダイ、30周年を記念して指輪のように装着できる「Tamagotchi ring」をお披露目",
+          "source_url": ""
+        },
+        {
+          "title": "世界初、リアルタイムAI支援による生体脳手術で腫瘍摘出に成功",
+          "source_url": "https://www.bbc.com/news/articles/cjwg5n7y68xo"
+        },
+        {
+          "title": "セレブラス、DRAM積層型次世代ウェハスケールAIチップ「CS-6」構想を発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/hot-chips-2026-cerebras-lays-out-the-future-of-wafer-scale-ai-nexus-system-architecture-triples-rack-scale-performance-cs-6-wafer-to-incorporate-stacked-dram"
+        },
+        {
+          "title": "アブソリクス、次世代半導体用の「ガラス基板」製品化に向け最終評価段階へ",
+          "source_url": "https://www.tomshardware.com/tech-industry/manufacturing/glass-substrate-roadmap-examined"
+        },
+        {
+          "title": "災害現場で救助を支援、注射器とカメラを背負った「サイボーグゴキブリ」の実証実験",
+          "source_url": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia"
+        },
+        {
+          "title": "アトラント3D、AI設計材料を原子レベルで直接物理検証する「NANOFABRICATOR PRO」を発表",
+          "source_url": "https://3dprintingindustry.com/news/atlant-3d-launches-new-platform-to-physically-validate-ai-designed-materials-254138/?utm_source=rss&utm_medium=rss&utm_campaign=atlant-3d-launches-new-platform-to-physically-validate-ai-designed-materials"
+        },
+        {
+          "title": "NASA、原子力推進宇宙船の出力を大幅向上させる「バイモーダル熱電設計」を公開",
+          "source_url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft"
+        },
+        {
+          "title": "アマゾン、高性能組み込みデータベース「DuckDB」の開発元DuckLabsを買収",
+          "source_url": "https://gigazine.net/news/20260827-amazon-acquire-ducklabs/"
+        },
+        {
+          "title": "クラウドフレア、DNSキャッシュ構造の再設計により100テラバイトのメモリ削減を達成",
+          "source_url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/"
+        },
+        {
+          "title": "過熱水蒸気を活用した高効率な産業用乾燥技術が登場、脱炭素化に貢献",
+          "source_url": "https://newatlas.com/energy/superheated-steam-could-make-industrial-drying-more-sustainable/"
         }
       ]
     }
