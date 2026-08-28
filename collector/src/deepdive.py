@@ -23,6 +23,70 @@ DEFAULT_INTERESTS_CACHE = (
 RECENT_WINDOW_DAYS = 30
 MAX_INTERESTS_FOR_PROMPT = 25
 
+# 「深堀り」に載せるのに必要な、興味アリ由来キーワードの一致数。
+# 1 だと汎用語 1 個の偶然一致で通ってしまい、実測で 15 記事中 14 件が該当して
+# フィルタとして機能しなかった（2026-08-28）。2 以上を要求する。
+MIN_KEYWORD_HITS = 2
+
+# 興味タイトルから「固有名詞」候補だけを抽出するための除外語。
+# 下段は 2026-08-28 の実測で誤マッチ源になっていた汎用語（どのAI記事にも出る
+# カテゴリ語であって、読者固有の関心を示さない）。
+_STOPWORDS = {
+    "テスト", "システム", "サービス", "プロジェクト", "ニュース", "オープン",
+    "ソフト", "ハード", "デバイス", "プラットフォーム", "メーカー", "ユーザー",
+    "アップデート", "リリース", "サポート", "コンテンツ", "ビジネス", "コンセプト",
+    "test", "news", "open", "soft", "user", "system",
+    "次世代", "自律型", "実用的", "自動化", "超小型", "高性能", "高効率", "世界初",
+    "最新型", "開発者", "研究者", "技術者", "大規模", "小規模", "国内外",
+    "リアルタイム", "ハードウェア", "ソフトウェア", "オープンソース", "ロボット",
+    "ウェアラブル", "データベース", "ネットワーク", "プロセス", "エージェント",
+    "テクノロジー", "インターフェース", "アルゴリズム", "セキュリティ", "クラウド",
+    "エネルギー", "ディスプレイ", "バッテリー", "スマートフォン", "コンピュータ",
+}
+
+# 英字: 5文字以上の英単語（Anthropic 等）／大文字始まり3文字以上（NVIDIA, GPT-5.6 等）
+# 数字始まり（2nm, 3D 等）／カタカナ4文字以上／漢字3文字以上
+_TOKEN_RE = re.compile(
+    r"[A-Za-z][A-Za-z0-9.\-]{4,}"
+    r"|[A-Z][A-Za-z0-9.\-]{2,}"
+    r"|[0-9][A-Za-z0-9.\-]{2,}"
+    r"|[ァ-ヴー]{4,}"
+    r"|[一-龠]{3,}"
+)
+_HAS_LETTER_RE = re.compile(r"[A-Za-z぀-ヿ一-鿿]")
+_ASCII_KEYWORD_RE = re.compile(r"^[A-Za-z0-9.\-]+$")
+
+
+def extract_keywords(items: list[InterestItem]) -> set[str]:
+    """興味アリのタイトル群から、続報判定に使う固有名詞候補を抜き出す。"""
+    keywords: set[str] = set()
+    for it in items:
+        for token in _TOKEN_RE.findall(it.title):
+            tok = token.lower()
+            if tok in _STOPWORDS or token in _STOPWORDS:
+                continue
+            # 数字だけのトークン（「100万トークン」の 100 等）は捨てる。
+            # 残すと「100社」「100テラバイト」に当たって無意味な一致を量産する。
+            if not _HAS_LETTER_RE.search(token):
+                continue
+            keywords.add(tok)
+    return keywords
+
+
+def count_keyword_hits(haystack: str, keywords: set[str]) -> int:
+    """本文中に現れた興味アリ由来キーワードの種類数を数える。"""
+    lower = haystack.lower()
+    hits = 0
+    for k in keywords:
+        if _ASCII_KEYWORD_RE.match(k):
+            # 英数字は語境界を要求する。部分文字列一致だと "Sol" が "Absolics" に
+            # 当たるような事故が起きる（2026-08-28 実測）。
+            if re.search(r"(?<![a-z0-9])" + re.escape(k) + r"(?![a-z0-9])", lower):
+                hits += 1
+        elif k in lower:
+            hits += 1
+    return hits
+
 # `### タイトル` の直下〜次の `### or ##` までを 1 記事ブロックとみなす
 _BLOCK_RE = re.compile(
     r"^###\s+(?P<title>[^\n]+)\n(?P<body>.*?)(?=^##\s|^---\s*$|\Z)",
@@ -182,36 +246,12 @@ def build_markdown_section(items: list[InterestItem], today_highlights: list[dic
     if not items or not today_highlights:
         return ""
 
-    # 興味タイトルから「固有名詞」候補だけを抽出（短い汎用語の誤マッチを避ける）
-    _STOPWORDS = {
-        "テスト", "システム", "サービス", "プロジェクト", "ニュース", "オープン",
-        "ソフト", "ハード", "デバイス", "プラットフォーム", "メーカー", "ユーザー",
-        "アップデート", "リリース", "サポート", "コンテンツ", "ビジネス", "コンセプト",
-        "test", "news", "open", "soft", "user", "system",
-    }
-    keywords: set[str] = set()
-    for it in items:
-        for token in re.findall(
-            # 英字: 3文字以上で大文字/数字を含むもの（GPT-5.5, NVIDIA, A12 等）
-            #   または 5 文字以上の英単語（Anthropic 等）
-            # カタカナ: 4 文字以上
-            # 漢字: 3 文字以上の熟語
-            r"[A-Za-z][A-Za-z0-9.\-]{4,}"
-            r"|[A-Z][A-Za-z0-9.\-]{2,}"
-            r"|[0-9][A-Za-z0-9.\-]{2,}"
-            r"|[ァ-ヴー]{4,}"
-            r"|[一-龠]{3,}",
-            it.title,
-        ):
-            tok = token.lower()
-            if tok in _STOPWORDS or token in _STOPWORDS:
-                continue
-            keywords.add(tok)
+    keywords = extract_keywords(items)
 
     matched: list[dict] = []
     for h in today_highlights:
-        haystack = (h.get("title", "") + " " + h.get("summary", "")).lower()
-        if any(k in haystack for k in keywords):
+        haystack = h.get("title", "") + " " + h.get("summary", "")
+        if count_keyword_hits(haystack, keywords) >= MIN_KEYWORD_HITS:
             matched.append(h)
 
     if not matched:
