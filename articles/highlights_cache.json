@@ -1,71 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-21",
-      "stories": [
-        {
-          "title": "リキッドAI、スマホ向け軽量モデル「LFM2.5」の省メモリ・高精度QAD版を公開",
-          "source_url": "https://gigazine.net/news/20260820-lfm2-5-qad/"
-        },
-        {
-          "title": "グーグル、AI検索による流入減少に苦しむWebメディア向けに優先表示ボタンを提供開始",
-          "source_url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
-        },
-        {
-          "title": "会話を聞き取り自動でタスク化する胸元用AIデバイス「SwitchBot AIマインドクリップ」が登場",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134195.html"
-        },
-        {
-          "title": "フォステクス、伝説的RPヘッドフォン史上初のワイヤレスモデル「T50RP-BT」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2132751.html"
-        },
-        {
-          "title": "タイガー魔法瓶、アルゴンガス断熱で「中が見える」透明な保温ボトルの実証に成功",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2133745.html"
-        },
-        {
-          "title": "シノプシス、5nmプロセスの3D積層チップ内で毎秒64GTのPCIe 6.0動作実証に世界初成功",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-validates-a-pcie-6-phy-inside-a-face-to-face-3d-stack"
-        },
-        {
-          "title": "JAXA、火星衛星探査機「MMX」を10月20日にH3ロケットで打ち上げへ",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/20/2000000661/"
-        },
-        {
-          "title": "エヌビディア、宇宙企業スペースXへ210億ドル規模の出資を行っていたことを開示",
-          "source_url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
-        },
-        {
-          "title": "電気ゼロで屋根を25.6℃冷却する放射冷却フィルム「SPACECOOL」が登場",
-          "source_url": "https://www.gizmodo.jp/article/spacecool_radiational_cooling/"
-        },
-        {
-          "title": "ティアフォーとルネサス、次世代車載SoC「R-Car Gen 5」向けSDV基盤を共同開発",
-          "source_url": "https://www.engineering.com/tier-iv-renesas-develop-open-sdv-computing-platform/"
-        },
-        {
-          "title": "ジールス、倒れない安定構造を持つ日本の現場向け台車型ヒューマノイド「D1」を量産化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/081700014/"
-        },
-        {
-          "title": "日本精工とアトム、国産ヒューマノイドロボットの実用化に向け戦略的提携",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/"
-        },
-        {
-          "title": "エムケイタクシー、EV急速充電用に安全なバナジウム電池蓄電システムを国内初導入",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/20/2000000664/"
-        },
-        {
-          "title": "3Dプリント製のラティス格子クッションで脳震盪リスクを77%低減するヘッドバンドが登場",
-          "source_url": "https://3dprintingindustry.com/news/syzmiks-x7c-cuts-concussion-risk-77-with-3d-printed-lattice-padding-253942/?utm_source=rss&utm_medium=rss&utm_campaign=syzmiks-x7c-cuts-concussion-risk-77-with-3d-printed-lattice-padding"
-        },
-        {
-          "title": "トリチウム活用の原子力バッテリー、宇宙機器や体内埋め込み医療用電源として実用化へ",
-          "source_url": "https://www.gizmodo.jp/article/tritium_nuclear_battery/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-22",
       "stories": [
         {
@@ -581,6 +516,91 @@
         {
           "title": "過熱水蒸気を活用した高効率な産業用乾燥技術が登場、脱炭素化に貢献",
           "source_url": "https://newatlas.com/energy/superheated-steam-could-make-industrial-drying-more-sustainable/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "stories": [
+        {
+          "title": "中国Z.ai、最上位級AIモデル「GLM-5.3」をオープンウェイトとして無償公開",
+          "source_url": "https://gigazine.net/news/20260829-glm-5-3-open/"
+        },
+        {
+          "title": "米裁判所、トランプ政権によるアンスロピックの「サプライチェーンリスク」指定を違法と判決",
+          "source_url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895"
+        },
+        {
+          "title": "アンスロピックの研究者、モデルの不具合を自動修正する「自己改善AI」の実証実験を公開",
+          "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
+        },
+        {
+          "title": "グーグルの「Gemini Notebook」、購入済みの電子書籍を取り込んでAI解説する機能をリリース",
+          "source_url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+        },
+        {
+          "title": "グーグルLabs、個人の興味に合わせてコンテンツを自動生成する実験アプリ「Dreambeans」を無料公開",
+          "source_url": "https://9to5google.com/2026/08/28/google-dreambeans-free/"
+        },
+        {
+          "title": "ガーミン、衛星通信に対応した最高峰スマートウォッチ「fēnix 9」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136123.html"
+        },
+        {
+          "title": "昭和のスーパーカー自転車が令和に復活、電子ギミックやRFID認証を搭載した大人向けモデルが登場",
+          "source_url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/"
+        },
+        {
+          "title": "CIO、あらゆるUSB-C端子をマグネット着脱式「MagSafe風」に変える変換コネクタを発表",
+          "source_url": "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/"
+        },
+        {
+          "title": "GPD、電源内蔵でACアダプタ不要の0.93L超小型ミニPC「GPD BOX」を初披露",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2136698.html"
+        },
+        {
+          "title": "伝統の常滑焼とチタンを融合した「アイスコーヒー専用バリスタ急須」が登場",
+          "source_url": "https://www.gizmodo.jp/article/machi-ya-baristakyusu-review-906279/"
+        },
+        {
+          "title": "キーサイト、AIが回路設計を全自動化する「次世代EDAソリューション」を発表",
+          "source_url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html"
+        },
+        {
+          "title": "アトミカ、微細流体冷却とパッケージングを統合した「AI熱マイクロ構造プラットフォーム」を発表",
+          "source_url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/"
+        },
+        {
+          "title": "エヌビディアの未発表技術「DLSS 5」が流出、有志により旧世代GPUへの移植が成功",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware"
+        },
+        {
+          "title": "AIの同じミスを自動防止する設計思想「ハーネスエンジニアリング」が台頭",
+          "source_url": "https://gigazine.net/news/20260828-harness-engineering/"
+        },
+        {
+          "title": "米メイン大学、バイオ素材を使った3Dプリント住宅のコミュニティ建設プロジェクトを拡大",
+          "source_url": "https://3dprintingindustry.com/news/umaine-to-build-up-to-nine-3d-printed-homes-as-it-scales-biohome3d-technology-254215/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-to-build-up-to-nine-3d-printed-homes-as-it-scales-biohome3d-technology"
+        },
+        {
+          "title": "ジンガー、パーツの23%に3Dプリント構造を採用した275万ドルのハイパーカー「21C Spyder」を発表",
+          "source_url": "https://3dprintingindustry.com/news/czingers-21c-spyder-puts-3d-printing-at-the-center-of-a-2-75m-hypercar-254220/?utm_source=rss&utm_medium=rss&utm_campaign=czingers-21c-spyder-puts-3d-printing-at-the-center-of-a-2-75m-hypercar"
+        },
+        {
+          "title": "RIT、バイオプリンティングとスマートセンサーを組み合わせた次世代義手プロトタイプを発表",
+          "source_url": "https://3dprintingindustry.com/news/bioprinting-and-smart-sensors-converge-in-new-rit-prosthetic-prototype-254211/?utm_source=rss&utm_medium=rss&utm_campaign=bioprinting-and-smart-sensors-converge-in-new-rit-prosthetic-prototype"
+        },
+        {
+          "title": "ブルーティ、冷蔵庫の側面に設置できる厚さ75mmの非常用薄型ポータブル電源「FridgePower」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136088.html"
+        },
+        {
+          "title": "手元のUSB-Cケーブルの性能や偽物リスクを瞬時に判定する無料Macアプリ「WhatCable」公開",
+          "source_url": "https://www.dpreview.com/articles/whatcable-is-the-free-mac-app-photographers-with-a-drawer-full-of-usb-c-cables-need/"
+        },
+        {
+          "title": "ピクセラ、バッテリーレスでコンセントやUSBポートから給電できる小型4Gルーター「PIX-MT200e」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2136521.html"
         }
       ]
     }
