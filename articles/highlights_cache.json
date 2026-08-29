@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-22",
-      "stories": [
-        {
-          "title": "リキッドAI、スマホ向けモデル「LFM2.5」を2倍以上高速化する「DSpark」適用版を発表",
-          "source_url": "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/"
-        },
-        {
-          "title": "エヌビディア、AIモデル単体よりも「ハーネス構造」がAI性能を高める鍵であることを実証",
-          "source_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
-        },
-        {
-          "title": "クロード 4.8並みの性能を持つオープンソースAIモデル「オーニス 1.5」が登場",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134570.html"
-        },
-        {
-          "title": "AI企業による希少本の購入・裁断に対抗し、オープンライブラリが物理書籍の緊急スキャンボランティアを募集",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-open-library-calls-for-volunteers-to-scan-and-preserve-physical-books-as-ai-companies-buy-scan-and-destroy-them-annas-archive-says-time-is-running-out-as-knowledge-is-permanently-monopolized-on-private-servers"
-        },
-        {
-          "title": "3Wスピーカー内蔵！エフェクターサイズなのに直接音が鳴る超小型ギターアンプペダルが登場",
-          "source_url": "https://www.theverge.com/gadgets/982598/death-by-audio-rainger-fx-amp-crash-guitar-pedal-review"
-        },
-        {
-          "title": "レーザー、超薄型かつラピッドトリガー対応のロープロファイルキーボードを発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134580.html"
-        },
-        {
-          "title": "シャークニンジャ、空気の汚れをリアルタイムで数値化するコンパクト空気清浄機を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134152.html"
-        },
-        {
-          "title": "ビクター、圧迫感を抑えた耳を塞がない開放型完全ワイヤレスイヤホン「HA-A4T」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2134571.html"
-        },
-        {
-          "title": "LG、TSMCの供給不足を受けハイエンド基板・半導体パッケージング向けレーザー直接描画装置（LDI）を公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/lg-enters-chip-packaging-arena-with-laser-direct-imaging-machine-as-tsmcs-cowos-remains-constrained-maskless-machine-is-designed-to-pattern-fine-interconnects-trading-resolution-for-higher-throughput"
-        },
-        {
-          "title": "世界初、3Dプリント製メタマテリアル人工骨の患者体内への移植手術に成功",
-          "source_url": "https://3dprintingindustry.com/news/gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis-253969/?utm_source=rss&utm_medium=rss&utm_campaign=gregorio-maranon-hospital-implants-worlds-first-personalized-metamaterial-bone-prosthesis"
-        },
-        {
-          "title": "宇宙データセンター開発のスタークラウドが2億5000万ドルを調達",
-          "source_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/"
-        },
-        {
-          "title": "プードゥ・ロボティクス、2トン対応のAI搭載パレット搬送ロボット「PUDU MP2000」を発売",
-          "source_url": "https://www.engineering.com/pudu-robotics-launches-pudu-mp2000-pallet-robot/"
-        },
-        {
-          "title": "中国・杭州市で交通整理を行う「ロボット警察官」の本格実証テストが開始",
-          "source_url": "https://gigazine.net/news/20260821-supcon-traffic-police-robot-in-hangzhou/"
-        },
-        {
-          "title": "わずか約120円（0.60ポンド）の超格安マイコン上でPhotoshopを動作させる実験が話題に",
-          "source_url": "https://pointinthecloud.com/2026-08-19-144600.html"
-        },
-        {
-          "title": "マイクロソフト、Excel用の自然言語AI関数「=COPILOT」を公開からわずか1年でお蔵入りへ",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134594.html"
-        },
-        {
-          "title": "グーグル、Android 17にメモリ過剰使用アプリを自動強制終了するシステム制限を導入",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134666.html"
-        },
-        {
-          "title": "テスラ、屋根一体型太陽光パネル「ソーラー・ルーフ」の販売・製造を終了へ",
-          "source_url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued"
-        },
-        {
-          "title": "宇宙から太陽光を反射する「宇宙ミラー」計画が夜空の光害を急悪化させるとの研究結果",
-          "source_url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-23",
       "stories": [
         {
@@ -601,6 +524,83 @@
         {
           "title": "ピクセラ、バッテリーレスでコンセントやUSBポートから給電できる小型4Gルーター「PIX-MT200e」を発表",
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2136521.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "stories": [
+        {
+          "title": "オープンAI、スペースX傘下となったAIエージェント「カーソル」へのモデル提供停止を発表",
+          "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
+        },
+        {
+          "title": "オープンAIの複数の自動エージェントが結託し、評価テスト中にハッキングを試みる挙動が発覚",
+          "source_url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
+        },
+        {
+          "title": "ソニー・ミュージックとワーナー、大規模な著作権侵害でアンスロピックを提訴",
+          "source_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+        },
+        {
+          "title": "カリフォルニア州、厳しい年齢確認法の対象からLinuxなどオープンソースソフトを全会一致で除外",
+          "source_url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
+        },
+        {
+          "title": "グーグル、「ポケモンスリープ」と連携する特別仕様の「Fitbit Air」を発表",
+          "source_url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/"
+        },
+        {
+          "title": "富士フイルム、20年ぶりの新製品「写ルンです Black and White」を9月発売",
+          "source_url": "https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/"
+        },
+        {
+          "title": "ガラケーとしても使える通話機能付きポータブルバッテリー「Nokia 300 Charge」が登場",
+          "source_url": "https://newatlas.com/outdoor-gear/power-bank-dumbphone-hmd-nokia-300-charge/"
+        },
+        {
+          "title": "スマートグラスは映画鑑賞の未来を変えるか？XREALの最新モデルが注目を集める",
+          "source_url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
+        },
+        {
+          "title": "サムスン、DRAM内部で直接データ計算を行う次世代「PIM」技術の全貌を公開",
+          "source_url": "https://ben3d.ca/blog/processing-in-memory"
+        },
+        {
+          "title": "防衛省、通信基盤にNTTの次世代光ネットワーク「IOWN」技術を採用へ",
+          "source_url": "https://asia.nikkei.com/politics/defense/japan-defense-forces-to-use-ntt-s-optical-network-tech-for-communications"
+        },
+        {
+          "title": "国産ヒューマノイドロボットがベルトコンベヤー作業を自律実行、3時間の長時間生配信を実施",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/"
+        },
+        {
+          "title": "1960年代の「磁気コアメモリ」を搭載したUSBドライブが制作されファイル転送に成功",
+          "source_url": "https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech"
+        },
+        {
+          "title": "米海軍、潜水艦製造の遅延を解消するため金属3Dプリント技術の採用基準を大幅簡素化",
+          "source_url": "https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/?utm_source=rss&utm_medium=rss&utm_campaign=navy-fast-tracks-3d-printed-parts-to-boost-submarine-production"
+        },
+        {
+          "title": "オークリッジ国立研究所、3Dプリントと電鋳を融合させた高耐久・高密閉の原子力部材工法を開発",
+          "source_url": "https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206/?utm_source=rss&utm_medium=rss&utm_campaign=new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components"
+        },
+        {
+          "title": "太陽光発電で走るソーラーEVの本格量産に向け4,400万ドルの大型製造契約が締結",
+          "source_url": "https://frequal.com/aptera/ProductionDealAug2026.html"
+        },
+        {
+          "title": "リュックに収まる8.8オンスの超小型ドローン迎撃機「Spike」が登場",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones"
+        },
+        {
+          "title": "若返り注射で血液細胞の年齢を反転？バイオベンチャーが新薬投与のテスト開始を発表",
+          "source_url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+        },
+        {
+          "title": "格安マイコン液晶基板「CYD」で専用Wikipedia閲覧端末を自作するプロジェクト",
+          "source_url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/"
         }
       ]
     }
