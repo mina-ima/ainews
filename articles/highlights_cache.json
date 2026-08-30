@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-23",
-      "stories": [
-        {
-          "title": "インヘレント、科学論文の自律再現実験で大手AIを凌駕する研究特化AIエージェントを発表",
-          "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
-        },
-        {
-          "title": "ディープシーク、画像認識に対応した軽量マルチモーダルモデル「DeepSeek-V4-Flash-Vision」を実験公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134780.html"
-        },
-        {
-          "title": "電子ペーパーと物理ボタンを備えたミニマルなハッカースマートウォッチ「Pebble Time 2」が復活",
-          "source_url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/"
-        },
-        {
-          "title": "50倍超望遠とAI鳥類自動追跡をポケットサイズに凝縮した小型カメラ「RocXZoom」が登場",
-          "source_url": "https://www.dpreview.com/articles/this-pocket-sized-camera-zooms-to-2000mm-and-tracks-wildlife-on-its-own/"
-        },
-        {
-          "title": "SPARKLE、最大140W給電＆AC電源内蔵のコンパクトな4ポートUSB-Cドック「Power Dock Boost」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134653.html"
-        },
-        {
-          "title": "ラズベリーパイ（Raspberry Pi）純正タッチ液晶に高解像度な10インチ大型モデルが登場",
-          "source_url": "https://gigazine.net/news/20260822-raspberry-pi-touch-display-2-10-inch/"
-        },
-        {
-          "title": "硬い素材も力をいれずに切断・加工できるコードレス対応のペン型超音波カッターが登場",
-          "source_url": "https://www.gizmodo.jp/article/2608-costorypo-pendoracutter-review-1666843821-rfv/"
-        },
-        {
-          "title": "ESP32向けDockerコンテナを活用した高再現性ファームウェア開発環境が提案",
-          "source_url": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/"
-        },
-        {
-          "title": "中国のロボットが100m走でウサイン・ボルト氏の世界記録を超える速度を記録",
-          "source_url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record"
-        },
-        {
-          "title": "ウェイモ、ロボタクシーのリアルタイムAI推論向けカスタムASICチップを独自開発",
-          "source_url": "https://gigazine.net/news/20260822-waymo-brain/"
-        },
-        {
-          "title": "エヌビディア、大手EDAベンダーと連携しAIエージェントによる半導体設計の自動化を強化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11964/"
-        },
-        {
-          "title": "ビシェイ、温度センサ内蔵可能な最大650W対応の高電力厚膜抵抗器「RPWA 650」を発表",
-          "source_url": "https://www.engineering.com/vishay-adds-650-w-thick-film-power-resistor-series/"
-        },
-        {
-          "title": "NTTやKDDIなど、次世代の低遅延・省電力光ネットワーク設計で国際標準規格を確立",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2134671.html"
-        },
-        {
-          "title": "高レベル放射性廃棄物を実用的な燃料や医療用放射性同位体へ再資源化する新プロセスが開発",
-          "source_url": "https://newatlas.com/energy/new-process-spins-nuclear-waste-into-radioactive-gold/"
-        },
-        {
-          "title": "プラスチック不使用の菌糸体（キノコ）レザー、工業スケールでの連続シート製造に成功",
-          "source_url": "https://newatlas.com/materials/vtt-practical-mushroom-leather/"
-        },
-        {
-          "title": "BYD、新型軽EV「ラッコ」の車体骨格に2GPa級超高張力鋼板を7割以上採用し安全性を強化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/081900011/"
-        },
-        {
-          "title": "生体組織の感触や物理応答を再現する医療実習用3Dプリント歯科学習モデルが開発",
-          "source_url": "https://3dprintingindustry.com/news/fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue-253939/?utm_source=rss&utm_medium=rss&utm_campaign=fusetec-and-adelaide-university-announce-800000-project-to-3d-print-dental-models-that-respond-like-real-tissue"
-        },
-        {
-          "title": "プルーシャ、大型・マルチツールヘッド3Dプリンター「Prusa XL+」など次世代機ラインナップを発表",
-          "source_url": "https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981/?utm_source=rss&utm_medium=rss&utm_campaign=prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths"
-        },
-        {
-          "title": "遺伝子組み換えしたレタスを用いて植物体内で「動物性肉タンパク質」の生成に成功",
-          "source_url": "https://gigazine.net/news/20260822-meat-protein-grown-lettuce-plant/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-24",
       "stories": [
         {
@@ -601,6 +520,63 @@
         {
           "title": "格安マイコン液晶基板「CYD」で専用Wikipedia閲覧端末を自作するプロジェクト",
           "source_url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "stories": [
+        {
+          "title": "経営幹部をAIチームで代替するOSS「オープン・エグゼクティブ」が登場",
+          "source_url": "https://gigazine.net/news/20260831-ai-virtual-executive-team/"
+        },
+        {
+          "title": "次世代生成アプローチ「連続ディフュージョン言語モデル（CDLM）」の研究が進展",
+          "source_url": "https://sander.ai/2026/08/24/continuous-dlms.html"
+        },
+        {
+          "title": "エイデータ、スマホのNFCでロック解除できるポータブルSSD「Urban Tapsafe」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review"
+        },
+        {
+          "title": "スイッチボット、帰宅を察知して家電を自動作動させる薄型カードトラッカーを展開",
+          "source_url": "https://www.gizmodo.jp/article/2608-296674-switchbot-smart-lacquer-card-2-azh/"
+        },
+        {
+          "title": "グリキット、旅先での利便性を追求した超小型スイッチ用TVドックを公開",
+          "source_url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on"
+        },
+        {
+          "title": "サムスンとエクセナ、CXL規格準拠の「ニアメモリ・コンピューティング」デバイスを発表",
+          "source_url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs"
+        },
+        {
+          "title": "スペースX、AIデータセンター給電用タービンブレードの自社内製化を開始",
+          "source_url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+        },
+        {
+          "title": "NFC環境発電型MCU搭載プリント基板名刺が登場、電池不要で動作",
+          "source_url": "https://wilsonharper.net/projects/businesscard/"
+        },
+        {
+          "title": "キャタピラー、無人鉱山で培養した自動化ノウハウを産業AI展開へ応用",
+          "source_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+        },
+        {
+          "title": "カリフォルニア大、DIY駆動部を採用した低コスト人型ロボット「Berkeley Humanoid Lite」を開発",
+          "source_url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/"
+        },
+        {
+          "title": "Python公式実装「CPython」がオープン命令セット「RISC-V」を正式サポート",
+          "source_url": "https://blog.python.org/2026/08/riscv-now-officially-supported/"
+        },
+        {
+          "title": "日本企業各社、2030年代の月面長期滞在を見据えた「月面都市・インフラ構想」へ本格参入",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00199/00001/"
+        },
+        {
+          "title": "「帯電した雨」が金属防食層を急速侵食するメカニズムが解明",
+          "source_url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/"
         }
       ]
     }
