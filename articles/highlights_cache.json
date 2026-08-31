@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-24",
-      "stories": [
-        {
-          "title": "オープンAIが最上位モデル「GPT-5.6 Sol」のAPI料金を最大33％値下げ、企業導入を強力推進",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/"
-        },
-        {
-          "title": "アンソロピックが最上位AI「クロード・ミュトス 5」をセキュリティ脆弱性検出用に公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/"
-        },
-        {
-          "title": "オープンモデル「Gemma 4 31B」が特定財務タスクで高級モデルと同等の性能を40分の1のコストで実現",
-          "source_url": "https://gigazine.net/news/20260823-gemma-4-benchmark/"
-        },
-        {
-          "title": "米司法省とTikTokが児童プライバシー違反を巡る訴訟で4億ドルの過去最大規模の和解金に合意",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/23/2000000701/"
-        },
-        {
-          "title": "分解・修理が容易なモジュール構造スマートフォン「Fairphone 6+」が待望の米国正式発売を開始",
-          "source_url": "https://newatlas.com/mobile-technology/fairphone-6-plus-usa-launch/"
-        },
-        {
-          "title": "アナログがシュプリームとコラボした24金メッキ＆レッドカラーの高級限定版「Analogue Pocket」を発表",
-          "source_url": "https://www.gizmodo.jp/article/i-love-this-red-analogue-pocket-but-hate-the-supreme-logo/"
-        },
-        {
-          "title": "エイスースが文字の可読性と画質を大幅向上させた新型サブピクセル構造の有機ELモニターを発表",
-          "source_url": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/"
-        },
-        {
-          "title": "フィーオが単結晶銅銀メッキ線とアルミCNC筐体を採用した高品質USB-Cオーディオケーブル「LINK-TC2L」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2134404.html"
-        },
-        {
-          "title": "エッチドがNVIDIAのGPUに対抗するTransformer専用ASIC「Sohu」の比較結果を提示",
-          "source_url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/"
-        },
-        {
-          "title": "ミシックが超低消費電力なアナログIn-Memoryコンピューティング構造の最新技術を公開",
-          "source_url": "https://www.mythic.ai"
-        },
-        {
-          "title": "自作ファブ環境でLED発光素子の物理製作に成功、個人レベルの電子実装・半導体製造が開花",
-          "source_url": "https://hackaday.com/2026/08/23/making-leds-in-the-home-fab/"
-        },
-        {
-          "title": "AIエージェントの内部処理とトークン消費量を視覚的に追跡できるOSSツール「Langfuse」が登場",
-          "source_url": "https://gigazine.net/news/20260823-langfuse/"
-        },
-        {
-          "title": "日本政府と民間ファンドが核融合および資源再活用スタートアップに1億2500万ドルを共同支援",
-          "source_url": "https://asia.nikkei.com/business/startups/japan-backs-fusion-recycling-startups-in-125m-public-private-funding"
-        },
-        {
-          "title": "米陸軍がショットガン付き自律防衛砲塔を載せた自動運転トラックの実弾迎撃テストを実施",
-          "source_url": "https://www.tomshardware.com/tech-industry/drones/self-driving-ford-f-250-truck-with-shotgun-equipped-drone-killing-turret-tested-by-us-army-autonomous-system-designed-to-blast-fast-moving-drones-at-between-10-and-100-meters-range"
-        },
-        {
-          "title": "中国が硬い岩盤の爆破と掘削を同時進行できる巨大トンネル掘削機「Xianglong」を公開",
-          "source_url": "https://newatlas.com/engineering/china-tunneling-machine-bores-and-blasts/"
-        },
-        {
-          "title": "生成AIが創案した新薬の特許権や発見者の栄誉を人間とAIのどちらに帰属させるかの議論が加熱",
-          "source_url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-25",
       "stories": [
         {
@@ -577,6 +508,83 @@
         {
           "title": "「帯電した雨」が金属防食層を急速侵食するメカニズムが解明",
           "source_url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "stories": [
+        {
+          "title": "オープンAIがMac miniとMac Studioを数万台規模で爆買い、ローカルAI開発需要でアップルに想定外の特需",
+          "source_url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/"
+        },
+        {
+          "title": "EU、オープンAIのChatGPTを「超大規模検索エンジン」に指定、未成年保護やリスク軽減を義務付けへ",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+        },
+        {
+          "title": "日本の次期学習指導要領案、小中学校で「情報」を教科化し英語教育におけるAI活用を初明記",
+          "source_url": ""
+        },
+        {
+          "title": "米国防総省、安全な専用ポータル「Pentagon AI」にChatGPTとGrokを追加配備",
+          "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
+        },
+        {
+          "title": "スマホのフラッシュLEDとAI解析を組み合わせ、室内にある盗撮用隠しカメラを瞬時に検出する技術が開発",
+          "source_url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
+        },
+        {
+          "title": "シャオミ、普通のメガネに偽装したオープンイヤー型の高性能スマートオーディオグラスを発売",
+          "source_url": "https://www.gizmodo.jp/article/amazon-short-xiaomi-smartglass-2609/"
+        },
+        {
+          "title": "フィリップス、手のひらサイズに最高峰の回転刃技術を凝縮した「コンパクトシェーバー 800シリーズ」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136608.html"
+        },
+        {
+          "title": "アンカー、ポケットサイズに折りたためる25W Qi2対応3-in-1ワイヤレス充電スタンドを発表",
+          "source_url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/"
+        },
+        {
+          "title": "ティファールブランドから幅15cmの極小サイズ全自動エスプレッソマシン「KRUPS」が日本初上陸",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136540.html"
+        },
+        {
+          "title": "三菱ケミカル、温めると縮む「負熱膨張」新材料を開発 AI半導体の熱歪みを解決",
+          "source_url": "https://www.itmedia.co.jp/business/articles/2609/01/news039.html"
+        },
+        {
+          "title": "日立とNTTドコモビジネス、IOWN光ネットワークを用い600km超離れたデータセンター間で自動災害復旧に世界初成功",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2136800.html"
+        },
+        {
+          "title": "ナノ粒子を用いて脳細胞を再活性化し記憶を回復させるアルツハイマー病の新治療アプローチが発表",
+          "source_url": "https://newatlas.com/brain/alzheimers-dementia/nanoparticles-regenerate-dead-brain-cells/"
+        },
+        {
+          "title": "エヌビディアが台湾メディアテックに35億ドルを出資、ビッグテックの独自AIチップ内製化に対抗",
+          "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+        },
+        {
+          "title": "華為とETH Zurich、高帯域幅フラッシュ基板を活用したLLM推論加速基盤「FLINT」を発表",
+          "source_url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/"
+        },
+        {
+          "title": "メタ、データセンターのケーブル交換やサーバー再起動を全自動化する実用ロボットを現場投入へ",
+          "source_url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+        },
+        {
+          "title": "Linuxディストリビューション「Debian」、開発やドキュメント作成におけるAI生成コードの利用を正式承認",
+          "source_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
+        },
+        {
+          "title": "排熱を直接冷気へ変換する形状記憶合金を用いた「モーターレス完全冷却システム」が開発される",
+          "source_url": "https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration"
+        },
+        {
+          "title": "米国立研究所、AI制御のワイヤアーク3Dプリンティング（WAAM）で原子力圧力容器の国産サプライチェーンを構築へ",
+          "source_url": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/?utm_source=rss&utm_medium=rss&utm_campaign=ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap"
         }
       ]
     }
