@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-25",
-      "stories": [
-        {
-          "title": "8GBのVRAMで350億パラメータの巨大AIモデルを駆動する「フリートークン（FreeToken）」が公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2134988.html"
-        },
-        {
-          "title": "コンテキスト100万トークン対応で超高速処理、謎の匿名AIモデル「オックス・アルファ（Ox Alpha）」が無料公開",
-          "source_url": "https://gigazine.net/news/20260824-ox-alpha/"
-        },
-        {
-          "title": "エルジー（LG）、キャスター付き・平置き対応の32型4Kコードレススマートモニター「スタンバイミー2 マックス」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2135147.html"
-        },
-        {
-          "title": "エイスース（ASUS）、普通の自転車を電動アシスト化する変換キット「オキシス（oxiis）E250G1」を発表",
-          "source_url": "https://www.gizmodo.jp/article/asus-oxiis-e250g1/"
-        },
-        {
-          "title": "ポケットに入る極小サイズで強力噴射、スパイサー（SPICERR）が「ポケッタブルジェットファン SJU-1」を発売",
-          "source_url": "https://www.gizmodo.jp/article/303542-2608-amazon-spicerrsju1-urc/"
-        },
-        {
-          "title": "タコやエビをまるごとプレス！サンコーが「復刻版 プレスでパリパリなんでもせんべいメーカー2」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134480.html"
-        },
-        {
-          "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」の実力が脚光",
-          "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free"
-        },
-        {
-          "title": "米FDA、40歳から測定可能なアルツハイマー病の早期血液診断テストを初承認",
-          "source_url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/"
-        },
-        {
-          "title": "アイビーエム（IBM）、同一コアでArmとz/Architectureをネイティブ実行する2nmメインフレーム用チップを発表",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/ibms-first-dual-isa-core-natively-executes-arm-and-z-architecture-in-the-same-core-all-cores-run-at-5-7-ghz-base-frequency-next-gen-mainframe-ai-processor-is-built-on-2nm-node-with-11-cores"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）とスペースX（SpaceX）、宇宙空間に最適化した軌道上AIサーバーを共同開発",
-          "source_url": "https://twitter.com/elonmusk/status/2091939113008238838"
-        },
-        {
-          "title": "SKハイニックス（SK Hynix）、次世代AIメモリ「HBM5」の積層限界と実装上の課題を明らかに",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling"
-        },
-        {
-          "title": "エレコム（ELECOM）、ファンレス設計の10GbE対応5ポート小型スイッチ「EHC-X05MA-HB」を発売",
-          "source_url": "https://internet.watch.impress.co.jp/docs/column/shimizumovie/2134596.html"
-        },
-        {
-          "title": "エヌビディア（NVIDIA）、大手顧客に対しAIサーバーおよび次世代チップの15％以上の値上げを予告",
-          "source_url": "https://gigazine.net/news/20260824-nvidia-price-hike-ai-related-products/"
-        },
-        {
-          "title": "中国の二足歩行ロボ「天工 Omni」、人型ロボット運動会の400m走で驚異の45秒66を叩き出し優勝",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/24/2000000730/"
-        },
-        {
-          "title": "欧州ハイパフォーマンス・コンピューティング共同事業（EuroHPC）、量子技術へ1億1900万ユーロの大型支援を開始",
-          "source_url": "https://www.hpcwire.com/off-the-wire/eurohpc-launches-6-quantum-calls-with-e119m-in-funding/"
-        },
-        {
-          "title": "日本政府、AIを活用して材料開発スピードを10倍に高速化する国家推進プロジェクトを開始",
-          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold"
-        },
-        {
-          "title": "NTTドコモと三菱地所、丸の内エリアで街の景観に溶け込む5Gミリ波基地局を共同開発",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2135078.html"
-        },
-        {
-          "title": "シャープ、狭小・複雑な屋根にも隙間なく設置できる住宅用単結晶太陽光モジュール「Full Fit」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2134967.html"
-        }
-      ]
-    },
-    {
       "date": "2026-08-26",
       "stories": [
         {
@@ -585,6 +508,67 @@
         {
           "title": "米国立研究所、AI制御のワイヤアーク3Dプリンティング（WAAM）で原子力圧力容器の国産サプライチェーンを構築へ",
           "source_url": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/?utm_source=rss&utm_medium=rss&utm_campaign=ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "stories": [
+        {
+          "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2137448.html"
+        },
+        {
+          "title": "オープンAI、サイバー侵入能力を持つ最新モデル「アストラ」を限定共有へ",
+          "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+        },
+        {
+          "title": "アンスロピック、誤制限を減らしコストを下げた新モデル「Claude Fable 5.1」をリリース",
+          "source_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+        },
+        {
+          "title": "シャオミ、背面に本格2.1chウーファーを搭載した異色スマホ「POCO F9 Ultra」を発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2136657.html"
+        },
+        {
+          "title": "ダイソン、口の中をリアルタイム映像で写す約8万円のカメラ付き超高級電動歯ブラシを発表",
+          "source_url": "https://www.theguardian.com/technology/2026/sep/01/dyson-toothbrush-camera-films-live-footage-inside-mouth"
+        },
+        {
+          "title": "昭和・平成のガラケーを再現、開閉式トイカメラ「EmoFlip」が懐かしいと話題に",
+          "source_url": ""
+        },
+        {
+          "title": "ソノス、AIエージェント連携に対応したオーディオOS「Sonos 27」と新サウンドバーを発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2137394.html"
+        },
+        {
+          "title": "低価格ヒューマノイドのノリ・ロボティクス、開発者向けロボットAI基盤を本格展開",
+          "source_url": "https://www.norirobotics.com/"
+        },
+        {
+          "title": "国内産業用ロボ大手3社、画像と触覚を統合した「視触覚ハンド」開発で連携",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082400003/"
+        },
+        {
+          "title": "村田製作所、マスクに装着して騒音下でも声だけを拾うクリップ型マイク基板技術を開発",
+          "source_url": "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/"
+        },
+        {
+          "title": "富士フイルム、AIと実験ロボットの融合で半導体研磨剤の開発スピードを2倍に高速化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11978/"
+        },
+        {
+          "title": "トヨタ、強化学習と二輪倒立制御を採用した新世代バスケロボ「CUE7」の開発秘話を公開",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/081700013/"
+        },
+        {
+          "title": "AIが描いた「アルファ・ケンタウリ」への恒星間探査船計画、2029年打ち上げを目指し始動",
+          "source_url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+        },
+        {
+          "title": "化学肥料ゼロへ、空気中の窒素を取り込む遺伝子組み換え「窒素固定菌」の農地実証が進展",
+          "source_url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
         }
       ]
     }
