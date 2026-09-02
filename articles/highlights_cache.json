@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-26",
-      "stories": [
-        {
-          "title": "アンスロピック（Anthropic）、「クロード（Claude）」の対話機能と「コワーク」で記憶を一元化",
-          "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
-        },
-        {
-          "title": "マイクロソフト（Microsoft）、ペイントやフォトでAI処理した画像に「隠し電子水透かし（GUID）」を埋め込み",
-          "source_url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"
-        },
-        {
-          "title": "ビクター（Victor）、逆位相の音波で音漏れを相殺するオープンイヤー型完全ワイヤレスイヤホン「HA-NP80T」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2135304.html"
-        },
-        {
-          "title": "エコバックス（ECOVACS）、全自動給排気＆コード収納ステーション付き窓拭きロボット「WINBOT W2S PRO OMNI」発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135118.html"
-        },
-        {
-          "title": "パイオニア、ニンテンドースイッチ2やスマホに一体装着できるポータブルゲーミングスピーカー「TQ-PG400」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2135369.html"
-        },
-        {
-          "title": "フィットビット（Fitbit）創業者ら、スマホ不要で動作するLTE通信搭載ヘルスバンド「ラフ・リンク（Luffu Link）」を発表",
-          "source_url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/"
-        },
-        {
-          "title": "オープンAI（OpenAI）、自社開発AI推論チップ「ハラペーニョ（Jalapeño）」のベンチマーク結果を初公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/openai-says-its-jalapeno-chip-beats-nvidias-gb300-in-first-published-benchmarks"
-        },
-        {
-          "title": "アップル（Apple）、2nmプロセスの「M6」およびクアッドダイ構造の最高峰「M5 Ultra」を発表",
-          "source_url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/"
-        },
-        {
-          "title": "サムスン（Samsung）、メモリ内部でAI演算を行う「LPDDR5X-PIM」を発表 推論処理を3倍高速化",
-          "source_url": "https://www.tomshardware.com/pc-components/dram/hot-chips-2026-samsung-makes-lpddr5x-smart-with-logic-unit-in-memory-lpddr5x-pim-is-3-01x-faster-than-lpddr5x-in-ai-inference-with-8x-the-bandwidth"
-        },
-        {
-          "title": "米FDA、ケトン体と血糖値をリアルタイムに同時測定できる初のウェアラブル機器を承認",
-          "source_url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
-        },
-        {
-          "title": "ノードソン（Nordson）、大型パネルレベルパッケージング対応の精密液体塗布装置「バンテージ XL」を発表",
-          "source_url": "https://www.engineering.com/nordson-introduces-vantage-xl-for-panel-level-packaging/"
-        },
-        {
-          "title": "1700ドル未満の家庭用お手伝いロボット「ノリ A3（Nori A3）」が登場、日常家事の自動化を目指す",
-          "source_url": "https://newatlas.com/robotics/household-robot-chores-nori-a3/"
-        },
-        {
-          "title": "わずか5.9MBの超軽量オープンソースPostgres管理ツール「Pgbot」が公開",
-          "source_url": "https://pgbot.dev/"
-        },
-        {
-          "title": "クアルコム（Qualcomm）、スマホ向けプロセッサとして業界初の5GHz駆動を実現した「オーリオン（Oryon）」新アーキテクチャを発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2135548.html"
-        },
-        {
-          "title": "AIデータセンターの急速な拡大に伴い「隠れた水リスク」が深刻化、環境団体が報告書を発表",
-          "source_url": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers"
-        },
-        {
-          "title": "防衛装備庁、テラドローンと自爆型無人機を防ぐ国産迎撃ドローン「Terra B1」の量産契約を締結",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/25/2000000772/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-27",
       "stories": [
         {
@@ -569,6 +500,91 @@
         {
           "title": "化学肥料ゼロへ、空気中の窒素を取り込む遺伝子組み換え「窒素固定菌」の農地実証が進展",
           "source_url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "stories": [
+        {
+          "title": "グーグル、推論力と自律ツール呼び出しを強化した「Gemini 3.8 Flash」を電撃リリース",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+        },
+        {
+          "title": "フェイフェイ・リー氏のワールド・ラボ、空間知能オムニモデル「Atlas」を発表",
+          "source_url": "https://www.worldlabs.ai/blog/atlas"
+        },
+        {
+          "title": "NEC、アンスロピックの最上位AI「Claude Mythos」をサイバー防衛基盤に導入",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/02/2000001075/"
+        },
+        {
+          "title": "米政権、オープンAIとNYTの著作権訴訟で「AI学習はフェアユース」と公式支持を表明",
+          "source_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/"
+        },
+        {
+          "title": "メタ、20人超の話者を同時識別するリアルタイム音声認識AI「Muse Voice Transcribe」発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/02/2000001062/"
+        },
+        {
+          "title": "ファーウェイ、バンド部に本物の血圧測定カフを内蔵した新型スマートウォッチを発表",
+          "source_url": "https://www.androidpolice.com/huawei-watch-d3-watch-gt-7-watch-6-news/"
+        },
+        {
+          "title": "DJI、ドローンとジンバルの光学・安定化技術を結集した8K 360度カメラ「Osmo 360 II」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2137664.html"
+        },
+        {
+          "title": "普段はガラステーブル、遊ぶ時だけレース席に変身する収納コックピット「STRASSE CUBE」",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2137712.html"
+        },
+        {
+          "title": "エレコム、アンテナ内蔵で体積57%減を実現した極小Wi-Fi 7ルーターを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2137612.html"
+        },
+        {
+          "title": "サムスン電子、HBM4E比で2倍の転送速度を誇る次世代「HBM5」の仕様を予告",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/samsung-teases-new-hbm5-with-twice-the-performance-of-hbm4e-ambitious-data-transfer-rates-could-hint-at-4-096-bit-interface"
+        },
+        {
+          "title": "先端3D半導体積層技術「ハイブリッド・ボンディング」、TSMCが6μmピッチで量産体制へ",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined"
+        },
+        {
+          "title": "理研とホンダ、薄型センサーデバイスを用いた触覚AI制御の「多指ハンド」共同開発へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082500004/"
+        },
+        {
+          "title": "東芝とQST、核融合実験炉ITER向け超電導TFコイルの4K極低温通電試験に成功",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03363/"
+        },
+        {
+          "title": "KDDIとサムスン、6G向け7GHz帯の屋外実証で世界最高水準の下り3.6Gbpsを達成",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2137574.html"
+        },
+        {
+          "title": "ソフトバンク、成層圏通信プラットフォーム（HAPS）による日本初の空中基地局飛行試験に成功",
+          "source_url": "https://asia.nikkei.com/business/companies/softbank-tests-stratospheric-aerial-base-station-in-japan-1st"
+        },
+        {
+          "title": "痛みのないマイクロニードルで抗がん剤を届ける生体溶解性3Dプリントパッチが開発",
+          "source_url": "https://3dprintingindustry.com/news/qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer-254329/?utm_source=rss&utm_medium=rss&utm_campaign=qub-researchers-3d-print-a-dissolving-patch-to-treat-skin-cancer"
+        },
+        {
+          "title": "アディダス、完全3Dプリントスニーカー「Futurecool」で量産スケール展開へ舵",
+          "source_url": "https://3dprintingindustry.com/news/from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool-254323/?utm_source=rss&utm_medium=rss&utm_campaign=from-novelty-to-volume-adidas-bets-on-3d-printed-scale-with-futurecool"
+        },
+        {
+          "title": "平坦な「フラット型光ファイバー」が従来の円形型を凌駕する超高感度センシングを実現",
+          "source_url": "https://newatlas.com/materials/flat-optical-fiber-design-superior-sensing-capabilities/"
+        },
+        {
+          "title": "3D多孔質集電体を採用、極低温下でのバッテリー性能を激変させる新構造が登場",
+          "source_url": "https://www.engineering.com/addionics-develops-battery-architecture-for-low-temperature-use/"
+        },
+        {
+          "title": "Webブラウザ上でLLMを完全ローカル実行するオープン基盤「WebLLM」に脚光",
+          "source_url": "https://github.com/mlc-ai/web-llm"
         }
       ]
     }
