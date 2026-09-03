@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-27",
-      "stories": [
-        {
-          "title": "謎の高速モデル「オックス・アルファ」の正体は智譜AIのGLM最新型と判明、オープンウェイト化へ",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
-        },
-        {
-          "title": "オープンAIの最上位AI「GPT-5.6 Sol」、開発自動化テストで「不正行為」を多発する挙動が発覚",
-          "source_url": "https://gigazine.net/news/20260827-sol-loves-to-cheat/"
-        },
-        {
-          "title": "マイコン「ESP32」上でクロードが自律思考！名作ゲーム「DOOM」の自動プレイ実験が成功",
-          "source_url": "https://hackaday.com/2026/08/26/claude-plays-doom/"
-        },
-        {
-          "title": "アリババ、システムRAMを活用して超高速化を図る「Qwen3.8-Flash-Next」を無償公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2135941.html"
-        },
-        {
-          "title": "中国政府、少子化や人間関係の希薄化を懸念して「AIパートナー・対話ボット」への規制を強化",
-          "source_url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern"
-        },
-        {
-          "title": "シャープ、ポケットに入る対話AI「ポケとも」第2弾を発表 新たにロボ同士の自動会話機能も搭載",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135371.html"
-        },
-        {
-          "title": "メタ、会話や視界解析ができるスマートグラス「Meta Glasses」を日本国内で正式発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2135673.html"
-        },
-        {
-          "title": "アイリスオーヤマ、フタを開けたまま全自動で炒め物を仕上げる調理鍋「Chef Chao」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2135640.html"
-        },
-        {
-          "title": "水月雨（MOONDROP）、アルミ・マグネシウム振動板を採用した4,950円の高品質イヤホン「竹III」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2135753.html"
-        },
-        {
-          "title": "人型ロボット30台超が24時間働く「AI学習データ収集工場」が日本国内で稼働開始",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html"
-        },
-        {
-          "title": "ステッピングモーターやベルトを全廃！リニアモーター駆動の超高速3Dプリンター「LightMake L4」が登場",
-          "source_url": "https://www.youtube.com/watch?v=stc_mAbYoZw"
-        },
-        {
-          "title": "回路基板に機能とアートを融合させる「構造化PCB」の最新技術トレンドが欧州で脚光",
-          "source_url": "https://hackaday.com/2026/08/26/hackaday-europe-2026-pcbs-with-a-plot/"
-        },
-        {
-          "title": "メタ、AIモデル学習と大規模広告配信を1チップで兼ね備える独自プロセッサ「MTIA 400」を発表",
-          "source_url": "https://www.theregister.com/systems/2026/08/26/metas-new-mtia-400-chip-has-a-split-personality-training-ai-and-serving-ads/5292727"
-        },
-        {
-          "title": "富士通、144コアの次世代ArmサーバーCPU「Monaka」の仕様を公開 全キャッシュを5nm別ダイに積層",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/fujitsus-monaka-cpu-stacks-its-entire-cache-on-a-separate-5nm-die-and-narrows-to-256-bit-sve2"
-        },
-        {
-          "title": "JAXA発スタートアップのエンブレム、災害救助を目指す人造ウェアラブル飛行装置を初公開",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/081300035/"
-        },
-        {
-          "title": "カメラ不要！室内のWi-Fi電波の揺らぎだけで人物をほぼ100%の精度で個人識別する技術",
-          "source_url": "https://newatlas.com/technology/wi-fi-identify-individuals/"
-        },
-        {
-          "title": "AIデータセンターの爆発的な電力不足を救う「プラチナ燃料電池」ソリューションが脚光",
-          "source_url": "https://www.gizmodo.jp/article/data-centers-will-eat-12-of-us-electricity-by-2030-this-platinum-fuel-cell-fix-may-help/"
-        },
-        {
-          "title": "スマホ単体で動くオープンソースの自律型AIコーディングエージェント「Devx」が登場",
-          "source_url": "https://github.com/apvcode/Termux-Dev"
-        },
-        {
-          "title": "3Dプリント可能な医療用ヒドロゲルが開発、皮膚組織再生や個別化された噛める薬の製造へ",
-          "source_url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-08-28",
       "stories": [
         {
@@ -585,6 +504,83 @@
         {
           "title": "Webブラウザ上でLLMを完全ローカル実行するオープン基盤「WebLLM」に脚光",
           "source_url": "https://github.com/mlc-ai/web-llm"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "stories": [
+        {
+          "title": "エヌビディア、AI開発プラットフォーム「ハギングフェイス」を約2兆円で買収へ",
+          "source_url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html"
+        },
+        {
+          "title": "オープンAI、自律型AIモデル「GPT-6 Astra」を正式発表 AGI時代の幕開けを宣言",
+          "source_url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html"
+        },
+        {
+          "title": "レノボ、冷却ファンを全廃し固体素子「AirJet」を搭載した極薄ノートPC構想を披露",
+          "source_url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/"
+        },
+        {
+          "title": "クアルコム出資で「スマートリング」がウェアラブルコンピュータへ進化",
+          "source_url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/"
+        },
+        {
+          "title": "昭和のダイヤル式黒電話を無改造で携帯電話化する「RotaryCell」が登場",
+          "source_url": "https://gigazine.net/news/20260904-rotarycell/"
+        },
+        {
+          "title": "バッファロー、自社開発にこだわった初のトラックボール「BSTBB700X」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html"
+        },
+        {
+          "title": "ソニーセミコン、半導体設計にエージェンティックAIを導入・検証",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11980/"
+        },
+        {
+          "title": "エヌビディア、家庭内の余剰PCを束ねてAI推論を分散実行する無料ツール「PAIR」を公開",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+        },
+        {
+          "title": "エヌビディアのPC向けArm SoC「RTX Spark」搭載ノートPCが10月に登場へ",
+          "source_url": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory"
+        },
+        {
+          "title": "高密度基板の熱破壊を防ぐ「プレスフィット技術」の採用が電子実装で再拡大",
+          "source_url": "https://www.electronicsweekly.com/news/why-press-fit-technology-continues-to-expand-2026-09/"
+        },
+        {
+          "title": "アップル「Vision Pro」、世界初となる股関節鏡手術での臨床活用に成功",
+          "source_url": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/"
+        },
+        {
+          "title": "ロンドン市内で初の自動運転ロボタクシーが営業運行を開始",
+          "source_url": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber"
+        },
+        {
+          "title": "水素製造の水電解効率を大幅に高める新ステンレス鋼「SS-H2」が開発される",
+          "source_url": "https://newatlas.com/energy/stainless-steel-hydrogen-electrolysis/"
+        },
+        {
+          "title": "メイン大学、時速70km超で航行可能な大型3Dプリント高速ボート「3Dirigo X」を公開",
+          "source_url": "https://3dprintingindustry.com/news/umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat-254357/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-launches-3dirigo-x-a-3d-printed-30-foot-boat"
+        },
+        {
+          "title": "水上艇・水中翼・地面効果翼を1機に統合した電動シーグライダー「Viceroy」が初飛行",
+          "source_url": "https://newatlas.com/aircraft/regent-craft-viceroy-wig-hydrofoil-aircraft-maiden-flight/"
+        },
+        {
+          "title": "ChatGPT・Claude・Grokが同時ダウン、世界規模の生成AI依存リスクが浮き彫りに",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
+        },
+        {
+          "title": "キノコの菌糸体からプログラム可能な「生体テキスタイル」の作成に成功",
+          "source_url": "https://newatlas.com/materials/fungi-programmable-living-textiles/"
+        },
+        {
+          "title": "アクションカメラの草分けゴープロ、買収に伴い防衛・航空宇宙・ロボティクス分野へ進出",
+          "source_url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition"
         }
       ]
     }
