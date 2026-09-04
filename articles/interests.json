@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T08:16:55.317530+09:00",
+  "updated_at": "2026-09-04T10:36:02.747117+09:00",
   "items": [
     {
       "title": "塩野義製薬、生成AIの正答率を90%に向上させた機密データ最適化手法を公開",
@@ -216,6 +216,34 @@
       "category": "ソフトウェア・開発ツール",
       "date": "2026-08-27",
       "source_url": "https://github.com/apvcode/Termux-Dev",
+      "importance": 4
+    },
+    {
+      "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
+      "category": "LLM・生成AI",
+      "date": "2026-09-02",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2137448.html",
+      "importance": 5
+    },
+    {
+      "title": "AIが描いた「アルファ・ケンタウリ」への恒星間探査船計画、2029年打ち上げを目指し始動",
+      "category": "宇宙・航空",
+      "date": "2026-09-02",
+      "source_url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "importance": 4
+    },
+    {
+      "title": "グーグル、推論力と自律ツール呼び出しを強化した「Gemini 3.8 Flash」を電撃リリース",
+      "category": "LLM・生成AI",
+      "date": "2026-09-03",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "importance": 5
+    },
+    {
+      "title": "Webブラウザ上でLLMを完全ローカル実行するオープン基盤「WebLLM」に脚光",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-09-03",
+      "source_url": "https://github.com/mlc-ai/web-llm",
       "importance": 4
     }
   ]
