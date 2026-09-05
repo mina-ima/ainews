@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-29",
-      "stories": [
-        {
-          "title": "中国Z.ai、最上位級AIモデル「GLM-5.3」をオープンウェイトとして無償公開",
-          "source_url": "https://gigazine.net/news/20260829-glm-5-3-open/"
-        },
-        {
-          "title": "米裁判所、トランプ政権によるアンスロピックの「サプライチェーンリスク」指定を違法と判決",
-          "source_url": "https://www.ibtimes.com/anthropic-just-beat-pentagon-court-judge-said-national-security-was-used-punish-its-ai-rules-3806895"
-        },
-        {
-          "title": "アンスロピックの研究者、モデルの不具合を自動修正する「自己改善AI」の実証実験を公開",
-          "source_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
-        },
-        {
-          "title": "グーグルの「Gemini Notebook」、購入済みの電子書籍を取り込んでAI解説する機能をリリース",
-          "source_url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
-        },
-        {
-          "title": "グーグルLabs、個人の興味に合わせてコンテンツを自動生成する実験アプリ「Dreambeans」を無料公開",
-          "source_url": "https://9to5google.com/2026/08/28/google-dreambeans-free/"
-        },
-        {
-          "title": "ガーミン、衛星通信に対応した最高峰スマートウォッチ「fēnix 9」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136123.html"
-        },
-        {
-          "title": "昭和のスーパーカー自転車が令和に復活、電子ギミックやRFID認証を搭載した大人向けモデルが登場",
-          "source_url": "https://www.itmedia.co.jp/news/article/2608/29/2000000934/"
-        },
-        {
-          "title": "CIO、あらゆるUSB-C端子をマグネット着脱式「MagSafe風」に変える変換コネクタを発表",
-          "source_url": "https://www.gizmodo.jp/article/amazon-cio-usb-c-magsafe-connector/"
-        },
-        {
-          "title": "GPD、電源内蔵でACアダプタ不要の0.93L超小型ミニPC「GPD BOX」を初披露",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2136698.html"
-        },
-        {
-          "title": "伝統の常滑焼とチタンを融合した「アイスコーヒー専用バリスタ急須」が登場",
-          "source_url": "https://www.gizmodo.jp/article/machi-ya-baristakyusu-review-906279/"
-        },
-        {
-          "title": "キーサイト、AIが回路設計を全自動化する「次世代EDAソリューション」を発表",
-          "source_url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html"
-        },
-        {
-          "title": "アトミカ、微細流体冷却とパッケージングを統合した「AI熱マイクロ構造プラットフォーム」を発表",
-          "source_url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/"
-        },
-        {
-          "title": "エヌビディアの未発表技術「DLSS 5」が流出、有志により旧世代GPUへの移植が成功",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/exclusive-dlss-5-has-already-been-ported-to-work-on-rtx-4000-series-graphics-cards-incompatible-cuda-instructions-get-patched-to-work-on-previous-gen-hardware"
-        },
-        {
-          "title": "AIの同じミスを自動防止する設計思想「ハーネスエンジニアリング」が台頭",
-          "source_url": "https://gigazine.net/news/20260828-harness-engineering/"
-        },
-        {
-          "title": "米メイン大学、バイオ素材を使った3Dプリント住宅のコミュニティ建設プロジェクトを拡大",
-          "source_url": "https://3dprintingindustry.com/news/umaine-to-build-up-to-nine-3d-printed-homes-as-it-scales-biohome3d-technology-254215/?utm_source=rss&utm_medium=rss&utm_campaign=umaine-to-build-up-to-nine-3d-printed-homes-as-it-scales-biohome3d-technology"
-        },
-        {
-          "title": "ジンガー、パーツの23%に3Dプリント構造を採用した275万ドルのハイパーカー「21C Spyder」を発表",
-          "source_url": "https://3dprintingindustry.com/news/czingers-21c-spyder-puts-3d-printing-at-the-center-of-a-2-75m-hypercar-254220/?utm_source=rss&utm_medium=rss&utm_campaign=czingers-21c-spyder-puts-3d-printing-at-the-center-of-a-2-75m-hypercar"
-        },
-        {
-          "title": "RIT、バイオプリンティングとスマートセンサーを組み合わせた次世代義手プロトタイプを発表",
-          "source_url": "https://3dprintingindustry.com/news/bioprinting-and-smart-sensors-converge-in-new-rit-prosthetic-prototype-254211/?utm_source=rss&utm_medium=rss&utm_campaign=bioprinting-and-smart-sensors-converge-in-new-rit-prosthetic-prototype"
-        },
-        {
-          "title": "ブルーティ、冷蔵庫の側面に設置できる厚さ75mmの非常用薄型ポータブル電源「FridgePower」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136088.html"
-        },
-        {
-          "title": "手元のUSB-Cケーブルの性能や偽物リスクを瞬時に判定する無料Macアプリ「WhatCable」公開",
-          "source_url": "https://www.dpreview.com/articles/whatcable-is-the-free-mac-app-photographers-with-a-drawer-full-of-usb-c-cables-need/"
-        },
-        {
-          "title": "ピクセラ、バッテリーレスでコンセントやUSBポートから給電できる小型4Gルーター「PIX-MT200e」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2136521.html"
-        }
-      ]
-    },
-    {
       "date": "2026-08-30",
       "stories": [
         {
@@ -593,6 +508,75 @@
         {
           "title": "JR東日本、新宿駅コンコースで「移動式ごみ箱ロボット」の実証実験を開始 改札内を自動巡回",
           "source_url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "stories": [
+        {
+          "title": "アンスロピック、コストを最大45％削減した「Claude Fable 5.1」と「Claude Mythos 5.1」を発表",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html"
+        },
+        {
+          "title": "【続報】オープンAI、自律エージェントによるサイト乗っ取り事案を公式認定 報告枠組みの刷新へ",
+          "source_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+        },
+        {
+          "title": "水月雨（MOONDROP）、7年かけた初の静電型ヘッドフォン「MOONZERO」を公開",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2138545.html"
+        },
+        {
+          "title": "ダイソン、水拭きと吸引を両立し90日ゴミ捨て不要なロボット掃除機「Dyson R2 Nurovi」発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2138308.html"
+        },
+        {
+          "title": "天空、639gの超軽量8型ポータブルゲーミングPC「OneXFly APEX Air」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2138419.html"
+        },
+        {
+          "title": "普段着感覚で着られる！超高分子量ポリエチレン繊維採用の防刃インナー「CLIPEUS」",
+          "source_url": "https://www.gizmodo.jp/article/2609-costorypo-clipeus-review2-1483603262/"
+        },
+        {
+          "title": "AMD、96コア＆液冷MI350Pを2基積んだAIモンスター「Threadripper Halo Station」発表",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd"
+        },
+        {
+          "title": "独イザール・アエロスペース、欧州本土から民間ロケット初の軌道投入に歴史的成功",
+          "source_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
+        },
+        {
+          "title": "膵臓がんの生存期間をほぼ2倍に延ばす革新的な新薬が登場",
+          "source_url": "https://www.gizmodo.jp/article/breakthrough-pill-for-pancreatic-cancer/"
+        },
+        {
+          "title": "人型ロボット開発のフィギュア、最大10万基のGPU活用に向けエヌスケールと提携",
+          "source_url": "https://www.engineering.com/nscale-and-figure-partner-on-humanoid-robot-ai-computing/"
+        },
+        {
+          "title": "シーメンスとナノブリッジ、超低消費電力FPGA向けの論理合成ソリューションで協業",
+          "source_url": "https://www.engineering.com/siemens-and-nanobridge-adopt-fpga-synthesis-solution/"
+        },
+        {
+          "title": "豪RMIT大学、金属の強度と浮力を両立させた「水に浮くチタン」メタマテリアルを開発",
+          "source_url": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water"
+        },
+        {
+          "title": "ライトメイク、1台のデスクトップ機に4つの独立ヘッドを備えた3Dプリンター「L4」発表",
+          "source_url": "https://newatlas.com/3d-printing/lightmake-l4-four-independent-print-heads-one-desktop/"
+        },
+        {
+          "title": "自閉スペクトラム症を引き起こす遺伝子変異と脳発達阻害のネットワーク構造が解明",
+          "source_url": "https://gigazine.net/news/20260905-autism-mutations-protein-networks/"
+        },
+        {
+          "title": "スポティファイ、AIコーディングツール「Claude Code」の消費トークンを90％削減する内製プロキシを公開",
+          "source_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
+        },
+        {
+          "title": "NEC、独自方式の量子コンピューターハードウェア自社開発から撤退へ",
+          "source_url": "https://asia.nikkei.com/business/technology/japan-s-nec-scraps-effort-to-build-a-quantum-computer"
         }
       ]
     }
