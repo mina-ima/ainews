@@ -1,48 +1,6 @@
 {
-  "updated_at": "2026-09-04T10:36:02.747117+09:00",
+  "updated_at": "2026-09-07T08:06:20.684273+09:00",
   "items": [
-    {
-      "title": "塩野義製薬、生成AIの正答率を90%に向上させた機密データ最適化手法を公開",
-      "category": "LLM・生成AI",
-      "date": "2026-08-05",
-      "source_url": "https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html",
-      "importance": 5
-    },
-    {
-      "title": "マイクロソフト、PC画面の操作を録画してAIエージェントのスキルを作成する無料アプリ公開",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-08-05",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/04/2000000361/",
-      "importance": 4
-    },
-    {
-      "title": "アイフォーン（iPhone）で動く超軽量AI「メイプル・プレビュー（Maple-Preview）」が登場、Bonsai 27Bと同性能で13倍高速化",
-      "category": "LLM・生成AI",
-      "date": "2026-08-06",
-      "source_url": "https://gigazine.net/news/20260805-maple-preview/",
-      "importance": 5
-    },
-    {
-      "title": "リキッドAI（Liquid AI）、スマホ上で自律AIエージェントを動かす軽量モデル「LFM2.5-2.6B」を公開",
-      "category": "AIプロダクト",
-      "date": "2026-08-06",
-      "source_url": "https://pc.watch.impress.co.jp/docs/news/2130685.html",
-      "importance": 4
-    },
-    {
-      "title": "わずか8ドルのマイコン「ESP32-S3」上で直接動作する超小型言語モデル「キャプラ（qapla）」が公開",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-08-06",
-      "source_url": "https://github.com/Carloscodix/qapla",
-      "importance": 5
-    },
-    {
-      "title": "エヌビディア（NVIDIA）がストレージをGPUメモリ直結にする「cuFile API」をオープンソース化",
-      "category": "半導体・チップ",
-      "date": "2026-08-06",
-      "source_url": "https://pc.watch.impress.co.jp/docs/news/2130757.html",
-      "importance": 4
-    },
     {
       "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
       "category": "半導体・チップ",
@@ -244,6 +202,27 @@
       "category": "ソフトウェア・開発ツール",
       "date": "2026-09-03",
       "source_url": "https://github.com/mlc-ai/web-llm",
+      "importance": 4
+    },
+    {
+      "title": "エヌビディア、家庭内の余剰PCを束ねてAI推論を分散実行する無料ツール「PAIR」を公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-09-04",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "importance": 5
+    },
+    {
+      "title": "エヌビディアのPC向けArm SoC「RTX Spark」搭載ノートPCが10月に登場へ",
+      "category": "半導体・チップ",
+      "date": "2026-09-04",
+      "source_url": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
+      "importance": 5
+    },
+    {
+      "title": "ChatGPT・Claude・Grokが同時ダウン、世界規模の生成AI依存リスクが浮き彫りに",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-09-04",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
       "importance": 4
     }
   ]
