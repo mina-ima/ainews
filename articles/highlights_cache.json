@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-30",
-      "stories": [
-        {
-          "title": "オープンAI、スペースX傘下となったAIエージェント「カーソル」へのモデル提供停止を発表",
-          "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/"
-        },
-        {
-          "title": "オープンAIの複数の自動エージェントが結託し、評価テスト中にハッキングを試みる挙動が発覚",
-          "source_url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
-        },
-        {
-          "title": "ソニー・ミュージックとワーナー、大規模な著作権侵害でアンスロピックを提訴",
-          "source_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-        },
-        {
-          "title": "カリフォルニア州、厳しい年齢確認法の対象からLinuxなどオープンソースソフトを全会一致で除外",
-          "source_url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt"
-        },
-        {
-          "title": "グーグル、「ポケモンスリープ」と連携する特別仕様の「Fitbit Air」を発表",
-          "source_url": "https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/"
-        },
-        {
-          "title": "富士フイルム、20年ぶりの新製品「写ルンです Black and White」を9月発売",
-          "source_url": "https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/"
-        },
-        {
-          "title": "ガラケーとしても使える通話機能付きポータブルバッテリー「Nokia 300 Charge」が登場",
-          "source_url": "https://newatlas.com/outdoor-gear/power-bank-dumbphone-hmd-nokia-300-charge/"
-        },
-        {
-          "title": "スマートグラスは映画鑑賞の未来を変えるか？XREALの最新モデルが注目を集める",
-          "source_url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
-        },
-        {
-          "title": "サムスン、DRAM内部で直接データ計算を行う次世代「PIM」技術の全貌を公開",
-          "source_url": "https://ben3d.ca/blog/processing-in-memory"
-        },
-        {
-          "title": "防衛省、通信基盤にNTTの次世代光ネットワーク「IOWN」技術を採用へ",
-          "source_url": "https://asia.nikkei.com/politics/defense/japan-defense-forces-to-use-ntt-s-optical-network-tech-for-communications"
-        },
-        {
-          "title": "国産ヒューマノイドロボットがベルトコンベヤー作業を自律実行、3時間の長時間生配信を実施",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/"
-        },
-        {
-          "title": "1960年代の「磁気コアメモリ」を搭載したUSBドライブが制作されファイル転送に成功",
-          "source_url": "https://www.tomshardware.com/pc-components/usb-flash-drives/magnetic-core-memory-usb-drive-transfers-files-in-sneakernet-first-text-and-image-files-get-moved-between-pcs-via-hugely-constrained-archaic-memory-tech"
-        },
-        {
-          "title": "米海軍、潜水艦製造の遅延を解消するため金属3Dプリント技術の採用基準を大幅簡素化",
-          "source_url": "https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114/?utm_source=rss&utm_medium=rss&utm_campaign=navy-fast-tracks-3d-printed-parts-to-boost-submarine-production"
-        },
-        {
-          "title": "オークリッジ国立研究所、3Dプリントと電鋳を融合させた高耐久・高密閉の原子力部材工法を開発",
-          "source_url": "https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206/?utm_source=rss&utm_medium=rss&utm_campaign=new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components"
-        },
-        {
-          "title": "太陽光発電で走るソーラーEVの本格量産に向け4,400万ドルの大型製造契約が締結",
-          "source_url": "https://frequal.com/aptera/ProductionDealAug2026.html"
-        },
-        {
-          "title": "リュックに収まる8.8オンスの超小型ドローン迎撃機「Spike」が登場",
-          "source_url": "https://www.tomshardware.com/tech-industry/drones/startup-raises-usd7-million-to-build-backpack-portable-8-8-ounce-drone-interceptors-mara-claims-20x-cost-advantage-over-other-interceptors-priced-one-for-one-against-attack-drones"
-        },
-        {
-          "title": "若返り注射で血液細胞の年齢を反転？バイオベンチャーが新薬投与のテスト開始を発表",
-          "source_url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
-        },
-        {
-          "title": "格安マイコン液晶基板「CYD」で専用Wikipedia閲覧端末を自作するプロジェクト",
-          "source_url": "https://hackaday.com/2026/08/29/wikipedia-on-a-cheap-yellow-display/"
-        }
-      ]
-    },
-    {
       "date": "2026-08-31",
       "stories": [
         {
@@ -577,6 +500,91 @@
         {
           "title": "NEC、独自方式の量子コンピューターハードウェア自社開発から撤退へ",
           "source_url": "https://asia.nikkei.com/business/technology/japan-s-nec-scraps-effort-to-build-a-quantum-computer"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "stories": [
+        {
+          "title": "オープンAI、研究業務を自律実行する「AIリサーチインターン」の社内実現を報告",
+          "source_url": "https://openai.com/index/research-acceleration-view-inside-openai"
+        },
+        {
+          "title": "グーグルのAI「Gemini」に依存した登山計画で遭難、AIアドバイス過信のリスク浮き彫り",
+          "source_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+        },
+        {
+          "title": "ローランド、音楽制作用DAWプラグイン型の生成AI「Melody Flip」を発表",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
+        },
+        {
+          "title": "満充電になると2本足で自らケーブルを蹴り外す「マンタン・デタッチャブル」",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html"
+        },
+        {
+          "title": "睡眠特化型イヤホン「Ozlo Sleepbuds 2」、横向き寝でも快適な快眠サポート",
+          "source_url": "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/"
+        },
+        {
+          "title": "CPUから各種ポートまで分解・交換可能な高修理性ノートPC「Vero 16」",
+          "source_url": "https://www.gizmodo.jp/article/acers-vero-16-is-its-most-repairable-laptop-ever/"
+        },
+        {
+          "title": "レトロゲームのカセットをUSB-C接続で直接PCへ読み込むアダプタが脚光",
+          "source_url": "https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"
+        },
+        {
+          "title": "無症状者を対象としたアルツハイマー病予防薬の大規模臨床試験が始動",
+          "source_url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia"
+        },
+        {
+          "title": "ブタからヒトへの腎臓異種移植、過去最長となる9カ月の生存を達成",
+          "source_url": "https://gigazine.net/news/20260906-pig-kidney/"
+        },
+        {
+          "title": "電極とカメラを背負った「サイボーグゴキブリ」が被災地救助向けに開発",
+          "source_url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/"
+        },
+        {
+          "title": "国内コンソーシアムJ-HRTI、40台の人型ロボでフィジカルAI用動作データを大規模収集",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090200016/"
+        },
+        {
+          "title": "温度と圧力をリアルタイム感知、義肢向けの高性能「電子人工皮膚」が登場",
+          "source_url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/"
+        },
+        {
+          "title": "PCB設計ツール市場が約135億ドル規模へ急成長、AI連携と選定基準が議論に",
+          "source_url": "https://www.engineering.com/choosing-your-first-pcb-design-tool-hobbyist-or-pro/"
+        },
+        {
+          "title": "IBM、次世代プロセッサ「IBM Quantum Nighthawk R2」の詳細を発表",
+          "source_url": "https://www.ibm.com/quantum/blog/nighthawk-r2"
+        },
+        {
+          "title": "韓国政府、AIおよび先端半導体の電力急増に備え電力公社5社を統合再編へ",
+          "source_url": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand"
+        },
+        {
+          "title": "複数AIエージェントを1画面でまとめて指揮・連携できる「Herdr」が登場",
+          "source_url": "https://gigazine.net/news/20260906-herdr/"
+        },
+        {
+          "title": "AIエージェントにGitネイティブな永続記憶を与える「OKF Agent Memory」",
+          "source_url": "https://github.com/okf-memory/okf-agent-memory"
+        },
+        {
+          "title": "難燃性と100%リサイクルを両立する航空機内装用ハニカムサンドイッチ材料が開発",
+          "source_url": "https://newatlas.com/materials/epoxy-composite-recyclable-airplane-cabins/"
+        },
+        {
+          "title": "ウコンの天然色素で光を制御し、マイクロメートル級の超微細3Dプリントに成功",
+          "source_url": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/"
+        },
+        {
+          "title": "ウーバー創業者トラビス・カラニック氏、新会社Atomsでロボタクシー市場参入を計画",
+          "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
         }
       ]
     }
