@@ -1,63 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-08-31",
-      "stories": [
-        {
-          "title": "経営幹部をAIチームで代替するOSS「オープン・エグゼクティブ」が登場",
-          "source_url": "https://gigazine.net/news/20260831-ai-virtual-executive-team/"
-        },
-        {
-          "title": "次世代生成アプローチ「連続ディフュージョン言語モデル（CDLM）」の研究が進展",
-          "source_url": "https://sander.ai/2026/08/24/continuous-dlms.html"
-        },
-        {
-          "title": "エイデータ、スマホのNFCでロック解除できるポータブルSSD「Urban Tapsafe」を発表",
-          "source_url": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review"
-        },
-        {
-          "title": "スイッチボット、帰宅を察知して家電を自動作動させる薄型カードトラッカーを展開",
-          "source_url": "https://www.gizmodo.jp/article/2608-296674-switchbot-smart-lacquer-card-2-azh/"
-        },
-        {
-          "title": "グリキット、旅先での利便性を追求した超小型スイッチ用TVドックを公開",
-          "source_url": "https://www.theverge.com/tech/983020/gulikit-dock-nintendo-switch-2-hands-on"
-        },
-        {
-          "title": "サムスンとエクセナ、CXL規格準拠の「ニアメモリ・コンピューティング」デバイスを発表",
-          "source_url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs"
-        },
-        {
-          "title": "スペースX、AIデータセンター給電用タービンブレードの自社内製化を開始",
-          "source_url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
-        },
-        {
-          "title": "NFC環境発電型MCU搭載プリント基板名刺が登場、電池不要で動作",
-          "source_url": "https://wilsonharper.net/projects/businesscard/"
-        },
-        {
-          "title": "キャタピラー、無人鉱山で培養した自動化ノウハウを産業AI展開へ応用",
-          "source_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
-        },
-        {
-          "title": "カリフォルニア大、DIY駆動部を採用した低コスト人型ロボット「Berkeley Humanoid Lite」を開発",
-          "source_url": "https://hackaday.com/2026/08/30/lower-cost-humanoid-robot-leverages-diy-actuators/"
-        },
-        {
-          "title": "Python公式実装「CPython」がオープン命令セット「RISC-V」を正式サポート",
-          "source_url": "https://blog.python.org/2026/08/riscv-now-officially-supported/"
-        },
-        {
-          "title": "日本企業各社、2030年代の月面長期滞在を見据えた「月面都市・インフラ構想」へ本格参入",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00199/00001/"
-        },
-        {
-          "title": "「帯電した雨」が金属防食層を急速侵食するメカニズムが解明",
-          "source_url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-01",
       "stories": [
         {
@@ -585,6 +528,67 @@
         {
           "title": "ウーバー創業者トラビス・カラニック氏、新会社Atomsでロボタクシー市場参入を計画",
           "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "stories": [
+        {
+          "title": "ソニー、伝説的ノイキャンヘッドフォンを現代仕様で復刻「WH-1000XM4C」を発表",
+          "source_url": "https://9to5google.com/2026/09/07/sony-wh-1000xm4c-launch-for-299-alongside-two-more-affordable-headphones/"
+        },
+        {
+          "title": "エコフロー、片手で持ち運べる超小型ポータブル電源「River Gen4」シリーズを発表",
+          "source_url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller"
+        },
+        {
+          "title": "背面にレトロゲーム機をまるごと収納！RGB端子も備えた10インチ小型モニター「Traveller ULW10」",
+          "source_url": "https://www.tomshardware.com/video-games/retro-gaming/this-10-inch-4-3-television-hides-your-retro-consoles-in-a-secret-rear-compartment-unicos-traveller-ulw10-trades-composite-video-for-rgb-scart-and-hdmi"
+        },
+        {
+          "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
+          "source_url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html"
+        },
+        {
+          "title": "カスタム半導体が24時間以内に100ドル未満で届く！「ゴッサム・シリコン」が画期的製造サービスを開始",
+          "source_url": "https://gothamsilicon.com/"
+        },
+        {
+          "title": "ディープシーク、ファーウェイ製AI半導体「Ascend」16万基を内モンゴル新データセンターに導入へ",
+          "source_url": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/"
+        },
+        {
+          "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
+          "source_url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world"
+        },
+        {
+          "title": "AIコーディングエージェントの暴走を防ぐ隔離VM環境「Coop」がオープンソースで登場",
+          "source_url": "https://github.com/trailofbits/coop"
+        },
+        {
+          "title": "東大発スタートアップ、独自AIを搭載した国産四足歩行ロボット「HLQ EDGE」を公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/"
+        },
+        {
+          "title": "リコー、作業動画から多様なロボットの動作モデルを自動生成する「フィジカルAI」を発表",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03371/"
+        },
+        {
+          "title": "3Dプリンターで電極を「ダイヤモンド格子構造」に成形、フロー電池の性能向上に成功",
+          "source_url": "https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444/?utm_source=rss&utm_medium=rss&utm_campaign=study-reveals-better-electrode-geometry-for-flow-batteries"
+        },
+        {
+          "title": "宇宙空間で人工衛星自らが部材を3Dプリント製造、三菱電機が軌道上工場技術を研究",
+          "source_url": "https://www.youtube.com/watch?v=Slj5-xv0lCI"
+        },
+        {
+          "title": "余った2枚目のGPUでAIニューラルレンダリングを実行、フレームレートを最大127%向上させるMODが登場",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus"
+        },
+        {
+          "title": "3Dプリント×専用ソフトウェアで医療装具製造を垂直統合、Hike Medicalが約2250万ドルを調達",
+          "source_url": "https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433/?utm_source=rss&utm_medium=rss&utm_campaign=hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform"
         }
       ]
     }
