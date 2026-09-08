@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-01",
-      "stories": [
-        {
-          "title": "オープンAIがMac miniとMac Studioを数万台規模で爆買い、ローカルAI開発需要でアップルに想定外の特需",
-          "source_url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/"
-        },
-        {
-          "title": "EU、オープンAIのChatGPTを「超大規模検索エンジン」に指定、未成年保護やリスク軽減を義務付けへ",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
-        },
-        {
-          "title": "日本の次期学習指導要領案、小中学校で「情報」を教科化し英語教育におけるAI活用を初明記",
-          "source_url": ""
-        },
-        {
-          "title": "米国防総省、安全な専用ポータル「Pentagon AI」にChatGPTとGrokを追加配備",
-          "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
-        },
-        {
-          "title": "スマホのフラッシュLEDとAI解析を組み合わせ、室内にある盗撮用隠しカメラを瞬時に検出する技術が開発",
-          "source_url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/"
-        },
-        {
-          "title": "シャオミ、普通のメガネに偽装したオープンイヤー型の高性能スマートオーディオグラスを発売",
-          "source_url": "https://www.gizmodo.jp/article/amazon-short-xiaomi-smartglass-2609/"
-        },
-        {
-          "title": "フィリップス、手のひらサイズに最高峰の回転刃技術を凝縮した「コンパクトシェーバー 800シリーズ」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136608.html"
-        },
-        {
-          "title": "アンカー、ポケットサイズに折りたためる25W Qi2対応3-in-1ワイヤレス充電スタンドを発表",
-          "source_url": "https://9to5mac.com/2026/08/31/ankers-foldable-3-in-1-charger-brings-25w-qi2-charging-into-something-pocket-sized/"
-        },
-        {
-          "title": "ティファールブランドから幅15cmの極小サイズ全自動エスプレッソマシン「KRUPS」が日本初上陸",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2136540.html"
-        },
-        {
-          "title": "三菱ケミカル、温めると縮む「負熱膨張」新材料を開発 AI半導体の熱歪みを解決",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2609/01/news039.html"
-        },
-        {
-          "title": "日立とNTTドコモビジネス、IOWN光ネットワークを用い600km超離れたデータセンター間で自動災害復旧に世界初成功",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2136800.html"
-        },
-        {
-          "title": "ナノ粒子を用いて脳細胞を再活性化し記憶を回復させるアルツハイマー病の新治療アプローチが発表",
-          "source_url": "https://newatlas.com/brain/alzheimers-dementia/nanoparticles-regenerate-dead-brain-cells/"
-        },
-        {
-          "title": "エヌビディアが台湾メディアテックに35億ドルを出資、ビッグテックの独自AIチップ内製化に対抗",
-          "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
-        },
-        {
-          "title": "華為とETH Zurich、高帯域幅フラッシュ基板を活用したLLM推論加速基盤「FLINT」を発表",
-          "source_url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/"
-        },
-        {
-          "title": "メタ、データセンターのケーブル交換やサーバー再起動を全自動化する実用ロボットを現場投入へ",
-          "source_url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
-        },
-        {
-          "title": "Linuxディストリビューション「Debian」、開発やドキュメント作成におけるAI生成コードの利用を正式承認",
-          "source_url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
-        },
-        {
-          "title": "排熱を直接冷気へ変換する形状記憶合金を用いた「モーターレス完全冷却システム」が開発される",
-          "source_url": "https://www.tomshardware.com/tech-industry/manufacturing/motorless-solid-state-cooler-uses-heat-to-cool-itself-could-recycle-processor-heat-into-cooling-shape-memory-alloy-films-could-turn-data-center-exhaust-into-refrigeration"
-        },
-        {
-          "title": "米国立研究所、AI制御のワイヤアーク3Dプリンティング（WAAM）で原子力圧力容器の国産サプライチェーンを構築へ",
-          "source_url": "https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123/?utm_source=rss&utm_medium=rss&utm_campaign=ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap"
-        }
-      ]
-    },
-    {
       "date": "2026-09-02",
       "stories": [
         {
@@ -589,6 +512,91 @@
         {
           "title": "3Dプリント×専用ソフトウェアで医療装具製造を垂直統合、Hike Medicalが約2250万ドルを調達",
           "source_url": "https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433/?utm_source=rss&utm_medium=rss&utm_campaign=hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "stories": [
+        {
+          "title": "オープンAI、未解決難問「ナビエ–ストークス方程式」の解法発見を主張し学界で激論が勃発",
+          "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+        },
+        {
+          "title": "メタ、私生活の作業や決済を代行するパーソナルAIエージェント「ミューズ」を発表",
+          "source_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+        },
+        {
+          "title": "ミストラルAI、欧州の主権型フロンティアAIモデル構築に向け30億ユーロを調達",
+          "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+        },
+        {
+          "title": "エレコム、最大16K/60Hz伝送に対応した「HDMI 2.2」国内初認証ケーブルを11月発売へ",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2139178.html"
+        },
+        {
+          "title": "ファーウェイ、大画面に広がる3つ折りスマホ「Mate XT 2」を中国で正式発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2139108.html"
+        },
+        {
+          "title": "スマートテレビ各社がHDMI経由のゲーム・PC映像まで常時監視している実態が判明",
+          "source_url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
+        },
+        {
+          "title": "ゲームボーイ風の外観でサブ画面も備えたMac Studio／mini用多機能ドックが登場",
+          "source_url": "https://www.gizmodo.jp/article/2609-wokyis-mac-docking-station/"
+        },
+        {
+          "title": "サンワサプライ、本体に電源コードをすっきり巻き取れる65W対応5in1モバイルタップを発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2139276.html"
+        },
+        {
+          "title": "グーグル・ディープマインド、ヒトゲノム90億の全変異を予測する「アルファゲノム・アトラス」を公開",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "title": "自律コーディングAIのコグニション、企業価値480億ドルで約3000億円を調達",
+          "source_url": "https://cognition.com/blog/series-e"
+        },
+        {
+          "title": "アーム、AIネイティブ描画対応のモバイルGPU「Mali G2-Ultra NX」を発表",
+          "source_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
+        },
+        {
+          "title": "ビシェイ、窒化アルミニウム基板で超高電力密度を実現した小型薄膜チップ抵抗器を発表",
+          "source_url": "https://www.electronicsweekly.com/news/business/thin-film-resistors-enabling-higher-power-density-in-smaller-footprints-2026-09/"
+        },
+        {
+          "title": "TSMC、2030年に「高NA EUV」露光装置を量産導入へ 次世代A10/A11プロセスに適用",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use"
+        },
+        {
+          "title": "南カリフォルニア大学、乳幼児専用のMRIセンサーを10分・約30ドルで3Dプリント製造",
+          "source_url": "https://3dprintingindustry.com/news/usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes-254504/?utm_source=rss&utm_medium=rss&utm_campaign=usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes"
+        },
+        {
+          "title": "カエルの本物の筋肉組織で泳ぐ「バイオハイブリッド」ロボットエイが開発",
+          "source_url": "https://newatlas.com/robotics/frog-muscle-swimming-robotic-manta-ray/"
+        },
+        {
+          "title": "川崎重工とエッジコーティクス、防衛向けAI自律システム開発で提携",
+          "source_url": "https://www.engineering.com/kawasaki-and-edgecortix-partner-on-ai-defense-systems/"
+        },
+        {
+          "title": "クアンタム・サイバー、80台の3Dプリンターからなるドローン自律量産ファームを構築",
+          "source_url": "https://3dprintingindustry.com/news/quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility-254512/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility"
+        },
+        {
+          "title": "EVバッテリーの寿命は想定よりはるかに長い、大規模実走データで劣化懸念が払拭",
+          "source_url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/"
+        },
+        {
+          "title": "半導体の排熱をエネルギーとして再利用する「可逆計算」チップ開発が進展",
+          "source_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+        },
+        {
+          "title": "ソフトバンク、異なる3世代の光通信方式を単一光トランシーバーで共存させる実証に成功",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2139259.html"
         }
       ]
     }
