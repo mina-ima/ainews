@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T08:04:19.842827+09:00",
+  "updated_at": "2026-09-09T14:22:11.400268+09:00",
   "items": [
     {
       "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
@@ -224,6 +224,27 @@
       "date": "2026-09-04",
       "source_url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
       "importance": 4
+    },
+    {
+      "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-09-08",
+      "source_url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
+      "importance": 5
+    },
+    {
+      "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
+      "category": "その他先端技術",
+      "date": "2026-09-08",
+      "source_url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "importance": 5
+    },
+    {
+      "title": "AIコーディングエージェントの暴走を防ぐ隔離VM環境「Coop」がオープンソースで登場",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-09-08",
+      "source_url": "https://github.com/trailofbits/coop",
+      "importance": 5
     }
   ]
 }
