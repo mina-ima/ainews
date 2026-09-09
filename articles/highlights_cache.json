@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-02",
-      "stories": [
-        {
-          "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2137448.html"
-        },
-        {
-          "title": "オープンAI、サイバー侵入能力を持つ最新モデル「アストラ」を限定共有へ",
-          "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
-        },
-        {
-          "title": "アンスロピック、誤制限を減らしコストを下げた新モデル「Claude Fable 5.1」をリリース",
-          "source_url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
-        },
-        {
-          "title": "シャオミ、背面に本格2.1chウーファーを搭載した異色スマホ「POCO F9 Ultra」を発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2136657.html"
-        },
-        {
-          "title": "ダイソン、口の中をリアルタイム映像で写す約8万円のカメラ付き超高級電動歯ブラシを発表",
-          "source_url": "https://www.theguardian.com/technology/2026/sep/01/dyson-toothbrush-camera-films-live-footage-inside-mouth"
-        },
-        {
-          "title": "昭和・平成のガラケーを再現、開閉式トイカメラ「EmoFlip」が懐かしいと話題に",
-          "source_url": ""
-        },
-        {
-          "title": "ソノス、AIエージェント連携に対応したオーディオOS「Sonos 27」と新サウンドバーを発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2137394.html"
-        },
-        {
-          "title": "低価格ヒューマノイドのノリ・ロボティクス、開発者向けロボットAI基盤を本格展開",
-          "source_url": "https://www.norirobotics.com/"
-        },
-        {
-          "title": "国内産業用ロボ大手3社、画像と触覚を統合した「視触覚ハンド」開発で連携",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/082400003/"
-        },
-        {
-          "title": "村田製作所、マスクに装着して騒音下でも声だけを拾うクリップ型マイク基板技術を開発",
-          "source_url": "https://www.gizmodo.jp/article/murata_mask-voice-clip_ceatec-fot/"
-        },
-        {
-          "title": "富士フイルム、AIと実験ロボットの融合で半導体研磨剤の開発スピードを2倍に高速化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11978/"
-        },
-        {
-          "title": "トヨタ、強化学習と二輪倒立制御を採用した新世代バスケロボ「CUE7」の開発秘話を公開",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/081700013/"
-        },
-        {
-          "title": "AIが描いた「アルファ・ケンタウリ」への恒星間探査船計画、2029年打ち上げを目指し始動",
-          "source_url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
-        },
-        {
-          "title": "化学肥料ゼロへ、空気中の窒素を取り込む遺伝子組み換え「窒素固定菌」の農地実証が進展",
-          "source_url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-03",
       "stories": [
         {
@@ -597,6 +536,87 @@
         {
           "title": "ソフトバンク、異なる3世代の光通信方式を単一光トランシーバーで共存させる実証に成功",
           "source_url": "https://internet.watch.impress.co.jp/docs/news/2139259.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "stories": [
+        {
+          "title": "オープンAIの自律型AI、公開wiki等10以上の外部サイトで「脱走」を共謀していた実態が判明",
+          "source_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/"
+        },
+        {
+          "title": "オープンAIの「GPT-5.6 Sol」が複雑な量子コンピューティング実験の自動化に貢献",
+          "source_url": "https://openai.com/index/codex-quantum-computing-experiments/"
+        },
+        {
+          "title": "音楽生成AIのSuno、レコード業界と初提携した正規許諾学習モデル「v6」を発表",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+        },
+        {
+          "title": "マサチューセッツ州、AIデータセンターのクリーン電力調達を義務付ける新規則を導入",
+          "source_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+        },
+        {
+          "title": "アップル初の折りたたみスマホ「iPhone Duo」登場、AIと3Dプリント設計のヒンジを採用",
+          "source_url": "https://www.dpreview.com/news/apples-folding-phone-is-here-and-its-called-the-iphone-duo/"
+        },
+        {
+          "title": "「Apple Watch Series 12」登場、日常会話を常時巻き戻し・要約できるAI機能を搭載",
+          "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"
+        },
+        {
+          "title": "アップル、オープンイヤー型で強力ノイキャンとライブ翻訳を備えた「AirPods 5」を発表",
+          "source_url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
+        },
+        {
+          "title": "115TOPSのAI性能を名刺サイズに凝縮、超小型モジュール「LattePanda Mu Ultra」発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2139278.html"
+        },
+        {
+          "title": "回路基板設計のためのAI支援エディタ「Copperhead」が登場",
+          "source_url": "https://copperhead.sh/"
+        },
+        {
+          "title": "PC上の全AIエージェントの活動とアクセス権を可視化する監視ツール「Geiger」が登場",
+          "source_url": "https://github.com/Atomburstofficial/geiger"
+        },
+        {
+          "title": "オープンAI、独自AI半導体の量産でサムスン電子への製造委託を検討か",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements"
+        },
+        {
+          "title": "アップル、初の2nmプロセス採用スマートフォン向けSoC「A20 Pro」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip"
+        },
+        {
+          "title": "アップル、撮影画像がAI生成でないことを物理的に証明する「リファレンス画像」機能を開発",
+          "source_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
+        },
+        {
+          "title": "合成生物学で人工細胞を自動・大量合成する「セルファクトリー」の構築に成功",
+          "source_url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory"
+        },
+        {
+          "title": "経産省とNEDOのGENIAC、多用途ロボット基盤モデルの開発採択事業者を発表",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html"
+        },
+        {
+          "title": "NTTらの「IOWN AIファンド」、AIデータセンター向け光回路スイッチのiPronicsへ初投資",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2139491.html"
+        },
+        {
+          "title": "米国の定置型蓄電池導入量が四半期で20GWh超え、過去最高を大幅更新",
+          "source_url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+        },
+        {
+          "title": "樹木の「あて材」が人工筋肉のように能動屈曲するメカニズムを解明",
+          "source_url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html"
+        },
+        {
+          "title": "EC大手のショッピファイ、WebUI標準のCSSフレームワーク「Tailwind CSS」を買収",
+          "source_url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
         }
       ]
     }
