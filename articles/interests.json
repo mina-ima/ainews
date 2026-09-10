@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-09T14:22:11.400268+09:00",
+  "updated_at": "2026-09-11T06:47:04.491812+09:00",
   "items": [
-    {
-      "title": "わずか25ドルのFPGA基板上で毎秒2万1000トークンを叩き出す超小型LLMのライブデモが公開",
-      "category": "半導体・チップ",
-      "date": "2026-08-11",
-      "source_url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
-      "importance": 5
-    },
     {
       "title": "わずか14MBの自律型エージェントLLM「Needle2」が登場、スマホやロボットで直接動作",
       "category": "ソフトウェア・開発ツール",
