@@ -99,6 +99,16 @@ RSS_FEEDS = [
     ("Manufacturing.net", "https://www.manufacturing.net/rss.xml"),
     ("Engineering.com", "https://www.engineering.com/feed/"),
     ("3D Printing Industry", "https://3dprintingindustry.com/feed/"),
+    # --- AI開発元の公式発表（モデル・Agent Skills・MCP の一次情報） ---
+    ("OpenAI News", "https://openai.com/news/rss.xml"),
+    ("Google AI Blog", "https://blog.google/technology/ai/rss/"),
+    ("Google Developers Blog", "https://developers.googleblog.com/feed/"),
+    ("Google DeepMind", "https://deepmind.google/blog/rss.xml"),
+    ("Google Research", "https://research.google/blog/rss/"),
+    # Anthropic は公式RSSが無いため Claude Code のリリースノートで代替
+    ("Claude Code Releases", "https://github.com/anthropics/claude-code/releases.atom"),
+    ("MCP Blog", "https://blog.modelcontextprotocol.io/index.xml"),
+    ("GitHub Changelog", "https://github.blog/changelog/feed/"),
 ]
 
 # ガジェット・民生機器ニュースソース（ギズモード系・Impress Watch系など）
