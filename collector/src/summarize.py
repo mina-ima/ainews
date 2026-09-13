@@ -162,7 +162,12 @@ def _save_last_model(model: str) -> None:
 
 
 def _discover_models(client: genai.Client) -> list[str]:
-    """フォールバック順: 前回成功モデル → 1つ前バージョン → 未来の新バージョン
+    """フォールバック順: 前回成功モデル → 同バージョン → 旧バージョン(新しい順) → 未来の新バージョン
+
+    旧バージョンは「1つ前」だけでなく利用可能な全てを並べる。flash 系は
+    demand spike で 503 UNAVAILABLE を返すことがあり、隣接バージョンは同時に
+    落ちる。2モデルしか試さないと 2026-09-11 / 09-13 のように当日分が丸ごと
+    生成されない（保険 cron 4本とも同じ理由で失敗した）。
 
     -lite バリアントはプロンプト遵守が弱く、20件指示でも数件しか返さない・
     既出URL除外指示を無視するなどの品質問題があるため、各カテゴリ内で
@@ -194,9 +199,6 @@ def _discover_models(client: genai.Client) -> list[str]:
         base_ver = max((_parse_model_version(m)[0] for m in all_models), default=0.0)
 
     # バージョンごとに分類
-    all_vers = sorted({_parse_model_version(m)[0] for m in all_models}, reverse=True)
-    one_back_ver = next((v for v in all_vers if v < base_ver), None)
-
     same, back, future = [], [], []
     for m in all_models:
         if last_model and m == last_model:
@@ -204,9 +206,9 @@ def _discover_models(client: genai.Client) -> list[str]:
         ver, _ = _parse_model_version(m)
         if ver == base_ver:
             same.append(m)
-        elif one_back_ver is not None and ver == one_back_ver:
+        elif ver < base_ver:
             back.append(m)
-        elif ver > base_ver:
+        else:
             future.append(m)
 
     # 各カテゴリ内で non-lite を先、lite を後に並べる
@@ -215,7 +217,8 @@ def _discover_models(client: genai.Client) -> list[str]:
         return ("lite" in suffix, suffix, m)
 
     same.sort(key=_sort_key)
-    back.sort(key=_sort_key)
+    # 旧バージョンは複数世代あるので新しい順
+    back.sort(key=lambda m: ("lite" in _parse_model_version(m)[1], -_parse_model_version(m)[0], m))
     future.sort(key=lambda m: ("lite" in _parse_model_version(m)[1], -_parse_model_version(m)[0], _parse_model_version(m)[1], m))
 
     result = []
@@ -361,7 +364,9 @@ async def _try_gemini(user_prompt: str) -> dict | None:
                         "temperature": 0.3,
                     },
                 )
-                result = json.loads(response.text)
+                # strict=False: Gemini が文字列値に生の改行・制御文字を混ぜてくることが
+                # あり、既定の json.loads は "Invalid control character" で落ちる
+                result = json.loads(response.text, strict=False)
                 count = len(result.get("highlights", []))
 
                 if count >= MIN_HIGHLIGHTS:
@@ -414,7 +419,7 @@ async def _try_groq(user_prompt: str) -> dict | None:
             response_format={"type": "json_object"},
         )
         print("  (使用: Groq llama-3.3-70b)")
-        return json.loads(response.choices[0].message.content)
+        return json.loads(response.choices[0].message.content, strict=False)
     except Exception as e:
         print(f"  Groq エラー: {e}")
         return None
