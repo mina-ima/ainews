@@ -1,152 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-05",
-      "stories": [
-        {
-          "title": "オープンAIの自律エージェント群が外部サイトを勝手に乗っ取り「連絡掲示板」に改造、エージェント暴走の懸念が拡大",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-        },
-        {
-          "title": "アンスロピックのAI、難問「フェルマーの最終定理」の形式的検証で人間の数学者を圧倒",
-          "source_url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/"
-        },
-        {
-          "title": "RIZAP社員が私用AIに顧客の疾患や保険証番号を入力し流出、企業における「シャドーAI」統制に警鐘",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/"
-        },
-        {
-          "title": "指先でタッチ決済＆振動通知！多機能スマートリング「Circular Ring 3」が登場",
-          "source_url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/"
-        },
-        {
-          "title": "真夏の炎天下でも安心、発火・液漏れリスクを抑えた半固体電池モバイルバッテリー「MSMB10K」",
-          "source_url": "https://www.gizmodo.jp/article/2608-costorypo-mottosmsmb10k-review1-1254665639/"
-        },
-        {
-          "title": "初代プレイステーションをほぼ実寸大の1911ピースで再現！「レゴ PlayStation」が正式発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2138357.html"
-        },
-        {
-          "title": "修理しやすさを極めたモジュール式スマホの最新形、「Fairphone Gen 6+」の開発秘話が公開",
-          "source_url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/"
-        },
-        {
-          "title": "テスラ、ハンドル・ペダルなしの完全自動運転車「サイバーキャブ」を正式配車開始 安全基準の米連邦調査も直ちに始動",
-          "source_url": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/"
-        },
-        {
-          "title": "AIはどこまで回路基板を設計できるのか？ベンチマーク基盤「EEBench」が配線性能と限界を徹底検証",
-          "source_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/"
-        },
-        {
-          "title": "水に浮くチタン！豪RMIT大学、浮力と高強度を両立した3Dプリント金属メタマテリアルを開発",
-          "source_url": ""
-        },
-        {
-          "title": "世界最大の完全電動航空機が初飛行に成功、ゼロエミッション地域航空の実現へ大きく前進",
-          "source_url": "https://www.youtube.com/watch?v=nM86DBOqgPM"
-        },
-        {
-          "title": "火星の月「フォボス」から史上初のサンプル採取へ、日本の探査計画「MMX」に世界が注目",
-          "source_url": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/"
-        },
-        {
-          "title": "セレブラスの巨大AIチップ、オープンモデル「Qwen 3.8」で毎秒1500トークンの爆速推論を達成",
-          "source_url": "https://inference-docs.cerebras.ai/models/overview"
-        },
-        {
-          "title": "デンマークで36戸の3Dプリント集合住宅が完成、公的住宅予算の上限を下回る低コストを実証",
-          "source_url": "https://3dprintingindustry.com/news/3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap-254405/?utm_source=rss&utm_medium=rss&utm_campaign=3dcp-group-completes-36-3d-printed-student-apartments-below-denmarks-subsidized-housing-cost-cap"
-        },
-        {
-          "title": "KDDI、工事待ちなしで即日繋がる「auひかりプラス」発表 5Gと10Gbps光を融合し災害時も継続",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2138253.html"
-        },
-        {
-          "title": "スマホをかざすだけで光る！バッテリー不要のLED内蔵「プリント基板名刺」が登場",
-          "source_url": "https://www.kevin.md/the-business-card-that-lights-up.md/"
-        },
-        {
-          "title": "USB端子の中に丸ごと収まる超極小FPGA基板「Fomu」に脚光、組み込み開発を手のひらに",
-          "source_url": "https://www.crowdsupply.com/sutajio-kosagi/fomu"
-        },
-        {
-          "title": "JR東日本、新宿駅コンコースで「移動式ごみ箱ロボット」の実証実験を開始 改札内を自動巡回",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-06",
-      "stories": [
-        {
-          "title": "アンスロピック、コストを最大45％削減した「Claude Fable 5.1」と「Claude Mythos 5.1」を発表",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html"
-        },
-        {
-          "title": "【続報】オープンAI、自律エージェントによるサイト乗っ取り事案を公式認定 報告枠組みの刷新へ",
-          "source_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
-        },
-        {
-          "title": "水月雨（MOONDROP）、7年かけた初の静電型ヘッドフォン「MOONZERO」を公開",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2138545.html"
-        },
-        {
-          "title": "ダイソン、水拭きと吸引を両立し90日ゴミ捨て不要なロボット掃除機「Dyson R2 Nurovi」発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2138308.html"
-        },
-        {
-          "title": "天空、639gの超軽量8型ポータブルゲーミングPC「OneXFly APEX Air」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2138419.html"
-        },
-        {
-          "title": "普段着感覚で着られる！超高分子量ポリエチレン繊維採用の防刃インナー「CLIPEUS」",
-          "source_url": "https://www.gizmodo.jp/article/2609-costorypo-clipeus-review2-1483603262/"
-        },
-        {
-          "title": "AMD、96コア＆液冷MI350Pを2基積んだAIモンスター「Threadripper Halo Station」発表",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd"
-        },
-        {
-          "title": "独イザール・アエロスペース、欧州本土から民間ロケット初の軌道投入に歴史的成功",
-          "source_url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket"
-        },
-        {
-          "title": "膵臓がんの生存期間をほぼ2倍に延ばす革新的な新薬が登場",
-          "source_url": "https://www.gizmodo.jp/article/breakthrough-pill-for-pancreatic-cancer/"
-        },
-        {
-          "title": "人型ロボット開発のフィギュア、最大10万基のGPU活用に向けエヌスケールと提携",
-          "source_url": "https://www.engineering.com/nscale-and-figure-partner-on-humanoid-robot-ai-computing/"
-        },
-        {
-          "title": "シーメンスとナノブリッジ、超低消費電力FPGA向けの論理合成ソリューションで協業",
-          "source_url": "https://www.engineering.com/siemens-and-nanobridge-adopt-fpga-synthesis-solution/"
-        },
-        {
-          "title": "豪RMIT大学、金属の強度と浮力を両立させた「水に浮くチタン」メタマテリアルを開発",
-          "source_url": "https://3dprintingindustry.com/news/how-rmit-researchers-made-3d-printed-titanium-float-on-water-254397/?utm_source=rss&utm_medium=rss&utm_campaign=how-rmit-researchers-made-3d-printed-titanium-float-on-water"
-        },
-        {
-          "title": "ライトメイク、1台のデスクトップ機に4つの独立ヘッドを備えた3Dプリンター「L4」発表",
-          "source_url": "https://newatlas.com/3d-printing/lightmake-l4-four-independent-print-heads-one-desktop/"
-        },
-        {
-          "title": "自閉スペクトラム症を引き起こす遺伝子変異と脳発達阻害のネットワーク構造が解明",
-          "source_url": "https://gigazine.net/news/20260905-autism-mutations-protein-networks/"
-        },
-        {
-          "title": "スポティファイ、AIコーディングツール「Claude Code」の消費トークンを90％削減する内製プロキシを公開",
-          "source_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"
-        },
-        {
-          "title": "NEC、独自方式の量子コンピューターハードウェア自社開発から撤退へ",
-          "source_url": "https://asia.nikkei.com/business/technology/japan-s-nec-scraps-effort-to-build-a-quantum-computer"
-        }
-      ]
-    },
-    {
       "date": "2026-09-07",
       "stories": [
         {
@@ -540,6 +394,79 @@
         {
           "title": "NTTドコモ、オープンRAN準拠のノキア製基地局で世界初のマルチベンダー商用運用を開始",
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2140348.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "stories": [
+        {
+          "title": "アンスロピックCEOがAI開発の減速を提唱、オープンAI・マスク氏も賛同する異例の展開へ",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/"
+        },
+        {
+          "title": "オープンAIの自律エージェント群がサンドボックス脱出を議論、テストでの不正行為が発覚",
+          "source_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+        },
+        {
+          "title": "オープンAI、2026年内のIPO申請は「賢明ではない」と否定 アルトマンCEOが言及",
+          "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+        },
+        {
+          "title": "ディープマインド、次世代グローバル気象予測AI「WeatherNext 3」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+        },
+        {
+          "title": "オープンAI、「GPT-6 Astra」の不具合3件を緊急修正し使用量制限を再リセット",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140400.html"
+        },
+        {
+          "title": "名刺サイズで最新AIを動かす「LattePanda Mu Ultra」登場、Lunar Lakeを小型ボード化",
+          "source_url": "https://pc.watch.impress.co.jp/docs/column/hothot/2140325.html"
+        },
+        {
+          "title": "話し手の識別から写真入り議事録まで単体作成、iFLYTEKの買い切りAIボイスレコーダー「P1 Pro」",
+          "source_url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2137398.html"
+        },
+        {
+          "title": "日々の会話をAIが記憶・要約、アップルが新型「Apple Watch Series 12 / Ultra 4」を発表",
+          "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"
+        },
+        {
+          "title": "USB-C充電で60分稼働、コンパクトに収納できるコードレス高圧洗浄機「Pocket 2」が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140154.html"
+        },
+        {
+          "title": "レノボ、エヌビディアのPC向けArm SoC「RTX Spark」搭載のクリエイター向け2-in-1機を公開",
+          "source_url": "https://www.gizmodo.jp/article/cb098bb4-d334-4f15-894d-8ae560bb5b72/"
+        },
+        {
+          "title": "ディープマインド、全ヒトゲノムの1塩基変異の影響を網羅予測する「AlphaGenome Atlas」を発表",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "title": "アップル、初の折りたたみスマホ「iPhone Duo」のヒンジ部に2種類の3Dプリント工法を採用",
+          "source_url": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/?utm_source=rss&utm_medium=rss&utm_campaign=apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone"
+        },
+        {
+          "title": "アイシン、ギガキャストの課題を克服する分割構造「TEKIZAIボデー」を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/090400012/"
+        },
+        {
+          "title": "米軍、太平洋上でGPSに頼らない量子センサー自律航空ナビゲーションを飛行実証",
+          "source_url": "https://www.heise.de/en/news/US-military-tests-quantum-sensors-for-flight-navigation-without-GPS-over-Pacific-11444778.html"
+        },
+        {
+          "title": "アプライドマテリアルズ、半導体向け新材料探索にAIを活用し開発を大幅加速",
+          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says"
+        },
+        {
+          "title": "海水淡水化の濃縮廃水から太陽熱で有用金属マグネシウムを回収する新手法",
+          "source_url": "https://www.gizmodo.jp/article/2609-brine-magnesium-recovery-solar-heat/"
+        },
+        {
+          "title": "ウクライナ軍、海上ドローン同士による世界初の決闘戦で敵機を撃破",
+          "source_url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/"
         }
       ]
     }
