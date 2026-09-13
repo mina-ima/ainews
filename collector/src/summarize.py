@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import asyncio
 import json
 import os
 import re
@@ -338,7 +339,22 @@ def sanitize_result(result: object, valid_urls: set[str]) -> dict:
     }
 
 
+# 503 spike は数分〜数十分で収まることがある。全モデル全滅は spike のピークに
+# 当たった可能性が高く、次の保険 cron は40分以上先なので待って撃ち直す価値がある。
+GEMINI_RETRY_WAIT_SEC = 300
+
+
 async def _try_gemini(user_prompt: str) -> dict | None:
+    result = await _gemini_sweep(user_prompt)
+    if result is not None or not _get_gemini_keys():
+        return result
+    print(f"  Gemini 全モデル失敗。{GEMINI_RETRY_WAIT_SEC}秒待って1回だけ再試行")
+    await asyncio.sleep(GEMINI_RETRY_WAIT_SEC)
+    return await _gemini_sweep(user_prompt)
+
+
+async def _gemini_sweep(user_prompt: str) -> dict | None:
+    """全キー × 全モデルを1巡する"""
     api_keys = _get_gemini_keys()
     if not api_keys:
         return None

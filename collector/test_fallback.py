@@ -45,7 +45,33 @@ def test_control_char_in_llm_json():
     assert json.loads('{"a": "x\ny"}', strict=False) == {"a": "x\ny"}
 
 
+def test_retry_after_total_failure():
+    # 全モデル 503 のときは間を置いて1回だけ撃ち直す
+    import asyncio as _a
+    import os
+
+    os.environ["GEMINI_KEY_TEST"] = "dummy"
+    calls = []
+    slept = []
+
+    async def _sweep(_prompt):
+        calls.append(1)
+        return {"highlights": [1]} if len(calls) == 2 else None
+
+    summarize._gemini_sweep = _sweep
+    real_sleep = _a.sleep
+    _a.sleep = lambda s: slept.append(s) or real_sleep(0)  # summarize.asyncio は同じモジュール
+    try:
+        got = _a.run(summarize._try_gemini("x"))
+    finally:
+        _a.sleep = real_sleep
+    assert got == {"highlights": [1]}, got
+    assert len(calls) == 2, calls
+    assert slept == [summarize.GEMINI_RETRY_WAIT_SEC], slept
+
+
 if __name__ == "__main__":
     test_all_older_versions_are_tried()
     test_control_char_in_llm_json()
+    test_retry_after_total_failure()
     print("OK")

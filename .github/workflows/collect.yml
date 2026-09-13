@@ -102,3 +102,21 @@ jobs:
           PAYLOAD=$(jq -n --arg c "$CONTENT" '{content: $c}')
           curl -fsS -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL" \
             && echo "Discord 通知を送信しました" || echo "Discord 通知の送信に失敗（処理は継続）"
+
+      # 失敗が無音だと記事が来ないことでしか気付けない（2026-09-11 / 09-13 は2日間気付けなかった）。
+      # 保険 cron の本数だけ通知が飛ぶが、鳴り止まないこと自体が「まだ直っていない」の合図。
+      - name: Notify Discord on failure
+        if: failure() && steps.guard.outputs.skip != 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL 未設定のため通知をスキップ"
+            exit 0
+          fi
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          CONTENT=$(printf '⚠️ AIニュース %s の生成に失敗しました\n%s' "$DATE" "$RUN_URL")
+          PAYLOAD=$(jq -n --arg c "$CONTENT" '{content: $c}')
+          curl -fsS -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL" \
+            && echo "失敗通知を送信しました" || echo "失敗通知の送信に失敗"
