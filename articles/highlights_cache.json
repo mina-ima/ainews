@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-07",
-      "stories": [
-        {
-          "title": "オープンAI、研究業務を自律実行する「AIリサーチインターン」の社内実現を報告",
-          "source_url": "https://openai.com/index/research-acceleration-view-inside-openai"
-        },
-        {
-          "title": "グーグルのAI「Gemini」に依存した登山計画で遭難、AIアドバイス過信のリスク浮き彫り",
-          "source_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
-        },
-        {
-          "title": "ローランド、音楽制作用DAWプラグイン型の生成AI「Melody Flip」を発表",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip"
-        },
-        {
-          "title": "満充電になると2本足で自らケーブルを蹴り外す「マンタン・デタッチャブル」",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2138403.html"
-        },
-        {
-          "title": "睡眠特化型イヤホン「Ozlo Sleepbuds 2」、横向き寝でも快適な快眠サポート",
-          "source_url": "https://www.gizmodo.jp/article/ozlo-sleepbuds-2-review-comfy-sleep-earbuds-with-an-uncomfortable-price/"
-        },
-        {
-          "title": "CPUから各種ポートまで分解・交換可能な高修理性ノートPC「Vero 16」",
-          "source_url": "https://www.gizmodo.jp/article/acers-vero-16-is-its-most-repairable-laptop-ever/"
-        },
-        {
-          "title": "レトロゲームのカセットをUSB-C接続で直接PCへ読み込むアダプタが脚光",
-          "source_url": "https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes"
-        },
-        {
-          "title": "無症状者を対象としたアルツハイマー病予防薬の大規模臨床試験が始動",
-          "source_url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia"
-        },
-        {
-          "title": "ブタからヒトへの腎臓異種移植、過去最長となる9カ月の生存を達成",
-          "source_url": "https://gigazine.net/news/20260906-pig-kidney/"
-        },
-        {
-          "title": "電極とカメラを背負った「サイボーグゴキブリ」が被災地救助向けに開発",
-          "source_url": "https://www.wired.com/story/cyborg-cockroaches-disaster-response/"
-        },
-        {
-          "title": "国内コンソーシアムJ-HRTI、40台の人型ロボでフィジカルAI用動作データを大規模収集",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090200016/"
-        },
-        {
-          "title": "温度と圧力をリアルタイム感知、義肢向けの高性能「電子人工皮膚」が登場",
-          "source_url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/"
-        },
-        {
-          "title": "PCB設計ツール市場が約135億ドル規模へ急成長、AI連携と選定基準が議論に",
-          "source_url": "https://www.engineering.com/choosing-your-first-pcb-design-tool-hobbyist-or-pro/"
-        },
-        {
-          "title": "IBM、次世代プロセッサ「IBM Quantum Nighthawk R2」の詳細を発表",
-          "source_url": "https://www.ibm.com/quantum/blog/nighthawk-r2"
-        },
-        {
-          "title": "韓国政府、AIおよび先端半導体の電力急増に備え電力公社5社を統合再編へ",
-          "source_url": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand"
-        },
-        {
-          "title": "複数AIエージェントを1画面でまとめて指揮・連携できる「Herdr」が登場",
-          "source_url": "https://gigazine.net/news/20260906-herdr/"
-        },
-        {
-          "title": "AIエージェントにGitネイティブな永続記憶を与える「OKF Agent Memory」",
-          "source_url": "https://github.com/okf-memory/okf-agent-memory"
-        },
-        {
-          "title": "難燃性と100%リサイクルを両立する航空機内装用ハニカムサンドイッチ材料が開発",
-          "source_url": "https://newatlas.com/materials/epoxy-composite-recyclable-airplane-cabins/"
-        },
-        {
-          "title": "ウコンの天然色素で光を制御し、マイクロメートル級の超微細3Dプリントに成功",
-          "source_url": "https://hackaday.com/2026/09/06/printing-micron-scale-benchies-with-resin-and-turmeric/"
-        },
-        {
-          "title": "ウーバー創業者トラビス・カラニック氏、新会社Atomsでロボタクシー市場参入を計画",
-          "source_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-08",
       "stories": [
         {
@@ -467,6 +382,91 @@
         {
           "title": "ウクライナ軍、海上ドローン同士による世界初の決闘戦で敵機を撃破",
           "source_url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "stories": [
+        {
+          "title": "企業を自律的に運営するAIエージェント「Pion」が登場",
+          "source_url": "https://andonlabs.com/blog/why-we-built-pion"
+        },
+        {
+          "title": "GPT-6 AstraとGPT-5.6 Lunaのコードレビュー能力を比較、コスト効率も焦点に",
+          "source_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
+        },
+        {
+          "title": "マイクロソフトがAIモデルにハッキングや人間を騙す行為を禁じる「ヒューマニストAI行動規範」を発表",
+          "source_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+        },
+        {
+          "title": "AIエージェントの倫理・安全性に関する研究：不正行為の内部告発と嘘・協調行動の解明",
+          "source_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+        },
+        {
+          "title": "グーグルが警告、攻撃者がAIエージェントを「AI攻撃基盤」として悪用する新動向",
+          "source_url": "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/"
+        },
+        {
+          "title": "トランプ大統領がAI脅威論を「でっちあげ」と一蹴、開発減速に反対の姿勢を表明",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/"
+        },
+        {
+          "title": "Sakana AIが視覚推論でOpus 5/Fable 5を超える「Fugu Ultra v2」を提供開始",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140557.html"
+        },
+        {
+          "title": "共同作業向けオープンソースAIモデル「Occamy-1.0」が登場、複雑なワークフローを効率化",
+          "source_url": "https://arxiv.org/abs/2609.11977"
+        },
+        {
+          "title": "AIコーディングエージェントの性能を左右する「ハーネス」の効果を解明する研究",
+          "source_url": "https://arxiv.org/abs/2609.11987"
+        },
+        {
+          "title": "エイサーが反射とブルーライトを抑えた60HzカラーePaperモニター「EP130K」を発表",
+          "source_url": "https://newatlas.com/consumer-tech/acer-ep130k-epaper-monitor/"
+        },
+        {
+          "title": "ケーブル忘れを解消！MOTTERUのストラップ式充電ケーブルが登場",
+          "source_url": "https://www.gizmodo.jp/article/2609-motteru-strap-charging-cable-review/"
+        },
+        {
+          "title": "手回し発電とラジオを搭載したセイコーの「防災クロック」が普段使いにも対応",
+          "source_url": "https://www.gizmodo.jp/article/seiko-bousai-clock/"
+        },
+        {
+          "title": "たまご型デザインの本格マッサージチェア「MEDICAG LC EGG」が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140582.html"
+        },
+        {
+          "title": "クアルコムがエージェント型AI向けに再設計された次世代「Hexagon NPU」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2140807.html"
+        },
+        {
+          "title": "アスターが高効率モーターで米ドローン大手と3年間の生産契約を締結、中国依存脱却の動きを追い風に",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/091300008/"
+        },
+        {
+          "title": "NTTがミリ波・サブテラヘルツ帯で世界最高速2Tbpsの無線伝送に成功",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2140781.html"
+        },
+        {
+          "title": "提供された肝臓を生物学的に若返らせ、移植可能時間を大幅に延長する新技術",
+          "source_url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
+        },
+        {
+          "title": "グーグルがKotlin向けAIエージェント開発キット「ADK for Kotlin 1.0」を正式リリース",
+          "source_url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
+        },
+        {
+          "title": "binderがM12ポートフォリオにプリント基板用ミッドマウントコネクタを追加",
+          "source_url": "https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/"
+        },
+        {
+          "title": "Selle Italiaがライダー個別の圧力データに基づく3Dプリント製サドル「Unica」を発表",
+          "source_url": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/?utm_source=rss&utm_medium=rss&utm_campaign=selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle"
         }
       ]
     }
