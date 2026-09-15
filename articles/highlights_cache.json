@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-08",
-      "stories": [
-        {
-          "title": "ソニー、伝説的ノイキャンヘッドフォンを現代仕様で復刻「WH-1000XM4C」を発表",
-          "source_url": "https://9to5google.com/2026/09/07/sony-wh-1000xm4c-launch-for-299-alongside-two-more-affordable-headphones/"
-        },
-        {
-          "title": "エコフロー、片手で持ち運べる超小型ポータブル電源「River Gen4」シリーズを発表",
-          "source_url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller"
-        },
-        {
-          "title": "背面にレトロゲーム機をまるごと収納！RGB端子も備えた10インチ小型モニター「Traveller ULW10」",
-          "source_url": "https://www.tomshardware.com/video-games/retro-gaming/this-10-inch-4-3-television-hides-your-retro-consoles-in-a-secret-rear-compartment-unicos-traveller-ulw10-trades-composite-video-for-rgb-scart-and-hdmi"
-        },
-        {
-          "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
-          "source_url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html"
-        },
-        {
-          "title": "カスタム半導体が24時間以内に100ドル未満で届く！「ゴッサム・シリコン」が画期的製造サービスを開始",
-          "source_url": "https://gothamsilicon.com/"
-        },
-        {
-          "title": "ディープシーク、ファーウェイ製AI半導体「Ascend」16万基を内モンゴル新データセンターに導入へ",
-          "source_url": "https://gigazine.net/news/20260907-deepseek-data-center-inner-mongolia/"
-        },
-        {
-          "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
-          "source_url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world"
-        },
-        {
-          "title": "AIコーディングエージェントの暴走を防ぐ隔離VM環境「Coop」がオープンソースで登場",
-          "source_url": "https://github.com/trailofbits/coop"
-        },
-        {
-          "title": "東大発スタートアップ、独自AIを搭載した国産四足歩行ロボット「HLQ EDGE」を公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/"
-        },
-        {
-          "title": "リコー、作業動画から多様なロボットの動作モデルを自動生成する「フィジカルAI」を発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03371/"
-        },
-        {
-          "title": "3Dプリンターで電極を「ダイヤモンド格子構造」に成形、フロー電池の性能向上に成功",
-          "source_url": "https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444/?utm_source=rss&utm_medium=rss&utm_campaign=study-reveals-better-electrode-geometry-for-flow-batteries"
-        },
-        {
-          "title": "宇宙空間で人工衛星自らが部材を3Dプリント製造、三菱電機が軌道上工場技術を研究",
-          "source_url": "https://www.youtube.com/watch?v=Slj5-xv0lCI"
-        },
-        {
-          "title": "余った2枚目のGPUでAIニューラルレンダリングを実行、フレームレートを最大127%向上させるMODが登場",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/astonishing-mod-runs-nvidia-dlss-5-on-a-second-gpu-using-a-reshade-add-on-to-reduce-performance-impact-boosts-neural-rendered-fps-up-to-127-percent-game-renders-on-one-card-neural-post-processing-runs-on-the-other-much-like-dedicated-physx-gpus"
-        },
-        {
-          "title": "3Dプリント×専用ソフトウェアで医療装具製造を垂直統合、Hike Medicalが約2250万ドルを調達",
-          "source_url": "https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433/?utm_source=rss&utm_medium=rss&utm_campaign=hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform"
-        }
-      ]
-    },
-    {
       "date": "2026-09-09",
       "stories": [
         {
@@ -467,6 +406,91 @@
         {
           "title": "Selle Italiaがライダー個別の圧力データに基づく3Dプリント製サドル「Unica」を発表",
           "source_url": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/?utm_source=rss&utm_medium=rss&utm_campaign=selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "stories": [
+        {
+          "title": "グーグル、リアルタイム対話と長時間推論を強化した「Gemini 3.8 Live」を発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+        },
+        {
+          "title": "アンスロピック共同創設者がAIの「キルスイッチ」義務化の可能性に言及",
+          "source_url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
+        },
+        {
+          "title": "エヌビディアOpenShell、AIエージェント制御に形式手法を適用した知見を公開",
+          "source_url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/"
+        },
+        {
+          "title": "OpenAI研究者が警鐘「監視されていないAIは評価できない」",
+          "source_url": ""
+        },
+        {
+          "title": "グーグル、Windows版「Gemini」ネイティブアプリを公開し作業画面から直接呼び出し可能に",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html"
+        },
+        {
+          "title": "OpenAI、Anthropic、Metaのハッキングスキャンダルに単一企業が関与か",
+          "source_url": "https://www.effort.news/irregular"
+        },
+        {
+          "title": "OpenAIがスマホカメラメーカーGlass Imagingを3億ドルで買収",
+          "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+        },
+        {
+          "title": "AIエージェントがインターネットを「破壊している」との強い主張",
+          "source_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
+        },
+        {
+          "title": "世界初のナトリウムイオン搭載モバイルバッテリーが登場、低温環境でも安定動作",
+          "source_url": "https://www.gizmodo.jp/article/mobile_batterys_refrigerator/"
+        },
+        {
+          "title": "キリン、呼気から脂質と糖質の燃焼状態をリアルタイム可視化するヘルスケア機器「Lumen」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140948.html"
+        },
+        {
+          "title": "Valve、Steamゲームを単体で遊べるワイヤレスVRヘッドセット「Steam Frame」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2140961.html"
+        },
+        {
+          "title": "TSMCが次世代2nmプロセス「A14ノード」の詳細を公開へ",
+          "source_url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
+        },
+        {
+          "title": "グーグル、AIコーディングエージェントの評価・改善・保護のための「ハーネスエンジニアリング」を解説",
+          "source_url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/"
+        },
+        {
+          "title": "三菱電機、ヒートポンプ機器の熱交換性能を3倍にする新技術を開発",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html"
+        },
+        {
+          "title": "MediaTek、2nmプロセスのフラッグシップSoC「Dimensity 9600 Pro」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2141128.html"
+        },
+        {
+          "title": "M4 Mac Mini向けLinux GPUドライバーが1ヶ月で開発進行中",
+          "source_url": "https://codyho.dev/blog/gpu-driver/"
+        },
+        {
+          "title": "米国のAIデータセンター、2035年までにドイツと日本を合わせた以上の天然ガスを消費か",
+          "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
+        },
+        {
+          "title": "OpenArm: オープンソースの7自由度ヒューマノイドアームが登場",
+          "source_url": "https://github.com/enactic/OpenArm"
+        },
+        {
+          "title": "メモ化技術でeBPFのCPUコストを約90%削減、性能向上に貢献",
+          "source_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
+        },
+        {
+          "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」が登場、有線・無線対応でオープンソースファームウェア",
+          "source_url": "https://gigazine.net/news/20260915-jetkvm-mini/"
         }
       ]
     }
