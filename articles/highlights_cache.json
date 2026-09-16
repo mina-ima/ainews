@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-09",
-      "stories": [
-        {
-          "title": "オープンAI、未解決難問「ナビエ–ストークス方程式」の解法発見を主張し学界で激論が勃発",
-          "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
-        },
-        {
-          "title": "メタ、私生活の作業や決済を代行するパーソナルAIエージェント「ミューズ」を発表",
-          "source_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
-        },
-        {
-          "title": "ミストラルAI、欧州の主権型フロンティアAIモデル構築に向け30億ユーロを調達",
-          "source_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
-        },
-        {
-          "title": "エレコム、最大16K/60Hz伝送に対応した「HDMI 2.2」国内初認証ケーブルを11月発売へ",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2139178.html"
-        },
-        {
-          "title": "ファーウェイ、大画面に広がる3つ折りスマホ「Mate XT 2」を中国で正式発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2139108.html"
-        },
-        {
-          "title": "スマートテレビ各社がHDMI経由のゲーム・PC映像まで常時監視している実態が判明",
-          "source_url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
-        },
-        {
-          "title": "ゲームボーイ風の外観でサブ画面も備えたMac Studio／mini用多機能ドックが登場",
-          "source_url": "https://www.gizmodo.jp/article/2609-wokyis-mac-docking-station/"
-        },
-        {
-          "title": "サンワサプライ、本体に電源コードをすっきり巻き取れる65W対応5in1モバイルタップを発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2139276.html"
-        },
-        {
-          "title": "グーグル・ディープマインド、ヒトゲノム90億の全変異を予測する「アルファゲノム・アトラス」を公開",
-          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        },
-        {
-          "title": "自律コーディングAIのコグニション、企業価値480億ドルで約3000億円を調達",
-          "source_url": "https://cognition.com/blog/series-e"
-        },
-        {
-          "title": "アーム、AIネイティブ描画対応のモバイルGPU「Mali G2-Ultra NX」を発表",
-          "source_url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics"
-        },
-        {
-          "title": "ビシェイ、窒化アルミニウム基板で超高電力密度を実現した小型薄膜チップ抵抗器を発表",
-          "source_url": "https://www.electronicsweekly.com/news/business/thin-film-resistors-enabling-higher-power-density-in-smaller-footprints-2026-09/"
-        },
-        {
-          "title": "TSMC、2030年に「高NA EUV」露光装置を量産導入へ 次世代A10/A11プロセスに適用",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use"
-        },
-        {
-          "title": "南カリフォルニア大学、乳幼児専用のMRIセンサーを10分・約30ドルで3Dプリント製造",
-          "source_url": "https://3dprintingindustry.com/news/usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes-254504/?utm_source=rss&utm_medium=rss&utm_campaign=usc-team-3d-prints-custom-mri-sensors-for-infants-in-under-10-minutes"
-        },
-        {
-          "title": "カエルの本物の筋肉組織で泳ぐ「バイオハイブリッド」ロボットエイが開発",
-          "source_url": "https://newatlas.com/robotics/frog-muscle-swimming-robotic-manta-ray/"
-        },
-        {
-          "title": "川崎重工とエッジコーティクス、防衛向けAI自律システム開発で提携",
-          "source_url": "https://www.engineering.com/kawasaki-and-edgecortix-partner-on-ai-defense-systems/"
-        },
-        {
-          "title": "クアンタム・サイバー、80台の3Dプリンターからなるドローン自律量産ファームを構築",
-          "source_url": "https://3dprintingindustry.com/news/quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility-254512/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-cyber-installs-80-unit-3d-printing-drone-farm-at-connecticut-facility"
-        },
-        {
-          "title": "EVバッテリーの寿命は想定よりはるかに長い、大規模実走データで劣化懸念が払拭",
-          "source_url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/"
-        },
-        {
-          "title": "半導体の排熱をエネルギーとして再利用する「可逆計算」チップ開発が進展",
-          "source_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
-        },
-        {
-          "title": "ソフトバンク、異なる3世代の光通信方式を単一光トランシーバーで共存させる実証に成功",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2139259.html"
-        }
-      ]
-    },
-    {
       "date": "2026-09-10",
       "stories": [
         {
@@ -491,6 +406,51 @@
         {
           "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」が登場、有線・無線対応でオープンソースファームウェア",
           "source_url": "https://gigazine.net/news/20260915-jetkvm-mini/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "stories": [
+        {
+          "title": "AnthropicとオープンAI、内部に安全評価者の配置を提案も透明性と独立性に懸念",
+          "source_url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+        },
+        {
+          "title": "グーグルホーム、標準プロトコル「MCP」に対応し外部AIエージェントから操作可能に",
+          "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+        },
+        {
+          "title": "アンソロピック、チャット機能とドキュメント作成機能「Cowork」を単一インターフェースに統合",
+          "source_url": "https://claude.com/blog/cowork-is-now-claude"
+        },
+        {
+          "title": "LLMの193倍速い「文章を書かないAI」モデル「Jev」が登場",
+          "source_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+        },
+        {
+          "title": "ディスプレイ非搭載で重さ38.5g、カメラとスピーカーを搭載した「Rokid Ai Glasses Style」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2141470.html"
+        },
+        {
+          "title": "キヤノン、初代機をインスパイアしたデザイン刷新の小型フルサイズ一眼「EOS R8 Mark II」発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2141394.html"
+        },
+        {
+          "title": "クマの存在を音で知らせるドージシャのBluetoothスピーカー「くまようじん」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2141444.html"
+        },
+        {
+          "title": "エージェント型AI向けに最適化、マイクロンが512GBの大容量DDR5-9200メモリを発表",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules"
+        },
+        {
+          "title": "安全柵なしで人間の同僚と協働できる新型人型ロボット「Digit 5」が発表",
+          "source_url": "https://gigazine.net/news/20260916-agility-digit-5/"
+        },
+        {
+          "title": "ソニーのプレイステーション2のセキュリティチップが26年の時を経て完全に解読される",
+          "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"
         }
       ]
     }
