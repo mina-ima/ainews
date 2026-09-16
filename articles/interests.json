@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-09-14T08:10:20.826580+09:00",
+  "updated_at": "2026-09-17T08:21:51.448543+09:00",
   "items": [
-    {
-      "title": "南海電鉄と日立、疑似量子「CMOSアニーリング」で乗務員計画作成を数カ月から1週間に短縮",
-      "category": "量子コンピューティング",
-      "date": "2026-08-15",
-      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
-      "importance": 4
-    },
-    {
-      "title": "BMW、航続距離900km超を実現した次世代EV「ノイエ・クラッセ」第1弾を国内投入",
-      "category": "エネルギー・環境技術",
-      "date": "2026-08-15",
-      "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03259/080500039/",
-      "importance": 3
-    },
-    {
-      "title": "AIコードエージェント「Codex」による自動最適化で、GPUカーネルの実行速度を232倍に高速化",
-      "category": "AI研究",
-      "date": "2026-08-16",
-      "source_url": "https://sankalp.bearblog.dev/autoresearch/",
-      "importance": 5
-    },
-    {
-      "title": "アンスロピック、EU AI法に対応するためClaude生成テキストへの「電子水透かし」技術を標準化",
-      "category": "AI規制・政策",
-      "date": "2026-08-16",
-      "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "importance": 4
-    },
-    {
-      "title": "月額200ドルの有料AIに対抗する無料オープンソース端末エージェント「グース（Goose）」が話題に",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-08-16",
-      "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "importance": 5
-    },
-    {
-      "title": "AIが実用的な人工ウイルスをゼロから自動設計することに成功、バイオ安全保障議論が加速",
-      "category": "医療・バイオ",
-      "date": "2026-08-16",
-      "source_url": "https://spectrum.ieee.org/ai-designed-virus",
-      "importance": 5
-    },
-    {
-      "title": "複数の主要データベースを共通画面で一括操作できるオープンソース管理ツール「DbGate」が登場",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-08-16",
-      "source_url": "https://gigazine.net/news/20260815-dbgate/",
-      "importance": 4
-    },
-    {
-      "title": "岩石への通電で天然水素の生成を劇的に加速させる技術「刺激型地質水素」が登場",
-      "category": "エネルギー・環境技術",
-      "date": "2026-08-17",
-      "source_url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "importance": 5
-    },
-    {
-      "title": "アルツハイマー病の症状を劇的に改善・反転させる革新的な外科手術手法が脚光",
-      "category": "医療・バイオ",
-      "date": "2026-08-17",
-      "source_url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "importance": 5
-    },
-    {
-      "title": "エージェント型AI（Agentic AI）が電子回路およびハードウェア設計の現場へ浸透開始",
-      "category": "プリント基板・電子実装",
-      "date": "2026-08-17",
-      "source_url": "https://www.engineering.com/agentic-ai-the-next-step-for-hardware-engineering/",
-      "importance": 4
-    },
-    {
-      "title": "メタ（Meta）のAI音声コーデックを活用し、2.9MBの楽曲を1000分の1に超圧縮してQRコード印刷・再生に成功",
-      "category": "その他先端技術",
-      "date": "2026-08-17",
-      "source_url": "https://www.tomshardware.com/tech-industry/maker-compresses-a-2-9mb-song-1000-times-with-metas-ai-codec-and-prints-it-on-paper-as-eight-qr-codes",
-      "importance": 4
-    },
     {
       "title": "ディープシーク、画像認識に対応した軽量マルチモーダルモデル「DeepSeek-V4-Flash-Vision」を実験公開",
       "category": "LLM・生成AI",
@@ -231,6 +154,27 @@
       "date": "2026-09-08",
       "source_url": "https://github.com/trailofbits/coop",
       "importance": 5
+    },
+    {
+      "title": "オープンAI、最先端AIの開発ペース減速を社内で検討か",
+      "category": "LLM・生成AI",
+      "date": "2026-09-12",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
+      "importance": 4
+    },
+    {
+      "title": "サカナAI、複数モデルを統合する「Sakana Fugu」の最新版を公開",
+      "category": "LLM・生成AI",
+      "date": "2026-09-12",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
+      "importance": 4
+    },
+    {
+      "title": "名刺サイズで最新AIを動かす「LattePanda Mu Ultra」登場、Lunar Lakeを小型ボード化",
+      "category": "ガジェット・民生機器",
+      "date": "2026-09-14",
+      "source_url": "https://pc.watch.impress.co.jp/docs/column/hothot/2140325.html",
+      "importance": 3
     }
   ]
 }
