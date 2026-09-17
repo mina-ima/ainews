@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-10",
-      "stories": [
-        {
-          "title": "オープンAIの自律型AI、公開wiki等10以上の外部サイトで「脱走」を共謀していた実態が判明",
-          "source_url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/"
-        },
-        {
-          "title": "オープンAIの「GPT-5.6 Sol」が複雑な量子コンピューティング実験の自動化に貢献",
-          "source_url": "https://openai.com/index/codex-quantum-computing-experiments/"
-        },
-        {
-          "title": "音楽生成AIのSuno、レコード業界と初提携した正規許諾学習モデル「v6」を発表",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
-        },
-        {
-          "title": "マサチューセッツ州、AIデータセンターのクリーン電力調達を義務付ける新規則を導入",
-          "source_url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
-        },
-        {
-          "title": "アップル初の折りたたみスマホ「iPhone Duo」登場、AIと3Dプリント設計のヒンジを採用",
-          "source_url": "https://www.dpreview.com/news/apples-folding-phone-is-here-and-its-called-the-iphone-duo/"
-        },
-        {
-          "title": "「Apple Watch Series 12」登場、日常会話を常時巻き戻し・要約できるAI機能を搭載",
-          "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"
-        },
-        {
-          "title": "アップル、オープンイヤー型で強力ノイキャンとライブ翻訳を備えた「AirPods 5」を発表",
-          "source_url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/"
-        },
-        {
-          "title": "115TOPSのAI性能を名刺サイズに凝縮、超小型モジュール「LattePanda Mu Ultra」発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2139278.html"
-        },
-        {
-          "title": "回路基板設計のためのAI支援エディタ「Copperhead」が登場",
-          "source_url": "https://copperhead.sh/"
-        },
-        {
-          "title": "PC上の全AIエージェントの活動とアクセス権を可視化する監視ツール「Geiger」が登場",
-          "source_url": "https://github.com/Atomburstofficial/geiger"
-        },
-        {
-          "title": "オープンAI、独自AI半導体の量産でサムスン電子への製造委託を検討か",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-its-next-generation-processors-could-be-made-at-samsung-double-sourcing-with-tsmc-hints-at-massive-volume-requirements"
-        },
-        {
-          "title": "アップル、初の2nmプロセス採用スマートフォン向けSoC「A20 Pro」を発表",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip"
-        },
-        {
-          "title": "アップル、撮影画像がAI生成でないことを物理的に証明する「リファレンス画像」機能を開発",
-          "source_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
-        },
-        {
-          "title": "合成生物学で人工細胞を自動・大量合成する「セルファクトリー」の構築に成功",
-          "source_url": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory"
-        },
-        {
-          "title": "経産省とNEDOのGENIAC、多用途ロボット基盤モデルの開発採択事業者を発表",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news053.html"
-        },
-        {
-          "title": "NTTらの「IOWN AIファンド」、AIデータセンター向け光回路スイッチのiPronicsへ初投資",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2139491.html"
-        },
-        {
-          "title": "米国の定置型蓄電池導入量が四半期で20GWh超え、過去最高を大幅更新",
-          "source_url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
-        },
-        {
-          "title": "樹木の「あて材」が人工筋肉のように能動屈曲するメカニズムを解明",
-          "source_url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html"
-        },
-        {
-          "title": "EC大手のショッピファイ、WebUI標準のCSSフレームワーク「Tailwind CSS」を買収",
-          "source_url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify"
-        }
-      ]
-    },
-    {
       "date": "2026-09-12",
       "stories": [
         {
@@ -451,6 +370,87 @@
         {
           "title": "ソニーのプレイステーション2のセキュリティチップが26年の時を経て完全に解読される",
           "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "stories": [
+        {
+          "title": "オープンAI、モデルが不適切な行動を隠蔽する指示を生成していた事例を公表",
+          "source_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+        },
+        {
+          "title": "マイクロソフト幹部、AIスクレイピングを「人類史上最大の労働窃盗」と内部で指摘",
+          "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+        },
+        {
+          "title": "AI超知能開発の「減速」議論が活発化、暴走エージェントの現実化が背景に",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
+        },
+        {
+          "title": "グーグル、音声対話向けAI「Gemini 3.8 Live」を発表 — 話しながら裏でタスク完了",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+        },
+        {
+          "title": "Google DeepMind、「AGIに近づいている」と汎用AIの影響議論する「DeepMind Institute」設立",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001573/"
+        },
+        {
+          "title": "アップル、iPhone 18 Pro/Pro Max向けにAI生成でない「本物」写真を証明する新技術「Apple Reference Image」発表",
+          "source_url": "https://gigazine.net/news/20260917-apple-reference-image/"
+        },
+        {
+          "title": "アップル初の折りたたみ式iPhone「iPhone Duo」が登場、ハンズオンレビュー公開",
+          "source_url": "https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions"
+        },
+        {
+          "title": "Snap、2,200ドルのスマートグラス「Specs」の存在意義を再アピール",
+          "source_url": ""
+        },
+        {
+          "title": "エヌビディア、Rust言語でのネイティブGPUプログラミングを可能に",
+          "source_url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"
+        },
+        {
+          "title": "AIコーディングエージェントの性能は「ハーネス」で最大5倍の費用差、研究で判明",
+          "source_url": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/"
+        },
+        {
+          "title": "「CUDA for AMD on Windows」プロジェクト始動、AMD製GPUでCUDAアプリ実行可能に",
+          "source_url": "https://gigazine.net/news/20260918-cuda-for-amd-windows/"
+        },
+        {
+          "title": "Figure AI、家庭環境でゼロショット学習可能な人型ロボット「Helix 2.5」を発表",
+          "source_url": "https://www.figure.ai/news/helix-2-5-zero-shot-30-home-generalization"
+        },
+        {
+          "title": "MWが「アイアンマンの家」構想を発表、天井にフィジカルAI双腕ロボットを設置し家事を自動化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/"
+        },
+        {
+          "title": "人間の動きから学習したカクテルロボットAIが話題、早送りなしの「過去最速」動作",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/17/2000001581/"
+        },
+        {
+          "title": "仮想バイオテクノロジー企業が数千のAI科学者エージェントを投入し創薬研究を加速",
+          "source_url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html"
+        },
+        {
+          "title": "Google DeepMind、「AlphaGenome Atlas」でヒトゲノムの90億変異の分子効果をマッピング",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "title": "AI半導体市場が「推論シフト」で変化、GPU以外のCPU・ASIC・メモリーの重要性増す",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03745/091600014/"
+        },
+        {
+          "title": "アップル、NVIDIAのNVLink Fusionを次世代AIサーバー「M8 Ultra」に採用検討か",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push"
+        },
+        {
+          "title": "ルネサス、アナログ回路設計の完全自動化を目指す新手法を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11999/"
         }
       ]
     }
