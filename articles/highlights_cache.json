@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-12",
-      "stories": [
-        {
-          "title": "オープンAI、新モデル「GPT-6 Astra」の爆発的需要で月額200ドルのProプラン新規受付を一時停止",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140146.html"
-        },
-        {
-          "title": "オープンAI、最先端AIの開発ペース減速を社内で検討か",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/"
-        },
-        {
-          "title": "NEC、全員がAIの「AI自律型組織」を設立—AI社員同士の1on1やストレスチェックも導入",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2609/11/news043.html"
-        },
-        {
-          "title": "サカナAI、複数モデルを統合する「Sakana Fugu」の最新版を公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/"
-        },
-        {
-          "title": "アンスロピック、AIのサイバー攻撃悪用や生物兵器製造の試みを阻止した脅威レポートを公開",
-          "source_url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "ブラック・フォレスト・ラボ、動画の指定箇所だけを高精度に編集できる「FLUX Video Edit」を発表",
-          "source_url": "https://gigazine.net/news/20260911-flux-video-edit/"
-        },
-        {
-          "title": "オープンソースの音楽生成AI「YuE2」が無償公開、日本語ボーカルや楽譜からの楽曲生成に対応",
-          "source_url": "https://gigazine.net/news/20260911-yue2-music-generation-ai/"
-        },
-        {
-          "title": "TCL、紙のような質感で目に優しい11型Androidタブレット「TAB A1 NXTPAPER」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140207.html"
-        },
-        {
-          "title": "ラオワ、富士フイルムXマウント向け初となるオートフォーカス対応マクロレンズを発表",
-          "source_url": "https://www.dpreview.com/news/laowa-is-releasing-its-first-autofocus-lens-for-fujifilm-x-mount-a-macro-monster/"
-        },
-        {
-          "title": "トヨタ、次世代レクサス車で「物理ボタン」をあえて再導入へ",
-          "source_url": "https://asia.nikkei.com/business/automobiles/toyota-brings-back-physical-buttons-for-lexus-with-a-low-key-twist"
-        },
-        {
-          "title": "自律コーディングAIのコグニション、次世代モデル「SWE-2」を発表しベンチマーク首位を獲得",
-          "source_url": "https://cognition.com/blog/swe-2"
-        },
-        {
-          "title": "中国市場でVRAM 96GBに魔改造された「GeForce RTX 5090」が登場、AI開発向けに約4,000ドルで流通",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original"
-        },
-        {
-          "title": "フィジカルAIとロボット向けのデータ収集工場「J-HRTI 関東データファクトリー」が本格稼働",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001402/"
-        },
-        {
-          "title": "AI連携プロトコル「MCP」が新ロードマップを公開、Ruby SDK 1.0やエンタープライズ認証を拡充",
-          "source_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
-        },
-        {
-          "title": "テスラのハンドル・ペダルなし完全自動運転車「サイバーキャブ」が東京・青山で日本初公開",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001424/"
-        },
-        {
-          "title": "スラタシス、炭素繊維対応の大型産業用3Dプリンター「F870」を発表",
-          "source_url": "https://www.engineering.com/stratasys-launches-large-format-f870-fdm-system/"
-        },
-        {
-          "title": "現代自動車、実物大の自動車部品試作向けに独ExOneの大型高速焼結3Dプリンターを2台導入",
-          "source_url": "https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts"
-        },
-        {
-          "title": "IBMとRPI、AI推論用HBMのECCオーバーヘッドを劇的に削減する「REACH」技術を開発",
-          "source_url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/"
-        },
-        {
-          "title": "水と太陽光から水素とギ酸を高効率生成、人工光合成が2030年代の実用化へ前進",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03725/090100005/"
-        },
-        {
-          "title": "NTTドコモ、オープンRAN準拠のノキア製基地局で世界初のマルチベンダー商用運用を開始",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2140348.html"
-        }
-      ]
-    },
-    {
       "date": "2026-09-14",
       "stories": [
         {
@@ -528,6 +443,75 @@
         {
           "title": "PGAパッケージの破損ピン再構築技術",
           "source_url": "https://hackaday.com/2026/09/18/reconstructing-a-pin-on-a-pin-grid-array-package/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "stories": [
+        {
+          "title": "AI大手による「開発減速協定」は違法なカルテル、米で反トラスト法違反の訴訟が提起",
+          "source_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
+        },
+        {
+          "title": "グーグルの「ジェミニ」、セキュリティ試験中に制限を突破し実在企業3社をハッキング",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+        },
+        {
+          "title": "JBL、ランタン型アンビエント照明と高音質を融合したBluetoothスピーカー「Pulse 6」発表",
+          "source_url": "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/"
+        },
+        {
+          "title": "紙のようなマット質感で反射を抑える新ディスプレイ搭載、TCL「A1 NXTPAPER」登場",
+          "source_url": "https://www.gizmodo.jp/article/2609-tcl-a1-nxtpaper-tablet/"
+        },
+        {
+          "title": "猫の顔認識AIと重量計で多頭飼いの食事を個別管理する自動給餌器「Granary 2」",
+          "source_url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
+        },
+        {
+          "title": "ボーズ、耳を塞がないイヤーカフ型完全ワイヤレス「Ultra Open Earbuds (第2世代)」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2142184.html"
+        },
+        {
+          "title": "オープンAI、自社LLMを活用して独自AI半導体「ハラペーニョ」を設計",
+          "source_url": "https://spectrum.ieee.org/llms-for-chip-design"
+        },
+        {
+          "title": "富士通、2nm世代の国産次世代ArmサーバーCPU「MONAKA」を正式発表",
+          "source_url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
+        },
+        {
+          "title": "高発熱チップの反りに追従、NovoLINCが新TIM材料「MaxLINC」を発表",
+          "source_url": "https://www.engineering.com/novolinc-launches-maxlinc-thermal-interface-material/"
+        },
+        {
+          "title": "電力ゼロで100ビット演算を実行、DNA分子を用いた生体コンピューターが開発",
+          "source_url": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing"
+        },
+        {
+          "title": "アリババ、がんと150種の疾患を画像から高精度検出する医療AIモデルを無償公開",
+          "source_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
+        },
+        {
+          "title": "NASAとIBM、月面探査のためのオープンソース地理空間AI基盤モデルを開発",
+          "source_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
+        },
+        {
+          "title": "スペースX、巨大宇宙船「スターシップ」初の軌道周回テスト飛行を9月28日に設定",
+          "source_url": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/"
+        },
+        {
+          "title": "3Dプリント製骨インプラントが実用段階へ、KLSマーティンが500例出荷間近",
+          "source_url": "https://3dprintingindustry.com/news/kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026-254870/?utm_source=rss&utm_medium=rss&utm_campaign=kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026"
+        },
+        {
+          "title": "AIエージェントの挙動追跡・プロンプト評価を全自動で行う「Opik」がOSS公開",
+          "source_url": "https://gigazine.net/news/20260919-opik/"
+        },
+        {
+          "title": "5本の指で脚のように歩く、器用なロボットハンドの自己移動アルゴリズム",
+          "source_url": "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/"
         }
       ]
     }
