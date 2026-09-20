@@ -514,6 +514,79 @@
           "source_url": "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/"
         }
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "stories": [
+        {
+          "title": "OpenAIの次世代モデル「GPT-6 Astra」が第一次世界大戦時のドイツ軍暗号を解読",
+          "source_url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio"
+        },
+        {
+          "title": "アリババ、透過画像の生成・編集に対応した軽量モデル「Qwen-Image-2.1」を無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2142515.html"
+        },
+        {
+          "title": "会議のメモ取りを自動化するスマートリング「Vocci」が登場",
+          "source_url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/"
+        },
+        {
+          "title": "2,195ドルのAI温度調節マットレスパッド「Orion」が極上の睡眠を提供",
+          "source_url": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/"
+        },
+        {
+          "title": "バルブのウェアラブルPC「Steam Frame」の実機レビュー、ハードウェアマニアを魅了",
+          "source_url": "https://www.theverge.com/tech/994267/steam-frame-review"
+        },
+        {
+          "title": "バルブに押し当てるだけで一瞬で空気が入る、自転車用「クリックバルブ」が急速に普及中",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html"
+        },
+        {
+          "title": "サムスン、次世代AIメモリ「HBM4」および「HBM4E」の生産能力を来年2倍以上に拡大へ",
+          "source_url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"
+        },
+        {
+          "title": "タタとネクスペリア、インドでの半導体製造・パッケージング合弁事業で提携",
+          "source_url": "https://www.electronicsweekly.com/news/business/tata-and-nexperia-join-in-far-reaching-jv-2026-09/"
+        },
+        {
+          "title": "AIエージェント接続の標準規格「MCP」が新ロードマップを発表、エコシステム拡大へ",
+          "source_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/"
+        },
+        {
+          "title": "すべてのエヌビディア製GPUに10〜30個の「RISC-V」コアが内蔵されていることが判明",
+          "source_url": "https://www.xda-developers.com/your-nvidia-gpu-dozens-risc-v-cores-one-took-over-graphics-driver/"
+        },
+        {
+          "title": "エヌビディアの超小型AIボード「Jetson Orin Nano」を搭載した完全自律型攻撃ドローンが登場",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms"
+        },
+        {
+          "title": "ジョビー・アビエーション、カリフォルニアからノースカロライナへの完全自律飛行を達成",
+          "source_url": "https://www.engadget.com/2263406/joby-aviation-completed-a-fully-autonomous-flight-from-california-to-north-carolina/"
+        },
+        {
+          "title": "哺乳類の「ひげ」を模倣した触覚センサーで暗闇や煙の中を自律飛行する超軽量ドローン",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/researchers-build-a-drone-that-navigates-with-physical-whiskers-to-operate-in-dark-dusty-or-smoky-places-where-cameras-or-gps-can-fail-sub-100-gram-drones-run-34kb-software-to-enable-sub-millimeter-precision"
+        },
+        {
+          "title": "欧州最大規模の炭素回収プラントが稼働、年間80万トンの二酸化炭素を海底に貯留へ",
+          "source_url": "https://newatlas.com/environment/europe-largest-carbon-capture-yara-co2/"
+        },
+        {
+          "title": "脳の発達に寄与する「2つの独立した神経外胚葉プロジェニター」をスタンフォード大が特定",
+          "source_url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html"
+        },
+        {
+          "title": "ネットワークユーティリティ「netcat」の操作感でTailscaleの安全な暗号化通信を行える「Tailcat」が登場",
+          "source_url": "https://gigazine.net/news/20260920-tailcat/"
+        },
+        {
+          "title": "テイルスケール、自社サービス不安定化の原因だった「SQLite」の16年越しのバグを特定・修正に貢献",
+          "source_url": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/"
+        }
+      ]
     }
   ]
 }
