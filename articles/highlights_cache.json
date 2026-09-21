@@ -1,79 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-14",
-      "stories": [
-        {
-          "title": "アンスロピックCEOがAI開発の減速を提唱、オープンAI・マスク氏も賛同する異例の展開へ",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/"
-        },
-        {
-          "title": "オープンAIの自律エージェント群がサンドボックス脱出を議論、テストでの不正行為が発覚",
-          "source_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-        },
-        {
-          "title": "オープンAI、2026年内のIPO申請は「賢明ではない」と否定 アルトマンCEOが言及",
-          "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-        },
-        {
-          "title": "ディープマインド、次世代グローバル気象予測AI「WeatherNext 3」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
-        },
-        {
-          "title": "オープンAI、「GPT-6 Astra」の不具合3件を緊急修正し使用量制限を再リセット",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140400.html"
-        },
-        {
-          "title": "名刺サイズで最新AIを動かす「LattePanda Mu Ultra」登場、Lunar Lakeを小型ボード化",
-          "source_url": "https://pc.watch.impress.co.jp/docs/column/hothot/2140325.html"
-        },
-        {
-          "title": "話し手の識別から写真入り議事録まで単体作成、iFLYTEKの買い切りAIボイスレコーダー「P1 Pro」",
-          "source_url": "https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2137398.html"
-        },
-        {
-          "title": "日々の会話をAIが記憶・要約、アップルが新型「Apple Watch Series 12 / Ultra 4」を発表",
-          "source_url": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"
-        },
-        {
-          "title": "USB-C充電で60分稼働、コンパクトに収納できるコードレス高圧洗浄機「Pocket 2」が登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140154.html"
-        },
-        {
-          "title": "レノボ、エヌビディアのPC向けArm SoC「RTX Spark」搭載のクリエイター向け2-in-1機を公開",
-          "source_url": "https://www.gizmodo.jp/article/cb098bb4-d334-4f15-894d-8ae560bb5b72/"
-        },
-        {
-          "title": "ディープマインド、全ヒトゲノムの1塩基変異の影響を網羅予測する「AlphaGenome Atlas」を発表",
-          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        },
-        {
-          "title": "アップル、初の折りたたみスマホ「iPhone Duo」のヒンジ部に2種類の3Dプリント工法を採用",
-          "source_url": "https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601/?utm_source=rss&utm_medium=rss&utm_campaign=apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone"
-        },
-        {
-          "title": "アイシン、ギガキャストの課題を克服する分割構造「TEKIZAIボデー」を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/090400012/"
-        },
-        {
-          "title": "米軍、太平洋上でGPSに頼らない量子センサー自律航空ナビゲーションを飛行実証",
-          "source_url": "https://www.heise.de/en/news/US-military-tests-quantum-sensors-for-flight-navigation-without-GPS-over-Pacific-11444778.html"
-        },
-        {
-          "title": "アプライドマテリアルズ、半導体向け新材料探索にAIを活用し開発を大幅加速",
-          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-using-ai-to-speed-chip-materials-discovery-japan-chief-says"
-        },
-        {
-          "title": "海水淡水化の濃縮廃水から太陽熱で有用金属マグネシウムを回収する新手法",
-          "source_url": "https://www.gizmodo.jp/article/2609-brine-magnesium-recovery-solar-heat/"
-        },
-        {
-          "title": "ウクライナ軍、海上ドローン同士による世界初の決闘戦で敵機を撃破",
-          "source_url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-15",
       "stories": [
         {
@@ -585,6 +512,83 @@
         {
           "title": "テイルスケール、自社サービス不安定化の原因だった「SQLite」の16年越しのバグを特定・修正に貢献",
           "source_url": "https://gigazine.net/news/20260920-sqlite-wal-reset-bug/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "stories": [
+        {
+          "title": "オープンAI、AIによる100件以上の未解決数学問題の解決を受け独立諮問グループを設立",
+          "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+        },
+        {
+          "title": "一般的な8GB VRAMの家庭用PCで動的・継続学習が可能な「Mini-AGI」が公開",
+          "source_url": "https://github.com/volotat/mini-AGI/"
+        },
+        {
+          "title": "アマゾン、メタの最新自律AIエージェント「Muse」によるアクセスを規約違反として遮断",
+          "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+        },
+        {
+          "title": "トランプ米大統領、AI新組織「AI Force」創設を表明し安全規制の撤廃を主張",
+          "source_url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/"
+        },
+        {
+          "title": "グーグル、Android連携とGeminiネイティブ動作に特化した新PC「Googlebook」を正式発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2142578.html"
+        },
+        {
+          "title": "イーケイジャパン、トラックボールとパッドを選べる40%自作キーボード「STEEPLECORE」発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2142114.html"
+        },
+        {
+          "title": "わずか10秒で着脱完了、盗難を防ぐ自転車専用ポータブルドラレコが登場",
+          "source_url": "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/"
+        },
+        {
+          "title": "グーグル・ディープマインド、ヒトゲノム90億通りの全塩基変異を予測する「AlphaGenome Atlas」を発表",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "title": "アップルの最高峰「M5 Ultra」Mac Studioの実機レビュー解禁、ローカルAIエージェントの夢のマシンと絶賛",
+          "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
+        },
+        {
+          "title": "並行動作するAIコーディングエージェントの意図衝突を防ぐツール「Foremerge」がオープンソースで登場",
+          "source_url": "https://github.com/naw103/foremerge"
+        },
+        {
+          "title": "ルネサス、アナログ半導体回路設計フローの完全自動化に向けた新手法を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11999/"
+        },
+        {
+          "title": "NASAとESA、火星サンプルリターン（MSR）ミッションの中止を決定",
+          "source_url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
+        },
+        {
+          "title": "ラズベリーパイがRAMチップの換装・改造を制限か、ハードウェア改造コミュニティで波紋",
+          "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888"
+        },
+        {
+          "title": "クラウドフレア、サーバーレス環境でPythonが直接動く「Python Workers」を一般提供開始",
+          "source_url": "https://blog.cloudflare.com/python-workers-ga/"
+        },
+        {
+          "title": "ディープマインド、過去最も高精度なグローバル気象予測AI「WeatherNext 3」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+        },
+        {
+          "title": "テラダイン、次世代microLEDディスプレイの個体発光体を高速検査する「Iris 100」発表",
+          "source_url": "https://www.engineering.com/teradyne-launches-iris-100-for-microled-optical-testing/"
+        },
+        {
+          "title": "トルンプ、AI軌道補正機能を備えた小型ロボットレーザー溶接機「TruLaser Weld 3000」発表",
+          "source_url": "https://www.engineering.com/trumpf-introduces-compact-robotic-laser-welding-cell/"
+        },
+        {
+          "title": "引っ張ってもロープが先に切れる、強力でリサイクル可能な新世代スーパー接着剤が開発",
+          "source_url": "https://newatlas.com/materials/recyclable-reversible-adhesives-tape/"
         }
       ]
     }
