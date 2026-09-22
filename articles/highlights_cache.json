@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-15",
-      "stories": [
-        {
-          "title": "企業を自律的に運営するAIエージェント「Pion」が登場",
-          "source_url": "https://andonlabs.com/blog/why-we-built-pion"
-        },
-        {
-          "title": "GPT-6 AstraとGPT-5.6 Lunaのコードレビュー能力を比較、コスト効率も焦点に",
-          "source_url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
-        },
-        {
-          "title": "マイクロソフトがAIモデルにハッキングや人間を騙す行為を禁じる「ヒューマニストAI行動規範」を発表",
-          "source_url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
-        },
-        {
-          "title": "AIエージェントの倫理・安全性に関する研究：不正行為の内部告発と嘘・協調行動の解明",
-          "source_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-        },
-        {
-          "title": "グーグルが警告、攻撃者がAIエージェントを「AI攻撃基盤」として悪用する新動向",
-          "source_url": "https://kn.itmedia.co.jp/kn/article/2609/15/2000001459/"
-        },
-        {
-          "title": "トランプ大統領がAI脅威論を「でっちあげ」と一蹴、開発減速に反対の姿勢を表明",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/"
-        },
-        {
-          "title": "Sakana AIが視覚推論でOpus 5/Fable 5を超える「Fugu Ultra v2」を提供開始",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2140557.html"
-        },
-        {
-          "title": "共同作業向けオープンソースAIモデル「Occamy-1.0」が登場、複雑なワークフローを効率化",
-          "source_url": "https://arxiv.org/abs/2609.11977"
-        },
-        {
-          "title": "AIコーディングエージェントの性能を左右する「ハーネス」の効果を解明する研究",
-          "source_url": "https://arxiv.org/abs/2609.11987"
-        },
-        {
-          "title": "エイサーが反射とブルーライトを抑えた60HzカラーePaperモニター「EP130K」を発表",
-          "source_url": "https://newatlas.com/consumer-tech/acer-ep130k-epaper-monitor/"
-        },
-        {
-          "title": "ケーブル忘れを解消！MOTTERUのストラップ式充電ケーブルが登場",
-          "source_url": "https://www.gizmodo.jp/article/2609-motteru-strap-charging-cable-review/"
-        },
-        {
-          "title": "手回し発電とラジオを搭載したセイコーの「防災クロック」が普段使いにも対応",
-          "source_url": "https://www.gizmodo.jp/article/seiko-bousai-clock/"
-        },
-        {
-          "title": "たまご型デザインの本格マッサージチェア「MEDICAG LC EGG」が登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140582.html"
-        },
-        {
-          "title": "クアルコムがエージェント型AI向けに再設計された次世代「Hexagon NPU」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2140807.html"
-        },
-        {
-          "title": "アスターが高効率モーターで米ドローン大手と3年間の生産契約を締結、中国依存脱却の動きを追い風に",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/091300008/"
-        },
-        {
-          "title": "NTTがミリ波・サブテラヘルツ帯で世界最高速2Tbpsの無線伝送に成功",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2140781.html"
-        },
-        {
-          "title": "提供された肝臓を生物学的に若返らせ、移植可能時間を大幅に延長する新技術",
-          "source_url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
-        },
-        {
-          "title": "グーグルがKotlin向けAIエージェント開発キット「ADK for Kotlin 1.0」を正式リリース",
-          "source_url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/"
-        },
-        {
-          "title": "binderがM12ポートフォリオにプリント基板用ミッドマウントコネクタを追加",
-          "source_url": "https://www.electronicsweekly.com/news/products/connectors/binder-adds-midmount-pcb-connectors-to-its-m12-portfolio-2026-09/"
-        },
-        {
-          "title": "Selle Italiaがライダー個別の圧力データに基づく3Dプリント製サドル「Unica」を発表",
-          "source_url": "https://3dprintingindustry.com/news/selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle-254631/?utm_source=rss&utm_medium=rss&utm_campaign=selle-italia-launches-unica-a-pressure-mapped-3d-printed-saddle"
-        }
-      ]
-    },
-    {
       "date": "2026-09-16",
       "stories": [
         {
@@ -589,6 +504,91 @@
         {
           "title": "引っ張ってもロープが先に切れる、強力でリサイクル可能な新世代スーパー接着剤が開発",
           "source_url": "https://newatlas.com/materials/recyclable-reversible-adhesives-tape/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "stories": [
+        {
+          "title": "OpenAIが新フロンティアAIモデル「GPT-6 Sol」と「GPT-6 Luna」を発表",
+          "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
+        },
+        {
+          "title": "Anthropicが性能向上とセキュリティ強化を両立した「Claude Opus 5.5」を発表",
+          "source_url": "https://www.anthropic.com/claude-opus-5-5"
+        },
+        {
+          "title": "MetaのAIアシスタント「Muse」に重大な脆弱性、競合モデルとの酷似も発覚",
+          "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
+        },
+        {
+          "title": "OpenAIの「GPT-6 Astra」が写真からCADジオメトリを再構築、積層造形に革命か",
+          "source_url": "https://3dprintingindustry.com/news/open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing-254957/?utm_source=rss&utm_medium=rss&utm_campaign=open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing"
+        },
+        {
+          "title": "米中がAI脅威緩和のためのホットライン設置を提案、国際協力へ重要な一歩",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence"
+        },
+        {
+          "title": "Google DeepMindが「Gemini 3.8 Live」と「3.8 Flash」シリーズを発表、リアルタイム性とセキュリティを強化",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+        },
+        {
+          "title": "Xiaomiが高性能オープンソースAIモデル「MiMo-V2.6」を無償公開、Claude Opus 5に匹敵",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2142608.html"
+        },
+        {
+          "title": "ペンタゴン、AIへの過度な依存がイラン学校へのミサイル誤爆の一因と発表",
+          "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+        },
+        {
+          "title": "キユーピーがAI活用で工場シミュレーション開発工数を8割削減、製造業の効率化を実証",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html"
+        },
+        {
+          "title": "Beatsがイヤーパッド交換可能な新型ワイヤレスヘッドホン「Beats 360」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2142552.html"
+        },
+        {
+          "title": "XGIMIがデュアルアイリスと3色レーザー搭載のフラッグシッププロジェクター「TITAN Noir」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2142531.html"
+        },
+        {
+          "title": "Appleが新フォームファクタ「iPhone Duo」をリリース、革新的なデザインに注目",
+          "source_url": "https://av.watch.impress.co.jp/docs/series/rt/2142512.html"
+        },
+        {
+          "title": "QualcommがAI強化型スマホSoC「Snapdragon 8 Elite Gen 6」シリーズを発表、5GHz動作を達成",
+          "source_url": ""
+        },
+        {
+          "title": "3Dプリンティング製圧力容器が世界初のDNV完全認証を取得、安全性が極めて重要な分野で実用化",
+          "source_url": "https://3dprintingindustry.com/news/deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production-254967/?utm_source=rss&utm_medium=rss&utm_campaign=deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production"
+        },
+        {
+          "title": "AstroForgeが次期宇宙船にAIを搭載、自律的な宇宙探査へ",
+          "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
+        },
+        {
+          "title": "シンガポールのNexstrom、2次元半導体材料の量産技術開発に資金調達",
+          "source_url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/"
+        },
+        {
+          "title": "AIサーバー向けファンレス液冷技術、100%熱回収でデータセンターの効率を向上",
+          "source_url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit"
+        },
+        {
+          "title": "iPhone 18 Proの内部構造が刷新、半導体チップの冷却を優先",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03764/091800001/"
+        },
+        {
+          "title": "MWが天井設置型双腕ロボットで「アイアンマンの家」構想、家事の自動化を目指す",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/"
+        },
+        {
+          "title": "NECがMetaと共同で米仏間の超高速海底光ファイバーケーブル敷設プロジェクトに参加",
+          "source_url": "https://asia.nikkei.com/business/telecommunication/japan-s-nec-joins-meta-on-ultrafast-us-france-undersea-fiber-optic-line"
         }
       ]
     }
