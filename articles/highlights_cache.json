@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-16",
-      "stories": [
-        {
-          "title": "グーグル、リアルタイム対話と長時間推論を強化した「Gemini 3.8 Live」を発表",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
-        },
-        {
-          "title": "アンスロピック共同創設者がAIの「キルスイッチ」義務化の可能性に言及",
-          "source_url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o"
-        },
-        {
-          "title": "エヌビディアOpenShell、AIエージェント制御に形式手法を適用した知見を公開",
-          "source_url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/"
-        },
-        {
-          "title": "OpenAI研究者が警鐘「監視されていないAIは評価できない」",
-          "source_url": ""
-        },
-        {
-          "title": "グーグル、Windows版「Gemini」ネイティブアプリを公開し作業画面から直接呼び出し可能に",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/15/news076.html"
-        },
-        {
-          "title": "OpenAI、Anthropic、Metaのハッキングスキャンダルに単一企業が関与か",
-          "source_url": "https://www.effort.news/irregular"
-        },
-        {
-          "title": "OpenAIがスマホカメラメーカーGlass Imagingを3億ドルで買収",
-          "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
-        },
-        {
-          "title": "AIエージェントがインターネットを「破壊している」との強い主張",
-          "source_url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/"
-        },
-        {
-          "title": "世界初のナトリウムイオン搭載モバイルバッテリーが登場、低温環境でも安定動作",
-          "source_url": "https://www.gizmodo.jp/article/mobile_batterys_refrigerator/"
-        },
-        {
-          "title": "キリン、呼気から脂質と糖質の燃焼状態をリアルタイム可視化するヘルスケア機器「Lumen」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140948.html"
-        },
-        {
-          "title": "Valve、Steamゲームを単体で遊べるワイヤレスVRヘッドセット「Steam Frame」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2140961.html"
-        },
-        {
-          "title": "TSMCが次世代2nmプロセス「A14ノード」の詳細を公開へ",
-          "source_url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331"
-        },
-        {
-          "title": "グーグル、AIコーディングエージェントの評価・改善・保護のための「ハーネスエンジニアリング」を解説",
-          "source_url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/"
-        },
-        {
-          "title": "三菱電機、ヒートポンプ機器の熱交換性能を3倍にする新技術を開発",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html"
-        },
-        {
-          "title": "MediaTek、2nmプロセスのフラッグシップSoC「Dimensity 9600 Pro」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2141128.html"
-        },
-        {
-          "title": "M4 Mac Mini向けLinux GPUドライバーが1ヶ月で開発進行中",
-          "source_url": "https://codyho.dev/blog/gpu-driver/"
-        },
-        {
-          "title": "米国のAIデータセンター、2035年までにドイツと日本を合わせた以上の天然ガスを消費か",
-          "source_url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-        },
-        {
-          "title": "OpenArm: オープンソースの7自由度ヒューマノイドアームが登場",
-          "source_url": "https://github.com/enactic/OpenArm"
-        },
-        {
-          "title": "メモ化技術でeBPFのCPUコストを約90%削減、性能向上に貢献",
-          "source_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/"
-        },
-        {
-          "title": "マッチ箱サイズのIP-KVMスイッチ「JetKVM Mini」が登場、有線・無線対応でオープンソースファームウェア",
-          "source_url": "https://gigazine.net/news/20260915-jetkvm-mini/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-17",
       "stories": [
         {
@@ -589,6 +504,31 @@
         {
           "title": "NECがMetaと共同で米仏間の超高速海底光ファイバーケーブル敷設プロジェクトに参加",
           "source_url": "https://asia.nikkei.com/business/telecommunication/japan-s-nec-joins-meta-on-ultrafast-us-france-undersea-fiber-optic-line"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "stories": [
+        {
+          "title": "アリババ、わずか7Bパラメータで高精度な画像生成を実現する「Qwen-Image-2.1」を公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models"
+        },
+        {
+          "title": "マイクロソフト、クアルコム製「Snapdragon X2 Plus」を搭載した第2世代Surface Pro/Laptopを発表",
+          "source_url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
+        },
+        {
+          "title": "ロジテック、メカニカルスイッチを廃しカスタム触覚フィードバックを搭載したゲーミングマウス「G Pro Superstrike」発表",
+          "source_url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
+        },
+        {
+          "title": "Anthropicの生物学AI「Claude」、CRISPRに匹敵する新型酵素システムを自律発見",
+          "source_url": ""
+        },
+        {
+          "title": "クアルコム、モバイル向け世界初の5GHz動作を実現した「Snapdragon 8 Elite Extreme Gen 6」を発表",
+          "source_url": ""
         }
       ]
     }
