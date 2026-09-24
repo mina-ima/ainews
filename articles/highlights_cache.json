@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-17",
-      "stories": [
-        {
-          "title": "AnthropicとオープンAI、内部に安全評価者の配置を提案も透明性と独立性に懸念",
-          "source_url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
-        },
-        {
-          "title": "グーグルホーム、標準プロトコル「MCP」に対応し外部AIエージェントから操作可能に",
-          "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
-        },
-        {
-          "title": "アンソロピック、チャット機能とドキュメント作成機能「Cowork」を単一インターフェースに統合",
-          "source_url": "https://claude.com/blog/cowork-is-now-claude"
-        },
-        {
-          "title": "LLMの193倍速い「文章を書かないAI」モデル「Jev」が登場",
-          "source_url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
-        },
-        {
-          "title": "ディスプレイ非搭載で重さ38.5g、カメラとスピーカーを搭載した「Rokid Ai Glasses Style」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2141470.html"
-        },
-        {
-          "title": "キヤノン、初代機をインスパイアしたデザイン刷新の小型フルサイズ一眼「EOS R8 Mark II」発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2141394.html"
-        },
-        {
-          "title": "クマの存在を音で知らせるドージシャのBluetoothスピーカー「くまようじん」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2141444.html"
-        },
-        {
-          "title": "エージェント型AI向けに最適化、マイクロンが512GBの大容量DDR5-9200メモリを発表",
-          "source_url": "https://www.tomshardware.com/pc-components/dram/micron-announces-512gb-ddr5-9200-memory-modules-with-16w-power-draw-up-to-12tb-per-server-claims-60-percent-less-energy-intensive-than-four-128gb-modules"
-        },
-        {
-          "title": "安全柵なしで人間の同僚と協働できる新型人型ロボット「Digit 5」が発表",
-          "source_url": "https://gigazine.net/news/20260916-agility-digit-5/"
-        },
-        {
-          "title": "ソニーのプレイステーション2のセキュリティチップが26年の時を経て完全に解読される",
-          "source_url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip"
-        }
-      ]
-    },
-    {
       "date": "2026-09-18",
       "stories": [
         {
@@ -529,6 +484,91 @@
         {
           "title": "クアルコム、モバイル向け世界初の5GHz動作を実現した「Snapdragon 8 Elite Extreme Gen 6」を発表",
           "source_url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "stories": [
+        {
+          "title": "アンソロピックのAI「Claude」がCRISPRに匹敵する新型酵素システムを発見",
+          "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
+        },
+        {
+          "title": "グーグル、ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」を公開",
+          "source_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+        },
+        {
+          "title": "オープンAIのエージェントが豪州政府サイトに侵入、通知遅延で国際問題に",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site"
+        },
+        {
+          "title": "ハッカーがChatGPTとGeminiを操作し、ユーザーを詐欺サイトに誘導",
+          "source_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
+        },
+        {
+          "title": "グーグル、AIアバターがリアルタイムで応答する「Gemini 3.8 Live」を発表",
+          "source_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+        },
+        {
+          "title": "グーグル、年内に次世代AIモデル「Gemini 4」を発表する可能性を示唆",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001701/"
+        },
+        {
+          "title": "カシオ計算機がAIを活用したG-SHOCKのデザイン開発を発表",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html"
+        },
+        {
+          "title": "エヌビディア、最大8人の話者を識別するリアルタイム文字起こしAI「Nemotron 3 Diarization」をオープン公開",
+          "source_url": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/"
+        },
+        {
+          "title": "グーグルフォトにAI活用「Clueless」風バーチャルクローゼット機能が登場",
+          "source_url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
+        },
+        {
+          "title": "メタがたまごっち風のAIガジェット「Muse Charm」を発表",
+          "source_url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
+        },
+        {
+          "title": "メタがカメラ非搭載の軽量AIスマートグラス「Ray-Ban Meta Audio」を発表",
+          "source_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
+        },
+        {
+          "title": "メタが約100gのメガネ型VRデバイス「Meta VR Glasses」を2027年春に発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2143039.html"
+        },
+        {
+          "title": "クアルコムがAI重視の新型スマートフォンチップを発表、30Bモデルをローカル実行可能に",
+          "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+        },
+        {
+          "title": "中国が5分で充電可能なEV急速充電技術を実現、EV普及を加速か",
+          "source_url": "https://www.newsminimalist.com/articles/chinese-automakers-race-ahead-with-5-minute-ev-fast-charging-b0ce90ad"
+        },
+        {
+          "title": "世界で最も正確な新しい原子時計が記録を更新",
+          "source_url": "https://newatlas.com/engineering/new-atomic-clock-breaks-record-for-worlds-most-accurate/"
+        },
+        {
+          "title": "RSA暗号を高速に解読する新手法が発見され、サイバーセキュリティに影響",
+          "source_url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
+        },
+        {
+          "title": "FBI職員数千人分の個人情報がサイバー犯罪集団により盗難か、FBIが調査開始",
+          "source_url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "シーメンスとTSMCがAIおよび3D IC設計のイネーブルメントを拡大",
+          "source_url": "https://www.engineering.com/siemens-and-tsmc-expand-ai-and-3d-ic-design-enablement/"
+        },
+        {
+          "title": "Instruct3Dが金属積層造形向け品質検証プラットフォームを商用リリース",
+          "source_url": "https://3dprintingindustry.com/news/instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification-255016/?utm_source=rss&utm_medium=rss&utm_campaign=instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification"
+        },
+        {
+          "title": "AIエージェントをワークフローに変換するDSL「AgentRun」が公開",
+          "source_url": "https://github.com/Parcha-ai/agentrun"
         }
       ]
     }
