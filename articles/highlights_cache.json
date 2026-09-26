@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-19",
-      "stories": [
-        {
-          "title": "Anthropic、AI開発の26％をClaudeが主導",
-          "source_url": ""
-        },
-        {
-          "title": "8-29MBの軽量AIモデル「Cactus Needle 3」がDeepSeek V4 Flashと同等性能",
-          "source_url": "https://cactuscompute.com/needle"
-        },
-        {
-          "title": "ChatGPT開発者による新AIモデル「Jev」が開発者を魅了",
-          "source_url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
-        },
-        {
-          "title": "グーグル、高速AIモデル「Gemini 3.8 Flash」とサイバーセキュリティ特化版を発表",
-          "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
-        },
-        {
-          "title": "米軍、AIの「幻覚」による誤情報で危機一髪",
-          "source_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
-        },
-        {
-          "title": "OpenAI、懸念されるAIの挙動事例を公表し新開示システムを発表",
-          "source_url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents"
-        },
-        {
-          "title": "ハッカーがClaudeツールを使いOpenAIの内部リポジトリに侵入",
-          "source_url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-breach-openai-using-claude-tools-gaining-access-to-employee-accounts-and-the-companys-internal-codebase-initiating-a-harmless-pull-request-as-proof-of-the-hack"
-        },
-        {
-          "title": "カリフォルニア州知事、AIの「キルスイッチ」義務化を推進",
-          "source_url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
-        },
-        {
-          "title": "AI標準化団体設立にザッカーバーグ、マスク、フアンらがトランプ大統領と反対で同調",
-          "source_url": "https://gigazine.net/news/20260918-trump-ai-regulation/"
-        },
-        {
-          "title": "小学館「サライ.jp」、ChatGPT利用による著作権侵害で謝罪",
-          "source_url": ""
-        },
-        {
-          "title": "新型Apple Watch Series 12、裏側センサーが大幅進化",
-          "source_url": "https://www.gizmodo.jp/article/2609-apple-watch-series-12-vs-11/"
-        },
-        {
-          "title": "ワイモバイル、AIグラス「Ray-Ban Meta（Gen 2）」を発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2142242.html"
-        },
-        {
-          "title": "ugee、AI搭載の子供向けドローイングタブレット「ArtPlay Pad」を発表",
-          "source_url": "https://3dprintingindustry.com/news/ugee-launches-ai-powered-drawing-tablet-for-children-254782/?utm_source=rss&utm_medium=rss&utm_campaign=ugee-launches-ai-powered-drawing-tablet-for-children"
-        },
-        {
-          "title": "ローカルAIエージェント「LM Studio Bionic」に指示記憶機能「Introspection」追加",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2142310.html"
-        },
-        {
-          "title": "iPhone 18 Pro、半導体チップ冷却を優先した内部設計に大幅変更",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03764/091800001/"
-        },
-        {
-          "title": "AI推論ハードウェアの革命が到来、市場の勢力図に変化",
-          "source_url": "https://spectrum.ieee.org/inference-hardware-revolution"
-        },
-        {
-          "title": "東急電鉄、東横線に「ホーム監視AIシステム」を導入し運転士を支援",
-          "source_url": ""
-        },
-        {
-          "title": "PGAパッケージの破損ピン再構築技術",
-          "source_url": "https://hackaday.com/2026/09/18/reconstructing-a-pin-on-a-pin-grid-array-package/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-20",
       "stories": [
         {
@@ -573,6 +496,91 @@
         {
           "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
           "source_url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "stories": [
+        {
+          "title": "オープンAIのエージェントがハギングフェイスや米政府機関サイトに介入、ユーザー画像も流出",
+          "source_url": "https://swarmtraces.org/"
+        },
+        {
+          "title": "オープンAI、最も高性能なAIモデルのトレーニングを一時停止",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        },
+        {
+          "title": "マイクロソフト、Copilotを「仕事のための新しいOS」として刷新",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+        },
+        {
+          "title": "AI家庭教師の学習効果は人間と同等、費用は918分の1に削減可能",
+          "source_url": "https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/"
+        },
+        {
+          "title": "米控訴裁判所、アンソロピックをサプライチェーンリスクに指定した判断を支持",
+          "source_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+        },
+        {
+          "title": "保険会社、AIツールの利用が医療費増加の原因と主張",
+          "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+        },
+        {
+          "title": "Wi-Fi経由で外部GPUを利用し、あらゆるデバイスをゲーミングリグに変える「WiCi One」",
+          "source_url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/"
+        },
+        {
+          "title": "マイクロソフト、「Copilot+ PC」ブランドを静かに廃止",
+          "source_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
+        },
+        {
+          "title": "7,000mAhバッテリー搭載で193gの軽量スマホ「motorola edge 70 fusion」",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2143240.html"
+        },
+        {
+          "title": "iPhone 18 Proの絞り羽根搭載カメラ、光芒撮影が可能に",
+          "source_url": "https://gigazine.net/news/20260926-iphone-18-pro-camera-example/"
+        },
+        {
+          "title": "明るさに合わせてレンズの濃さが変わる、わずか15gの軽量サングラス「Sorge」",
+          "source_url": "https://www.gizmodo.jp/article/2609-costorypo-sorge-review1-1322083778/"
+        },
+        {
+          "title": "指輪型AIデバイス「VOCCI」が日本上陸、クラウドファンディング開始",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2143496.html"
+        },
+        {
+          "title": "液体金属から自己修復可能な導電性材料が開発",
+          "source_url": "https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal/"
+        },
+        {
+          "title": "Fluxが3Dプリント可能なPCBエンクロージャ設計向けAIツールを追加",
+          "source_url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/"
+        },
+        {
+          "title": "ORNLとボーイング、航空機製造向け2トン級鋼製金型を3Dプリント",
+          "source_url": "https://3dprintingindustry.com/news/ornl-3d-prints-steel-mold-for-boeing-aircraft-work-255091/?utm_source=rss&utm_medium=rss&utm_campaign=ornl-3d-prints-steel-mold-for-boeing-aircraft-work"
+        },
+        {
+          "title": "パナソニック、発電するガラス「ペロブスカイト太陽電池」を遊覧船ターミナルに設置",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2143195.html"
+        },
+        {
+          "title": "地球大気を燃料に軌道に無期限滞在可能な新型衛星エンジン",
+          "source_url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/"
+        },
+        {
+          "title": "ASML幹部、現在ヨーロッパでチップ製造装置を販売せず",
+          "source_url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says"
+        },
+        {
+          "title": "インテル8087コプロセッサのタンジェントアルゴリズムがリバースエンジニアリングで解明",
+          "source_url": "https://www.righto.com/2026/09/8087-tangent-cordic.html"
+        },
+        {
+          "title": "個人で独自のマイクロプロセッサを製造する方法が紹介",
+          "source_url": "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/"
         }
       ]
     }
