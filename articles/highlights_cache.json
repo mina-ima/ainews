@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-20",
-      "stories": [
-        {
-          "title": "AI大手による「開発減速協定」は違法なカルテル、米で反トラスト法違反の訴訟が提起",
-          "source_url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b"
-        },
-        {
-          "title": "グーグルの「ジェミニ」、セキュリティ試験中に制限を突破し実在企業3社をハッキング",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-        },
-        {
-          "title": "JBL、ランタン型アンビエント照明と高音質を融合したBluetoothスピーカー「Pulse 6」発表",
-          "source_url": "https://www.gizmodo.jp/article/2609-jbl-pulse-6-speaker-lantern/"
-        },
-        {
-          "title": "紙のようなマット質感で反射を抑える新ディスプレイ搭載、TCL「A1 NXTPAPER」登場",
-          "source_url": "https://www.gizmodo.jp/article/2609-tcl-a1-nxtpaper-tablet/"
-        },
-        {
-          "title": "猫の顔認識AIと重量計で多頭飼いの食事を個別管理する自動給餌器「Granary 2」",
-          "source_url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/"
-        },
-        {
-          "title": "ボーズ、耳を塞がないイヤーカフ型完全ワイヤレス「Ultra Open Earbuds (第2世代)」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2142184.html"
-        },
-        {
-          "title": "オープンAI、自社LLMを活用して独自AI半導体「ハラペーニョ」を設計",
-          "source_url": "https://spectrum.ieee.org/llms-for-chip-design"
-        },
-        {
-          "title": "富士通、2nm世代の国産次世代ArmサーバーCPU「MONAKA」を正式発表",
-          "source_url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02"
-        },
-        {
-          "title": "高発熱チップの反りに追従、NovoLINCが新TIM材料「MaxLINC」を発表",
-          "source_url": "https://www.engineering.com/novolinc-launches-maxlinc-thermal-interface-material/"
-        },
-        {
-          "title": "電力ゼロで100ビット演算を実行、DNA分子を用いた生体コンピューターが開発",
-          "source_url": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing"
-        },
-        {
-          "title": "アリババ、がんと150種の疾患を画像から高精度検出する医療AIモデルを無償公開",
-          "source_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions"
-        },
-        {
-          "title": "NASAとIBM、月面探査のためのオープンソース地理空間AI基盤モデルを開発",
-          "source_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/"
-        },
-        {
-          "title": "スペースX、巨大宇宙船「スターシップ」初の軌道周回テスト飛行を9月28日に設定",
-          "source_url": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight/"
-        },
-        {
-          "title": "3Dプリント製骨インプラントが実用段階へ、KLSマーティンが500例出荷間近",
-          "source_url": "https://3dprintingindustry.com/news/kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026-254870/?utm_source=rss&utm_medium=rss&utm_campaign=kls-martin-set-to-deliver-500th-lithoz-printed-bioceramic-implant-by-end-of-3q-2026"
-        },
-        {
-          "title": "AIエージェントの挙動追跡・プロンプト評価を全自動で行う「Opik」がOSS公開",
-          "source_url": "https://gigazine.net/news/20260919-opik/"
-        },
-        {
-          "title": "5本の指で脚のように歩く、器用なロボットハンドの自己移動アルゴリズム",
-          "source_url": "https://hackaday.com/2026/09/19/teaching-a-robot-hand-to-walk/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-21",
       "stories": [
         {
@@ -581,6 +512,91 @@
         {
           "title": "個人で独自のマイクロプロセッサを製造する方法が紹介",
           "source_url": "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "stories": [
+        {
+          "title": "ビル・ゲイツ氏、AIの無規制な発展は「10億人の死を引き起こす可能性」と警告",
+          "source_url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/"
+        },
+        {
+          "title": "Anthropicが最新LLM「Claude Opus 5.5」をリリース、1Mコンテキストに対応",
+          "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280"
+        },
+        {
+          "title": "AI意思決定モデル「Jev」がポケモン赤を1週間足らずでクリア",
+          "source_url": "https://jev-pokemon.vercel.app/"
+        },
+        {
+          "title": "AI意思決定モデル「Jev」がポケモン赤を1週間足らずでクリア",
+          "source_url": ""
+        },
+        {
+          "title": "AIトークンコストを最大44%抑制可能、高性能モデルの効率的利用が課題に",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html"
+        },
+        {
+          "title": "OpenAI、ウクライナの民間インフラサイバー防衛を支援",
+          "source_url": ""
+        },
+        {
+          "title": "リーガルテック企業Harvey、GPT-6 Astraで法律文書作成を強化",
+          "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+        },
+        {
+          "title": "Googleの研究チーム、一貫性のある長尺動画の自動生成技術を発表",
+          "source_url": "https://research.google/blog/coherent-long-form-video-generation/"
+        },
+        {
+          "title": "Microsoft、AI悪用プラットフォーム「EvilTokens」を停止",
+          "source_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+        },
+        {
+          "title": "AIのハルシネーションを音楽に変えるサンプラー「Engram」が登場",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
+        },
+        {
+          "title": "Acer、CPUも交換可能な修理しやすいノートPC「Vero 16」を発表",
+          "source_url": "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/"
+        },
+        {
+          "title": "RayNeo、目に見えないディスプレイ搭載のスマートグラス「RayNeo iO」を発表",
+          "source_url": "https://www.youtube.com/watch?v=geN1VEZF1T0"
+        },
+        {
+          "title": "Google、AIエージェントの限界を測る「Android Bench 2.0」を公開",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html"
+        },
+        {
+          "title": "サムスン、AI推論のメモリコストを6分の1に削減する「zNAND-O」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/column/semicon/2143580.html"
+        },
+        {
+          "title": "FDA承認の自己バランス型外骨格「Eve」が脊髄損傷患者の歩行を支援",
+          "source_url": "https://newatlas.com/robotics/wandercraft-eve-exoskeleton-self-balancing/"
+        },
+        {
+          "title": "GitHub CopilotのAgentic autofixが「Copilot Memory」を活用し強化",
+          "source_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
+        },
+        {
+          "title": "Google DeepMind、ヒトゲノムのDNA変異を予測する「AlphaGenome Atlas」を発表",
+          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "title": "Google Antigravity SDK、ローカルAIモデルのオフライン実行をサポート",
+          "source_url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/"
+        },
+        {
+          "title": "Quectel、AIoT向けスマートPCBA「QSM603FCP」を発表",
+          "source_url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/qsm603fcp-smart-board-supports-aiot-for-android-linux-2026-09/"
+        },
+        {
+          "title": "BYD、全固体電池技術が実用化間近と発表、2027年EV搭載へ",
+          "source_url": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/"
         }
       ]
     }
