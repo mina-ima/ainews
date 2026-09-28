@@ -93,7 +93,12 @@ def sort_highlights(highlights: list[dict]) -> list[dict]:
     """AI関連 → ガジェット → その他の順にソート（グループ内は重要度降順）"""
     return sorted(
         highlights,
-        key=lambda h: (_category_group(h.get("category", "")), -h.get("importance", 3)),
+        # category を挟まないと同グループ内でカテゴリが交互に並び、同じ見出しが何度も出る
+        key=lambda h: (
+            _category_group(h.get("category", "")),
+            h.get("category", ""),
+            -h.get("importance", 3),
+        ),
     )
 
 
@@ -295,6 +300,7 @@ def sanitize_result(result: object, valid_urls: set[str]) -> dict:
     raw = result.get("highlights")
     highlights: list[dict] = []
     dropped_urls = 0
+    seen: set[str] = set()  # 同日内の重複（モデルが同じ記事を2回出す）を落とす
 
     for h in raw if isinstance(raw, list) else []:
         if len(highlights) >= HARD_MAX_HIGHLIGHTS:
@@ -318,6 +324,13 @@ def sanitize_result(result: object, valid_urls: set[str]) -> dict:
         elif url and url not in valid_urls:
             url = ""
             dropped_urls += 1
+
+        title_key = re.sub(r"\s+", "", title)
+        if title_key in seen or (url and url in seen):
+            continue
+        seen.add(title_key)
+        if url:
+            seen.add(url)
 
         source_title = _clean_text(h.get("source_title"), MAX_TITLE_LEN)
 
@@ -383,7 +396,11 @@ async def _gemini_sweep(user_prompt: str) -> dict | None:
                 # strict=False: Gemini が文字列値に生の改行・制御文字を混ぜてくることが
                 # あり、既定の json.loads は "Invalid control character" で落ちる
                 result = json.loads(response.text, strict=False)
-                count = len(result.get("highlights", []))
+                # 重複は sanitize_result で落ちるので、ユニークなタイトル数で品質判定する
+                count = len({
+                    str(h.get("title", "")).strip()
+                    for h in result.get("highlights", []) if isinstance(h, dict)
+                })
 
                 if count >= MIN_HIGHLIGHTS:
                     print(f"  (使用: Gemini {model}, {count}件)")

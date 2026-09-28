@@ -93,6 +93,20 @@ def test_cardinality_cap():
     assert len(out["highlights"]) == 200
 
 
+def test_dedup_within_day():
+    """同じURL・同じタイトルの重複はモデルが出しても1件にまとめる（2026-09-26/28 に発生）"""
+    out = sanitize_result(
+        {"highlights": [
+            {"title": "Jev A", "source_url": "https://example.com/a"},
+            {"title": "Jev A 別見出し", "source_url": "https://example.com/a"},
+            {"title": "Jev  A"},
+            {"title": "別"},
+        ]},
+        VALID,
+    )
+    assert [h["title"] for h in out["highlights"]] == ["Jev A", "別"]
+
+
 def test_get_bounded_caps_decompressed_body():
     """圧縮爆弾: 19KB の gzip が 20MB に展開されても、返り値もピークメモリも縛られること。
 
@@ -155,6 +169,7 @@ if __name__ == "__main__":
     test_inert()
     test_prompt_wraps_untrusted_data()
     test_cardinality_cap()
+    test_dedup_within_day()
     test_get_bounded_caps_decompressed_body()
     test_decompress_bounded_peak_memory()
     test_markdown_omits_dropped_source_link()
