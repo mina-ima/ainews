@@ -21,6 +21,12 @@ on:
 permissions:
   contents: write
 
+# watchdog（Cloudflare Worker）の dispatch と遅れた schedule が重なっても直列化する。
+# 後から走る schedule は guard で当日分を見てスキップされる。
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest

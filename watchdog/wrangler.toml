@@ -1,0 +1,7 @@
+name = "ainews-watchdog"
+main = "index.js"
+compatibility_date = "2026-09-01"
+
+# UTC 21:00 = JST 6:00。GitHub schedule の本命（実着地 JST 5:18〜6:30）が来ていなければここで撃つ
+[triggers]
+crons = ["0 21 * * *"]
