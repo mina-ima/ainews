@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-22",
-      "stories": [
-        {
-          "title": "オープンAI、AIによる100件以上の未解決数学問題の解決を受け独立諮問グループを設立",
-          "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
-        },
-        {
-          "title": "一般的な8GB VRAMの家庭用PCで動的・継続学習が可能な「Mini-AGI」が公開",
-          "source_url": "https://github.com/volotat/mini-AGI/"
-        },
-        {
-          "title": "アマゾン、メタの最新自律AIエージェント「Muse」によるアクセスを規約違反として遮断",
-          "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
-        },
-        {
-          "title": "トランプ米大統領、AI新組織「AI Force」創設を表明し安全規制の撤廃を主張",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/"
-        },
-        {
-          "title": "グーグル、Android連携とGeminiネイティブ動作に特化した新PC「Googlebook」を正式発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2142578.html"
-        },
-        {
-          "title": "イーケイジャパン、トラックボールとパッドを選べる40%自作キーボード「STEEPLECORE」発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2142114.html"
-        },
-        {
-          "title": "わずか10秒で着脱完了、盗難を防ぐ自転車専用ポータブルドラレコが登場",
-          "source_url": "https://www.gizmodo.jp/article/kumazakiaim-anshin-rec/"
-        },
-        {
-          "title": "グーグル・ディープマインド、ヒトゲノム90億通りの全塩基変異を予測する「AlphaGenome Atlas」を発表",
-          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        },
-        {
-          "title": "アップルの最高峰「M5 Ultra」Mac Studioの実機レビュー解禁、ローカルAIエージェントの夢のマシンと絶賛",
-          "source_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"
-        },
-        {
-          "title": "並行動作するAIコーディングエージェントの意図衝突を防ぐツール「Foremerge」がオープンソースで登場",
-          "source_url": "https://github.com/naw103/foremerge"
-        },
-        {
-          "title": "ルネサス、アナログ半導体回路設計フローの完全自動化に向けた新手法を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11999/"
-        },
-        {
-          "title": "NASAとESA、火星サンプルリターン（MSR）ミッションの中止を決定",
-          "source_url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead"
-        },
-        {
-          "title": "ラズベリーパイがRAMチップの換装・改造を制限か、ハードウェア改造コミュニティで波紋",
-          "source_url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888"
-        },
-        {
-          "title": "クラウドフレア、サーバーレス環境でPythonが直接動く「Python Workers」を一般提供開始",
-          "source_url": "https://blog.cloudflare.com/python-workers-ga/"
-        },
-        {
-          "title": "ディープマインド、過去最も高精度なグローバル気象予測AI「WeatherNext 3」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
-        },
-        {
-          "title": "テラダイン、次世代microLEDディスプレイの個体発光体を高速検査する「Iris 100」発表",
-          "source_url": "https://www.engineering.com/teradyne-launches-iris-100-for-microled-optical-testing/"
-        },
-        {
-          "title": "トルンプ、AI軌道補正機能を備えた小型ロボットレーザー溶接機「TruLaser Weld 3000」発表",
-          "source_url": "https://www.engineering.com/trumpf-introduces-compact-robotic-laser-welding-cell/"
-        },
-        {
-          "title": "引っ張ってもロープが先に切れる、強力でリサイクル可能な新世代スーパー接着剤が開発",
-          "source_url": "https://newatlas.com/materials/recyclable-reversible-adhesives-tape/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-23",
       "stories": [
         {
@@ -565,6 +488,55 @@
         {
           "title": "マイクロソフト、Excelで40年続いた「1セル1値」の原則を変更する新機能「Lists」を発表",
           "source_url": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "stories": [
+        {
+          "title": "オープンAI、24時間クラウドで常時稼働する自律型エージェント「ドッツ」を公開",
+          "source_url": "https://openai.com/index/introducing-dots"
+        },
+        {
+          "title": "オープンAI、高性能と5分の1の低コストを両立した「GPT-6.1 Sol」を電撃発表",
+          "source_url": "https://openai.com/index/introducing-gpt-6-1-sol/"
+        },
+        {
+          "title": "Jev互換の超軽量・高速意思決定モデル「ジェフ」が登場、ローカルで20ミリ秒台の爆速動作",
+          "source_url": "https://github.com/firelex/jeff"
+        },
+        {
+          "title": "オープンAI、DevDayで「ゲームボーイ」風の独自ハードウェアガジェットをサプライズ披露",
+          "source_url": "https://www.gizmodo.jp/article/2609-openai-devday-2026-gameboy-device/"
+        },
+        {
+          "title": "ナッシング、MEMSドライバー搭載の最上位ヘッドフォン「Headphone (1) Pro」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2144008.html"
+        },
+        {
+          "title": "アップル「AirPods 5」の分解レポート公開、初の本格的な修理性向上が明らかに",
+          "source_url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/"
+        },
+        {
+          "title": "ゼンハイザー、圧倒的な高音質と驚異のバッテリー寿命を両立した「Momentum 5」を発表",
+          "source_url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
+        },
+        {
+          "title": "GPU並列処理と形式的証明を両立する新言語「ベンド」が登場、AIの誤りを自動阻止",
+          "source_url": "https://gigazine.net/news/20260930-bend-lang/"
+        },
+        {
+          "title": "先進パッケージ基板がアプリケーション特化型設計へシフト、汎用基板の限界を突破",
+          "source_url": "https://semiengineering.com/one-substrate-no-longer-rules-them-all/"
+        },
+        {
+          "title": "エヌビディア、AIエージェントの暴走を防ぐ物理「ウォッチドッグ・チップ」構想を発表",
+          "source_url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
+        },
+        {
+          "title": "スペースXの史上最大ロケット「スターシップ」、ついに地球周回軌道への投入に成功",
+          "source_url": "https://newatlas.com/space-systems/starship-orbits-earth-landmark-event/"
         }
       ]
     }
