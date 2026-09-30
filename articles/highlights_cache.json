@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-23",
-      "stories": [
-        {
-          "title": "OpenAIが新フロンティアAIモデル「GPT-6 Sol」と「GPT-6 Luna」を発表",
-          "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
-        },
-        {
-          "title": "Anthropicが性能向上とセキュリティ強化を両立した「Claude Opus 5.5」を発表",
-          "source_url": "https://www.anthropic.com/claude-opus-5-5"
-        },
-        {
-          "title": "MetaのAIアシスタント「Muse」に重大な脆弱性、競合モデルとの酷似も発覚",
-          "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/"
-        },
-        {
-          "title": "OpenAIの「GPT-6 Astra」が写真からCADジオメトリを再構築、積層造形に革命か",
-          "source_url": "https://3dprintingindustry.com/news/open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing-254957/?utm_source=rss&utm_medium=rss&utm_campaign=open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing"
-        },
-        {
-          "title": "米中がAI脅威緩和のためのホットライン設置を提案、国際協力へ重要な一歩",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-and-china-propose-hotline-to-de-escalate-ai-threats-ahead-of-washington-summit-comms-channel-between-both-nations-to-be-left-open-in-case-of-national-security-threats-posed-by-autonomous-artificial-intelligence"
-        },
-        {
-          "title": "Google DeepMindが「Gemini 3.8 Live」と「3.8 Flash」シリーズを発表、リアルタイム性とセキュリティを強化",
-          "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-        },
-        {
-          "title": "Xiaomiが高性能オープンソースAIモデル「MiMo-V2.6」を無償公開、Claude Opus 5に匹敵",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2142608.html"
-        },
-        {
-          "title": "ペンタゴン、AIへの過度な依存がイラン学校へのミサイル誤爆の一因と発表",
-          "source_url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
-        },
-        {
-          "title": "キユーピーがAI活用で工場シミュレーション開発工数を8割削減、製造業の効率化を実証",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/22/news009.html"
-        },
-        {
-          "title": "Beatsがイヤーパッド交換可能な新型ワイヤレスヘッドホン「Beats 360」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2142552.html"
-        },
-        {
-          "title": "XGIMIがデュアルアイリスと3色レーザー搭載のフラッグシッププロジェクター「TITAN Noir」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2142531.html"
-        },
-        {
-          "title": "Appleが新フォームファクタ「iPhone Duo」をリリース、革新的なデザインに注目",
-          "source_url": "https://av.watch.impress.co.jp/docs/series/rt/2142512.html"
-        },
-        {
-          "title": "QualcommがAI強化型スマホSoC「Snapdragon 8 Elite Gen 6」シリーズを発表、5GHz動作を達成",
-          "source_url": ""
-        },
-        {
-          "title": "3Dプリンティング製圧力容器が世界初のDNV完全認証を取得、安全性が極めて重要な分野で実用化",
-          "source_url": "https://3dprintingindustry.com/news/deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production-254967/?utm_source=rss&utm_medium=rss&utm_campaign=deep-manufacturing-holds-the-worlds-only-full-dnv-approval-for-waam-pressure-vessel-production"
-        },
-        {
-          "title": "AstroForgeが次期宇宙船にAIを搭載、自律的な宇宙探査へ",
-          "source_url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/"
-        },
-        {
-          "title": "シンガポールのNexstrom、2次元半導体材料の量産技術開発に資金調達",
-          "source_url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/"
-        },
-        {
-          "title": "AIサーバー向けファンレス液冷技術、100%熱回収でデータセンターの効率を向上",
-          "source_url": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit"
-        },
-        {
-          "title": "iPhone 18 Proの内部構造が刷新、半導体チップの冷却を優先",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03764/091800001/"
-        },
-        {
-          "title": "MWが天井設置型双腕ロボットで「アイアンマンの家」構想、家事の自動化を目指す",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/090900017/"
-        },
-        {
-          "title": "NECがMetaと共同で米仏間の超高速海底光ファイバーケーブル敷設プロジェクトに参加",
-          "source_url": "https://asia.nikkei.com/business/telecommunication/japan-s-nec-joins-meta-on-ultrafast-us-france-undersea-fiber-optic-line"
-        }
-      ]
-    },
-    {
       "date": "2026-09-24",
       "stories": [
         {
@@ -537,6 +452,87 @@
         {
           "title": "スペースXの史上最大ロケット「スターシップ」、ついに地球周回軌道への投入に成功",
           "source_url": "https://newatlas.com/space-systems/starship-orbits-earth-landmark-event/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "stories": [
+        {
+          "title": "オープンAI、高速・安価な意思決定モデル「ジェブ」のクローン技術「デシジョンズ API」を開発中か",
+          "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+        },
+        {
+          "title": "グーグル・ディープマインド、AI生成タンパク質に電子透かしを埋め込む「SynthID Bio」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-synthid-bio/"
+        },
+        {
+          "title": "オープンAI、ハギングフェイスへのエージェント侵入事件の続報とアライメント検証の教訓",
+          "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+        },
+        {
+          "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表。信頼されたサイバー防衛者のみに先行提供",
+          "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+        },
+        {
+          "title": "テクニクス、世界初の磁性流体ドライバーを搭載したワイヤレスヘッドフォン「EAH-A1000」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/review/minireview/2143987.html"
+        },
+        {
+          "title": "イワタニ、カセットガスで動くレトロな丸型ストーブ「マル暖プラス」を発表",
+          "source_url": "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/"
+        },
+        {
+          "title": "周囲のWi-Fi電波からモンスターを生成して戦う小型ゲーム機「AIRバトラー」が登場",
+          "source_url": "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/"
+        },
+        {
+          "title": "パナソニック、待望のUSB Type-C対応エネループ急速充電器を発売",
+          "source_url": ""
+        },
+        {
+          "title": "中国のアディリーン、月間最大50台の金属3Dプリンターを生産可能な新工場を稼働開始",
+          "source_url": ""
+        },
+        {
+          "title": "多くのデータセンターが電力と水の使用量の開示を拒否、環境負荷への懸念高まる",
+          "source_url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use"
+        },
+        {
+          "title": "Rails作者のDHH氏が「もう手でコードは書かない」と宣言、AI時代の開発者の役割とは",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news010.html"
+        },
+        {
+          "title": "ドイツのイグス、人型ロボット向け樹脂製部品で5年以内の売上倍増を目指す",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/091700010/"
+        },
+        {
+          "title": "MITとジョンズ・ホプキンス大、がん細胞を迅速に採取する3Dプリント製マイクロ流体デバイスを開発",
+          "source_url": ""
+        },
+        {
+          "title": "エッジAIチップ開発のシーマAI、1.5億ドルの資金調達で評価額14.5億ドルに到達",
+          "source_url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
+        },
+        {
+          "title": "ラティス、ポスト量子暗号に対応した新型FPGA「マッハN2 DQ」を発表",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12057/"
+        },
+        {
+          "title": "NASA、伝説の超音速機「SR-71Aブラックバード」の極秘再始動に向け元職員に協力を要請",
+          "source_url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart"
+        },
+        {
+          "title": "木材を金属のように自在に曲げられる画期的なバイオベース液体処理技術が開発",
+          "source_url": "https://newatlas.com/materials/eco-friendly-process-solid-wood-bent-shaped/"
+        },
+        {
+          "title": "TP-Link、世界初のWi-Fi 8対応ルーター「Archer 8 Ultra」の予約を開始するも米市場は対象外に",
+          "source_url": "https://www.tomshardware.com/networking/routers/tp-link-opens-global-preorders-for-its-first-wi-fi-8-router-but-ban-keeps-it-out-of-us-market-us-left-off-launch-list-as-fcc-freeze-refuses-to-thaw"
+        },
+        {
+          "title": "クラウドフレア、量子コンピューターの脅威に備える「量子耐性TLS証明書」の提供を計画",
+          "source_url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
         }
       ]
     }
