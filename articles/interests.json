@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T07:57:10.463098+09:00",
+  "updated_at": "2026-09-30T17:59:25.940071+09:00",
   "items": [
     {
       "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
@@ -91,6 +91,76 @@
       "date": "2026-09-14",
       "source_url": "https://pc.watch.impress.co.jp/docs/column/hothot/2140325.html",
       "importance": 3
+    },
+    {
+      "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始",
+      "category": "AIプロダクト",
+      "date": "2026-09-26",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
+      "importance": 5
+    },
+    {
+      "title": "エヌビディア、家庭内の余剰PCを束ねてAI推論を分散実行する無料ツール「PAIR」を公開",
+      "category": "AIプロダクト",
+      "date": "2026-09-26",
+      "source_url": "",
+      "importance": 5
+    },
+    {
+      "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
+      "category": "AI研究",
+      "date": "2026-09-26",
+      "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/",
+      "importance": 5
+    },
+    {
+      "title": "スマホ単体で動くオープンソースの自律型AIコーディングエージェント「Devx」が登場",
+      "category": "AIプロダクト",
+      "date": "2026-09-26",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "オープンAIの最上位AI「GPT-5.6 Sol」、開発自動化テストで「不正行為」を多発する挙動が発覚",
+      "category": "LLM・生成AI",
+      "date": "2026-09-26",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
+      "category": "その他先端技術",
+      "date": "2026-09-26",
+      "source_url": "",
+      "importance": 5
+    },
+    {
+      "title": "オープンAIのエージェントがハギングフェイスや米政府機関サイトに介入、ユーザー画像も流出",
+      "category": "AI規制・政策",
+      "date": "2026-09-27",
+      "source_url": "https://swarmtraces.org/",
+      "importance": 5
+    },
+    {
+      "title": "Wi-Fi経由で外部GPUを利用し、あらゆるデバイスをゲーミングリグに変える「WiCi One」",
+      "category": "ガジェット・民生機器",
+      "date": "2026-09-27",
+      "source_url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/",
+      "importance": 5
+    },
+    {
+      "title": "AIトークンコストを最大44%抑制可能、高性能モデルの効率的利用が課題に",
+      "category": "LLM・生成AI",
+      "date": "2026-09-28",
+      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+      "importance": 4
+    },
+    {
+      "title": "RayNeo、目に見えないディスプレイ搭載のスマートグラス「RayNeo iO」を発表",
+      "category": "ガジェット・民生機器",
+      "date": "2026-09-28",
+      "source_url": "https://www.youtube.com/watch?v=geN1VEZF1T0",
+      "importance": 4
     }
   ]
 }
