@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-24",
-      "stories": [
-        {
-          "title": "アリババ、わずか7Bパラメータで高精度な画像生成を実現する「Qwen-Image-2.1」を公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models"
-        },
-        {
-          "title": "マイクロソフト、クアルコム製「Snapdragon X2 Plus」を搭載した第2世代Surface Pro/Laptopを発表",
-          "source_url": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
-        },
-        {
-          "title": "ロジテック、メカニカルスイッチを廃しカスタム触覚フィードバックを搭載したゲーミングマウス「G Pro Superstrike」発表",
-          "source_url": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price"
-        },
-        {
-          "title": "Anthropicの生物学AI「Claude」、CRISPRに匹敵する新型酵素システムを自律発見",
-          "source_url": ""
-        },
-        {
-          "title": "クアルコム、モバイル向け世界初の5GHz動作を実現した「Snapdragon 8 Elite Extreme Gen 6」を発表",
-          "source_url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-09-25",
       "stories": [
         {
@@ -533,6 +508,87 @@
         {
           "title": "クラウドフレア、量子コンピューターの脅威に備える「量子耐性TLS証明書」の提供を計画",
           "source_url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "stories": [
+        {
+          "title": "人間は取締役2人のみ、実務はAIエージェントが担う新会社「HENNGE AI」が設立",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/"
+        },
+        {
+          "title": "オープンAI、AIエージェントの安全警告を繰り返し無視して迅速なリリースを優先していたことが判明",
+          "source_url": "https://gigazine.net/news/20261001-openai-ignored-warnings/"
+        },
+        {
+          "title": "米連邦取引委員会、OpenAIやAnthropicなどの主要AI企業を対象に製品リスクの調査を開始",
+          "source_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+        },
+        {
+          "title": "アマゾン、超高速意思決定モデル「Jev」に対抗する「Strands Decider 2B」をリリース",
+          "source_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
+        },
+        {
+          "title": "OpenAI、モデルの推論過程を組織的に抜き出す“敵対的蒸留”行為を特定し阻止",
+          "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+        },
+        {
+          "title": "アップル、「iPhone Duo」に折り目を最小限に抑える交換可能なディスプレイ層を採用と発表",
+          "source_url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/"
+        },
+        {
+          "title": "エーアイオン、世界初のインテル次世代CPU「Panther Lake」搭載・AirJet固体冷却ミニPCを発表",
+          "source_url": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals"
+        },
+        {
+          "title": "LG、世界初となるネイティブ1,000Hz駆動のフルHDゲーミングモニターを日本国内で発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2144966.html"
+        },
+        {
+          "title": "サムスン、同社初となるクリップオン型のオープンイヤーワイヤレスイヤホン「Galaxy Buds On」を正式発表",
+          "source_url": "https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/"
+        },
+        {
+          "title": "メンキャスト・マリーン、金属3Dプリンティング（WAAM）で製造した船舶用プロペラで二重クラス認証を取得",
+          "source_url": ""
+        },
+        {
+          "title": "JERAやデルなど、千葉市に総額2.3兆円を投じて日本最大の「AIデータセンター」を建設へ",
+          "source_url": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html"
+        },
+        {
+          "title": "ハードウェアに合わせて自動最適化しオープンモデルを最大2倍高速化する推論エンジン「Magnitude」が公開",
+          "source_url": "https://github.com/magnitudedev/magnitude"
+        },
+        {
+          "title": "ギットハブ、「GitHub Copilot」がユーザーに代わってデスクトップアプリを操作する「Computer Use」を公開",
+          "source_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
+        },
+        {
+          "title": "オープンAIとシノプシス、チップ設計を革新する共同AI「GPT-Synopsys」を発表",
+          "source_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
+        },
+        {
+          "title": "ディープシークとファーウェイ、NVIDIA依存からの脱却を狙い「Ascend」向けAI開発ツールをオープンソース公開",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang"
+        },
+        {
+          "title": "マイクロンCEO、2027年と2028年のメモリ供給はさらに逼迫し価格が高騰すると警告",
+          "source_url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
+        },
+        {
+          "title": "グーグル、宇宙データセンターの本格稼働にはスペースXの「スターシップ」が1,800回打ち上げる必要があると試算",
+          "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
+        },
+        {
+          "title": "スズキ、車体骨格に1.7GPa級の超高張力鋼板の採用を検討、冷間プレスでコスト抑制し120kg軽量化へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/093000013/"
+        },
+        {
+          "title": "グラスゴー大とシドニー大、3Dプリントされたメタマテリアル内部の亀裂を電気インピーダンスでリアルタイム追跡する技術を開発",
+          "source_url": ""
         }
       ]
     }
