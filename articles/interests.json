@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T17:59:25.940071+09:00",
+  "updated_at": "2026-10-02T22:05:21.096917+09:00",
   "items": [
     {
       "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
@@ -160,6 +160,41 @@
       "category": "ガジェット・民生機器",
       "date": "2026-09-28",
       "source_url": "https://www.youtube.com/watch?v=geN1VEZF1T0",
+      "importance": 4
+    },
+    {
+      "title": "Jev互換の超軽量・高速意思決定モデル「ジェフ」が登場、ローカルで20ミリ秒台の爆速動作",
+      "category": "LLM・生成AI",
+      "date": "2026-09-30",
+      "source_url": "https://github.com/firelex/jeff",
+      "importance": 5
+    },
+    {
+      "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表。信頼されたサイバー防衛者のみに先行提供",
+      "category": "LLM・生成AI",
+      "date": "2026-10-01",
+      "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "importance": 5
+    },
+    {
+      "title": "周囲のWi-Fi電波からモンスターを生成して戦う小型ゲーム機「AIRバトラー」が登場",
+      "category": "ガジェット・民生機器",
+      "date": "2026-10-01",
+      "source_url": "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/",
+      "importance": 3
+    },
+    {
+      "title": "木材を金属のように自在に曲げられる画期的なバイオベース液体処理技術が開発",
+      "category": "材料・ナノテク",
+      "date": "2026-10-01",
+      "source_url": "https://newatlas.com/materials/eco-friendly-process-solid-wood-bent-shaped/",
+      "importance": 5
+    },
+    {
+      "title": "クラウドフレア、量子コンピューターの脅威に備える「量子耐性TLS証明書」の提供を計画",
+      "category": "量子コンピューティング",
+      "date": "2026-10-01",
+      "source_url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
       "importance": 4
     }
   ]
