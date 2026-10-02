@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-25",
-      "stories": [
-        {
-          "title": "アンソロピックのAI「Claude」がCRISPRに匹敵する新型酵素システムを発見",
-          "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-        },
-        {
-          "title": "グーグル、ゼロから声を作れる音声生成モデル「Gemini 3.8 Flash TTS」を公開",
-          "source_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
-        },
-        {
-          "title": "オープンAIのエージェントが豪州政府サイトに侵入、通知遅延で国際問題に",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site"
-        },
-        {
-          "title": "ハッカーがChatGPTとGeminiを操作し、ユーザーを詐欺サイトに誘導",
-          "source_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
-        },
-        {
-          "title": "グーグル、AIアバターがリアルタイムで応答する「Gemini 3.8 Live」を発表",
-          "source_url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
-        },
-        {
-          "title": "グーグル、年内に次世代AIモデル「Gemini 4」を発表する可能性を示唆",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001701/"
-        },
-        {
-          "title": "カシオ計算機がAIを活用したG-SHOCKのデザイン開発を発表",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news009.html"
-        },
-        {
-          "title": "エヌビディア、最大8人の話者を識別するリアルタイム文字起こしAI「Nemotron 3 Diarization」をオープン公開",
-          "source_url": "https://gigazine.net/news/20260924-nvidia-nemotron-3-diarization/"
-        },
-        {
-          "title": "グーグルフォトにAI活用「Clueless」風バーチャルクローゼット機能が登場",
-          "source_url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/"
-        },
-        {
-          "title": "メタがたまごっち風のAIガジェット「Muse Charm」を発表",
-          "source_url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/"
-        },
-        {
-          "title": "メタがカメラ非搭載の軽量AIスマートグラス「Ray-Ban Meta Audio」を発表",
-          "source_url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/"
-        },
-        {
-          "title": "メタが約100gのメガネ型VRデバイス「Meta VR Glasses」を2027年春に発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2143039.html"
-        },
-        {
-          "title": "クアルコムがAI重視の新型スマートフォンチップを発表、30Bモデルをローカル実行可能に",
-          "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
-        },
-        {
-          "title": "中国が5分で充電可能なEV急速充電技術を実現、EV普及を加速か",
-          "source_url": "https://www.newsminimalist.com/articles/chinese-automakers-race-ahead-with-5-minute-ev-fast-charging-b0ce90ad"
-        },
-        {
-          "title": "世界で最も正確な新しい原子時計が記録を更新",
-          "source_url": "https://newatlas.com/engineering/new-atomic-clock-breaks-record-for-worlds-most-accurate/"
-        },
-        {
-          "title": "RSA暗号を高速に解読する新手法が発見され、サイバーセキュリティに影響",
-          "source_url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
-        },
-        {
-          "title": "FBI職員数千人分の個人情報がサイバー犯罪集団により盗難か、FBIが調査開始",
-          "source_url": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "シーメンスとTSMCがAIおよび3D IC設計のイネーブルメントを拡大",
-          "source_url": "https://www.engineering.com/siemens-and-tsmc-expand-ai-and-3d-ic-design-enablement/"
-        },
-        {
-          "title": "Instruct3Dが金属積層造形向け品質検証プラットフォームを商用リリース",
-          "source_url": "https://3dprintingindustry.com/news/instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification-255016/?utm_source=rss&utm_medium=rss&utm_campaign=instruct3d-launches-additive-build-intelligence-platform-for-metal-am-quality-verification"
-        },
-        {
-          "title": "AIエージェントをワークフローに変換するDSL「AgentRun」が公開",
-          "source_url": "https://github.com/Parcha-ai/agentrun"
-        }
-      ]
-    },
-    {
       "date": "2026-09-26",
       "stories": [
         {
@@ -589,6 +504,91 @@
         {
           "title": "グラスゴー大とシドニー大、3Dプリントされたメタマテリアル内部の亀裂を電気インピーダンスでリアルタイム追跡する技術を開発",
           "source_url": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "stories": [
+        {
+          "title": "AI搭載のヒアリンググラス「Legato」が発売、聴覚ケアのアクセス向上を目指す",
+          "source_url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
+        },
+        {
+          "title": "Microsoft、低遅延なストリーミング文字起こしと多言語音声合成モデルを発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/"
+        },
+        {
+          "title": "ソニー、PS5向けAIアップスケーリング技術「QSSR」を発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/"
+        },
+        {
+          "title": "AIが不完全情報ゲーム「Stratego」で史上最高のプレイヤーを打ち破る",
+          "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+        },
+        {
+          "title": "Apple、AIエージェントの台頭に伴いmacOSのディスクアクセス権限を強化",
+          "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+        },
+        {
+          "title": "イングランド銀行総裁、AIブームが市場ショックを引き起こす可能性を警告",
+          "source_url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "テキストを生成しない高速AI「意思決定モデル」の信頼性と限界が議論に",
+          "source_url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails"
+        },
+        {
+          "title": "ChatGPT、GPT-6.1 Solの動作遅延を謝罪し有料ユーザーの利用制限をリセット",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145351.html"
+        },
+        {
+          "title": "国産AI「LLM-jp-4」ベースの高性能モデル「ELYZA-Thinking-1.0」が無料公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
+        },
+        {
+          "title": "Meta、プライバシーに配慮しカメラ非搭載の新型スマートグラスを発表",
+          "source_url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
+        },
+        {
+          "title": "Amazonの新型Kindle、ベゼルレスデザインでより小型・軽量に",
+          "source_url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/"
+        },
+        {
+          "title": "Fosi Audio、CD盤面が剥き出しになるユニークなCDプレーヤー「DISC Nano」を発表",
+          "source_url": "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/"
+        },
+        {
+          "title": "AYANEO、Nintendo Game Boy Advanceを再構築した携帯ゲーム機「Pocket Advance」を発表",
+          "source_url": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld"
+        },
+        {
+          "title": "オープンソースAIコーディングツール「Pi 1.0」が正式リリース、MCP対応で連携強化",
+          "source_url": "https://gigazine.net/news/20261002-pi-1-0/"
+        },
+        {
+          "title": "USB-CケーブルにLCDを内蔵した製品の分解レポートが公開",
+          "source_url": "https://hackaday.com/2026/10/02/teardown-of-an-usb-c-cable-with-integrated-lcd/"
+        },
+        {
+          "title": "NVIDIA RTX Spark搭載Surfaceが10月7日に正式発表へ",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145161.html"
+        },
+        {
+          "title": "NVIDIA製AIチップの中国への密輸、米当局が摘発も規制の限界が浮き彫りに",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork"
+        },
+        {
+          "title": "NVIDIA、ローカルAI向けに64GB版「DGX Spark」を4,999ドルで提供開始",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145000.html"
+        },
+        {
+          "title": "経産相、パワー半導体事業の国内再編を後押しする意向を表明",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001977/"
+        },
+        {
+          "title": "海綿をヒントにした軽量で高強度なメタマテリアルが開発される",
+          "source_url": "https://newatlas.com/materials/sea-sponges-strong-lightweight-metamaterials/"
         }
       ]
     }
