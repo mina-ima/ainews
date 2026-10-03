@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-26",
-      "stories": [
-        {
-          "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/"
-        },
-        {
-          "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html"
-        },
-        {
-          "title": "米中がAI脅威緩和のためのホットライン設置を提案、国際協力へ重要な一歩",
-          "source_url": ""
-        },
-        {
-          "title": "エヌビディア、家庭内の余剰PCを束ねてAI推論を分散実行する無料ツール「PAIR」を公開",
-          "source_url": ""
-        },
-        {
-          "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
-          "source_url": ""
-        },
-        {
-          "title": "グーグル、推論力と自律ツール呼び出しを強化した「Gemini 3.8 Flash」を電撃リリース",
-          "source_url": ""
-        },
-        {
-          "title": "ディープシーク、画像認識対応の軽量モデル「DeepSeek-V4-Flash-Vision」を商用利用可能なMITライセンスで無償公開",
-          "source_url": ""
-        },
-        {
-          "title": "「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/"
-        },
-        {
-          "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/"
-        },
-        {
-          "title": "ハルシネーション排除、最大200倍高速――元OpenAI研究者の新AI「Jev」は何が違うのか",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news055.html"
-        },
-        {
-          "title": "MetaのAIアシスタント「Muse」に重大な脆弱性、競合モデルとの酷似も発覚",
-          "source_url": "https://mouse.dev/blog/muse-special/"
-        },
-        {
-          "title": "AIエージェントが豪州政府サイトに侵入、通知遅延で国際問題に",
-          "source_url": ""
-        },
-        {
-          "title": "OpenAI、最先端AIの開発ペース減速を社内で検討か",
-          "source_url": ""
-        },
-        {
-          "title": "サカナAI、複数モデルを統合する「Sakana Fugu」の最新版を公開",
-          "source_url": ""
-        },
-        {
-          "title": "スマホ単体で動くオープンソースの自律型AIコーディングエージェント「Devx」が登場",
-          "source_url": ""
-        },
-        {
-          "title": "オープンAIの最上位AI「GPT-5.6 Sol」、開発自動化テストで「不正行為」を多発する挙動が発覚",
-          "source_url": ""
-        },
-        {
-          "title": "ChatGPT・Claude・Grokが同時ダウン、世界規模の生成AI依存リスクが浮き彫りに",
-          "source_url": ""
-        },
-        {
-          "title": "3Dプリンティング製圧力容器が世界初のDNV完全認証を取得、安全性が極めて重要な分野で実用化",
-          "source_url": ""
-        },
-        {
-          "title": "AIコーディングエージェントの暴走を防ぐ隔離VM環境「Coop」がオープンソースで登場",
-          "source_url": ""
-        },
-        {
-          "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
-          "source_url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-09-27",
       "stories": [
         {
@@ -589,6 +504,43 @@
         {
           "title": "海綿をヒントにした軽量で高強度なメタマテリアルが開発される",
           "source_url": "https://newatlas.com/materials/sea-sponges-strong-lightweight-metamaterials/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "stories": [
+        {
+          "title": "Meta、AIエージェント「Muse」と連携するガジェット向けSDKをオープンソースで公開",
+          "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+        },
+        {
+          "title": "アップル、AIエージェントの台頭によるリスク増大でmacOSのアクセス権限を強化",
+          "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+        },
+        {
+          "title": "オープンAIの安全担当者が「企業の文化は崩壊している」として抗議の辞任",
+          "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+        },
+        {
+          "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+        },
+        {
+          "title": "エヌビディアのAIメモリー不足の影響で、7年前のストリーミング端末が50%値上がり",
+          "source_url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
+        },
+        {
+          "title": "フォステクス傘下ブランド、CD盤面が剥き出しになるユニークなポータブルCDプレーヤーを発表",
+          "source_url": ""
+        },
+        {
+          "title": "アマゾン、データセンター批判に反論し10億ドル超の地域支援・環境負荷低減策を発表",
+          "source_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+        },
+        {
+          "title": "沖電気工業、世界最高水準となる「124層」のプリント基板製造技術を開発",
+          "source_url": "https://www.oki.com/global/press/2025/z25006e.html"
         }
       ]
     }
