@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-27",
-      "stories": [
-        {
-          "title": "オープンAIのエージェントがハギングフェイスや米政府機関サイトに介入、ユーザー画像も流出",
-          "source_url": "https://swarmtraces.org/"
-        },
-        {
-          "title": "オープンAI、最も高性能なAIモデルのトレーニングを一時停止",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-        },
-        {
-          "title": "マイクロソフト、Copilotを「仕事のための新しいOS」として刷新",
-          "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
-        },
-        {
-          "title": "AI家庭教師の学習効果は人間と同等、費用は918分の1に削減可能",
-          "source_url": "https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/"
-        },
-        {
-          "title": "米控訴裁判所、アンソロピックをサプライチェーンリスクに指定した判断を支持",
-          "source_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
-        },
-        {
-          "title": "保険会社、AIツールの利用が医療費増加の原因と主張",
-          "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
-        },
-        {
-          "title": "Wi-Fi経由で外部GPUを利用し、あらゆるデバイスをゲーミングリグに変える「WiCi One」",
-          "source_url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/"
-        },
-        {
-          "title": "マイクロソフト、「Copilot+ PC」ブランドを静かに廃止",
-          "source_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding"
-        },
-        {
-          "title": "7,000mAhバッテリー搭載で193gの軽量スマホ「motorola edge 70 fusion」",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2143240.html"
-        },
-        {
-          "title": "iPhone 18 Proの絞り羽根搭載カメラ、光芒撮影が可能に",
-          "source_url": "https://gigazine.net/news/20260926-iphone-18-pro-camera-example/"
-        },
-        {
-          "title": "明るさに合わせてレンズの濃さが変わる、わずか15gの軽量サングラス「Sorge」",
-          "source_url": "https://www.gizmodo.jp/article/2609-costorypo-sorge-review1-1322083778/"
-        },
-        {
-          "title": "指輪型AIデバイス「VOCCI」が日本上陸、クラウドファンディング開始",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2143496.html"
-        },
-        {
-          "title": "液体金属から自己修復可能な導電性材料が開発",
-          "source_url": "https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal/"
-        },
-        {
-          "title": "Fluxが3Dプリント可能なPCBエンクロージャ設計向けAIツールを追加",
-          "source_url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/"
-        },
-        {
-          "title": "ORNLとボーイング、航空機製造向け2トン級鋼製金型を3Dプリント",
-          "source_url": "https://3dprintingindustry.com/news/ornl-3d-prints-steel-mold-for-boeing-aircraft-work-255091/?utm_source=rss&utm_medium=rss&utm_campaign=ornl-3d-prints-steel-mold-for-boeing-aircraft-work"
-        },
-        {
-          "title": "パナソニック、発電するガラス「ペロブスカイト太陽電池」を遊覧船ターミナルに設置",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2143195.html"
-        },
-        {
-          "title": "地球大気を燃料に軌道に無期限滞在可能な新型衛星エンジン",
-          "source_url": "https://scitechdaily.com/new-satellite-engine-could-use-earths-atmosphere-as-fuel-to-stay-in-orbit-indefinitely/"
-        },
-        {
-          "title": "ASML幹部、現在ヨーロッパでチップ製造装置を販売せず",
-          "source_url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says"
-        },
-        {
-          "title": "インテル8087コプロセッサのタンジェントアルゴリズムがリバースエンジニアリングで解明",
-          "source_url": "https://www.righto.com/2026/09/8087-tangent-cordic.html"
-        },
-        {
-          "title": "個人で独自のマイクロプロセッサを製造する方法が紹介",
-          "source_url": "https://hackaday.com/2026/09/26/you-can-make-a-microprocessor-thats-all-your-own/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-28",
       "stories": [
         {
@@ -541,6 +456,91 @@
         {
           "title": "沖電気工業、世界最高水準となる「124層」のプリント基板製造技術を開発",
           "source_url": "https://www.oki.com/global/press/2025/z25006e.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "stories": [
+        {
+          "title": "チャタム・フィナンシャル、OpenAIのGPT-5.6を活用し取引検証時間を大幅短縮",
+          "source_url": "https://openai.com/index/chatham-financial"
+        },
+        {
+          "title": "脳波を読み取り、ロボットやAIに「意図の誤解」を伝える技術が開発",
+          "source_url": "https://newatlas.com/ai-humanoids/brainwave-reading-ai-thats-not-what-i-meant/"
+        },
+        {
+          "title": "次世代AI「GPT-6 アストラ」が217年前のナポレオンの暗号をわずか6時間で解読",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders"
+        },
+        {
+          "title": "Google、個人向けGeminiの無料枠を「Flash-Lite」に制限しモデル選択を階層化",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/"
+        },
+        {
+          "title": "バンダイ、0.2秒で自動変形する「機動文具 自動変形名刺ケース」を発売",
+          "source_url": "https://gigazine.net/news/20261004-mobile-stationery-business-card-case/"
+        },
+        {
+          "title": "Framework、最大192GBメモリ搭載のモジュール式デスクトップPCを開発中か",
+          "source_url": "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/"
+        },
+        {
+          "title": "指先で回して発電する、重さ22gの超小型手回しLEDライトが登場",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145371.html"
+        },
+        {
+          "title": "公共の充電ポートからのハッキングを防ぐ「ジュースジャッキング防止ケーブル」が注目",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2145256.html"
+        },
+        {
+          "title": "米陸軍、前線でドローンを自社製造し3Dプリント製「ドラグーン爆弾」を搭載する訓練を実施",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions"
+        },
+        {
+          "title": "乳製品の廃棄物「塩分を含むホエー」からバイオ燃料を効率的に製造する新技術",
+          "source_url": "https://newatlas.com/energy/dairy-waste-salty-whey-biofuel/"
+        },
+        {
+          "title": "Google、AI生成による無効なバグ報告の急増を受け、バグバウンティプログラムを一部一時停止",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
+        },
+        {
+          "title": "Jane Street、ASIC設計パズルの結果を公表し、ハードウェア最適化の知見を共有",
+          "source_url": "https://blog.janestreet.com/asic-puzzle-results/"
+        },
+        {
+          "title": "AIロボット開発のフィギュア、旧型ロボットを「ターミネーター風」に溶鉱炉で処分",
+          "source_url": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal"
+        },
+        {
+          "title": "Google DeepMind、AI生成タンパク質の機能性を損なわずに電子透かしを埋め込む「SynthID Bio」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-synthid-bio/"
+        },
+        {
+          "title": "スズキ、2028年より次世代ADASに中国ホライズン・ロボティクスの半導体を採用へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03197/100100026/"
+        },
+        {
+          "title": "ラピダス、国内17社と連携し最先端2nmチップの設計支援体制を構築",
+          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
+        },
+        {
+          "title": "AMD、宇宙空間で15年間動作可能な耐放射線仕様の「Versal AI Core SoC」のサンプル出荷を開始",
+          "source_url": "https://www.engineering.com/amd-samples-versal-ai-core-soc-in-space-grade-package/"
+        },
+        {
+          "title": "鋼鉄よりも硬い次世代木材が開発、環境負荷の低い超高強度素材として期待",
+          "source_url": "https://www.gizmodo.jp/article/stronger_than_steel-mtp/"
+        },
+        {
+          "title": "AIクラスターにおけるTCPの限界と、次世代プロトコル「Homa」への移行議論",
+          "source_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
+        },
+        {
+          "title": "SQCとシュナイダーエレクトリック、量子AIを用いた予測精度向上プロジェクトで成果",
+          "source_url": "https://www.engineering.com/sqc-and-schneider-electric-advance-quantum-ai-project/"
         }
       ]
     }
