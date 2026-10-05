@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-28",
-      "stories": [
-        {
-          "title": "ビル・ゲイツ氏、AIの無規制な発展は「10億人の死を引き起こす可能性」と警告",
-          "source_url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/"
-        },
-        {
-          "title": "Anthropicが最新LLM「Claude Opus 5.5」をリリース、1Mコンテキストに対応",
-          "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280"
-        },
-        {
-          "title": "AI意思決定モデル「Jev」がポケモン赤を1週間足らずでクリア",
-          "source_url": "https://jev-pokemon.vercel.app/"
-        },
-        {
-          "title": "AI意思決定モデル「Jev」がポケモン赤を1週間足らずでクリア",
-          "source_url": ""
-        },
-        {
-          "title": "AIトークンコストを最大44%抑制可能、高性能モデルの効率的利用が課題に",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html"
-        },
-        {
-          "title": "OpenAI、ウクライナの民間インフラサイバー防衛を支援",
-          "source_url": ""
-        },
-        {
-          "title": "リーガルテック企業Harvey、GPT-6 Astraで法律文書作成を強化",
-          "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-        },
-        {
-          "title": "Googleの研究チーム、一貫性のある長尺動画の自動生成技術を発表",
-          "source_url": "https://research.google/blog/coherent-long-form-video-generation/"
-        },
-        {
-          "title": "Microsoft、AI悪用プラットフォーム「EvilTokens」を停止",
-          "source_url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
-        },
-        {
-          "title": "AIのハルシネーションを音楽に変えるサンプラー「Engram」が登場",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music"
-        },
-        {
-          "title": "Acer、CPUも交換可能な修理しやすいノートPC「Vero 16」を発表",
-          "source_url": "https://www.gizmodo.jp/article/2609-acer-vero-16-repairable-laptop/"
-        },
-        {
-          "title": "RayNeo、目に見えないディスプレイ搭載のスマートグラス「RayNeo iO」を発表",
-          "source_url": "https://www.youtube.com/watch?v=geN1VEZF1T0"
-        },
-        {
-          "title": "Google、AIエージェントの限界を測る「Android Bench 2.0」を公開",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html"
-        },
-        {
-          "title": "サムスン、AI推論のメモリコストを6分の1に削減する「zNAND-O」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/column/semicon/2143580.html"
-        },
-        {
-          "title": "FDA承認の自己バランス型外骨格「Eve」が脊髄損傷患者の歩行を支援",
-          "source_url": "https://newatlas.com/robotics/wandercraft-eve-exoskeleton-self-balancing/"
-        },
-        {
-          "title": "GitHub CopilotのAgentic autofixが「Copilot Memory」を活用し強化",
-          "source_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory"
-        },
-        {
-          "title": "Google DeepMind、ヒトゲノムのDNA変異を予測する「AlphaGenome Atlas」を発表",
-          "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        },
-        {
-          "title": "Google Antigravity SDK、ローカルAIモデルのオフライン実行をサポート",
-          "source_url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/"
-        },
-        {
-          "title": "Quectel、AIoT向けスマートPCBA「QSM603FCP」を発表",
-          "source_url": "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/qsm603fcp-smart-board-supports-aiot-for-android-linux-2026-09/"
-        },
-        {
-          "title": "BYD、全固体電池技術が実用化間近と発表、2027年EV搭載へ",
-          "source_url": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-29",
       "stories": [
         {
@@ -541,6 +456,51 @@
         {
           "title": "SQCとシュナイダーエレクトリック、量子AIを用いた予測精度向上プロジェクトで成果",
           "source_url": "https://www.engineering.com/sqc-and-schneider-electric-advance-quantum-ai-project/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "stories": [
+        {
+          "title": "AnthropicのAIエージェント「Opus 5.5」が室温磁気半導体の候補2種を発見",
+          "source_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
+        },
+        {
+          "title": "オープンAI、EUのAI規制に対応しChatGPTとCodexにテキスト透かし機能を導入",
+          "source_url": ""
+        },
+        {
+          "title": "米ウィキメディア財団、オープンAIの「不正AIエージェント」によるサイト障害や無断アクセスを確認",
+          "source_url": ""
+        },
+        {
+          "title": "AIエージェントの普及で懸念される、見えない「AI浪費」の実態",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html"
+        },
+        {
+          "title": "アップル、AIエージェントの濫用リスクから保護するためmacOSのディスクアクセス権限を強化",
+          "source_url": ""
+        },
+        {
+          "title": "レノボの巨大画面スマートグラス「Legion Glasses Gen 2」がセール対象に",
+          "source_url": ""
+        },
+        {
+          "title": "iPhoneを外付けGPUのように接続してMacのローカルAI処理を高速化する「Backburner」",
+          "source_url": ""
+        },
+        {
+          "title": "三井不動産、廃トンネルを活用した国内初のユニークなデータセンター建設へ",
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsui-fudosan-to-build-data-center-in-abandoned-tunnel-in-japan"
+        },
+        {
+          "title": "125Bの大規模AIモデルをゲーミングPCでローカル実行できるアプリ「Strata」が登場",
+          "source_url": ""
+        },
+        {
+          "title": "ファーウェイとクアルコム、広範な特許ライセンス契約を締結",
+          "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
         }
       ]
     }
