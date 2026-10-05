@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-10-04T17:05:32.212326+09:00",
+  "updated_at": "2026-10-06T08:47:31.138680+09:00",
   "items": [
-    {
-      "title": "エヌビディア、家庭内の余剰PCを束ねてAI推論を分散実行する無料ツール「PAIR」を公開",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-09-04",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "importance": 5
-    },
-    {
-      "title": "エヌビディアのPC向けArm SoC「RTX Spark」搭載ノートPCが10月に登場へ",
-      "category": "半導体・チップ",
-      "date": "2026-09-04",
-      "source_url": "https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory",
-      "importance": 5
-    },
-    {
-      "title": "ChatGPT・Claude・Grokが同時ダウン、世界規模の生成AI依存リスクが浮き彫りに",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-09-04",
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "importance": 4
-    },
     {
       "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
       "category": "ソフトウェア・開発ツール",
@@ -168,6 +147,62 @@
       "date": "2026-10-01",
       "source_url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
       "importance": 4
+    },
+    {
+      "title": "オープンAI、AIエージェントの安全警告を繰り返し無視して迅速なリリースを優先していたことが判明",
+      "category": "AI規制・政策",
+      "date": "2026-10-02",
+      "source_url": "https://gigazine.net/news/20261001-openai-ignored-warnings/",
+      "importance": 5
+    },
+    {
+      "title": "ハードウェアに合わせて自動最適化しオープンモデルを最大2倍高速化する推論エンジン「Magnitude」が公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-10-02",
+      "source_url": "https://github.com/magnitudedev/magnitude",
+      "importance": 5
+    },
+    {
+      "title": "ギットハブ、「GitHub Copilot」がユーザーに代わってデスクトップアプリを操作する「Computer Use」を公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-10-02",
+      "source_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "importance": 4
+    },
+    {
+      "title": "Microsoft、低遅延なストリーミング文字起こしと多言語音声合成モデルを発表",
+      "category": "AIプロダクト",
+      "date": "2026-10-03",
+      "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+      "importance": 4
+    },
+    {
+      "title": "AIが不完全情報ゲーム「Stratego」で史上最高のプレイヤーを打ち破る",
+      "category": "AI研究",
+      "date": "2026-10-03",
+      "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "importance": 4
+    },
+    {
+      "title": "アップル、AIエージェントの台頭によるリスク増大でmacOSのアクセス権限を強化",
+      "category": "AI規制・政策",
+      "date": "2026-10-04",
+      "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "importance": 5
+    },
+    {
+      "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-10-04",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "importance": 5
+    },
+    {
+      "title": "沖電気工業、世界最高水準となる「124層」のプリント基板製造技術を開発",
+      "category": "プリント基板・電子実装",
+      "date": "2026-10-04",
+      "source_url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "importance": 5
     }
   ]
 }
