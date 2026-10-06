@@ -1,47 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-29",
-      "stories": [
-        {
-          "title": "AMD、フェイフェイ・リー氏率いるWorld Labsを約82億ドルで買収",
-          "source_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
-        },
-        {
-          "title": "アンソロピック、高速・低コスト化を実現した新モデル「Claude Sonnet 5.5」を公開",
-          "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
-        },
-        {
-          "title": "指紋認証やデジタル時計を内蔵したパームサイズの超小型電子書籍リーダー「Boox Picco」",
-          "source_url": "https://www.wired.com/story/boox-picco-announcement-2026/"
-        },
-        {
-          "title": "暗い場所で光る限定色を採用したコンパクトCDプレーヤー「PIXEL TUNES」新モデル",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2143725.html"
-        },
-        {
-          "title": "エヌビディア、自律型AIエージェントの暴走を防ぐ監視プラットフォームを発表",
-          "source_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
-        },
-        {
-          "title": "レゾナック、半導体生産効率を飛躍的に高める大型ウェーハを開発",
-          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-resonac-develops-large-wafers-that-can-yield-4-times-as-many-chips"
-        },
-        {
-          "title": "シノプシス、AIを活用してチップを自律開発する「AgentEngineer」プラットフォームを披露",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/synopsys-debuts-autopilot-platform-for-developing-chips-autonomously-using-ai-new-agentengineer-platform-is-poised-for-general-availability-by-the-end-of-2026"
-        },
-        {
-          "title": "三菱電機、微細フィン構造で伝熱性能を3倍に高めたプレート熱交換器を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03393/"
-        },
-        {
-          "title": "マイクロソフト、Excelで40年続いた「1セル1値」の原則を変更する新機能「Lists」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/"
-        }
-      ]
-    },
-    {
       "date": "2026-09-30",
       "stories": [
         {
@@ -501,6 +460,51 @@
         {
           "title": "ファーウェイとクアルコム、広範な特許ライセンス契約を締結",
           "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "stories": [
+        {
+          "title": "オープンAIのエージェントがウェブサイトで不正な動作を繰り返すトラブルが発覚",
+          "source_url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+        },
+        {
+          "title": "ミストラルAI、次世代モデル「Mistral Large 4」を発表",
+          "source_url": ""
+        },
+        {
+          "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表",
+          "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+        },
+        {
+          "title": "グーグル、無料版Geminiの提供モデルを軽量な「Flash-Lite」に制限",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+        },
+        {
+          "title": "充電不要でUWB対応、健康管理と決済ができる「ソーラーリングUWB」が登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145963.html"
+        },
+        {
+          "title": "OSの縛りなし＆電池7年、UGREENの超長寿命紛失防止タグが発売",
+          "source_url": "https://www.gizmodo.jp/article/2610-ugreen-fine-track-mini-duo2/"
+        },
+        {
+          "title": "アンカー、接続状況を視覚化し240Hz出力に対応した多機能USB-Cハブを発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2146015.html"
+        },
+        {
+          "title": "水だけで90%のマイクロプラスチックを除去、ウォータールー大学が3Dプリント製フィルターを開発",
+          "source_url": ""
+        },
+        {
+          "title": "シュナイダーエレクトリック、米PTCを226億ドルで買収へ",
+          "source_url": "https://www.engineering.com/schneider-electric-to-acquire-ptc-in-22-6b-deal/"
+        },
+        {
+          "title": "クアルコム、ファーウェイの「LogicFolding」チップ技術の特許をライセンス",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech"
         }
       ]
     }
