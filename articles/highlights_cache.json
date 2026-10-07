@@ -1,55 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-09-30",
-      "stories": [
-        {
-          "title": "オープンAI、24時間クラウドで常時稼働する自律型エージェント「ドッツ」を公開",
-          "source_url": "https://openai.com/index/introducing-dots"
-        },
-        {
-          "title": "オープンAI、高性能と5分の1の低コストを両立した「GPT-6.1 Sol」を電撃発表",
-          "source_url": "https://openai.com/index/introducing-gpt-6-1-sol/"
-        },
-        {
-          "title": "Jev互換の超軽量・高速意思決定モデル「ジェフ」が登場、ローカルで20ミリ秒台の爆速動作",
-          "source_url": "https://github.com/firelex/jeff"
-        },
-        {
-          "title": "オープンAI、DevDayで「ゲームボーイ」風の独自ハードウェアガジェットをサプライズ披露",
-          "source_url": "https://www.gizmodo.jp/article/2609-openai-devday-2026-gameboy-device/"
-        },
-        {
-          "title": "ナッシング、MEMSドライバー搭載の最上位ヘッドフォン「Headphone (1) Pro」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2144008.html"
-        },
-        {
-          "title": "アップル「AirPods 5」の分解レポート公開、初の本格的な修理性向上が明らかに",
-          "source_url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/"
-        },
-        {
-          "title": "ゼンハイザー、圧倒的な高音質と驚異のバッテリー寿命を両立した「Momentum 5」を発表",
-          "source_url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/"
-        },
-        {
-          "title": "GPU並列処理と形式的証明を両立する新言語「ベンド」が登場、AIの誤りを自動阻止",
-          "source_url": "https://gigazine.net/news/20260930-bend-lang/"
-        },
-        {
-          "title": "先進パッケージ基板がアプリケーション特化型設計へシフト、汎用基板の限界を突破",
-          "source_url": "https://semiengineering.com/one-substrate-no-longer-rules-them-all/"
-        },
-        {
-          "title": "エヌビディア、AIエージェントの暴走を防ぐ物理「ウォッチドッグ・チップ」構想を発表",
-          "source_url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html"
-        },
-        {
-          "title": "スペースXの史上最大ロケット「スターシップ」、ついに地球周回軌道への投入に成功",
-          "source_url": "https://newatlas.com/space-systems/starship-orbits-earth-landmark-event/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-01",
       "stories": [
         {
@@ -505,6 +456,87 @@
         {
           "title": "クアルコム、ファーウェイの「LogicFolding」チップ技術の特許をライセンス",
           "source_url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "stories": [
+        {
+          "title": "Microsoft、NVIDIA RTX Spark搭載AI PC「Surface Laptop Ultra」を発表",
+          "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+        },
+        {
+          "title": "Microsoft、CopilotにWindowsとファイルへのより深い制御権限を付与",
+          "source_url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+        },
+        {
+          "title": "OpenAI、数学分野でのAI進捗を共有",
+          "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+        },
+        {
+          "title": "AIエージェントの悪用を抑制するmacOSのディスクアクセス権限強化",
+          "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+        },
+        {
+          "title": "Anthropic、軽量モデル「Claude Haiku 5.5」を発表",
+          "source_url": "https://www.anthropic.com/claude-haiku-5-5"
+        },
+        {
+          "title": "OpenAI、GPT-6とインタラクティブな「Intelligent UI」をChatGPTに導入",
+          "source_url": "https://openai.com/index/gpt-6-for-everyone/"
+        },
+        {
+          "title": "AIエージェントによる「トークン浪費」抑制の5つの打ち手",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news003.html"
+        },
+        {
+          "title": "OpenAI、高速な判断専用API「Decisions API」を公開",
+          "source_url": "https://gigazine.net/news/20261007-decisions-api/"
+        },
+        {
+          "title": "Ring、バッテリー式4Kカメラなどスマートホーム製品を発表",
+          "source_url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/"
+        },
+        {
+          "title": "AppleとLG、スマートロック、サーモスタット、ドアベルで提携か",
+          "source_url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+        },
+        {
+          "title": "GitHub Copilot、ローカルサンドボックスが一般提供開始",
+          "source_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available"
+        },
+        {
+          "title": "Strata、Ryzen AI Max+に対応しQwen3.8-Flash-Nextをローカル実行可能に",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2146238.html"
+        },
+        {
+          "title": "アナログIC設計ベンチマーク「SGAnalog」",
+          "source_url": "https://arxiv.org/abs/2610.03934"
+        },
+        {
+          "title": "HyundaiとBoston Dynamics、製造業向けAIロボット訓練に大規模投資",
+          "source_url": "https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/"
+        },
+        {
+          "title": "減量薬が生物学的老化を遅らせる可能性",
+          "source_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
+        },
+        {
+          "title": "AIによって開発されたオープンソースAIアクセラレータ「openTPU」",
+          "source_url": "https://gigazine.net/news/20261007-opentpu/"
+        },
+        {
+          "title": "東北大学、金属材料の熱処理から特性評価まで全自動化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03409/"
+        },
+        {
+          "title": "ハッカーがGoogleなどの偽造TLS証明書を入手",
+          "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+        },
+        {
+          "title": "IDCFクラウド、ランサムウェア攻撃で495の企業・自治体に影響",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/"
         }
       ]
     }
