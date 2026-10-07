@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T08:47:31.138680+09:00",
+  "updated_at": "2026-10-07T17:12:54.970676+09:00",
   "items": [
     {
       "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
@@ -203,6 +203,41 @@
       "date": "2026-10-04",
       "source_url": "https://www.oki.com/global/press/2025/z25006e.html",
       "importance": 5
+    },
+    {
+      "title": "AnthropicのAIエージェント「Opus 5.5」が室温磁気半導体の候補2種を発見",
+      "category": "AI研究",
+      "date": "2026-10-06",
+      "source_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "importance": 5
+    },
+    {
+      "title": "AIエージェントの普及で懸念される、見えない「AI浪費」の実態",
+      "category": "LLM・生成AI",
+      "date": "2026-10-06",
+      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html",
+      "importance": 4
+    },
+    {
+      "title": "レノボの巨大画面スマートグラス「Legion Glasses Gen 2」がセール対象に",
+      "category": "ガジェット・民生機器",
+      "date": "2026-10-06",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "iPhoneを外付けGPUのように接続してMacのローカルAI処理を高速化する「Backburner」",
+      "category": "ガジェット・民生機器",
+      "date": "2026-10-06",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "125Bの大規模AIモデルをゲーミングPCでローカル実行できるアプリ「Strata」が登場",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-10-06",
+      "source_url": "",
+      "importance": 4
     }
   ]
 }
