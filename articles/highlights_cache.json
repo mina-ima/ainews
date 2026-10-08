@@ -539,6 +539,91 @@
           "source_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/"
         }
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "stories": [
+        {
+          "title": "AI意思決定モデルがパックマンをプレイする「Jevman」公開",
+          "source_url": "https://opper.ai/jevman-benchmark/"
+        },
+        {
+          "title": "【続報】Google、AI生成物の判定ツール「SynthID Detector」を一般公開",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/"
+        },
+        {
+          "title": "【続報】OpenAI、数学分野でのAI成果を3件撤回",
+          "source_url": "https://twitter.com/danintheory/status/2108065033070789090"
+        },
+        {
+          "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
+          "source_url": "https://gigazine.net/news/20261008-virtual-biology-initiative/"
+        },
+        {
+          "title": "AI生成楽曲の不正ストリーミングで18カ月の拘禁刑、米国で判決",
+          "source_url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/"
+        },
+        {
+          "title": "OpenAI解雇の安全研究者らが不正行為を否定、AI安全性文化への「萎縮効果」を警告",
+          "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+        },
+        {
+          "title": "LLMエージェントの認証情報漏洩と回復を評価するベンチマーク「CredLeakBench」発表",
+          "source_url": "https://arxiv.org/abs/2610.08871"
+        },
+        {
+          "title": "OpenAIの年間収益、以前の予測より200億ドル少ないと報道",
+          "source_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+        },
+        {
+          "title": "【続報】OpenAI、10代向けChatGPTに大学出願支援「College Planner」導入計画",
+          "source_url": "https://openai.com/index/teens-learn-and-plan"
+        },
+        {
+          "title": "Naturaの99ドルスマートリング、指先でAIエージェントを召喚可能に",
+          "source_url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+        },
+        {
+          "title": "Amazon、Alexa+とGoogle Playストア対応の新型Alexaタブレットを発表",
+          "source_url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/"
+        },
+        {
+          "title": "OPPO、「Find X10」シリーズを21日にグローバル発表 Pro Maxは全カメラが2億画素",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2146891.html"
+        },
+        {
+          "title": "シャープ、水蒸気検知で乾かしすぎを防ぐ業界初のドライヤーを発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2146748.html"
+        },
+        {
+          "title": "PharmaTher、3Dプリント医薬品のロードマップを発表、希少小児疾患向け新薬承認を2028年までに目指す",
+          "source_url": "https://3dprintingindustry.com/news/pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028-255486/?utm_source=rss&utm_medium=rss&utm_campaign=pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028"
+        },
+        {
+          "title": "ハイパースケーラーのAI電力逼迫問題、ソフトウェア最適化が最も容易な解決策と研究者指摘",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
+        },
+        {
+          "title": "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能に",
+          "source_url": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html"
+        },
+        {
+          "title": "住友ベークライト、中国・シンガポールでチップ封止材の生産能力を増強",
+          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/sumitomo-bakelite-to-boost-chip-encapsulant-output-in-china-singapore"
+        },
+        {
+          "title": "ヒューマノイド、量産で劣る日本は確実性で勝負 実装で問われる真の実力",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/092500004/"
+        },
+        {
+          "title": "ロボット把持における滑り・破損を低コスト音響センシングで統一検出する「SAFE」技術",
+          "source_url": "https://arxiv.org/abs/2610.08802"
+        },
+        {
+          "title": "FDA承認のてんかん治療薬、変形性関節症の損傷回復に寄与する可能性",
+          "source_url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
+        }
+      ]
     }
   ]
 }
