@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import asyncio
+import difflib
 import json
 import os
 import re
@@ -66,7 +67,7 @@ AIだけでなく、「こんなことができるようになった」「こん
 - importance は1-5のスケール（5が最重要）
 - 同じトピックの重複記事はまとめる
 - 推測ではなく記事の内容に基づいて要約する
-- **重複排除（最重要）**: ユーザープロンプトに「過去の既出ニュース」リストが含まれる場合、そのリストと実質的に同じ内容の記事は highlights に含めないこと。同じURLや同じ出来事を扱った記事は除外する。ただし「続報」「新たな展開」「追加発表」など明確に新情報がある場合はその旨を summary に明記したうえで含めてよい
+- **重複排除（最重要）**: ユーザープロンプトに「過去の既出ニュース」リストが含まれる場合、そのリストと実質的に同じ内容の記事は highlights に含めないこと。同じURLや同じ出来事を扱った記事は除外する。言い換え・別媒体による同じ発表の再報道も除外する。ただし既出記事に無い新事実（正式発表・価格・発売日・提供範囲の拡大・数値結果など）がある場合に限り、title の先頭に「【続報】」を付け、summary には新しく分かった点だけを書いて含めてよい。新事実が無いのに【続報】を付けてはならない
 - **バランス重視**: AI系だけに偏らず、各分野からまんべんなく選出する。特にプリント基板・電子実装分野のニュースがあれば必ず含める
 - **ガジェット枠**: ギズモードジャパン・GIGAZINE・Impress Watch系などの記事から、「面白い」「変わった」「新しい」民生ガジェット・スマホ・ウェアラブル・家電・オーディオ機器のニュースを2〜4件は必ずピックアップする
 - 「世界初」「画期的」「実用化」「量産開始」「新素材」「新工法」など技術的ブレイクスルーは優先的に取り上げる
@@ -110,6 +111,53 @@ def _inert(text: object, limit: int) -> str:
     return str(text or "").replace("<", "＜")[:limit]
 
 
+FOLLOWUP_PREFIX = "【続報】"
+# 2026-10 の実測: 同じ発表の言い換えは 0.61〜1.0、別の話題は 0.59 以下だった
+SIMILAR_TITLE_RATIO = 0.6
+# 【続報】は元記事と似て当然（「日本で発売」→「米国で発売」で 0.93）なので、同文の再掲だけを落とす
+FOLLOWUP_REPEAT_RATIO = 0.97
+# 型番・バージョン（WF-1000XM6, GPT-5.6 等）。互いに共通部分が無ければ別の製品とみなす
+_MODEL_TOKEN_RE = re.compile(r"[a-z0-9][a-z0-9.\-]*[0-9][a-z0-9.\-]*")
+_TITLE_NOISE_RE = re.compile(r"[\s、。,.・（）()「」\[\]【】:：！!？?]")
+
+
+_YEAR_RE = re.compile(r"(19|20)[0-9]{2}")
+
+
+def _title_key(title: str) -> tuple[str, set[str], str]:
+    """(比較用の本文, 型番の集合, 「、」より前の主語)"""
+    t = str(title or "").removeprefix(FOLLOWUP_PREFIX).lower()
+    models = {m for m in _MODEL_TOKEN_RE.findall(t) if not _YEAR_RE.fullmatch(m)}
+    head, sep, _ = t.partition("、")
+    return _TITLE_NOISE_RE.sub("", t), models, head if sep and len(head) <= 20 else ""
+
+
+def _is_rehash(new: tuple[str, set[str], str], old: tuple[str, set[str], str], limit: float) -> bool:
+    # ponytail: 文字列類似度の安全網。言い換えの判定は LLM 側の既出リストが主で、ここは明らかな再掲だけ落とす
+    t, models, head = new
+    r, r_models, r_head = old
+    if models and r_models and models.isdisjoint(r_models):
+        return False  # 型番違い（WF-1000XM6 / WH-1000XM6）
+    if head and r_head and head != r_head:
+        return False  # 主語違い（ダイキン、… / パナソニック、…）
+    return difflib.SequenceMatcher(None, t, r).ratio() >= limit
+
+
+def drop_rehashed(highlights: list[dict], recent_stories: list[dict]) -> list[dict]:
+    """既出タイトルの言い換え（【続報】ならほぼ同文の再掲）を除外する"""
+    recent = [_title_key(s.get("title")) for s in recent_stories if s.get("title")]
+    kept = []
+    for h in highlights:
+        title = str(h.get("title", ""))
+        limit = FOLLOWUP_REPEAT_RATIO if title.startswith(FOLLOWUP_PREFIX) else SIMILAR_TITLE_RATIO
+        key = _title_key(title)
+        if any(_is_rehash(key, old, limit) for old in recent):
+            print(f"  (既出の言い換えを除外: {title[:40]})")
+            continue
+        kept.append(h)
+    return kept
+
+
 def _build_user_prompt(
     items: list[NewsItem],
     recent_stories: list[dict] | None = None,
@@ -125,7 +173,7 @@ def _build_user_prompt(
     lines.append("<news-data>")
 
     if recent_stories:
-        lines.append("# 過去3日間に既出のニュース（同内容は highlights に含めないこと）\n")
+        lines.append("# 過去の既出ニュース（同内容は highlights に含めないこと。新事実があれば【続報】として可）\n")
         for s in recent_stories:
             lines.append(
                 f"- {_inert(s.get('title'), 120)}  URL: {_inert(s.get('source_url'), 500)}"
@@ -488,10 +536,14 @@ async def summarize_news(
         result["highlights"] = [
             h for h in result.get("highlights", [])
             if h.get("source_url", "") not in recent_urls
+            or str(h.get("title", "")).startswith(FOLLOWUP_PREFIX)  # 同じURLの更新記事
         ]
         removed = before - len(result["highlights"])
         if removed:
             print(f"  (URLベース重複排除: {removed}件削除)")
+
+    # URLが別媒体でも同じ発表なら落とす（LLMが既出リストを見落とした場合の安全策）
+    result["highlights"] = drop_rehashed(result.get("highlights", []), recent_stories or [])
 
     # カテゴリ順序を強制ソート（AI → ガジェット → その他）
     result["highlights"] = sort_highlights(result.get("highlights", []))

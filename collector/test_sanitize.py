@@ -11,6 +11,7 @@ import httpx
 from src.search import NewsItem, _decompress_bounded, _get_bounded
 from src.summarize import (
     _build_user_prompt,
+    drop_rehashed,
     _inert,
     generate_markdown,
     sanitize_result,
@@ -164,6 +165,27 @@ def test_markdown_omits_dropped_source_link():
     assert "- Source:" not in md  # 出所不明のURLはリンクごと出さない
 
 
+def test_drop_rehashed():
+    """別媒体URLの同じ発表は落とし、【続報】と別の話題は残す（実データ 2026-10）"""
+    recent = [{"title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表。信頼されたサイバー防衛者のみに先行提供"},
+              {"title": "NVIDIA RTX Spark搭載Surfaceが10月7日に正式発表へ"}]
+    hs = [{"title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表"},
+          {"title": "【続報】グーグル「ジェミニ 4 アルゴン」、一般提供を開始"},
+          {"title": "Microsoft、NVIDIA RTX Spark搭載AI PC「Surface Laptop Ultra」を発表"}]
+    assert [h["title"][:6] for h in drop_rehashed(hs, recent)] == ["【続報】グー", "Micros"]
+    # 型番違いは別製品、【続報】でも同文の再掲は落とす（Codexレビュー指摘）
+    assert drop_rehashed([{"title": "ソニー、ワイヤレスヘッドホン『WH-1000XM6』を発表"}],
+                         [{"title": "ソニー、ワイヤレスイヤホン『WF-1000XM6』を発表"}])
+    assert not drop_rehashed([{"title": "【続報】製品A、一般提供を開始"}],
+                             [{"title": "【続報】製品A、一般提供を開始"}])
+    assert drop_rehashed([{"title": "パナソニック、省電力の新型エアコンを発表"}],
+                         [{"title": "ダイキン、省電力の新型エアコンを発表"}])
+    assert drop_rehashed([{"title": "ソニー、2026年モデルのヘッドホン『WH-1000XM6』を発表"}],
+                         [{"title": "ソニー、2026年モデルのイヤホン『WF-1000XM6』を発表"}])
+    assert drop_rehashed([{"title": "【続報】ソニー、新型ヘッドホン『WH-1000XM6』を米国で発売"}],
+                         [{"title": "ソニー、新型ヘッドホン『WH-1000XM6』を日本で発売"}])
+
+
 if __name__ == "__main__":
     test_sanitize_result()
     test_inert()
@@ -173,4 +195,5 @@ if __name__ == "__main__":
     test_get_bounded_caps_decompressed_body()
     test_decompress_bounded_peak_memory()
     test_markdown_omits_dropped_source_link()
+    test_drop_rehashed()
     print("ok")

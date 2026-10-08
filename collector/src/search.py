@@ -81,6 +81,13 @@ RSS_FEEDS = [
     # --- 学術・研究 ---
     ("arXiv AI", "https://rss.arxiv.org/rss/cs.AI"),
     ("arXiv LG", "https://rss.arxiv.org/rss/cs.LG"),
+    ("arXiv RO", "https://rss.arxiv.org/rss/cs.RO"),
+    ("arXiv AR", "https://rss.arxiv.org/rss/cs.AR"),
+    ("arXiv CR", "https://rss.arxiv.org/rss/cs.CR"),
+    ("Nature", "https://www.nature.com/nature.rss"),
+    ("ScienceDaily Health", "https://www.sciencedaily.com/rss/top/health.xml"),
+    # --- セキュリティ ---
+    ("The Hacker News", "https://feeds.feedburner.com/TheHackersNews"),
     # --- 英国・欧州 ---
     ("BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
     ("The Guardian Tech", "https://www.theguardian.com/technology/rss"),
@@ -109,6 +116,8 @@ RSS_FEEDS = [
     ("Claude Code Releases", "https://github.com/anthropics/claude-code/releases.atom"),
     ("MCP Blog", "https://blog.modelcontextprotocol.io/index.xml"),
     ("GitHub Changelog", "https://github.blog/changelog/feed/"),
+    ("Hugging Face Blog", "https://huggingface.co/blog/feed.xml"),
+    ("Publickey", "https://www.publickey1.jp/atom.xml"),
 ]
 
 # ガジェット・民生機器ニュースソース（ギズモード系・Impress Watch系など）

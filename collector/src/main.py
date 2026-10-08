@@ -18,7 +18,7 @@ JST = timezone(timedelta(hours=9))
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent  # ~/AI/ainews/
 ARTICLES_DIR = ROOT_DIR / "articles"
 HIGHLIGHTS_CACHE = ARTICLES_DIR / "highlights_cache.json"
-RECENT_DAYS = 3
+RECENT_DAYS = 14  # 3日だと間隔を空けた再掲（10/01→10/04→10/07）を見逃した
 
 
 def _load_recent_stories() -> list[dict]:
@@ -38,7 +38,7 @@ def _load_recent_stories() -> list[dict]:
 
 
 def _save_highlights_cache(date: str, highlights: list[dict]) -> None:
-    """当日のハイライトをキャッシュに追記し、7日超のエントリを削除する"""
+    """当日のハイライトをキャッシュに追記し、RECENT_DAYS 超のエントリを削除する"""
     if HIGHLIGHTS_CACHE.exists():
         try:
             cache = json.loads(HIGHLIGHTS_CACHE.read_text())
@@ -47,7 +47,7 @@ def _save_highlights_cache(date: str, highlights: list[dict]) -> None:
     else:
         cache = {"entries": []}
 
-    cutoff = (datetime.now(JST) - timedelta(days=7)).strftime("%Y-%m-%d")
+    cutoff = (datetime.now(JST) - timedelta(days=RECENT_DAYS)).strftime("%Y-%m-%d")
     cache["entries"] = [e for e in cache["entries"] if e.get("date", "") >= cutoff]
     cache["entries"] = [e for e in cache["entries"] if e.get("date") != date]
     cache["entries"].append({
