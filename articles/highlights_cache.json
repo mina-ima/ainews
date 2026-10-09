@@ -624,6 +624,31 @@
           "source_url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
         }
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "stories": [
+        {
+          "title": "Anthropic、サイバー防御支援プログラム「Cyber Mission」を発表",
+          "source_url": ""
+        },
+        {
+          "title": "OpenAI、ChatGPTが音声ファイルのアップロードに対応",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/"
+        },
+        {
+          "title": "OpenAI、収益予測を下方修正し、以前の予測より200億ドル減",
+          "source_url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap"
+        },
+        {
+          "title": "指紋認証でロックするスマートボトルが登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column/iine/2137499.html"
+        },
+        {
+          "title": "ロシアのIT大手Yandexのデータセンターがドローン攻撃で炎上",
+          "source_url": "https://gigazine.net/news/20261009-yandex-drone-attack/"
+        }
+      ]
     }
   ]
 }
