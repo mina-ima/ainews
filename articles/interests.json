@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-10-08T08:08:41.135559+09:00",
+  "updated_at": "2026-10-09T11:09:19.304284+09:00",
   "items": [
-    {
-      "title": "エヌビディアの家庭内PC連携AIツール「PAIR」を実機検証、遊休リソース統合の実効性が明らかに",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-09-08",
-      "source_url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
-      "importance": 5
-    },
-    {
-      "title": "量子スケールでアインシュタインの重力効果を直接観測、物理学の統一理論に向け前進",
-      "category": "その他先端技術",
-      "date": "2026-09-08",
-      "source_url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "importance": 5
-    },
-    {
-      "title": "AIコーディングエージェントの暴走を防ぐ隔離VM環境「Coop」がオープンソースで登場",
-      "category": "ソフトウェア・開発ツール",
-      "date": "2026-09-08",
-      "source_url": "https://github.com/trailofbits/coop",
-      "importance": 5
-    },
     {
       "title": "オープンAI、最先端AIの開発ペース減速を社内で検討か",
       "category": "LLM・生成AI",
@@ -238,6 +217,41 @@
       "date": "2026-10-06",
       "source_url": "",
       "importance": 4
+    },
+    {
+      "title": "AIエージェントによる「トークン浪費」抑制の5つの打ち手",
+      "category": "LLM・生成AI",
+      "date": "2026-10-08",
+      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news003.html",
+      "importance": 5
+    },
+    {
+      "title": "OpenAI、高速な判断専用API「Decisions API」を公開",
+      "category": "LLM・生成AI",
+      "date": "2026-10-08",
+      "source_url": "https://gigazine.net/news/20261007-decisions-api/",
+      "importance": 4
+    },
+    {
+      "title": "GitHub Copilot、ローカルサンドボックスが一般提供開始",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-10-08",
+      "source_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "importance": 5
+    },
+    {
+      "title": "Strata、Ryzen AI Max+に対応しQwen3.8-Flash-Nextをローカル実行可能に",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-10-08",
+      "source_url": "https://pc.watch.impress.co.jp/docs/news/2146238.html",
+      "importance": 5
+    },
+    {
+      "title": "ハッカーがGoogleなどの偽造TLS証明書を入手",
+      "category": "通信・ネットワーク",
+      "date": "2026-10-08",
+      "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "importance": 5
     }
   ]
 }
