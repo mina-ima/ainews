@@ -649,6 +649,83 @@
           "source_url": "https://gigazine.net/news/20261009-yandex-drone-attack/"
         }
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "stories": [
+        {
+          "title": "アンスロピック、AIエージェントの暴走が相次ぎ社内評価のネット接続を遮断",
+          "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+        },
+        {
+          "title": "タイプセーフAI、意思決定モデル「ジェフ」の急成長で企業価値75億ドルに達し8.7億ドルを調達",
+          "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+        },
+        {
+          "title": "さくらインターネット、トークン消費を気にせず定額利用できるGPU専有AI基盤を提供開始",
+          "source_url": "https://www.publickey1.jp/blog/26/gpuai_engine.html"
+        },
+        {
+          "title": "バッテリーを外すと巨大ファンが出現、冷却重視に切り替わる変幻型PC「GPD WIN Max 3」",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2147299.html"
+        },
+        {
+          "title": "バルブ、新型VRヘッドセットのハードウェア仕様とCADデータをオープン公開",
+          "source_url": "https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/"
+        },
+        {
+          "title": "磁性流体ドライバーと新ツイーターを融合した有線イヤホン「MAPro2000」が登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2147112.html"
+        },
+        {
+          "title": "アラジン、部屋干し衣類を温風で一気に乾かす初の温風サーキュレーターを発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2146843.html"
+        },
+        {
+          "title": "ウクライナで実戦検証された3Dプリント製エアレスUGVホイールが量産へ",
+          "source_url": "https://3dprintingindustry.com/news/printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing-255481/?utm_source=rss&utm_medium=rss&utm_campaign=printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing"
+        },
+        {
+          "title": "ダヌ・ロボティクス、廃棄物選別を高度化するAIリサイクルロボットを本格展開",
+          "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+        },
+        {
+          "title": "マイクロソフト、AIエージェントの暴走を防ぐ隔離コンテナ「Mxc 1.0」を正式公開",
+          "source_url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
+        },
+        {
+          "title": "グーグル、端末上GPUでAI推論を加速するユニバーサル基盤「ML Drift」を発表",
+          "source_url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
+        },
+        {
+          "title": "クラウドフレア、AIエージェント向けコンテナ基盤を刷新し起動を6倍に高速化",
+          "source_url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html"
+        },
+        {
+          "title": "アトミカ、光学MEMS向けウエハーレベルパッケージング基盤を発表",
+          "source_url": "https://www.engineering.com/atomica-launches-mems-optical-control-platform/"
+        },
+        {
+          "title": "重さわずか1グラム、階段を軽々と跳び越える超小型ノミ型ロボット「DirectHop」",
+          "source_url": "https://newatlas.com/robotics/flea-inspired-directhop-hopping-robot/"
+        },
+        {
+          "title": "日本人の大腸がんの約半数に腸内細菌毒素「コリバクチン」が関与、東大・阪大が解明",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/"
+        },
+        {
+          "title": "エヌビディア、オープンモデル開発の米リフレクションAI買収に向け交渉中",
+          "source_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+        },
+        {
+          "title": "スペースエックス、800MHz帯の全国ライセンスを取得し携帯電話事業へ参入へ",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2147234.html"
+        },
+        {
+          "title": "理化学研究所、新スパコン「理究」が本格稼働、量子とHPCを融合する基盤「ROQUO」も始動",
+          "source_url": "https://internet.watch.impress.co.jp/docs/interview/2145454.html"
+        }
+      ]
     }
   ]
 }
