@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-09T11:09:19.304284+09:00",
+  "updated_at": "2026-10-13T08:29:04.450360+09:00",
   "items": [
-    {
-      "title": "オープンAI、最先端AIの開発ペース減速を社内で検討か",
-      "category": "LLM・生成AI",
-      "date": "2026-09-12",
-      "source_url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
-      "importance": 4
-    },
-    {
-      "title": "サカナAI、複数モデルを統合する「Sakana Fugu」の最新版を公開",
-      "category": "LLM・生成AI",
-      "date": "2026-09-12",
-      "source_url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001405/",
-      "importance": 4
-    },
     {
       "title": "名刺サイズで最新AIを動かす「LattePanda Mu Ultra」登場、Lunar Lakeを小型ボード化",
       "category": "ガジェット・民生機器",
