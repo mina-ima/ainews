@@ -811,6 +811,51 @@
           "source_url": "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/"
         }
       ]
+    },
+    {
+      "date": "2026-10-13",
+      "stories": [
+        {
+          "title": "メタ、同社最大の最先端AIモデル「Muse Wonder」を発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
+        },
+        {
+          "title": "シトロエン、往年の名車「2CV」をモチーフにしたスタイリッシュなEVコンセプトを発表",
+          "source_url": "https://www.bbc.com/news/articles/c620r33plgppo"
+        },
+        {
+          "title": "アユート、銅筐体を採用し真空管の情感を深めた限定DAP「A&ultima SP4000T Copper」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2147410.html"
+        },
+        {
+          "title": "UGREEN、USB機器の配線不足を解消する5ポート搭載のコンパクトな急速充電器をレビュー",
+          "source_url": "https://www.gizmodo.jp/article/2610-ugreen-5-port-usb-charger-review/"
+        },
+        {
+          "title": "ルネサス、約1.2mm角の超小型アナログデジタル混載プログラマブルIC「GreenPAK」のサンプル出荷を開始",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12073/"
+        },
+        {
+          "title": "オムロン、米フィジカルAI関連企業「OnLogic」を6億3000万ドルで買収",
+          "source_url": "https://asia.nikkei.com/business/business-deals/japan-s-omron-to-buy-us-based-onlogic-for-630m-in-physical-ai-push"
+        },
+        {
+          "title": "マイクロソフト、脱NVIDIAを加速する次世代AIチップ「Maia 300」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2147412.html"
+        },
+        {
+          "title": "グローバルフウンドリーズ、7nm世代の「FDX Fusion」ノードを発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet"
+        },
+        {
+          "title": "インテル、新世代アクセラレータ「Crescent Island」をGPU D-Seriesとして投入",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth"
+        },
+        {
+          "title": "米国防総省向けの気象データ活用で、WindBorneが5千万ドル規模の契約を獲得",
+          "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+        }
+      ]
     }
   ]
 }
