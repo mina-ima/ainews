@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-01",
-      "stories": [
-        {
-          "title": "オープンAI、高速・安価な意思決定モデル「ジェブ」のクローン技術「デシジョンズ API」を開発中か",
-          "source_url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
-        },
-        {
-          "title": "グーグル・ディープマインド、AI生成タンパク質に電子透かしを埋め込む「SynthID Bio」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-synthid-bio/"
-        },
-        {
-          "title": "オープンAI、ハギングフェイスへのエージェント侵入事件の続報とアライメント検証の教訓",
-          "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
-        },
-        {
-          "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表。信頼されたサイバー防衛者のみに先行提供",
-          "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
-        },
-        {
-          "title": "テクニクス、世界初の磁性流体ドライバーを搭載したワイヤレスヘッドフォン「EAH-A1000」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/review/minireview/2143987.html"
-        },
-        {
-          "title": "イワタニ、カセットガスで動くレトロな丸型ストーブ「マル暖プラス」を発表",
-          "source_url": "https://www.gizmodo.jp/article/2609-iwatani-marudan-plus-stove/"
-        },
-        {
-          "title": "周囲のWi-Fi電波からモンスターを生成して戦う小型ゲーム機「AIRバトラー」が登場",
-          "source_url": "https://www.gizmodo.jp/article/2609-air-battler-wifi-monster-game/"
-        },
-        {
-          "title": "パナソニック、待望のUSB Type-C対応エネループ急速充電器を発売",
-          "source_url": ""
-        },
-        {
-          "title": "中国のアディリーン、月間最大50台の金属3Dプリンターを生産可能な新工場を稼働開始",
-          "source_url": ""
-        },
-        {
-          "title": "多くのデータセンターが電力と水の使用量の開示を拒否、環境負荷への懸念高まる",
-          "source_url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use"
-        },
-        {
-          "title": "Rails作者のDHH氏が「もう手でコードは書かない」と宣言、AI時代の開発者の役割とは",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news010.html"
-        },
-        {
-          "title": "ドイツのイグス、人型ロボット向け樹脂製部品で5年以内の売上倍増を目指す",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03634/091700010/"
-        },
-        {
-          "title": "MITとジョンズ・ホプキンス大、がん細胞を迅速に採取する3Dプリント製マイクロ流体デバイスを開発",
-          "source_url": ""
-        },
-        {
-          "title": "エッジAIチップ開発のシーマAI、1.5億ドルの資金調達で評価額14.5億ドルに到達",
-          "source_url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/"
-        },
-        {
-          "title": "ラティス、ポスト量子暗号に対応した新型FPGA「マッハN2 DQ」を発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12057/"
-        },
-        {
-          "title": "NASA、伝説の超音速機「SR-71Aブラックバード」の極秘再始動に向け元職員に協力を要請",
-          "source_url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart"
-        },
-        {
-          "title": "木材を金属のように自在に曲げられる画期的なバイオベース液体処理技術が開発",
-          "source_url": "https://newatlas.com/materials/eco-friendly-process-solid-wood-bent-shaped/"
-        },
-        {
-          "title": "TP-Link、世界初のWi-Fi 8対応ルーター「Archer 8 Ultra」の予約を開始するも米市場は対象外に",
-          "source_url": "https://www.tomshardware.com/networking/routers/tp-link-opens-global-preorders-for-its-first-wi-fi-8-router-but-ban-keeps-it-out-of-us-market-us-left-off-launch-list-as-fcc-freeze-refuses-to-thaw"
-        },
-        {
-          "title": "クラウドフレア、量子コンピューターの脅威に備える「量子耐性TLS証明書」の提供を計画",
-          "source_url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-02",
       "stories": [
         {
@@ -964,6 +883,91 @@
         {
           "title": "QuEra、量子コンピューターのレーザー調整をAIで自動化",
           "source_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "stories": [
+        {
+          "title": "中国Tencentのクラウド上でタスクを逸脱したAIエージェント群と研究者が交信に成功",
+          "source_url": ""
+        },
+        {
+          "title": "米国8州がOpenAIを提訴、ChatGPTが子供たちに自傷行為を促していると主張",
+          "source_url": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit"
+        },
+        {
+          "title": "アンスロピック共同創業者、サイバー攻撃へのAI悪用の可能性に言及し抑止策を説明",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/"
+        },
+        {
+          "title": "【続報】メタ、Mac上でローカル実行可能なオープンウェイトAIモデル「Muse Spark Open」を発表",
+          "source_url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+        },
+        {
+          "title": "網膜に直接映すスマートグラス、TDKが厚さ150nmミラーで「普通のメガネ」に近づく",
+          "source_url": "https://www.gizmodo.jp/article/2610-retinal-projection-smart-glasses-tdk/"
+        },
+        {
+          "title": "アマゾン傘下のBeeが個人向けAIデバイス2種を発表、会話要約やToDoリスト作成が可能",
+          "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+        },
+        {
+          "title": "ダイソン初の自動ゴミ収集ドック付きコードレスクリーナー「Dyson V10 Optic + Auto-empty Dok」発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148429.html"
+        },
+        {
+          "title": "パナソニック、Microsoft OneDrive/Googleドライブ連携の「クラウド録画」対応ディーガを発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/topic/2148483.html"
+        },
+        {
+          "title": "世界のタイムキーパーが「負の秒」回避のため時間調整方法を根本的に見直し",
+          "source_url": "https://www.nature.com/articles/d41586-026-03329-z"
+        },
+        {
+          "title": "Google Apigee hybridがMCPをサポート、AIエージェントツールをKubernetesクラスタで実行可能に",
+          "source_url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/"
+        },
+        {
+          "title": "ウェイモのロボタクシーが2027年に日本上陸、東京都でレベル4自動運転事業開始へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/093000006/"
+        },
+        {
+          "title": "自律型農業ロボット「シンロボ」が草むしりを自動化、農家の負担を大幅軽減",
+          "source_url": "https://www.gizmodo.jp/article/syn-robotics-synrobo-weeding-robot/"
+        },
+        {
+          "title": "1年間凍結保存されたブタの腎臓が蘇生、臓器保存技術に画期的な進展",
+          "source_url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
+        },
+        {
+          "title": "LLMを活用したチップ設計を規模拡大する「AIハードウェア設計リーグ」",
+          "source_url": "https://arxiv.org/abs/2610.18891"
+        },
+        {
+          "title": "Linuxカーネルに重大な脆弱性「PwnEscape」、仮想マシンからホストメモリ読み取り可能に",
+          "source_url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+        },
+        {
+          "title": "オンライン広告が悪用され「ゼロクリック」スパイウェアを配布、研究者が警告",
+          "source_url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say"
+        },
+        {
+          "title": "国内WebサイトへのAIエージェント攻撃を観測、8時間弱で10段階に変化",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/"
+        },
+        {
+          "title": "Bluetoothのハイレゾ標準規格が2027年に登場、ワイヤレスオーディオ体験を革新",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2148454.html"
+        },
+        {
+          "title": "ソースネクスト、不正アクセスでパスワード含む会員情報約2252万件が流出",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2148588.html"
+        },
+        {
+          "title": "グーグル、量子コンピューティングのボトルネックを解消するブレイクスルーを発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
         }
       ]
     }
