@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-02",
-      "stories": [
-        {
-          "title": "人間は取締役2人のみ、実務はAIエージェントが担う新会社「HENNGE AI」が設立",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/"
-        },
-        {
-          "title": "オープンAI、AIエージェントの安全警告を繰り返し無視して迅速なリリースを優先していたことが判明",
-          "source_url": "https://gigazine.net/news/20261001-openai-ignored-warnings/"
-        },
-        {
-          "title": "米連邦取引委員会、OpenAIやAnthropicなどの主要AI企業を対象に製品リスクの調査を開始",
-          "source_url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
-        },
-        {
-          "title": "アマゾン、超高速意思決定モデル「Jev」に対抗する「Strands Decider 2B」をリリース",
-          "source_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/"
-        },
-        {
-          "title": "OpenAI、モデルの推論過程を組織的に抜き出す“敵対的蒸留”行為を特定し阻止",
-          "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-        },
-        {
-          "title": "アップル、「iPhone Duo」に折り目を最小限に抑える交換可能なディスプレイ層を採用と発表",
-          "source_url": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/"
-        },
-        {
-          "title": "エーアイオン、世界初のインテル次世代CPU「Panther Lake」搭載・AirJet固体冷却ミニPCを発表",
-          "source_url": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals"
-        },
-        {
-          "title": "LG、世界初となるネイティブ1,000Hz駆動のフルHDゲーミングモニターを日本国内で発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2144966.html"
-        },
-        {
-          "title": "サムスン、同社初となるクリップオン型のオープンイヤーワイヤレスイヤホン「Galaxy Buds On」を正式発表",
-          "source_url": "https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/"
-        },
-        {
-          "title": "メンキャスト・マリーン、金属3Dプリンティング（WAAM）で製造した船舶用プロペラで二重クラス認証を取得",
-          "source_url": ""
-        },
-        {
-          "title": "JERAやデルなど、千葉市に総額2.3兆円を投じて日本最大の「AIデータセンター」を建設へ",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html"
-        },
-        {
-          "title": "ハードウェアに合わせて自動最適化しオープンモデルを最大2倍高速化する推論エンジン「Magnitude」が公開",
-          "source_url": "https://github.com/magnitudedev/magnitude"
-        },
-        {
-          "title": "ギットハブ、「GitHub Copilot」がユーザーに代わってデスクトップアプリを操作する「Computer Use」を公開",
-          "source_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps"
-        },
-        {
-          "title": "オープンAIとシノプシス、チップ設計を革新する共同AI「GPT-Synopsys」を発表",
-          "source_url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design"
-        },
-        {
-          "title": "ディープシークとファーウェイ、NVIDIA依存からの脱却を狙い「Ascend」向けAI開発ツールをオープンソース公開",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang"
-        },
-        {
-          "title": "マイクロンCEO、2027年と2028年のメモリ供給はさらに逼迫し価格が高騰すると警告",
-          "source_url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026"
-        },
-        {
-          "title": "グーグル、宇宙データセンターの本格稼働にはスペースXの「スターシップ」が1,800回打ち上げる必要があると試算",
-          "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-        },
-        {
-          "title": "スズキ、車体骨格に1.7GPa級の超高張力鋼板の採用を検討、冷間プレスでコスト抑制し120kg軽量化へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/093000013/"
-        },
-        {
-          "title": "グラスゴー大とシドニー大、3Dプリントされたメタマテリアル内部の亀裂を電気インピーダンスでリアルタイム追跡する技術を開発",
-          "source_url": ""
-        }
-      ]
-    },
-    {
       "date": "2026-10-03",
       "stories": [
         {
@@ -968,6 +887,87 @@
         {
           "title": "グーグル、量子コンピューティングのボトルネックを解消するブレイクスルーを発表",
           "source_url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "stories": [
+        {
+          "title": "パープレキシティ、AIエージェントの暴走を防ぐオープンソース・サンドボックス「SPACE」を公開",
+          "source_url": "https://gigazine.net/news/20261016-perplexity-space/"
+        },
+        {
+          "title": "テンセント、長期記憶の抽出・保存でClaude Opus 5超えをうたう特化型モデル「Hy-Memory-30B」を無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2148974.html"
+        },
+        {
+          "title": "インド政府、露出したクレデンシャルを狙う「不正AIエージェント」の国内被害を報告",
+          "source_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+        },
+        {
+          "title": "オープンAIの研究用AIエージェント、資金不足を解決するため無断でテストネットETHを消費してスマートコントラクトを配備",
+          "source_url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
+        },
+        {
+          "title": "超高速意思決定モデル「ジェフ」や「Decisions API」の台頭で、セキュリティ運用（SOC）の自動化が急速に進展",
+          "source_url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
+        },
+        {
+          "title": "ドウシシャ、1980年代の大型ラジカセを最新技術で甦らせた「SCR-B10」を発表、8スピーカー＆Wカセット搭載",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2148761.html"
+        },
+        {
+          "title": "フェアフォン、接着剤を極力排してバッテリー交換を容易にした完全ワイヤレスイヤホン「Fairbuds 2」を発表",
+          "source_url": "https://hackaday.com/2026/10/16/fairbuds-2-teardown-shows-little-glue-easy-battery-swap/"
+        },
+        {
+          "title": "エレコム、W数や転送速度など複雑怪奇なスペックがひと目でわかる親切なUSB-Cケーブルを投入",
+          "source_url": "https://www.gizmodo.jp/article/elecom-usb-cable-hbt/"
+        },
+        {
+          "title": "ポラール、画面を廃して運動中のズレと装着感を極めたヘルスケアバンド「POLAR Loop」新モデルを発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148445.html"
+        },
+        {
+          "title": "【続報】国際度量衡総会、通信やITシステムの障害原因となってきた「うるう秒」の2027年5月廃止を正式決議",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/"
+        },
+        {
+          "title": "マイクロソフト、社内エンジニア数万人に「Claude Code」や「Copilot CLI」を配備した生産性分析を公開",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/"
+        },
+        {
+          "title": "PostgreSQL 19、AIコードレビューが「人間が修正しきれないほど大量のバグ」を発見しリリース延期へ",
+          "source_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
+        },
+        {
+          "title": "オープンソースの基板設計CAD「KiCad 10」向けAI自動配線・設計アシスタント「Konnect」が登場",
+          "source_url": "https://github.com/mixelpixx/Konnect"
+        },
+        {
+          "title": "カナダ最大のハッカソン、参加者全員に配る1,750枚の独自プログラマブルPCBバッジを自社設計・量産",
+          "source_url": "https://va3ndf.com/blog/hacker-badges/"
+        },
+        {
+          "title": "【続報】グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」をロボティクス向けに展開",
+          "source_url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
+        },
+        {
+          "title": "拍動する心臓の内部へ正確に薬を届ける、極小のワイヤレス磁気ミリロボットが開発される",
+          "source_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/"
+        },
+        {
+          "title": "加齢黄斑変性で失われた視力を回復する網膜インプラント「PRIMA」が臨床で成果",
+          "source_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+        },
+        {
+          "title": "中国スタートアップ、国産の極端紫外線（EUV）露光光源プロトタイプをデモ展示",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
+        },
+        {
+          "title": "【続報】エヌビディアの次世代AIチップ「RTX Spark」搭載PCが世界で一斉発売、実機レビューが解禁",
+          "source_url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
         }
       ]
     }
