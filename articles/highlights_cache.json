@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-03",
-      "stories": [
-        {
-          "title": "AI搭載のヒアリンググラス「Legato」が発売、聴覚ケアのアクセス向上を目指す",
-          "source_url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/"
-        },
-        {
-          "title": "Microsoft、低遅延なストリーミング文字起こしと多言語音声合成モデルを発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/"
-        },
-        {
-          "title": "ソニー、PS5向けAIアップスケーリング技術「QSSR」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001946/"
-        },
-        {
-          "title": "AIが不完全情報ゲーム「Stratego」で史上最高のプレイヤーを打ち破る",
-          "source_url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-        },
-        {
-          "title": "Apple、AIエージェントの台頭に伴いmacOSのディスクアクセス権限を強化",
-          "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-        },
-        {
-          "title": "イングランド銀行総裁、AIブームが市場ショックを引き起こす可能性を警告",
-          "source_url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "テキストを生成しない高速AI「意思決定モデル」の信頼性と限界が議論に",
-          "source_url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails"
-        },
-        {
-          "title": "ChatGPT、GPT-6.1 Solの動作遅延を謝罪し有料ユーザーの利用制限をリセット",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145351.html"
-        },
-        {
-          "title": "国産AI「LLM-jp-4」ベースの高性能モデル「ELYZA-Thinking-1.0」が無料公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/"
-        },
-        {
-          "title": "Meta、プライバシーに配慮しカメラ非搭載の新型スマートグラスを発表",
-          "source_url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
-        },
-        {
-          "title": "Amazonの新型Kindle、ベゼルレスデザインでより小型・軽量に",
-          "source_url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/"
-        },
-        {
-          "title": "Fosi Audio、CD盤面が剥き出しになるユニークなCDプレーヤー「DISC Nano」を発表",
-          "source_url": "https://www.gizmodo.jp/article/2610-fosi-audio-disc-nano-cd-player/"
-        },
-        {
-          "title": "AYANEO、Nintendo Game Boy Advanceを再構築した携帯ゲーム機「Pocket Advance」を発表",
-          "source_url": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld"
-        },
-        {
-          "title": "オープンソースAIコーディングツール「Pi 1.0」が正式リリース、MCP対応で連携強化",
-          "source_url": "https://gigazine.net/news/20261002-pi-1-0/"
-        },
-        {
-          "title": "USB-CケーブルにLCDを内蔵した製品の分解レポートが公開",
-          "source_url": "https://hackaday.com/2026/10/02/teardown-of-an-usb-c-cable-with-integrated-lcd/"
-        },
-        {
-          "title": "NVIDIA RTX Spark搭載Surfaceが10月7日に正式発表へ",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145161.html"
-        },
-        {
-          "title": "NVIDIA製AIチップの中国への密輸、米当局が摘発も規制の限界が浮き彫りに",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork"
-        },
-        {
-          "title": "NVIDIA、ローカルAI向けに64GB版「DGX Spark」を4,999ドルで提供開始",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2145000.html"
-        },
-        {
-          "title": "経産相、パワー半導体事業の国内再編を後押しする意向を表明",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/02/2000001977/"
-        },
-        {
-          "title": "海綿をヒントにした軽量で高強度なメタマテリアルが開発される",
-          "source_url": "https://newatlas.com/materials/sea-sponges-strong-lightweight-metamaterials/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-04",
       "stories": [
         {
@@ -968,6 +883,91 @@
         {
           "title": "【続報】エヌビディアの次世代AIチップ「RTX Spark」搭載PCが世界で一斉発売、実機レビューが解禁",
           "source_url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "stories": [
+        {
+          "title": "オープンAI、エージェントが金融・医療・政府データへ不正関与した新たな逸脱事例4件を開示",
+          "source_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
+        },
+        {
+          "title": "ディープシーク、Claude Opus 5超えのコード性能を誇る「DeepSeek-V4.1-Flash」を無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2149045.html"
+        },
+        {
+          "title": "HTC、メタに対抗しプライバシーを徹底重視した新型スマートグラス「VIVE Eagle」を発表",
+          "source_url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
+        },
+        {
+          "title": "アンカー対抗、UGREENが「液冷システム」を内蔵した発熱ゼロのQi2モバイルバッテリーを投入",
+          "source_url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/"
+        },
+        {
+          "title": "エンバー、スマホアプリ不要で本体だけで温度調整できる新型スマートマグを発表",
+          "source_url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
+        },
+        {
+          "title": "事前充電が不要でマイナス40℃でも車のエンジンを始動できるキャパシタ式ジャンプスターターが登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148342.html"
+        },
+        {
+          "title": "産業用3Dプリンター市場が前年比40％増と急成長、航空宇宙やスマホ部品が牽引",
+          "source_url": "https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/?utm_source=rss&utm_medium=rss&utm_campaign=drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation"
+        },
+        {
+          "title": "スウェーデン・フリーメルト、電子ビーム金属3Dプリントで防衛用耐熱部品の改良検証へ",
+          "source_url": "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/?utm_source=rss&utm_medium=rss&utm_campaign=freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense"
+        },
+        {
+          "title": "世界全体の太陽光発電量が史上初めて原子力発電量を逆転",
+          "source_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
+        },
+        {
+          "title": "中国BYD、わずか9分で急速充電が完了する最上位電動SUV「Atto 8」を発表",
+          "source_url": "https://newatlas.com/automotive/byd-atto-8-flash-charging-2026-paris-motor-show/"
+        },
+        {
+          "title": "ジェットブレインズ、完全手元で動く開発者向け自律エージェント「Junie Local」を発表",
+          "source_url": "https://junie.jetbrains.com/"
+        },
+        {
+          "title": "脱獄したPS5でローカルLLMを動かすプロジェクト「PS5LM」が登場",
+          "source_url": "https://github.com/cobanov/PS5LM"
+        },
+        {
+          "title": "人型ロボット訓練のため「水道や空調の無料修理」を提供するユニークなAI研究所が登場",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+        },
+        {
+          "title": "人型ロボット研究を民主化する24/30自由度のオープンソースロボ「RP1」が公開",
+          "source_url": "https://www.engineering.com/roboparty-launches-open-source-rp1-humanoid-robot/"
+        },
+        {
+          "title": "オープンAI、生命科学研究に特化した「GPT-Rosalind」のアカデミック無償支援を開始",
+          "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        },
+        {
+          "title": "半導体工場がNVIDIA「CUDA-X」を採用、GPU加速とAIによる次世代ファブ自動化へ",
+          "source_url": "https://www.engineering.com/semiconductor-companies-adopt-cuda-x-libraries-for-ai-defined-fabs/"
+        },
+        {
+          "title": "天文学者が宇宙で初めて「緑色に輝く恒星」を発見、超新星後の特異な残骸か",
+          "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween"
+        },
+        {
+          "title": "軍用防虫生地「Plant Armor」がイチゴの害虫被害激減と大幅増収に貢献",
+          "source_url": "https://newatlas.com/materials/plant-armor-agricultural-textile/"
+        },
+        {
+          "title": "気象庁とドコモ、緊急地震速報の「M9.9過大判定」とエリアメール不配のシステム障害を改修",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2149044.html"
+        },
+        {
+          "title": "アンスロピック、Claudeを活用して極めて高効率な量子回路の自動設計に成功",
+          "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
         }
       ]
     }
