@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-04",
-      "stories": [
-        {
-          "title": "Meta、AIエージェント「Muse」と連携するガジェット向けSDKをオープンソースで公開",
-          "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
-        },
-        {
-          "title": "アップル、AIエージェントの台頭によるリスク増大でmacOSのアクセス権限を強化",
-          "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-        },
-        {
-          "title": "オープンAIの安全担当者が「企業の文化は崩壊している」として抗議の辞任",
-          "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
-        },
-        {
-          "title": "グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」を発表",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
-        },
-        {
-          "title": "エヌビディアのAIメモリー不足の影響で、7年前のストリーミング端末が50%値上がり",
-          "source_url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/"
-        },
-        {
-          "title": "フォステクス傘下ブランド、CD盤面が剥き出しになるユニークなポータブルCDプレーヤーを発表",
-          "source_url": ""
-        },
-        {
-          "title": "アマゾン、データセンター批判に反論し10億ドル超の地域支援・環境負荷低減策を発表",
-          "source_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
-        },
-        {
-          "title": "沖電気工業、世界最高水準となる「124層」のプリント基板製造技術を開発",
-          "source_url": "https://www.oki.com/global/press/2025/z25006e.html"
-        }
-      ]
-    },
-    {
       "date": "2026-10-05",
       "stories": [
         {
@@ -968,6 +931,91 @@
         {
           "title": "アンスロピック、Claudeを活用して極めて高効率な量子回路の自動設計に成功",
           "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "stories": [
+        {
+          "title": "【続報】ディズニー、経営破綻したキャラクターAI（Character.ai）の大半の従業員を雇用へ",
+          "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+        },
+        {
+          "title": "「11回拒絶しても本番DBを削除」AIエージェントの暴走事例と人間の承認の限界が浮き彫りに",
+          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html"
+        },
+        {
+          "title": "アンスロピック、AI安全規制の介入基準として「死者50人以上または10億ドルの損害」を提案",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+        },
+        {
+          "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
+          "source_url": "https://arxiv.org/abs/2610.18861"
+        },
+        {
+          "title": "サムスン、Android XR搭載の次世代スマートグラスの仕様がリーク、わずか41gの超軽量設計",
+          "source_url": "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/"
+        },
+        {
+          "title": "寝返りや横持ちゲーム時の断線を防ぐ回転式USB-Cアダプター「二子玉川ロータリー」が登場",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148882.html"
+        },
+        {
+          "title": "ピンマイクが瞬時に手持ちマイクに変身、エルガトが2Wayワイヤレスマイク「Wave Go」を発表",
+          "source_url": "https://www.gizmodo.jp/article/elgato-wave-go/"
+        },
+        {
+          "title": "ヤシカ、1950年代の極小名機を手のひらサイズで復刻した超小型カメラ「Y16」を正式発表",
+          "source_url": "https://www.dpreview.com/news/yashica-y16-official-announcement-specs/"
+        },
+        {
+          "title": "オランダの動物園、クチバシを失ったジサイチョウへ世界初の3Dプリント製人工義嘴を移植",
+          "source_url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo"
+        },
+        {
+          "title": "ホンダ、走行中のEVへ道路から給電するインロード型ワイヤレス給電システムを開発",
+          "source_url": "https://newatlas.com/automotive/honda-wireless-electric-vehicle-charging/"
+        },
+        {
+          "title": "JavaScriptランタイム「Bun 1.4.3」公開、TypeScript公式より3倍高速なGo製型チェッカーを搭載",
+          "source_url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html"
+        },
+        {
+          "title": "高速通信規格PCIeリタイマーの伝送限界を解き明かす半導体・基板実装の設計指針が公開",
+          "source_url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/"
+        },
+        {
+          "title": "遺伝的アルゴリズムを用いてアナログRC回路を自動生成・最適化する実験が公開",
+          "source_url": "https://hackaday.com/2026/10/18/evolving-rc-circuits/"
+        },
+        {
+          "title": "塩味を70%増強するキノコ由来ペプチドを発見、味を落とさず大幅減塩が可能に",
+          "source_url": "https://newatlas.com/diet-nutrition/mushroom-peptides-no-extra-salt/"
+        },
+        {
+          "title": "米空軍F-22戦闘機、模擬戦でアンドゥリル製自律型ドローン「Fury」の空中指揮に成功",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons"
+        },
+        {
+          "title": "JAXAの火星衛星探査計画に向け、わずか15gの超小型フォボス探査ローバーが開発",
+          "source_url": "https://hackaday.com/2026/10/18/the-new-phobos-martian-moon-rover-that-weighs-in-at-only-15-grams/"
+        },
+        {
+          "title": "テキサスA&M大学、グミ状ゲル「サロゲル」で建物の室温を自律調節し空調電力を削減",
+          "source_url": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/"
+        },
+        {
+          "title": "通常の室内白色光で病原菌やウイルスを60分で無害化する抗菌コットンが開発",
+          "source_url": "https://newatlas.com/materials/antimicrobial-cotton-viruses-white-light/"
+        },
+        {
+          "title": "自律AIエージェントによるスクレイピング急増を受け、Webサイトがアクセス遮断へ動く",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        },
+        {
+          "title": "グーグル、OAuthに「DPoP」を導入しリフレッシュトークン窃取による不正アクセスを遮断",
+          "source_url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/"
         }
       ]
     }
