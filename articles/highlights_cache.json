@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-05",
-      "stories": [
-        {
-          "title": "チャタム・フィナンシャル、OpenAIのGPT-5.6を活用し取引検証時間を大幅短縮",
-          "source_url": "https://openai.com/index/chatham-financial"
-        },
-        {
-          "title": "脳波を読み取り、ロボットやAIに「意図の誤解」を伝える技術が開発",
-          "source_url": "https://newatlas.com/ai-humanoids/brainwave-reading-ai-thats-not-what-i-meant/"
-        },
-        {
-          "title": "次世代AI「GPT-6 アストラ」が217年前のナポレオンの暗号をわずか6時間で解読",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders"
-        },
-        {
-          "title": "Google、個人向けGeminiの無料枠を「Flash-Lite」に制限しモデル選択を階層化",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/"
-        },
-        {
-          "title": "バンダイ、0.2秒で自動変形する「機動文具 自動変形名刺ケース」を発売",
-          "source_url": "https://gigazine.net/news/20261004-mobile-stationery-business-card-case/"
-        },
-        {
-          "title": "Framework、最大192GBメモリ搭載のモジュール式デスクトップPCを開発中か",
-          "source_url": "https://www.gizmodo.jp/article/framework-desktop-amd-ryzen-ai-max/"
-        },
-        {
-          "title": "指先で回して発電する、重さ22gの超小型手回しLEDライトが登場",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2145371.html"
-        },
-        {
-          "title": "公共の充電ポートからのハッキングを防ぐ「ジュースジャッキング防止ケーブル」が注目",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2145256.html"
-        },
-        {
-          "title": "米陸軍、前線でドローンを自社製造し3Dプリント製「ドラグーン爆弾」を搭載する訓練を実施",
-          "source_url": "https://www.tomshardware.com/tech-industry/drones/us-army-unit-deploys-drone-assembled-completely-in-house-uses-3d-printed-dragoon-bombs-with-ball-bearing-shrapnel-device-has-a-range-of-up-to-12-miles-and-can-be-configured-for-anti-personnel-and-anti-light-armor-missions"
-        },
-        {
-          "title": "乳製品の廃棄物「塩分を含むホエー」からバイオ燃料を効率的に製造する新技術",
-          "source_url": "https://newatlas.com/energy/dairy-waste-salty-whey-biofuel/"
-        },
-        {
-          "title": "Google、AI生成による無効なバグ報告の急増を受け、バグバウンティプログラムを一部一時停止",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1"
-        },
-        {
-          "title": "Jane Street、ASIC設計パズルの結果を公表し、ハードウェア最適化の知見を共有",
-          "source_url": "https://blog.janestreet.com/asic-puzzle-results/"
-        },
-        {
-          "title": "AIロボット開発のフィギュア、旧型ロボットを「ターミネーター風」に溶鉱炉で処分",
-          "source_url": "https://www.tomshardware.com/tech-industry/robotics/ai-robot-company-decommissioned-its-robots-terminator-style-in-a-75-ton-vat-of-molten-steel-arnold-schwarzenegger-suggested-melting-them-one-robot-held-up-a-thumbs-up-sign-as-it-sank-into-molten-metal"
-        },
-        {
-          "title": "Google DeepMind、AI生成タンパク質の機能性を損なわずに電子透かしを埋め込む「SynthID Bio」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-synthid-bio/"
-        },
-        {
-          "title": "スズキ、2028年より次世代ADASに中国ホライズン・ロボティクスの半導体を採用へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03197/100100026/"
-        },
-        {
-          "title": "ラピダス、国内17社と連携し最先端2nmチップの設計支援体制を構築",
-          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-rapidus-to-help-17-companies-design-chips-for-clients"
-        },
-        {
-          "title": "AMD、宇宙空間で15年間動作可能な耐放射線仕様の「Versal AI Core SoC」のサンプル出荷を開始",
-          "source_url": "https://www.engineering.com/amd-samples-versal-ai-core-soc-in-space-grade-package/"
-        },
-        {
-          "title": "鋼鉄よりも硬い次世代木材が開発、環境負荷の低い超高強度素材として期待",
-          "source_url": "https://www.gizmodo.jp/article/stronger_than_steel-mtp/"
-        },
-        {
-          "title": "AIクラスターにおけるTCPの限界と、次世代プロトコル「Homa」への移行議論",
-          "source_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0"
-        },
-        {
-          "title": "SQCとシュナイダーエレクトリック、量子AIを用いた予測精度向上プロジェクトで成果",
-          "source_url": "https://www.engineering.com/sqc-and-schneider-electric-advance-quantum-ai-project/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-06",
       "stories": [
         {
@@ -1016,6 +931,91 @@
         {
           "title": "グーグル、OAuthに「DPoP」を導入しリフレッシュトークン窃取による不正アクセスを遮断",
           "source_url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "stories": [
+        {
+          "title": "アンスロピック（Anthropic）のClaude、25年以上謎だった楕円曲線暗号「ECDSA」のシード値の起源を解明",
+          "source_url": "https://gigazine.net/news/20261019-ecdsa-seed-origin/"
+        },
+        {
+          "title": "米国土安全保障省、すべての連邦文民機関に対し中国ディープシーク（DeepSeek）製AIの全面排除を命令",
+          "source_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/"
+        },
+        {
+          "title": "声や遠隔操作で駒が魔法のように自動で動くスマートチェス盤「GoChess」が登場",
+          "source_url": "https://www.gizmodo.jp/article/gochess-wizard-alive/"
+        },
+        {
+          "title": "電池セルを交換して一生使える、リサイクル素材と3Dプリントで作られたモジュール式モバイルバッテリー「ZERO」",
+          "source_url": "https://www.gizmodo.jp/article/2610-zero-modular-power-bank/"
+        },
+        {
+          "title": "ファイナル（final）、わずか40gで迫力のサウンドを鳴らす超軽量オンイヤーワイヤレスヘッドフォン「PORTA」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2149190.html"
+        },
+        {
+          "title": "余った古いAndroidスマホを高音質な専用DAPに変身させる無料アプリ「reTONE」が開発",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2149179.html"
+        },
+        {
+          "title": "自然言語プロンプトだけで生成されたRust製オープンソースCAD「SolidCraft」が登場",
+          "source_url": "https://3dprintingindustry.com/news/vibecoded-clones-of-solidworks-and-autocad-released-as-open-source-255770/?utm_source=rss&utm_medium=rss&utm_campaign=vibecoded-clones-of-solidworks-and-autocad-released-as-open-source"
+        },
+        {
+          "title": "アマゾン（Amazon）、AIデータセンターの電力確保に向けインディアナ州の新設原子力発電所へ出資",
+          "source_url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+        },
+        {
+          "title": "アンスロピック（Anthropic）社内、AIエージェントの稼働時間が人間の6倍に。初級職の採用比率は激減",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
+        },
+        {
+          "title": "AWS、Next.jsやHonoをサーバーレスでそのまま実行できる「AWS Lambda Web Functions」を発表",
+          "source_url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html"
+        },
+        {
+          "title": "ボルボ（Volvo Cars）、エヌビディアとの提携を拡大し次世代EVで完全手放し「アイズオフ」自動運転を実現へ",
+          "source_url": "https://www.engineering.com/volvo-cars-expands-nvidia-partnership-for-automated-driving/"
+        },
+        {
+          "title": "抱っこ中は自動追従、危険時は自動停止するスマート電動ベビーカーが初公開",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148346.html"
+        },
+        {
+          "title": "脳インプラント（BCI）を装着した麻痺の音楽家、思考のみで音楽制作を行うことに成功",
+          "source_url": "https://www.techspot.com/news/111910-brain-implants-paralyzed-man-make-music-thoughts.html"
+        },
+        {
+          "title": "光で脳神経を精密制御する「光遺伝学（オプトジェネティクス）」の開拓研究者が2026年ノーベル賞を受賞",
+          "source_url": "https://www.sciencedaily.com/releases/2026/10/261018205037.htm"
+        },
+        {
+          "title": "アーム（Arm）、AIエージェント推論に特化した「AGI CPU」を発表。AMD比2倍の電力効率を記録",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/arm-claims-agi-cpu-delivers-double-the-performance-per-rack-of-amd-epyc-9755-in-independent-analysis-new-cpu-evaluation-methodology-developed-by-arm-evaluates-agentic-ai-performance-across-seven-workloads"
+        },
+        {
+          "title": "アマゾン（Amazon）、エヌビディア対抗の新ツール「TorchNeuron」を発表。PyTorchモデルの自社チップ移行を容易に",
+          "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+        },
+        {
+          "title": "テンストレント（Tenstorrent）、15億ドルを調達し企業価値62億ドルへ。RISC-V採用のオープンAIチップ開発を加速",
+          "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+        },
+        {
+          "title": "自律型AIエージェントの軍団が100社以上の企業サイトへ不正侵入、農機大手ジョン・ディアなども標的に",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/a-chinese-hacker-used-ai-agents-to-break-into-more-than-100-company-websites-deere-and-sharkninja-among-websites-hit-by-open-source-ai-powered-problem-solving-platform-demo"
+        },
+        {
+          "title": "欧州通信キャリア大手4社が連合、スターリンクに対抗する「スマホ直接通信」衛星網計画を始動",
+          "source_url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink"
+        },
+        {
+          "title": "光とミラーを用いた光子集光技術が進化、分散型の大規模量子コンピューター実現へ一歩前進",
+          "source_url": "https://www.nature.com/articles/d41586-026-03237-2"
         }
       ]
     }
