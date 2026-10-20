@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:33:25.412492+09:00",
+  "updated_at": "2026-10-21T08:10:49.203120+09:00",
   "items": [
     {
       "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始",
@@ -231,6 +231,34 @@
       "date": "2026-10-08",
       "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
       "importance": 5
+    },
+    {
+      "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
+      "category": "LLM・生成AI",
+      "date": "2026-10-19",
+      "source_url": "https://arxiv.org/abs/2610.18861",
+      "importance": 5
+    },
+    {
+      "title": "テキサスA&M大学、グミ状ゲル「サロゲル」で建物の室温を自律調節し空調電力を削減",
+      "category": "材料・ナノテク",
+      "date": "2026-10-19",
+      "source_url": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/",
+      "importance": 4
+    },
+    {
+      "title": "自然言語プロンプトだけで生成されたRust製オープンソースCAD「SolidCraft」が登場",
+      "category": "3Dプリンティング・製造",
+      "date": "2026-10-20",
+      "source_url": "https://3dprintingindustry.com/news/vibecoded-clones-of-solidworks-and-autocad-released-as-open-source-255770/?utm_source=rss&utm_medium=rss&utm_campaign=vibecoded-clones-of-solidworks-and-autocad-released-as-open-source",
+      "importance": 4
+    },
+    {
+      "title": "抱っこ中は自動追従、危険時は自動停止するスマート電動ベビーカーが初公開",
+      "category": "ロボティクス・自動化",
+      "date": "2026-10-20",
+      "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148346.html",
+      "importance": 3
     }
   ]
 }
