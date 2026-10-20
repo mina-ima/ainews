@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-06",
-      "stories": [
-        {
-          "title": "AnthropicのAIエージェント「Opus 5.5」が室温磁気半導体の候補2種を発見",
-          "source_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors"
-        },
-        {
-          "title": "オープンAI、EUのAI規制に対応しChatGPTとCodexにテキスト透かし機能を導入",
-          "source_url": ""
-        },
-        {
-          "title": "米ウィキメディア財団、オープンAIの「不正AIエージェント」によるサイト障害や無断アクセスを確認",
-          "source_url": ""
-        },
-        {
-          "title": "AIエージェントの普及で懸念される、見えない「AI浪費」の実態",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/06/news004.html"
-        },
-        {
-          "title": "アップル、AIエージェントの濫用リスクから保護するためmacOSのディスクアクセス権限を強化",
-          "source_url": ""
-        },
-        {
-          "title": "レノボの巨大画面スマートグラス「Legion Glasses Gen 2」がセール対象に",
-          "source_url": ""
-        },
-        {
-          "title": "iPhoneを外付けGPUのように接続してMacのローカルAI処理を高速化する「Backburner」",
-          "source_url": ""
-        },
-        {
-          "title": "三井不動産、廃トンネルを活用した国内初のユニークなデータセンター建設へ",
-          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsui-fudosan-to-build-data-center-in-abandoned-tunnel-in-japan"
-        },
-        {
-          "title": "125Bの大規模AIモデルをゲーミングPCでローカル実行できるアプリ「Strata」が登場",
-          "source_url": ""
-        },
-        {
-          "title": "ファーウェイとクアルコム、広範な特許ライセンス契約を締結",
-          "source_url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement"
-        }
-      ]
-    },
-    {
       "date": "2026-10-07",
       "stories": [
         {
@@ -1016,6 +971,83 @@
         {
           "title": "光とミラーを用いた光子集光技術が進化、分散型の大規模量子コンピューター実現へ一歩前進",
           "source_url": "https://www.nature.com/articles/d41586-026-03237-2"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "stories": [
+        {
+          "title": "メタ、会話共有リンクから社内機密や個人情報が露出したとして「Muse」の共有機能を緊急停止",
+          "source_url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+        },
+        {
+          "title": "アンスロピックのClaude、サソリ神経毒を無力化する新規ペプチド結合剤の設計に成功",
+          "source_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+        },
+        {
+          "title": "デジタル庁、政府職員18万人に自律型AIエージェント環境を展開へ 安全基準「源内基準」も策定",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/"
+        },
+        {
+          "title": "ミストラルAI、センサーや金融データに対応する時系列特化の基盤モデル「Timestral」を発表",
+          "source_url": "https://mistral.ai/news/timestral/"
+        },
+        {
+          "title": "ナッシング、おサイフケータイ対応で約6万円の高コスパスマホ「Phone (4b)」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2149644.html"
+        },
+        {
+          "title": "ボーズ、耳を塞がないオープンイヤー型イヤホンの第2世代「Ultra Open Earbuds」を発売",
+          "source_url": "https://www.gizmodo.jp/article/bose-ultra-open-earbuds-2nd-gen-review/"
+        },
+        {
+          "title": "荷物の施錠と位置追跡が一体化、旅行防犯を1台でこなす「スマートタグ・ワイヤロック K05」",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149291.html"
+        },
+        {
+          "title": "室内の生活光で半永久駆動、充電不要でアートを飾れる48色カラー電子ペーパー額縁「Inkanva」",
+          "source_url": "https://newatlas.com/around-the-home/light-solar-epaper-screen-art-inkanva/"
+        },
+        {
+          "title": "IMDEAとUPM、直径半分に圧縮しても90％以上形状復元する3Dプリント製ニチノール・ステントを開発",
+          "source_url": "https://3dprintingindustry.com/news/woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking-255810/?utm_source=rss&utm_medium=rss&utm_campaign=woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking"
+        },
+        {
+          "title": "培養ヒト脳組織が点字を解読し四足歩行ロボットを遠隔誘導、生体ハイブリッド計算で新成果",
+          "source_url": "https://newatlas.com/technology/lab-brains-read-braille-direct-dog-biohybrid-computing/"
+        },
+        {
+          "title": "パナソニック、窓ガラスで発電する透明な「ペロブスカイト太陽電池」の本格量産を2029年に前倒し",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149677.html"
+        },
+        {
+          "title": "東芝、岩石に熱を蓄える次世代蓄熱システムの実証を製紙工場で開始 2027年度実用化へ",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12102/"
+        },
+        {
+          "title": "AIが生成する不要なコード肥大化を評価するベンチマーク「Parsimony」が登場",
+          "source_url": "https://gigazine.net/news/20261020-parsimony/"
+        },
+        {
+          "title": "グーグル、TPU向けPyTorchネイティブバックエンド「TorchTPU」をオープンソース公開",
+          "source_url": "https://github.com/google-pytorch/torch_tpu"
+        },
+        {
+          "title": "NTTや新光電気工業ら5社、次世代AI向け「光電融合デバイス」の量産技術開発を本格始動",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2149736.html"
+        },
+        {
+          "title": "オープンAI、創薬AI「Rosalind」の基盤強化に向けてバイオテック新興オーケストラ・バイオを買収",
+          "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+        },
+        {
+          "title": "アストロラボ、月面探査車「FLIP」に史上初となる月面ローカル動作のLLMを搭載へ",
+          "source_url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/"
+        },
+        {
+          "title": "【続報】ハッカーによる偽造TLS証明書問題、認証局eMudhraの中間鍵8件が侵害と判明し業界が一斉無効化",
+          "source_url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
         }
       ]
     }
