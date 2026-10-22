@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-08",
-      "stories": [
-        {
-          "title": "Microsoft、NVIDIA RTX Spark搭載AI PC「Surface Laptop Ultra」を発表",
-          "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-        },
-        {
-          "title": "Microsoft、CopilotにWindowsとファイルへのより深い制御権限を付与",
-          "source_url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
-        },
-        {
-          "title": "OpenAI、数学分野でのAI進捗を共有",
-          "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
-        },
-        {
-          "title": "AIエージェントの悪用を抑制するmacOSのディスクアクセス権限強化",
-          "source_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-        },
-        {
-          "title": "Anthropic、軽量モデル「Claude Haiku 5.5」を発表",
-          "source_url": "https://www.anthropic.com/claude-haiku-5-5"
-        },
-        {
-          "title": "OpenAI、GPT-6とインタラクティブな「Intelligent UI」をChatGPTに導入",
-          "source_url": "https://openai.com/index/gpt-6-for-everyone/"
-        },
-        {
-          "title": "AIエージェントによる「トークン浪費」抑制の5つの打ち手",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news003.html"
-        },
-        {
-          "title": "OpenAI、高速な判断専用API「Decisions API」を公開",
-          "source_url": "https://gigazine.net/news/20261007-decisions-api/"
-        },
-        {
-          "title": "Ring、バッテリー式4Kカメラなどスマートホーム製品を発表",
-          "source_url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/"
-        },
-        {
-          "title": "AppleとLG、スマートロック、サーモスタット、ドアベルで提携か",
-          "source_url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
-        },
-        {
-          "title": "GitHub Copilot、ローカルサンドボックスが一般提供開始",
-          "source_url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available"
-        },
-        {
-          "title": "Strata、Ryzen AI Max+に対応しQwen3.8-Flash-Nextをローカル実行可能に",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2146238.html"
-        },
-        {
-          "title": "アナログIC設計ベンチマーク「SGAnalog」",
-          "source_url": "https://arxiv.org/abs/2610.03934"
-        },
-        {
-          "title": "HyundaiとBoston Dynamics、製造業向けAIロボット訓練に大規模投資",
-          "source_url": "https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/"
-        },
-        {
-          "title": "減量薬が生物学的老化を遅らせる可能性",
-          "source_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
-        },
-        {
-          "title": "AIによって開発されたオープンソースAIアクセラレータ「openTPU」",
-          "source_url": "https://gigazine.net/news/20261007-opentpu/"
-        },
-        {
-          "title": "東北大学、金属材料の熱処理から特性評価まで全自動化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03409/"
-        },
-        {
-          "title": "ハッカーがGoogleなどの偽造TLS証明書を入手",
-          "source_url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
-        },
-        {
-          "title": "IDCFクラウド、ランサムウェア攻撃で495の企業・自治体に影響",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/07/2000002107/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-09",
       "stories": [
         {
@@ -1088,6 +1007,67 @@
         {
           "title": "【続報】偽造TLS証明書問題、eMudhraの中間鍵が1バイトの脆弱な秘密鍵で侵害",
           "source_url": "https://gigazine.net/news/20261022-emudhra-problem/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "stories": [
+        {
+          "title": "オープンAI、判断専用API「Decisions API」の競合となる意思決定モデルを一般公開",
+          "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+        },
+        {
+          "title": "アンスロピック、離席中も自律的にタスクを処理し続ける常時稼働型AI「Claude Duet」を発表",
+          "source_url": "https://claude.com/product/claude-duet"
+        },
+        {
+          "title": "【続報】PHPの重大脆弱性「PHP2Shell」が世界規模で猛威、OpenAIやCloudflareが影響確認・防御ツールを緊急公開",
+          "source_url": ""
+        },
+        {
+          "title": "1Password、AIエージェントがパスワードを直接見ずに代理ログインできる新機能を発売",
+          "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+        },
+        {
+          "title": "TSMC、サプライチェーンから中国製レアアース磁石の排除を要請",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
+        },
+        {
+          "title": "マイクロン、20年続けた「4F² DRAM」セルの研究開発を突如中止",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations"
+        },
+        {
+          "title": "【続報】認証局eMudhraの秘密鍵漏洩問題を受け、TLS証明書ビジネスからの全面撤退を正式発表",
+          "source_url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html"
+        },
+        {
+          "title": "PFU、HHKB生誕30周年を記念したアルミ削り出し筐体の300台限定モデル「HHKB Professional Elite」を発表",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2149954.html"
+        },
+        {
+          "title": "ASMR専用に特化した完全ワイヤレスイヤホン「ZE3000 ASMR for TINGLE」がクラウドファンディングに登場",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2150402.html"
+        },
+        {
+          "title": "エフィエント、3Dプリント製パーツで過酷環境に対応する金属プリンター用粉末を発表",
+          "source_url": "https://www.engineering.com/formlabs-introduces-nylon-11-pro-powder-for-fuse-sls-printers/"
+        },
+        {
+          "title": "エコフロー、3000Wh超の大容量で冷蔵庫を長期間稼働できるポータブル電源「DELTA 4」シリーズを発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2150125.html"
+        },
+        {
+          "title": "アジリティ・ロボティクス、人型ロボット「Digit 5」の大幅刷新モデルを公開",
+          "source_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
+        },
+        {
+          "title": "マイクロソフト、医療用AIが難症例で一般医師を上回る診断精度を達成したと発表",
+          "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+        },
+        {
+          "title": "ソニーセミコンダクタ、医療用で業界初となる5mデジタル伝送対応の1mm角使い捨て内視鏡センサーを発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149864.html"
         }
       ]
     }
