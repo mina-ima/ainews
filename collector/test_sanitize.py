@@ -10,6 +10,7 @@ import httpx
 
 from src.search import NewsItem, _decompress_bounded, _get_bounded
 from src.summarize import (
+    sort_highlights,
     _build_user_prompt,
     drop_rehashed,
     _inert,
@@ -186,6 +187,25 @@ def test_drop_rehashed():
                          [{"title": "ソニー、新型ヘッドホン『WH-1000XM6』を日本で発売"}])
 
 
+def test_top_importance_category_first():
+    hs = [
+        {"title": "a", "category": "AIプロダクト", "importance": 4},
+        {"title": "b", "category": "通信・ネットワーク", "importance": 3},
+        {"title": "php", "category": "セキュリティ", "importance": 5},
+        {"title": "c", "category": "AIプロダクト", "importance": 3},
+    ]
+    assert [h["title"] for h in sort_highlights(hs)] == ["php", "a", "c", "b"]
+
+
+def test_default_order_without_top():
+    hs = [
+        {"title": "x", "category": "半導体・チップ", "importance": 4},
+        {"title": "g", "category": "ガジェット・民生機器", "importance": 3},
+        {"title": "ai", "category": "LLM・生成AI", "importance": 2},
+    ]
+    assert [h["title"] for h in sort_highlights(hs)] == ["ai", "g", "x"]
+
+
 if __name__ == "__main__":
     test_sanitize_result()
     test_inert()
@@ -196,4 +216,6 @@ if __name__ == "__main__":
     test_decompress_bounded_peak_memory()
     test_markdown_omits_dropped_source_link()
     test_drop_rehashed()
+    test_top_importance_category_first()
+    test_default_order_without_top()
     print("ok")

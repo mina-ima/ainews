@@ -56,6 +56,7 @@ AIだけでなく、「こんなことができるようになった」「こん
 - 材料・ナノテク
 - 3Dプリンティング・製造
 - 通信・ネットワーク
+- セキュリティ
 - 量子コンピューティング
 - ソフトウェア・開発ツール
 - ガジェット・民生機器
@@ -91,11 +92,15 @@ def _category_group(cat: str) -> int:
 
 
 def sort_highlights(highlights: list[dict]) -> list[dict]:
-    """AI関連 → ガジェット → その他の順にソート（グループ内は重要度降順）"""
+    """★5を含むカテゴリを先頭に、あとは AI関連 → ガジェット → その他の順（グループ内は重要度降順）"""
+    # 2026-10-22 の PHP2Shell（★5・通信）が20件中19番目に埋もれ、Discord の先頭見出しにも出なかった。
+    # 記事単位で前に出すと同じカテゴリ見出しが2回出るので、カテゴリごと前に出す
+    top_cats = {h.get("category", "") for h in highlights if h.get("importance", 3) >= 5}
     return sorted(
         highlights,
         # category を挟まないと同グループ内でカテゴリが交互に並び、同じ見出しが何度も出る
         key=lambda h: (
+            h.get("category", "") not in top_cats,
             _category_group(h.get("category", "")),
             h.get("category", ""),
             -h.get("importance", 3),
@@ -545,7 +550,7 @@ async def summarize_news(
     # URLが別媒体でも同じ発表なら落とす（LLMが既出リストを見落とした場合の安全策）
     result["highlights"] = drop_rehashed(result.get("highlights", []), recent_stories or [])
 
-    # カテゴリ順序を強制ソート（AI → ガジェット → その他）
+    # カテゴリ順序を強制ソート（★5を含むカテゴリ → AI → ガジェット → その他）
     result["highlights"] = sort_highlights(result.get("highlights", []))
 
     # 上限ガード: LLMが「最大20件」指示を無視して大量生成した場合に truncate
