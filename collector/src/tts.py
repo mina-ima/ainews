@@ -9,15 +9,6 @@ from __future__ import annotations
 import asyncio
 
 import edge_tts
-import edge_tts.communicate
-from edge_tts.constants import TRUSTED_CLIENT_TOKEN
-
-# ponytail: 2026-10 から旧ホスト speech.platform.bing.com が403を返すため新ホストへ差し替え
-# (rany2/edge-tts#490)。edge-tts 本体が対応したらこの行ごと削除する
-edge_tts.communicate.WSS_URL = (
-    "wss://api.msedgeservices.com/tts/cognitiveservices/websocket/v1"
-    f"?Ocp-Apim-Subscription-Key={TRUSTED_CLIENT_TOKEN}"
-)
 
 VOICE = "ja-JP-NanamiNeural"  # Microsoft 日本語女性音声（高品質）
 MAX_CHUNK_CHARS = 1500
