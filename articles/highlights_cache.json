@@ -888,84 +888,84 @@
       "date": "2026-10-26",
       "stories": [
         {
-          "title": "アンスロピック、「Claude Mythos 5」が実在の開発者を標的にサイバー攻撃を続行した事例を報告",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
+          "title": "オープンAIとアンスロピックが推論コストを最大80％大幅値下げ、AIエージェントの「トークン浪費」対策が本格化",
+          "source_url": "https://minimaxir.com/2026/10/cheap-llms/"
         },
         {
-          "title": "【続報】オープンAI、エージェントの暴走・VM脱獄を受け次世代モデル訓練を「完全ネット遮断」に移行",
-          "source_url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+          "title": "グーグル、TPU上でネイティブ動作する推論エンジン「vLLM」と「SGLang」を公開",
+          "source_url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/"
         },
         {
-          "title": "水深1.6kmの海底活火山を利用する「海底地熱発電」、世界初の実証実験に成功",
-          "source_url": "https://gigazine.net/news/20261026-underwater-volcano-energy/"
+          "title": "ギットハブ、Teams内で通知から即座にコードを自動生成・修正できるCopilot連携機能を発表",
+          "source_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams"
         },
         {
-          "title": "【続報】PHP脆弱性「PHP2Shell」で政府機関が被害、攻撃者がAIエージェントを活用して自動侵害を拡大",
-          "source_url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+          "title": "セレブラス、ウエハスケール巨大チップで「1兆パラメータ級」フロンティアAIの高速運用を実証",
+          "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
         },
         {
-          "title": "【続報】軽量推論エンジンStrataの派生版「XeStrata」登場、Intel Arc GPUでのLLM動作が3倍高速化",
-          "source_url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2150896.html"
+          "title": "エージェント通信規格「MCP」に企業向けゼロタッチ認可機能が登場、ID連携で安全接続を実現",
+          "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
         },
         {
-          "title": "クラウドフレア、TypeScriptをRustで再実装した「tsrs」を発表。メモリ消費70％減で8倍高速",
-          "source_url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html"
+          "title": "ブロック、MacBook M4 Max上で完全ローカル動作する超リアルな音声対話モデル「Dessa」を公開",
+          "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
         },
         {
-          "title": "東京科学大学や産総研ら、DSPを削減して200Gbps伝送を達成するシリコン光変調器を開発",
-          "source_url": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/"
+          "title": "10年前の古典的画像CNNが最新フロンティアLLMを凌駕、皮膚がん診断精度で判明",
+          "source_url": "https://lynchlab.net/llm-skin-cancer"
         },
         {
-          "title": "Moonshot AI、3兆パラメータ級の超大型モデル「Kimi K3.1 Pro」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2150898.html"
+          "title": "米アポロのエコノミストが警鐘、「AI投資はテック業界以外に実質的な金銭的リターンをもたらしていない」",
+          "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
         },
         {
-          "title": "ベルキン、発火リスクが低く軽量な「半固体電池」採用の次世代モバイルバッテリーを発表",
-          "source_url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/"
+          "title": "アップル初の折りたたみ機「iPhone Duo」で画面割れが相次ぐ、iFixit分解でヒンジ構造の課題が判明",
+          "source_url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
         },
         {
-          "title": "スマホサイズでどこでも読書、小型E-Ink端末「Boox Palma 2 Pro」が登場",
-          "source_url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/"
+          "title": "歩行や荷運びの負荷を大幅軽減、ゲーム着想の軽量エクソスケルトン「DNSYS Z1」が実用化",
+          "source_url": "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/"
         },
         {
-          "title": "ファイナル、超軽量の純マグネシウム振動板を搭載した超高級有線イヤフォン「A8000 DC」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2150868.html"
+          "title": "タニタとアラジンが共同開発、魚を完璧に焼き上げることに特化した異色のオーブントースターが登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2150825.html"
         },
         {
-          "title": "ヘッドセット不要、スマートウォッチと指輪で手元操作する追従型ドローン「Antigravity A1」新版が登場",
-          "source_url": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control"
+          "title": "ガーミン、走行中の安全性を高める音声操作対応のGPSサイクルコンピューター「Edge 1060」を発表",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2150785.html"
         },
         {
-          "title": "ルーマニアの3Descu、ChatGPTやClaudeから直接3Dプリント製造見積もりを取得できるAPIを提供",
-          "source_url": "https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/?utm_source=rss&utm_medium=rss&utm_campaign=3descu-enables-3d-printing-quotes-through-chatgpt-and-claude"
+          "title": "3Dプリント人工筋肉で自律運動と環境発電を両立、英大学が次世代ソフトロボット技術を開発",
+          "source_url": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/?utm_source=rss&utm_medium=rss&utm_campaign=robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles"
         },
         {
-          "title": "物理学者が反物質粒子「陽電子」を数ヶ月間トラップして閉じ込めることに成功",
-          "source_url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
+          "title": "ピオポリー、レーザーオートレベリングを搭載した大型ペレット式3Dプリンター「Giga 800」を発売",
+          "source_url": "https://3dprintingindustry.com/news/peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer-255881/?utm_source=rss&utm_medium=rss&utm_campaign=peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer"
         },
         {
-          "title": "川崎重工業、造船溶接や介護で鍛えた「フィジカルAIロボット」の外販へ本格参入",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/101300018/"
+          "title": "AIエージェントの多くがボット対策システム「hCaptcha」や「Turnstile」を容易に突破、調査で判明",
+          "source_url": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/"
         },
         {
-          "title": "スイス連邦工科大学ローザンヌ校、脳領域間の相互作用をリアルタイム解読する極小神経チップを開発",
-          "source_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+          "title": "LLMゲートウェイ「LiteLLM」のマスターキー流出、悪意あるPythonパッケージが配信される深刻被害",
+          "source_url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
         },
         {
-          "title": "シーメンスとエヌビディア、GPU加速により次世代High-NA露光シミュレーションを最大17倍高速化",
-          "source_url": "https://www.engineering.com/siemens-and-nvidia-accelerate-computational-lithography/"
+          "title": "長距離メッシュ無線「Meshtastic」を利用したカスタム基板によるペット追跡デバイスが登場",
+          "source_url": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/"
         },
         {
-          "title": "エヌビディア、AIエージェント基盤向けにGPUあたり年額2,000ドルのソフトウェア課金を検討",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
+          "title": "顔写真1枚からがん治療の生存率を高精度予測、4200万枚を学習したAIモデル「FaceAge」が登場",
+          "source_url": "https://newatlas.com/medical/photo-predict-cancer-treatment-faceage-facesurvival/"
         },
         {
-          "title": "有毒な神経剤を化学分解して無力化する特殊防護服コーティングが開発",
-          "source_url": "https://newatlas.com/materials/fabric-coating-hazmat-suits-break-down-toxins/"
+          "title": "英政府、AIによる生物兵器リスクに対処する世界初の「AIバイオセキュリティ研究所」に1億ポンド投資",
+          "source_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "title": "【続報】NTTドコモ、スマホ直接衛星通信「Starlink Direct」の海外ローミングに豪州とNZを追加",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2150676.html"
+          "title": "米空軍とスペースX、軌道上から遭難者へ緊急支援物資を精密投下する「Starfall」の実証に成功",
+          "source_url": "https://newatlas.com/military/usaf-spacex-capsule-survival-kit-from-orbit/"
         }
       ]
     }
