@@ -25,6 +25,9 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
       {showPlayer && (
         <div className="mt-3">
           <AudioPlayer src={audioSrc} />
+          {article.audio_credit && (
+            <p className="mt-1 text-xs text-slate-500">音声: {article.audio_credit}</p>
+          )}
         </div>
       )}
 

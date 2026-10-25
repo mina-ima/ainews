@@ -29,6 +29,9 @@ export default async function ArticlePage({
       </Link>
 
       {meta?.audio_url && <AudioPlayer src={`/api/audio/${date}`} />}
+      {meta?.audio_credit && (
+        <p className="mt-1 text-xs text-slate-500">音声: {meta.audio_credit}</p>
+      )}
 
       <article className="mt-6">
         <MarkdownView content={content} />

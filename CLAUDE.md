@@ -14,7 +14,7 @@
 
 - ニュース収集: Hacker News API + RSS
 - AI要約: Google Gemini 2.5 Flash (無料枠) → Groq Llama (フォールバック)
-- TTS: edge-tts (Microsoft Nanami)
+- TTS: edge-tts (Microsoft Nanami) と VOICEVOX (四国めたん) を日替わりで先行、失敗時のみ他方。両方ダメなら音声なしで配信
 - MP3保存: GitHub Releases
 - フロント: Next.js + Vercel
 - CI: GitHub Actions

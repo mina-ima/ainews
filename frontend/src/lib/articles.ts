@@ -7,6 +7,7 @@ export interface ArticleMeta {
   article_count: number;
   audio_url?: string;
   audio_size_mb?: number;
+  audio_credit?: string;
 }
 
 export interface IndexData {

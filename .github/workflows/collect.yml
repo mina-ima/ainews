@@ -49,6 +49,15 @@ jobs:
       - uses: astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a  # v4
         if: steps.guard.outputs.skip != 'true'
 
+      # 音声は edge-tts と VOICEVOX を日替わりで先行させる（collector/src/tts.py）。
+      # VOICEVOX は収集・要約の数分の間に裏で起動を済ませておく。public リポジトリなので実行時間は無料
+      - name: Start VOICEVOX engine
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true  # 起動できなくても edge-tts だけで続行する
+        run: |
+          docker run -d --rm -p 50021:50021 voicevox/voicevox_engine:cpu-latest
+          command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+
       - name: Install dependencies
         if: steps.guard.outputs.skip != 'true'
         working-directory: collector
@@ -82,9 +91,10 @@ jobs:
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
           MP3="articles/${DATE}.mp3"
           if [ -f "$MP3" ]; then
+            CREDIT=$(jq -r --arg d "$DATE" '.articles[] | select(.date==$d) | .audio_credit // empty' articles/index.json)
             gh release create "news-${DATE}" \
               --title "AI News ${DATE}" \
-              --notes "AI・テクノロジーニュース ${DATE}" || true
+              --notes "AI・テクノロジーニュース ${DATE}${CREDIT:+（音声: $CREDIT）}" || true
             gh release upload "news-${DATE}" "$MP3" --clobber
           fi
 
