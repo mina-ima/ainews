@@ -1,193 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-09",
-      "stories": [
-        {
-          "title": "AI意思決定モデルがパックマンをプレイする「Jevman」公開",
-          "source_url": "https://opper.ai/jevman-benchmark/"
-        },
-        {
-          "title": "【続報】Google、AI生成物の判定ツール「SynthID Detector」を一般公開",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/08/2000002128/"
-        },
-        {
-          "title": "【続報】OpenAI、数学分野でのAI成果を3件撤回",
-          "source_url": "https://twitter.com/danintheory/status/2108065033070789090"
-        },
-        {
-          "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
-          "source_url": "https://gigazine.net/news/20261008-virtual-biology-initiative/"
-        },
-        {
-          "title": "AI生成楽曲の不正ストリーミングで18カ月の拘禁刑、米国で判決",
-          "source_url": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/"
-        },
-        {
-          "title": "OpenAI解雇の安全研究者らが不正行為を否定、AI安全性文化への「萎縮効果」を警告",
-          "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-        },
-        {
-          "title": "LLMエージェントの認証情報漏洩と回復を評価するベンチマーク「CredLeakBench」発表",
-          "source_url": "https://arxiv.org/abs/2610.08871"
-        },
-        {
-          "title": "OpenAIの年間収益、以前の予測より200億ドル少ないと報道",
-          "source_url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
-        },
-        {
-          "title": "【続報】OpenAI、10代向けChatGPTに大学出願支援「College Planner」導入計画",
-          "source_url": "https://openai.com/index/teens-learn-and-plan"
-        },
-        {
-          "title": "Naturaの99ドルスマートリング、指先でAIエージェントを召喚可能に",
-          "source_url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
-        },
-        {
-          "title": "Amazon、Alexa+とGoogle Playストア対応の新型Alexaタブレットを発表",
-          "source_url": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/"
-        },
-        {
-          "title": "OPPO、「Find X10」シリーズを21日にグローバル発表 Pro Maxは全カメラが2億画素",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2146891.html"
-        },
-        {
-          "title": "シャープ、水蒸気検知で乾かしすぎを防ぐ業界初のドライヤーを発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2146748.html"
-        },
-        {
-          "title": "PharmaTher、3Dプリント医薬品のロードマップを発表、希少小児疾患向け新薬承認を2028年までに目指す",
-          "source_url": "https://3dprintingindustry.com/news/pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028-255486/?utm_source=rss&utm_medium=rss&utm_campaign=pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028"
-        },
-        {
-          "title": "ハイパースケーラーのAI電力逼迫問題、ソフトウェア最適化が最も容易な解決策と研究者指摘",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/software-could-be-the-easiest-fix-for-hyperscalers-ai-power-squeeze-researchers-say-data-center-demand-is-expected-to-rival-japans-electricity-usage-by-2030"
-        },
-        {
-          "title": "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能に",
-          "source_url": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html"
-        },
-        {
-          "title": "住友ベークライト、中国・シンガポールでチップ封止材の生産能力を増強",
-          "source_url": "https://asia.nikkei.com/business/tech/semiconductors/sumitomo-bakelite-to-boost-chip-encapsulant-output-in-china-singapore"
-        },
-        {
-          "title": "ヒューマノイド、量産で劣る日本は確実性で勝負 実装で問われる真の実力",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/092500004/"
-        },
-        {
-          "title": "ロボット把持における滑り・破損を低コスト音響センシングで統一検出する「SAFE」技術",
-          "source_url": "https://arxiv.org/abs/2610.08802"
-        },
-        {
-          "title": "FDA承認のてんかん治療薬、変形性関節症の損傷回復に寄与する可能性",
-          "source_url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "stories": [
-        {
-          "title": "Anthropic、サイバー防御支援プログラム「Cyber Mission」を発表",
-          "source_url": ""
-        },
-        {
-          "title": "OpenAI、ChatGPTが音声ファイルのアップロードに対応",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/"
-        },
-        {
-          "title": "OpenAI、収益予測を下方修正し、以前の予測より200億ドル減",
-          "source_url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap"
-        },
-        {
-          "title": "指紋認証でロックするスマートボトルが登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/column/iine/2137499.html"
-        },
-        {
-          "title": "ロシアのIT大手Yandexのデータセンターがドローン攻撃で炎上",
-          "source_url": "https://gigazine.net/news/20261009-yandex-drone-attack/"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-11",
-      "stories": [
-        {
-          "title": "アンスロピック、AIエージェントの暴走が相次ぎ社内評価のネット接続を遮断",
-          "source_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
-        },
-        {
-          "title": "タイプセーフAI、意思決定モデル「ジェフ」の急成長で企業価値75億ドルに達し8.7億ドルを調達",
-          "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-        },
-        {
-          "title": "さくらインターネット、トークン消費を気にせず定額利用できるGPU専有AI基盤を提供開始",
-          "source_url": "https://www.publickey1.jp/blog/26/gpuai_engine.html"
-        },
-        {
-          "title": "バッテリーを外すと巨大ファンが出現、冷却重視に切り替わる変幻型PC「GPD WIN Max 3」",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2147299.html"
-        },
-        {
-          "title": "バルブ、新型VRヘッドセットのハードウェア仕様とCADデータをオープン公開",
-          "source_url": "https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/"
-        },
-        {
-          "title": "磁性流体ドライバーと新ツイーターを融合した有線イヤホン「MAPro2000」が登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2147112.html"
-        },
-        {
-          "title": "アラジン、部屋干し衣類を温風で一気に乾かす初の温風サーキュレーターを発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2146843.html"
-        },
-        {
-          "title": "ウクライナで実戦検証された3Dプリント製エアレスUGVホイールが量産へ",
-          "source_url": "https://3dprintingindustry.com/news/printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing-255481/?utm_source=rss&utm_medium=rss&utm_campaign=printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing"
-        },
-        {
-          "title": "ダヌ・ロボティクス、廃棄物選別を高度化するAIリサイクルロボットを本格展開",
-          "source_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
-        },
-        {
-          "title": "マイクロソフト、AIエージェントの暴走を防ぐ隔離コンテナ「Mxc 1.0」を正式公開",
-          "source_url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
-        },
-        {
-          "title": "グーグル、端末上GPUでAI推論を加速するユニバーサル基盤「ML Drift」を発表",
-          "source_url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
-        },
-        {
-          "title": "クラウドフレア、AIエージェント向けコンテナ基盤を刷新し起動を6倍に高速化",
-          "source_url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html"
-        },
-        {
-          "title": "アトミカ、光学MEMS向けウエハーレベルパッケージング基盤を発表",
-          "source_url": "https://www.engineering.com/atomica-launches-mems-optical-control-platform/"
-        },
-        {
-          "title": "重さわずか1グラム、階段を軽々と跳び越える超小型ノミ型ロボット「DirectHop」",
-          "source_url": "https://newatlas.com/robotics/flea-inspired-directhop-hopping-robot/"
-        },
-        {
-          "title": "日本人の大腸がんの約半数に腸内細菌毒素「コリバクチン」が関与、東大・阪大が解明",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/10/2000002035/"
-        },
-        {
-          "title": "エヌビディア、オープンモデル開発の米リフレクションAI買収に向け交渉中",
-          "source_url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-        },
-        {
-          "title": "スペースエックス、800MHz帯の全国ライセンスを取得し携帯電話事業へ参入へ",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2147234.html"
-        },
-        {
-          "title": "理化学研究所、新スパコン「理究」が本格稼働、量子とHPCを融合する基盤「ROQUO」も始動",
-          "source_url": "https://internet.watch.impress.co.jp/docs/interview/2145454.html"
-        }
-      ]
-    },
-    {
       "date": "2026-10-12",
       "stories": [
         {
@@ -1068,6 +881,91 @@
         {
           "title": "ソニーセミコンダクタ、医療用で業界初となる5mデジタル伝送対応の1mm角使い捨て内視鏡センサーを発表",
           "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149864.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "stories": [
+        {
+          "title": "アンスロピック、「Claude Mythos 5」が実在の開発者を標的にサイバー攻撃を続行した事例を報告",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
+        },
+        {
+          "title": "【続報】オープンAI、エージェントの暴走・VM脱獄を受け次世代モデル訓練を「完全ネット遮断」に移行",
+          "source_url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+        },
+        {
+          "title": "水深1.6kmの海底活火山を利用する「海底地熱発電」、世界初の実証実験に成功",
+          "source_url": "https://gigazine.net/news/20261026-underwater-volcano-energy/"
+        },
+        {
+          "title": "【続報】PHP脆弱性「PHP2Shell」で政府機関が被害、攻撃者がAIエージェントを活用して自動侵害を拡大",
+          "source_url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+        },
+        {
+          "title": "【続報】軽量推論エンジンStrataの派生版「XeStrata」登場、Intel Arc GPUでのLLM動作が3倍高速化",
+          "source_url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/2150896.html"
+        },
+        {
+          "title": "クラウドフレア、TypeScriptをRustで再実装した「tsrs」を発表。メモリ消費70％減で8倍高速",
+          "source_url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html"
+        },
+        {
+          "title": "東京科学大学や産総研ら、DSPを削減して200Gbps伝送を達成するシリコン光変調器を開発",
+          "source_url": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/"
+        },
+        {
+          "title": "Moonshot AI、3兆パラメータ級の超大型モデル「Kimi K3.1 Pro」を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2150898.html"
+        },
+        {
+          "title": "ベルキン、発火リスクが低く軽量な「半固体電池」採用の次世代モバイルバッテリーを発表",
+          "source_url": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/"
+        },
+        {
+          "title": "スマホサイズでどこでも読書、小型E-Ink端末「Boox Palma 2 Pro」が登場",
+          "source_url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/"
+        },
+        {
+          "title": "ファイナル、超軽量の純マグネシウム振動板を搭載した超高級有線イヤフォン「A8000 DC」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2150868.html"
+        },
+        {
+          "title": "ヘッドセット不要、スマートウォッチと指輪で手元操作する追従型ドローン「Antigravity A1」新版が登場",
+          "source_url": "https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control"
+        },
+        {
+          "title": "ルーマニアの3Descu、ChatGPTやClaudeから直接3Dプリント製造見積もりを取得できるAPIを提供",
+          "source_url": "https://3dprintingindustry.com/news/3descu-enables-3d-printing-quotes-through-chatgpt-and-claude-255887/?utm_source=rss&utm_medium=rss&utm_campaign=3descu-enables-3d-printing-quotes-through-chatgpt-and-claude"
+        },
+        {
+          "title": "物理学者が反物質粒子「陽電子」を数ヶ月間トラップして閉じ込めることに成功",
+          "source_url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/"
+        },
+        {
+          "title": "川崎重工業、造船溶接や介護で鍛えた「フィジカルAIロボット」の外販へ本格参入",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/101300018/"
+        },
+        {
+          "title": "スイス連邦工科大学ローザンヌ校、脳領域間の相互作用をリアルタイム解読する極小神経チップを開発",
+          "source_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+        },
+        {
+          "title": "シーメンスとエヌビディア、GPU加速により次世代High-NA露光シミュレーションを最大17倍高速化",
+          "source_url": "https://www.engineering.com/siemens-and-nvidia-accelerate-computational-lithography/"
+        },
+        {
+          "title": "エヌビディア、AIエージェント基盤向けにGPUあたり年額2,000ドルのソフトウェア課金を検討",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
+        },
+        {
+          "title": "有毒な神経剤を化学分解して無力化する特殊防護服コーティングが開発",
+          "source_url": "https://newatlas.com/materials/fabric-coating-hazmat-suits-break-down-toxins/"
+        },
+        {
+          "title": "【続報】NTTドコモ、スマホ直接衛星通信「Starlink Direct」の海外ローミングに豪州とNZを追加",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2150676.html"
         }
       ]
     }
