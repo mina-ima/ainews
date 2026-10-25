@@ -112,9 +112,16 @@ async def run() -> None:
     print("Step 4: MP3音声生成中...")
     tts_text = generate_tts_text(data, date)
     mp3_path = str(ARTICLES_DIR / f"{date}.mp3")
-    await generate_mp3(tts_text, mp3_path)
-    mp3_size = os.path.getsize(mp3_path) / (1024 * 1024)
-    print(f"  → {mp3_path} ({mp3_size:.1f}MB)")
+    # TTS は外部サービス依存で落ちやすい。音声が作れなくても記事は配信する
+    try:
+        await generate_mp3(tts_text, mp3_path)
+        mp3_size = os.path.getsize(mp3_path) / (1024 * 1024)
+        print(f"  → {mp3_path} ({mp3_size:.1f}MB)")
+    except Exception as e:
+        mp3_size = None
+        Path(mp3_path).unlink(missing_ok=True)  # 途中まで書いたMP3をReleaseに上げない
+        msg = f"MP3生成失敗のため音声なしで配信: {e}"
+        print(f"::warning::{msg}" if os.environ.get("CI") else f"  [警告] {msg}")
 
     # 5. ハイライトキャッシュ保存
     _save_highlights_cache(date, highlights)
@@ -135,9 +142,10 @@ async def run() -> None:
         "date": date,
         "title": f"AI・テクノロジーニュース {date}",
         "article_count": len(highlights),
-        "audio_url": audio_url,
-        "audio_size_mb": round(mp3_size, 1),
     }
+    if mp3_size is not None:
+        entry["audio_url"] = audio_url
+        entry["audio_size_mb"] = round(mp3_size, 1)
 
     # 既存エントリを更新 or 追加
     index_data["articles"] = [a for a in index_data["articles"] if a["date"] != date]

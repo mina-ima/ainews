@@ -5,8 +5,8 @@ export interface ArticleMeta {
   date: string;
   title: string;
   article_count: number;
-  audio_url: string;
-  audio_size_mb: number;
+  audio_url?: string;
+  audio_size_mb?: number;
 }
 
 export interface IndexData {

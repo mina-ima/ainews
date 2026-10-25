@@ -105,8 +105,10 @@ jobs:
           [ -z "$COUNT" ] && COUNT=$(grep -c '^### ' "articles/${DATE}.md" 2>/dev/null || echo "?")
           # 本日のトップ見出しを1行だけ抜粋
           TOP=$(grep -m1 '^### ' "articles/${DATE}.md" 2>/dev/null | sed 's/^### //')
-          CONTENT=$(printf '📰 本日のAIニュース %s（%s件）が揃いました！\n%s\n%s' \
-            "$DATE" "$COUNT" "${TOP:+▸ $TOP}" "$SITE_URL")
+          # TTS 失敗時は main.py が MP3 を残さず記事だけ配信する
+          [ -f "articles/${DATE}.mp3" ] || NOAUDIO="（音声なし）"
+          CONTENT=$(printf '📰 本日のAIニュース %s（%s件）が揃いました！%s\n%s\n%s' \
+            "$DATE" "$COUNT" "$NOAUDIO" "${TOP:+▸ $TOP}" "$SITE_URL")
           PAYLOAD=$(jq -n --arg c "$CONTENT" '{content: $c}')
           curl -fsS -H "Content-Type: application/json" -d "$PAYLOAD" "$DISCORD_WEBHOOK_URL" \
             && echo "Discord 通知を送信しました" || echo "Discord 通知の送信に失敗（処理は継続）"
