@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-12",
-      "stories": [
-        {
-          "title": "グーグル、端末向け740Mマルチモーダル埋め込みモデル「EmbeddingGemma 2」を公開",
-          "source_url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/"
-        },
-        {
-          "title": "スタンフォード大学、“AIキャラチャット”への長期没頭が幸福度低下を招くと報告",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/"
-        },
-        {
-          "title": "マイクロソフトCEO、「全AIモデルは侵害されていると仮定すべき」と提言、緊急ブレーキ機構を要求",
-          "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
-        },
-        {
-          "title": "アサナ、GPT-6.1 Solの活用でブラウザエージェントの運用コストを76分の1に削減",
-          "source_url": "https://openai.com/index/asana-browser-agent"
-        },
-        {
-          "title": "人気マルチツール端末「Flipper Zero」の次世代機「Flipper One」がLinux搭載で開発中",
-          "source_url": "https://www.gizmodo.jp/article/2610-flipper-one-new-model/"
-        },
-        {
-          "title": "アップル、A18チップ搭載のスマートホームハブ「HomeView」を11月に出荷か",
-          "source_url": "https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/"
-        },
-        {
-          "title": "グーグル日本法人、ベルトコンベア上を流れるキーを打鍵する「Gboard コンベア版」を発表",
-          "source_url": "https://newatlas.com/technology/google-japan-gboard-conveyor-belt-version/"
-        },
-        {
-          "title": "カシオ、サーモンやイクラ軍艦を忠実に再現した「寿司G-SHOCK」を発売へ",
-          "source_url": "https://www.gizmodo.jp/article/2610-gshock-sushi-collection/"
-        },
-        {
-          "title": "ゲント・デザインミュージアム、WAAM金属3Dプリンティングによるアルミ製巨大カーテンを設置",
-          "source_url": "https://3dprintingindustry.com/news/unfold-installs-3d-printed-aluminum-curtain-as-main-gate-of-design-museum-gents-new-wing-255507/?utm_source=rss&utm_medium=rss&utm_campaign=unfold-installs-3d-printed-aluminum-curtain-as-main-gate-of-design-museum-gents-new-wing"
-        },
-        {
-          "title": "レーザー励起による「トリウム原子核時計」が稼働、次世代の超高精度時間標準へ前進",
-          "source_url": "https://hackaday.com/2026/10/11/thorium-clocks-start-ticking-with-lasers/"
-        },
-        {
-          "title": "エージェント間通信プロトコル「MCP」に潜在的脆弱性、悪意あるプロンプト伝播のリスクが浮上",
-          "source_url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
-        },
-        {
-          "title": "AIエージェントに5,000億トークンを費やしてFPSゲーム全体を逆コンパイルさせた大規模実験",
-          "source_url": "https://momo5502.com/posts/2026-10-09-game-decompilation/"
-        },
-        {
-          "title": "マイクロソフト、VS Codeで複数AIモデルを賢く使い分ける「HydraFusion」をプレビュー実装",
-          "source_url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html"
-        },
-        {
-          "title": "CPUのみ＆メモリ2GB未満で動くリアルタイム多言語音声認識「早耳」が公開",
-          "source_url": "https://gigazine.net/news/20261011-hayamimi/"
-        },
-        {
-          "title": "六角形グリッドを活用し配線効率を向上させるPCBオートルーター技術が登場",
-          "source_url": "https://hackaday.com/2026/10/11/improving-an-autorouter-with-a-hexagonal-grid/"
-        },
-        {
-          "title": "AWS、実世界ロボティクス向け「フィジカルAI」開発オープンソースツールチェーンを発表",
-          "source_url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/"
-        },
-        {
-          "title": "スイスの研究機関、極細ファイバーの中にモーターを内蔵した「FiberMotor」を開発",
-          "source_url": "https://newatlas.com/robotics/fibermotor-flexible-motor/"
-        },
-        {
-          "title": "目の奥に未知の老廃物排出システムを発見、緑内障などの根本治療に光明",
-          "source_url": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm"
-        },
-        {
-          "title": "アケトニクス、電子式CPU比で1,000倍高速な全光コンピューティング技術を発表",
-          "source_url": "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079"
-        },
-        {
-          "title": "パソコンの排熱で形状記憶合金を動かして自ら冷却する逆転発想の冷却技術が考案",
-          "source_url": "https://www.gizmodo.jp/article/2610-heat-driven-cooling-technology/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-13",
       "stories": [
         {
@@ -966,6 +881,51 @@
         {
           "title": "米空軍とスペースX、軌道上から遭難者へ緊急支援物資を精密投下する「Starfall」の実証に成功",
           "source_url": "https://newatlas.com/military/usaf-spacex-capsule-survival-kit-from-orbit/"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "stories": [
+        {
+          "title": "アンスロピック、初の株式公開に向け米国SECにS-1を正式提出",
+          "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "title": "ブロック、人間の会話音声のみで学習した全二重音声モデル「Dessa」を発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/"
+        },
+        {
+          "title": "アップル、薄さ5.4mmと有機ELディスプレイを採用した新型「iPad mini」を発表",
+          "source_url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
+        },
+        {
+          "title": "【続報】アップル、折りたたみスマホ「iPhone Duo」の画面割れ問題について公式に言及",
+          "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+        },
+        {
+          "title": "【続報】PHPの重大脆弱性「PHP2Shell」やBrotli圧縮の欠陥を受け、業界全体で緊急パッチ適用が急務に",
+          "source_url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
+        },
+        {
+          "title": "日本HP、最大1兆パラメータに対応する大規模AI向けワークステーションを発表",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html"
+        },
+        {
+          "title": "マイクロソフト、コスト削減を目的に全世界で最大6万人の希望退職を実施へ",
+          "source_url": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/"
+        },
+        {
+          "title": "シマンテックやシーメンス、AIを活用したプリント基板（PCB）の自動検査ワークフローを開発",
+          "source_url": "https://www.engineering.com/siemens-nvidia-develop-ai-workflow-for-pcb-inspection/"
+        },
+        {
+          "title": "エヌビディア、AIインフラ上のエージェント実行に対して2,000ドルの年間ソフトウェア料を検討",
+          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
+        },
+        {
+          "title": "中国研究チーム、24コア光ファイバーで秒間3.2ペタビットのリアルタイム通信の世界記録を達成",
+          "source_url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second"
         }
       ]
     }
