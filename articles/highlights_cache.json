@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-13",
-      "stories": [
-        {
-          "title": "メタ、同社最大の最先端AIモデル「Muse Wonder」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
-        },
-        {
-          "title": "シトロエン、往年の名車「2CV」をモチーフにしたスタイリッシュなEVコンセプトを発表",
-          "source_url": "https://www.bbc.com/news/articles/c620r33plgppo"
-        },
-        {
-          "title": "アユート、銅筐体を採用し真空管の情感を深めた限定DAP「A&ultima SP4000T Copper」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2147410.html"
-        },
-        {
-          "title": "UGREEN、USB機器の配線不足を解消する5ポート搭載のコンパクトな急速充電器をレビュー",
-          "source_url": "https://www.gizmodo.jp/article/2610-ugreen-5-port-usb-charger-review/"
-        },
-        {
-          "title": "ルネサス、約1.2mm角の超小型アナログデジタル混載プログラマブルIC「GreenPAK」のサンプル出荷を開始",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12073/"
-        },
-        {
-          "title": "オムロン、米フィジカルAI関連企業「OnLogic」を6億3000万ドルで買収",
-          "source_url": "https://asia.nikkei.com/business/business-deals/japan-s-omron-to-buy-us-based-onlogic-for-630m-in-physical-ai-push"
-        },
-        {
-          "title": "マイクロソフト、脱NVIDIAを加速する次世代AIチップ「Maia 300」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2147412.html"
-        },
-        {
-          "title": "グローバルフウンドリーズ、7nm世代の「FDX Fusion」ノードを発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet"
-        },
-        {
-          "title": "インテル、新世代アクセラレータ「Crescent Island」をGPU D-Seriesとして投入",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth"
-        },
-        {
-          "title": "米国防総省向けの気象データ活用で、WindBorneが5千万ドル規模の契約を獲得",
-          "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-14",
       "stories": [
         {
@@ -926,6 +881,43 @@
         {
           "title": "中国研究チーム、24コア光ファイバーで秒間3.2ペタビットのリアルタイム通信の世界記録を達成",
           "source_url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "stories": [
+        {
+          "title": "グーグル、音声対応とリアルタイム操作を実現した次世代世界モデル「Genie 4」を発表",
+          "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+        },
+        {
+          "title": "Anthropic、初の株式公開に向け米国SECにS-1を正式提出",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+        },
+        {
+          "title": "プリント基板の光通信製造を加速する「APC」が新規格群を発表",
+          "source_url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950"
+        },
+        {
+          "title": "警察がAIを活用した「不審な運転パターン」によるドライバーの取り締まりを開始し物議",
+          "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+        },
+        {
+          "title": "アップル、M6チップ搭載の新型14インチ「MacBook Pro」を発表",
+          "source_url": ""
+        },
+        {
+          "title": "防衛装備品のアンルビル、クアルコムと提携し完全米国製の新型ノートPC「BlueChip」を投入",
+          "source_url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
+        },
+        {
+          "title": "アップル、M6チップ搭載でAI処理を5倍高速化した新型「iMac」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2151699.html"
+        },
+        {
+          "title": "【続報】アップル、折りたたみスマホ「iPhone Duo」の画面割れ問題について交換対応を表明",
+          "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
         }
       ]
     }
