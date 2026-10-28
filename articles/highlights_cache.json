@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-14",
-      "stories": [
-        {
-          "title": "キャラクターAI（Character.ai）が連邦破産法第11条を申請、生成AIバブルの転換点に",
-          "source_url": "https://blog.character.ai/an-update-on-character-ai/"
-        },
-        {
-          "title": "わずか100万パラメータ、CPUで毎秒49ページを読み取る超軽量OCR「Indra OCR」が登場",
-          "source_url": "https://www.datalab.to/blog/indra-ocr"
-        },
-        {
-          "title": "アンスロピック、小型AIがIoT機器を宿主にして自己増殖する「AIワーム」の脅威を警告",
-          "source_url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
-        },
-        {
-          "title": "米写真大手ゲッティイメージズ、画像生成AIの台頭による業績悪化で破産申請へ",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/"
-        },
-        {
-          "title": "【続報】アップル、家庭用司令塔となる7型スマート画面「HomeView」などを正式発表",
-          "source_url": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/"
-        },
-        {
-          "title": "ゾタック、GeForce RTX 5080搭載の世界最小級ミニPC「MAGNUS ONE」を発売",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2147705.html"
-        },
-        {
-          "title": "架空のWeb会議を自動再生して「話しかけないでオーラ」を演出するAIツール「Fleeting」",
-          "source_url": "https://gigazine.net/news/20261013-fleeting/"
-        },
-        {
-          "title": "米海軍、20万ドルの潜水艦改修を1,000ドルの3Dプリント製水密部品で代替に成功",
-          "source_url": "https://3dprintingindustry.com/news/3d-printed-1000-fix-that-replaces-200000-submarine-alteration-255618/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-1000-fix-that-replaces-200000-submarine-alteration"
-        },
-        {
-          "title": "オープンAI、社内会議室に盗聴器を仕掛けた疑いで自社エンジニアを逮捕",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-        },
-        {
-          "title": "ファーボ・エナジー、世界初の実用規模・次世代強化地熱発電所を送電網に接続",
-          "source_url": "https://spectrum.ieee.org/fervo-cape-station-geothermal"
-        },
-        {
-          "title": "【続報】グーグル、次世代モデル「ジェミニ 4 アルゴン」がGitHub Copilotで一般提供開始",
-          "source_url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot"
-        },
-        {
-          "title": "暗号資産ハードウェアウォレットのレジャー、基板への「スパイチップ不正実装」被害を確認",
-          "source_url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
-        },
-        {
-          "title": "ファーウェイ、米制裁下にもかかわらず独自SoC「Kirin」の累計出荷1億個を達成",
-          "source_url": "https://www.scmp.com/tech/big-tech/article/3370766/huawei-once-hobbled-us-sanctions-passes-100-million-kirin-chip-milestone"
-        },
-        {
-          "title": "インテル、最大480GBメモリ搭載のAIアクセラレータ「GPU D270」を発表",
-          "source_url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
-        },
-        {
-          "title": "通常の氷の10倍の圧縮強度を誇る複合素材「スーパーアイス」が開発される",
-          "source_url": "https://gigazine.net/news/20261014-super-ice-ten-times-stronger/"
-        },
-        {
-          "title": "NICT、公開アプリを解析して裏側サーバを直撃するサイバー脅威「A2B攻撃」を警告",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/13/2000002230/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-15",
       "stories": [
         {
@@ -918,6 +849,91 @@
         {
           "title": "【続報】アップル、折りたたみスマホ「iPhone Duo」の画面割れ問題について交換対応を表明",
           "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "stories": [
+        {
+          "title": "【続報】Google、サイバーセキュリティを強化した次世代フロンティアモデル「Gemini 4 Carbon」を発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "title": "Google、AIエージェント向けにGeminiとSearchのアプリ連携を拡大",
+          "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+        },
+        {
+          "title": "【続報】OpenAIとAnthropic、LLM推論コストを最大80%大幅値下げ",
+          "source_url": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/"
+        },
+        {
+          "title": "【続報】PHP2Shell脆弱性、AI悪用で政府機関も被害に直面し「Vulnpocalypse」の懸念",
+          "source_url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"
+        },
+        {
+          "title": "UEFIファームウェアのコード実行脆弱性、地球上の大半のサーバーに影響",
+          "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        },
+        {
+          "title": "【続報】認証局eMudhra、秘密鍵漏洩問題を受けTLS証明書事業から全面撤退",
+          "source_url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
+        },
+        {
+          "title": "LLMエージェントへのプロンプトインジェクション攻撃、Model Context Protocolを介して機密情報漏洩の可能性",
+          "source_url": "https://arxiv.org/abs/2610.36108"
+        },
+        {
+          "title": "AIエージェントがPCBをオンデマンド製造する工場「The Grid」が稼働開始",
+          "source_url": "https://www.circuithub.com/post/unveiling-the-grid"
+        },
+        {
+          "title": "【続報】Anthropic、Claudeを活用した筋ジストロフィー治療薬開発を加速",
+          "source_url": "https://www.anthropic.com/research/early-progress-drug-development"
+        },
+        {
+          "title": "【続報】Anthropic、IPOに向けたS-1を正式提出し「壊滅的リスク」を警告",
+          "source_url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Google DeepMind、音声対応とリアルタイム操作を実現した次世代世界モデル「Genie 4」を発表",
+          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+        },
+        {
+          "title": "AI学習データ不足を補うため、閉鎖したスタートアップのデータが活用される",
+          "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+        },
+        {
+          "title": "Anthropic、Claudeの学習データにスタンフォード大学教授の書籍を無断使用",
+          "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
+        },
+        {
+          "title": "Amazon、AI利用の生産性指標「トークンマキシング」を警告し、エンジニアに長期的な成果を重視するよう指示",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim"
+        },
+        {
+          "title": "【続報】Apple、M6チップ搭載のタッチスクリーンMacBook Proを発表",
+          "source_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+        },
+        {
+          "title": "Amazon、Alexa+対応のスマートクロック「Echo Time」とスマートフォトフレームを発表",
+          "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
+        },
+        {
+          "title": "ソニー、アニメキャラクターを机に飾れる5万円台の裸眼3Dディスプレイ「ELF-MN1」を発表",
+          "source_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/"
+        },
+        {
+          "title": "東芝、家庭用初の半導体発振技術を採用した電子レンジで加熱ムラを軽減",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2151532.html"
+        },
+        {
+          "title": "フィンランドのトゥルク大学、単一レイヤーで複数金属を3Dプリントする技術を開発",
+          "source_url": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research"
+        },
+        {
+          "title": "AIチップ需要の高まりでSKハイニックスが2029年までメモリ完売",
+          "source_url": "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029"
         }
       ]
     }
