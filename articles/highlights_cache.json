@@ -1,47 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-15",
-      "stories": [
-        {
-          "title": "Google、次世代フロンティアモデル「ジェミニ 4 アルゴン」を一般公開",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/14/2000002265/"
-        },
-        {
-          "title": "YouTube、AI生成楽曲の増加を受けトラックに「Made with AI」ラベルを付与へ",
-          "source_url": "https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content/"
-        },
-        {
-          "title": "ルンバの新最上位「Roomba Max 875 Combo」登場、強力吸引と温水ミストを搭載",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2147936.html"
-        },
-        {
-          "title": "エディファイア、デスクトップスピーカー「MR3」などを最大50％OFFで販売へ",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2148046.html"
-        },
-        {
-          "title": "アンカー、PCやスマホをまとめて急速充電できるGaN採用「Prime Wall Charger」を発表",
-          "source_url": "https://www.gizmodo.jp/article/2610-amazon-wallcharger-3-yhf/"
-        },
-        {
-          "title": "エレコム、長寿命で発火しにくいリン酸鉄リチウムイオン採用のモバイルバッテリーを発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2148067.html"
-        },
-        {
-          "title": "日立製作所とファナック、フィジカルAIの推進に向けて協業を発表",
-          "source_url": "https://www.engineering.com/two-japanese-heavyweights-collaborate-for-physical-ai/"
-        },
-        {
-          "title": "ASMLの好調な受注が証明、AIチップ需要の減速懸念を払拭",
-          "source_url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/"
-        },
-        {
-          "title": "QuEra、量子コンピューターのレーザー調整をAIで自動化",
-          "source_url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers"
-        }
-      ]
-    },
-    {
       "date": "2026-10-16",
       "stories": [
         {
@@ -934,6 +893,67 @@
         {
           "title": "AIチップ需要の高まりでSKハイニックスが2029年までメモリ完売",
           "source_url": "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "stories": [
+        {
+          "title": "【続報】Anthropicのプロフェッショナル向けAIエージェント「Claude Duet」が発表",
+          "source_url": "https://fig.blue/posts/duet-is-the-future/"
+        },
+        {
+          "title": "【続報】Anthropic、Claudeの学習データにスタンフォード大学教授の書籍を無断使用したとして訴訟に",
+          "source_url": "https://gigazine.net/news/20261029-anthropic-stanford-professors/"
+        },
+        {
+          "title": "【続報】AIエージェントの監視とリアルタイム行動追跡の緊急性",
+          "source_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+        },
+        {
+          "title": "【続報】Googleの次世代フロンティアAIモデル「Gemini 4 Carbon」がサイバーセキュリティベンチマークで首位に",
+          "source_url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html"
+        },
+        {
+          "title": "Mistral AI、大規模言語モデル「Mistral Large 4」のオープンウェイト版を公開",
+          "source_url": "https://mistral.ai/news/mistral-large-4-oss/"
+        },
+        {
+          "title": "【続報】PHPの重大脆弱性「PHP2Shell」が政府サーバーを含む25台のサーバーに悪用される",
+          "source_url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers"
+        },
+        {
+          "title": "【続報】UEFIファームウェアのコード実行脆弱性、大半のサーバーに影響",
+          "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+        },
+        {
+          "title": "【続報】GitHub Copilot Fusionが一般提供開始、AIモデルの自動ルーティング・オーケストレーションを実現",
+          "source_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion"
+        },
+        {
+          "title": "【続報】GitHub EnterpriseにCopilotが標準搭載、セキュリティ拡張機能も提供",
+          "source_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot"
+        },
+        {
+          "title": "AI需要がPCメーカーのPCB不足を招き、2030年まで受注が埋まる",
+          "source_url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x"
+        },
+        {
+          "title": "【続報】Apple、有機ELディスプレイ搭載の新型「iPad mini」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2152379.html"
+        },
+        {
+          "title": "【続報】Microsoft、コスト削減のため全世界で最大6万人の希望退職を実施へ",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "ロボット・モニターアーム「CyboPal ONE」が音声アシスタントとAIで自動調整",
+          "source_url": "https://www.gizmodo.jp/article/cybopal-one-robot-monitor-arm/"
+        },
+        {
+          "title": "【続報】Oracle CloudがGoogle TPUを導入、2027年からサービス提供開始",
+          "source_url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html"
         }
       ]
     }
