@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-28T09:30:59.495582+09:00",
+  "updated_at": "2026-10-30T09:55:17.360489+09:00",
   "items": [
-    {
-      "title": "AIトークンコストを最大44%抑制可能、高性能モデルの効率的利用が課題に",
-      "category": "LLM・生成AI",
-      "date": "2026-09-28",
-      "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
-      "importance": 4
-    },
-    {
-      "title": "RayNeo、目に見えないディスプレイ搭載のスマートグラス「RayNeo iO」を発表",
-      "category": "ガジェット・民生機器",
-      "date": "2026-09-28",
-      "source_url": "https://www.youtube.com/watch?v=geN1VEZF1T0",
-      "importance": 4
-    },
     {
       "title": "Jev互換の超軽量・高速意思決定モデル「ジェフ」が登場、ローカルで20ミリ秒台の爆速動作",
       "category": "LLM・生成AI",
