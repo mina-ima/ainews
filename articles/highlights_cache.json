@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-17",
-      "stories": [
-        {
-          "title": "パープレキシティ、AIエージェントの暴走を防ぐオープンソース・サンドボックス「SPACE」を公開",
-          "source_url": "https://gigazine.net/news/20261016-perplexity-space/"
-        },
-        {
-          "title": "テンセント、長期記憶の抽出・保存でClaude Opus 5超えをうたう特化型モデル「Hy-Memory-30B」を無償公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2148974.html"
-        },
-        {
-          "title": "インド政府、露出したクレデンシャルを狙う「不正AIエージェント」の国内被害を報告",
-          "source_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-        },
-        {
-          "title": "オープンAIの研究用AIエージェント、資金不足を解決するため無断でテストネットETHを消費してスマートコントラクトを配備",
-          "source_url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html"
-        },
-        {
-          "title": "超高速意思決定モデル「ジェフ」や「Decisions API」の台頭で、セキュリティ運用（SOC）の自動化が急速に進展",
-          "source_url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
-        },
-        {
-          "title": "ドウシシャ、1980年代の大型ラジカセを最新技術で甦らせた「SCR-B10」を発表、8スピーカー＆Wカセット搭載",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2148761.html"
-        },
-        {
-          "title": "フェアフォン、接着剤を極力排してバッテリー交換を容易にした完全ワイヤレスイヤホン「Fairbuds 2」を発表",
-          "source_url": "https://hackaday.com/2026/10/16/fairbuds-2-teardown-shows-little-glue-easy-battery-swap/"
-        },
-        {
-          "title": "エレコム、W数や転送速度など複雑怪奇なスペックがひと目でわかる親切なUSB-Cケーブルを投入",
-          "source_url": "https://www.gizmodo.jp/article/elecom-usb-cable-hbt/"
-        },
-        {
-          "title": "ポラール、画面を廃して運動中のズレと装着感を極めたヘルスケアバンド「POLAR Loop」新モデルを発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148445.html"
-        },
-        {
-          "title": "【続報】国際度量衡総会、通信やITシステムの障害原因となってきた「うるう秒」の2027年5月廃止を正式決議",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002343/"
-        },
-        {
-          "title": "マイクロソフト、社内エンジニア数万人に「Claude Code」や「Copilot CLI」を配備した生産性分析を公開",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/16/2000002277/"
-        },
-        {
-          "title": "PostgreSQL 19、AIコードレビューが「人間が修正しきれないほど大量のバグ」を発見しリリース延期へ",
-          "source_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
-        },
-        {
-          "title": "オープンソースの基板設計CAD「KiCad 10」向けAI自動配線・設計アシスタント「Konnect」が登場",
-          "source_url": "https://github.com/mixelpixx/Konnect"
-        },
-        {
-          "title": "カナダ最大のハッカソン、参加者全員に配る1,750枚の独自プログラマブルPCBバッジを自社設計・量産",
-          "source_url": "https://va3ndf.com/blog/hacker-badges/"
-        },
-        {
-          "title": "【続報】グーグル、次世代フロンティアモデル「ジェミニ 4 アルゴン」をロボティクス向けに展開",
-          "source_url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/"
-        },
-        {
-          "title": "拍動する心臓の内部へ正確に薬を届ける、極小のワイヤレス磁気ミリロボットが開発される",
-          "source_url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/"
-        },
-        {
-          "title": "加齢黄斑変性で失われた視力を回復する網膜インプラント「PRIMA」が臨床で成果",
-          "source_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
-        },
-        {
-          "title": "中国スタートアップ、国産の極端紫外線（EUV）露光光源プロトタイプをデモ展示",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability"
-        },
-        {
-          "title": "【続報】エヌビディアの次世代AIチップ「RTX Spark」搭載PCが世界で一斉発売、実機レビューが解禁",
-          "source_url": "https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models"
-        }
-      ]
-    },
-    {
       "date": "2026-10-18",
       "stories": [
         {
@@ -938,6 +857,35 @@
         {
           "title": "100%光伝送ネットワーク「IOWN」が東京〜台北間を17ミリ秒の超低遅延で接続実証",
           "source_url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "stories": [
+        {
+          "title": "【続報】オープンAIとアンスロピックが推論コストを最大80％大幅値下げ",
+          "source_url": ""
+        },
+        {
+          "title": "腸にヒントを得たバクテリアバイオバッテリー、8倍の発電量",
+          "source_url": "https://newatlas.com/energy/villi-small-intestine-inspired-microbial-fuel-cell/"
+        },
+        {
+          "title": "【続報】中国ハッカー集団、AI搭載ARTEXで世界200以上の組織を標的に",
+          "source_url": ""
+        },
+        {
+          "title": "【続報】シーメンス、AI製造ツールを試験導入しPCB検査準備と生産計画を効率化",
+          "source_url": ""
+        },
+        {
+          "title": "Google、宇宙空間に配置したTPU搭載衛星で小型LLM「Gemma 4」の軌道上動作に成功",
+          "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
+        },
+        {
+          "title": "【続報】ソニー小型空間再現ディスプレイ「ELF-MN1」に予想を大幅に上回る注文",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2152708.html"
         }
       ]
     }
