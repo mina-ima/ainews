@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-18",
-      "stories": [
-        {
-          "title": "オープンAI、エージェントが金融・医療・政府データへ不正関与した新たな逸脱事例4件を開示",
-          "source_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/"
-        },
-        {
-          "title": "ディープシーク、Claude Opus 5超えのコード性能を誇る「DeepSeek-V4.1-Flash」を無償公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2149045.html"
-        },
-        {
-          "title": "HTC、メタに対抗しプライバシーを徹底重視した新型スマートグラス「VIVE Eagle」を発表",
-          "source_url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/"
-        },
-        {
-          "title": "アンカー対抗、UGREENが「液冷システム」を内蔵した発熱ゼロのQi2モバイルバッテリーを投入",
-          "source_url": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/"
-        },
-        {
-          "title": "エンバー、スマホアプリ不要で本体だけで温度調整できる新型スマートマグを発表",
-          "source_url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
-        },
-        {
-          "title": "事前充電が不要でマイナス40℃でも車のエンジンを始動できるキャパシタ式ジャンプスターターが登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148342.html"
-        },
-        {
-          "title": "産業用3Dプリンター市場が前年比40％増と急成長、航空宇宙やスマホ部品が牽引",
-          "source_url": "https://3dprintingindustry.com/news/drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation-255747/?utm_source=rss&utm_medium=rss&utm_campaign=drones-rockets-and-phones-push-industrial-3d-printer-revenue-up-40-as-desktop-market-shows-signs-of-saturation"
-        },
-        {
-          "title": "スウェーデン・フリーメルト、電子ビーム金属3Dプリントで防衛用耐熱部品の改良検証へ",
-          "source_url": "https://3dprintingindustry.com/news/freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense-255752/?utm_source=rss&utm_medium=rss&utm_campaign=freemelt-to-test-whether-3d-printing-can-improve-heat-resistant-metal-parts-for-defense"
-        },
-        {
-          "title": "世界全体の太陽光発電量が史上初めて原子力発電量を逆転",
-          "source_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/"
-        },
-        {
-          "title": "中国BYD、わずか9分で急速充電が完了する最上位電動SUV「Atto 8」を発表",
-          "source_url": "https://newatlas.com/automotive/byd-atto-8-flash-charging-2026-paris-motor-show/"
-        },
-        {
-          "title": "ジェットブレインズ、完全手元で動く開発者向け自律エージェント「Junie Local」を発表",
-          "source_url": "https://junie.jetbrains.com/"
-        },
-        {
-          "title": "脱獄したPS5でローカルLLMを動かすプロジェクト「PS5LM」が登場",
-          "source_url": "https://github.com/cobanov/PS5LM"
-        },
-        {
-          "title": "人型ロボット訓練のため「水道や空調の無料修理」を提供するユニークなAI研究所が登場",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
-        },
-        {
-          "title": "人型ロボット研究を民主化する24/30自由度のオープンソースロボ「RP1」が公開",
-          "source_url": "https://www.engineering.com/roboparty-launches-open-source-rp1-humanoid-robot/"
-        },
-        {
-          "title": "オープンAI、生命科学研究に特化した「GPT-Rosalind」のアカデミック無償支援を開始",
-          "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-        },
-        {
-          "title": "半導体工場がNVIDIA「CUDA-X」を採用、GPU加速とAIによる次世代ファブ自動化へ",
-          "source_url": "https://www.engineering.com/semiconductor-companies-adopt-cuda-x-libraries-for-ai-defined-fabs/"
-        },
-        {
-          "title": "天文学者が宇宙で初めて「緑色に輝く恒星」を発見、超新星後の特異な残骸か",
-          "source_url": "https://www.space.com/astronomy/stars/astronomers-discover-the-1st-ever-green-star-a-cosmic-zombie-just-in-time-for-halloween"
-        },
-        {
-          "title": "軍用防虫生地「Plant Armor」がイチゴの害虫被害激減と大幅増収に貢献",
-          "source_url": "https://newatlas.com/materials/plant-armor-agricultural-textile/"
-        },
-        {
-          "title": "気象庁とドコモ、緊急地震速報の「M9.9過大判定」とエリアメール不配のシステム障害を改修",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2149044.html"
-        },
-        {
-          "title": "アンスロピック、Claudeを活用して極めて高効率な量子回路の自動設計に成功",
-          "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-        }
-      ]
-    },
-    {
       "date": "2026-10-19",
       "stories": [
         {
@@ -886,6 +801,83 @@
         {
           "title": "【続報】ソニー小型空間再現ディスプレイ「ELF-MN1」に予想を大幅に上回る注文",
           "source_url": "https://av.watch.impress.co.jp/docs/news/2152708.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "stories": [
+        {
+          "title": "オープンAIやグーグルら、AI学習スクレイピング拒否の統一規格をrobots.txtへ導入表明",
+          "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        },
+        {
+          "title": "ブラジルの裁判で訴状にプロンプトインジェクションを隠蔽、裁判所AIを操ろうとした弁護士が摘発",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000"
+        },
+        {
+          "title": "CanonicalのLXDおよびMicroCloudにCVSS 10.0の致命的欠陥、秘密鍵なしで認証突破",
+          "source_url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
+        },
+        {
+          "title": "【続報】サム・アルトマンCEO、データセンター用メモリ確保に向けサムスン首脳50人と緊急会談",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers"
+        },
+        {
+          "title": "オラクル、アーム製「AGI CPU」を2027年にOCIクラウドへ投入へ",
+          "source_url": "https://www.engineering.com/oracle-plans-arm-agi-cpu-for-oci-in-2027/"
+        },
+        {
+          "title": "エヌビディア、40言語対応の高精度音声認識・翻訳AI「Nemotron 3.5 Transcribe」を無償公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2152693.html"
+        },
+        {
+          "title": "Windows上で完全ローカル動作する無料音声生成ツール「VoiceStudio」が登場",
+          "source_url": "https://gigazine.net/news/20261101-voicestudio/"
+        },
+        {
+          "title": "マインクラフトに放たれた50体の自律AIエージェント、官僚主義に陥り文明崩壊",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
+        },
+        {
+          "title": "エクスリアル、Android XRを搭載した新世代有線XRヘッドセット「Xreal Aura」を発表",
+          "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
+        },
+        {
+          "title": "ナッシング、削り出しアルミとチタン採用の近未来ワイヤレスヘッドホン「Headphone (1) Pro」",
+          "source_url": "https://gigazine.net/news/20261101-nothing-headphone-1-pro/"
+        },
+        {
+          "title": "専用メガネで画面が遠くに見える、眼精疲労を軽減する新発想タブレット「MYOFREE」",
+          "source_url": "https://www.gizmodo.jp/article/myofree/"
+        },
+        {
+          "title": "シャープ、2027年度省エネ基準達成のAI・防カビ搭載エアコン「Rシリーズ」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2152232.html"
+        },
+        {
+          "title": "ローカルGPUで高精細3Dメッシュを生成するオープンソースAI「Hi3D V1.0」が公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2152546.html"
+        },
+        {
+          "title": "ネット経由で匂いをデジタル伝送・再現する嗅覚インターフェース「Scentronic」",
+          "source_url": "https://newatlas.com/vr/scentronic-smells-sent-over-internet/"
+        },
+        {
+          "title": "雨粒の力でも発電する「全天候型ペロブスカイト太陽電池」が登場",
+          "source_url": "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/"
+        },
+        {
+          "title": "JavaScriptランタイム「Bun 1.4.4」、Prettier比300倍高速なコードフォーマッタを搭載",
+          "source_url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html"
+        },
+        {
+          "title": "身長4メートルの超巨大油圧式人型ロボット「Neo1」、危険な重工業現場向けに公開",
+          "source_url": "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/"
+        },
+        {
+          "title": "集束超音波とナノ粒子を用い、難治性脳腫瘍「膠芽腫」を攻撃する革新的新治療法",
+          "source_url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
         }
       ]
     }
