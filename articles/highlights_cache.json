@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-19",
-      "stories": [
-        {
-          "title": "【続報】ディズニー、経営破綻したキャラクターAI（Character.ai）の大半の従業員を雇用へ",
-          "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-        },
-        {
-          "title": "「11回拒絶しても本番DBを削除」AIエージェントの暴走事例と人間の承認の限界が浮き彫りに",
-          "source_url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html"
-        },
-        {
-          "title": "アンスロピック、AI安全規制の介入基準として「死者50人以上または10億ドルの損害」を提案",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
-        },
-        {
-          "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
-          "source_url": "https://arxiv.org/abs/2610.18861"
-        },
-        {
-          "title": "サムスン、Android XR搭載の次世代スマートグラスの仕様がリーク、わずか41gの超軽量設計",
-          "source_url": "https://www.gizmodo.jp/article/samsung-smart-glasses-leaked-specs/"
-        },
-        {
-          "title": "寝返りや横持ちゲーム時の断線を防ぐ回転式USB-Cアダプター「二子玉川ロータリー」が登場",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2148882.html"
-        },
-        {
-          "title": "ピンマイクが瞬時に手持ちマイクに変身、エルガトが2Wayワイヤレスマイク「Wave Go」を発表",
-          "source_url": "https://www.gizmodo.jp/article/elgato-wave-go/"
-        },
-        {
-          "title": "ヤシカ、1950年代の極小名機を手のひらサイズで復刻した超小型カメラ「Y16」を正式発表",
-          "source_url": "https://www.dpreview.com/news/yashica-y16-official-announcement-specs/"
-        },
-        {
-          "title": "オランダの動物園、クチバシを失ったジサイチョウへ世界初の3Dプリント製人工義嘴を移植",
-          "source_url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo"
-        },
-        {
-          "title": "ホンダ、走行中のEVへ道路から給電するインロード型ワイヤレス給電システムを開発",
-          "source_url": "https://newatlas.com/automotive/honda-wireless-electric-vehicle-charging/"
-        },
-        {
-          "title": "JavaScriptランタイム「Bun 1.4.3」公開、TypeScript公式より3倍高速なGo製型チェッカーを搭載",
-          "source_url": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html"
-        },
-        {
-          "title": "高速通信規格PCIeリタイマーの伝送限界を解き明かす半導体・基板実装の設計指針が公開",
-          "source_url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/"
-        },
-        {
-          "title": "遺伝的アルゴリズムを用いてアナログRC回路を自動生成・最適化する実験が公開",
-          "source_url": "https://hackaday.com/2026/10/18/evolving-rc-circuits/"
-        },
-        {
-          "title": "塩味を70%増強するキノコ由来ペプチドを発見、味を落とさず大幅減塩が可能に",
-          "source_url": "https://newatlas.com/diet-nutrition/mushroom-peptides-no-extra-salt/"
-        },
-        {
-          "title": "米空軍F-22戦闘機、模擬戦でアンドゥリル製自律型ドローン「Fury」の空中指揮に成功",
-          "source_url": "https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons"
-        },
-        {
-          "title": "JAXAの火星衛星探査計画に向け、わずか15gの超小型フォボス探査ローバーが開発",
-          "source_url": "https://hackaday.com/2026/10/18/the-new-phobos-martian-moon-rover-that-weighs-in-at-only-15-grams/"
-        },
-        {
-          "title": "テキサスA&M大学、グミ状ゲル「サロゲル」で建物の室温を自律調節し空調電力を削減",
-          "source_url": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/"
-        },
-        {
-          "title": "通常の室内白色光で病原菌やウイルスを60分で無害化する抗菌コットンが開発",
-          "source_url": "https://newatlas.com/materials/antimicrobial-cotton-viruses-white-light/"
-        },
-        {
-          "title": "自律AIエージェントによるスクレイピング急増を受け、Webサイトがアクセス遮断へ動く",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
-        },
-        {
-          "title": "グーグル、OAuthに「DPoP」を導入しリフレッシュトークン窃取による不正アクセスを遮断",
-          "source_url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-20",
       "stories": [
         {
@@ -878,6 +793,91 @@
         {
           "title": "集束超音波とナノ粒子を用い、難治性脳腫瘍「膠芽腫」を攻撃する革新的新治療法",
           "source_url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "stories": [
+        {
+          "title": "Momentic、アプリ利用でバグを自動検出するAIエージェントを発表",
+          "source_url": "https://momentic.ai/"
+        },
+        {
+          "title": "日新技研、大規模言語モデルを活用し過去の技術文書をAIで検索・活用するシステムを構築",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03783/102000004/"
+        },
+        {
+          "title": "42AI、人間行動を予測する世界モデルを開発し6250万ドルを調達",
+          "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+        },
+        {
+          "title": "New York TimesらがBraveブラウザをAIスクレイピングとペイウォール回避で提訴",
+          "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+        },
+        {
+          "title": "南アフリカ、最高性能の国産AIモデル開発を目標に掲げ予算投入",
+          "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+        },
+        {
+          "title": "【続報】Anthropic、IPOに向けたAI支出コミットメントを公開",
+          "source_url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
+        },
+        {
+          "title": "【続報】AnthropicのClaude、有料プラン「Max 20x」を「Ultra」に改称し利用制限を撤廃",
+          "source_url": ""
+        },
+        {
+          "title": "【続報】Google、次世代フロンティアモデル「Gemini 4 Argon」を発表",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        },
+        {
+          "title": "【続報】OpenAI、データセンターの電力安定化プログラム「Grid Protectors Program」を発表",
+          "source_url": "https://openai.com/index/grid-protectors-program"
+        },
+        {
+          "title": "【続報】Apple、タッチスクリーン搭載MacBook Proの価格を発表",
+          "source_url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
+        },
+        {
+          "title": "【続報】XREAL、Android XR搭載の空間コンピューティングARグラス「XREAL AURA」を国内発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2153244.html"
+        },
+        {
+          "title": "Ninja、電子レンジとエアフライヤーを兼ねる初の複合型レンジを発表",
+          "source_url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
+        },
+        {
+          "title": "XREAL、輝度向上と60fps 3D変換対応のARグラス新フラッグシップ「1 Pro+」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2153175.html"
+        },
+        {
+          "title": "Casio、誰でも簡単に演奏できる「Feel Sync」技術搭載キーボードを発表",
+          "source_url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/"
+        },
+        {
+          "title": "GKN Aerospace、レーザーワイヤDEDのNadcap認証を世界で初めて取得",
+          "source_url": "https://3dprintingindustry.com/news/first-in-the-world-gkn-aerospace-gets-nadcap-approval-for-laser-wire-ded-256135/?utm_source=rss&utm_medium=rss&utm_campaign=first-in-the-world-gkn-aerospace-gets-nadcap-approval-for-laser-wire-ded"
+        },
+        {
+          "title": "Google、Androidパートナーが構築した130万台規模のボットネットを解体",
+          "source_url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
+        },
+        {
+          "title": "【続報】GitHub Copilot Fusionが正式リリース、最適なAIモデルを自動選択",
+          "source_url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
+        },
+        {
+          "title": "Google、Android/iOSアプリへのQuick Share直接統合SDKを来年提供",
+          "source_url": "https://9to5google.com/2026/11/02/quick-share-sdk-apps/"
+        },
+        {
+          "title": "Marvell、Lumentumを1150億ドルで買収合意 - テック史上最大級の買収",
+          "source_url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+        },
+        {
+          "title": "NVIDIA、Blackwell GPUのHPC/AIワークロードベンチマークを公開",
+          "source_url": "https://arxiv.org/abs/2610.41919"
         }
       ]
     }
