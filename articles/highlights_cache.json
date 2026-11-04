@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-21",
-      "stories": [
-        {
-          "title": "メタ、会話共有リンクから社内機密や個人情報が露出したとして「Muse」の共有機能を緊急停止",
-          "source_url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
-        },
-        {
-          "title": "アンスロピックのClaude、サソリ神経毒を無力化する新規ペプチド結合剤の設計に成功",
-          "source_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
-        },
-        {
-          "title": "デジタル庁、政府職員18万人に自律型AIエージェント環境を展開へ 安全基準「源内基準」も策定",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/20/2000002428/"
-        },
-        {
-          "title": "ミストラルAI、センサーや金融データに対応する時系列特化の基盤モデル「Timestral」を発表",
-          "source_url": "https://mistral.ai/news/timestral/"
-        },
-        {
-          "title": "ナッシング、おサイフケータイ対応で約6万円の高コスパスマホ「Phone (4b)」を発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2149644.html"
-        },
-        {
-          "title": "ボーズ、耳を塞がないオープンイヤー型イヤホンの第2世代「Ultra Open Earbuds」を発売",
-          "source_url": "https://www.gizmodo.jp/article/bose-ultra-open-earbuds-2nd-gen-review/"
-        },
-        {
-          "title": "荷物の施錠と位置追跡が一体化、旅行防犯を1台でこなす「スマートタグ・ワイヤロック K05」",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149291.html"
-        },
-        {
-          "title": "室内の生活光で半永久駆動、充電不要でアートを飾れる48色カラー電子ペーパー額縁「Inkanva」",
-          "source_url": "https://newatlas.com/around-the-home/light-solar-epaper-screen-art-inkanva/"
-        },
-        {
-          "title": "IMDEAとUPM、直径半分に圧縮しても90％以上形状復元する3Dプリント製ニチノール・ステントを開発",
-          "source_url": "https://3dprintingindustry.com/news/woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking-255810/?utm_source=rss&utm_medium=rss&utm_campaign=woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking"
-        },
-        {
-          "title": "培養ヒト脳組織が点字を解読し四足歩行ロボットを遠隔誘導、生体ハイブリッド計算で新成果",
-          "source_url": "https://newatlas.com/technology/lab-brains-read-braille-direct-dog-biohybrid-computing/"
-        },
-        {
-          "title": "パナソニック、窓ガラスで発電する透明な「ペロブスカイト太陽電池」の本格量産を2029年に前倒し",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149677.html"
-        },
-        {
-          "title": "東芝、岩石に熱を蓄える次世代蓄熱システムの実証を製紙工場で開始 2027年度実用化へ",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12102/"
-        },
-        {
-          "title": "AIが生成する不要なコード肥大化を評価するベンチマーク「Parsimony」が登場",
-          "source_url": "https://gigazine.net/news/20261020-parsimony/"
-        },
-        {
-          "title": "グーグル、TPU向けPyTorchネイティブバックエンド「TorchTPU」をオープンソース公開",
-          "source_url": "https://github.com/google-pytorch/torch_tpu"
-        },
-        {
-          "title": "NTTや新光電気工業ら5社、次世代AI向け「光電融合デバイス」の量産技術開発を本格始動",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2149736.html"
-        },
-        {
-          "title": "オープンAI、創薬AI「Rosalind」の基盤強化に向けてバイオテック新興オーケストラ・バイオを買収",
-          "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
-        },
-        {
-          "title": "アストロラボ、月面探査車「FLIP」に史上初となる月面ローカル動作のLLMを搭載へ",
-          "source_url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/"
-        },
-        {
-          "title": "【続報】ハッカーによる偽造TLS証明書問題、認証局eMudhraの中間鍵8件が侵害と判明し業界が一斉無効化",
-          "source_url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
-        }
-      ]
-    },
-    {
       "date": "2026-10-22",
       "stories": [
         {
@@ -826,6 +749,67 @@
         {
           "title": "富士フイルム、AI時代のアーカイブ需要増大に対応して磁気テープ生産を5倍に増強",
           "source_url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "stories": [
+        {
+          "title": "OpenAI、コード生成ツール強化のため「Pierre Computer」を買収",
+          "source_url": "https://openai.com/index/openai-to-acquire-pierre/"
+        },
+        {
+          "title": "オープンAI、実務的な日常タスクのAI遂行能力を測る新ベンチマーク「LifeVal」を発表",
+          "source_url": "https://gigazine.net/news/20261104-openai-lifeval/"
+        },
+        {
+          "title": "バイナンスの63億ドル不正流出、偽の採用面接とAIツールの悪用が原因と判明",
+          "source_url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+        },
+        {
+          "title": "Google、出荷前のAndroid端末に犯罪用バックドアを仕掛けた中国メーカーとの取引を停止",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
+        },
+        {
+          "title": "洗濯機で丸洗いできるタッチ画面付き服の袖ディスプレイが開発",
+          "source_url": "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/"
+        },
+        {
+          "title": "AIジンバルで自ら投写方向を変えるJMGOのフラッグシッププロジェクタ「IRIS Ultra Max」",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2153438.html"
+        },
+        {
+          "title": "トレイラー接続でもRVのような快適性を実現する、大型ルーフテントが発表",
+          "source_url": "https://newatlas.com/tents/rv-giants-dual-room-roof-tent-makes-car-top-camping-more-like-rving/"
+        },
+        {
+          "title": "インターネット接続なしでAIも使えるオープンソースのオフライン知識検索ツール「Project NOMAD」",
+          "source_url": "https://gigazine.net/news/20261104-project-nomad/"
+        },
+        {
+          "title": "わずか800ドルのオープンソース製ルームスケールグリッパーロボット「Stringman」が登場",
+          "source_url": "https://neufangled.com/"
+        },
+        {
+          "title": "クアルコム、128GBメモリ搭載の150W AIアクセラレータカード「Cloud AI 100 Ultra」を投入",
+          "source_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
+        },
+        {
+          "title": "任天堂の主要ロムチップ供給元マクロニクス、AIデータセンター需要へのシフトでROM事業から撤退へ",
+          "source_url": "https://kotaku.com/nintendo-switch-cart-rom-physical-media-data-centers-manufacture-2000753293"
+        },
+        {
+          "title": "AMD、第4四半期にインテルを上回る売上高を予測し過去最高へ",
+          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
+        },
+        {
+          "title": "住友ゴムが挑んだ物理法則を覆す「低温で軟化」する究極のオールシーズンタイヤの秘密",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/110200046/"
+        },
+        {
+          "title": "ウクライナのスタートアップ、ロシア製ドローンのカメラ映像を逆手に取るポケット型ガジェットを開発",
+          "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
         }
       ]
     }

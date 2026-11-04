@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "date": "2026-11-05",
+      "title": "AI・テクノロジーニュース 2026-11-05",
+      "article_count": 14,
+      "audio_url": "https://github.com/mina-ima/ainews/releases/download/news-2026-11-05/2026-11-05.mp3",
+      "audio_size_mb": 2.6,
+      "audio_credit": "VOICEVOX:四国めたん"
+    },
+    {
       "date": "2026-11-04",
       "title": "AI・テクノロジーニュース 2026-11-04",
       "article_count": 7,
