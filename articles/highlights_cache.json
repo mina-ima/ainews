@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-22",
-      "stories": [
-        {
-          "title": "Anthropicがプロフェッショナル向けAIエージェント「Claude Duet」を発表",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
-        },
-        {
-          "title": "WalmartがAIエージェントによる自動購入を歓迎、Amazonとは対照的なアプローチ",
-          "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-        },
-        {
-          "title": "AMDとIntelが協力し、CPU向けPyTorch AI推論の単一コードパスを開発",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler"
-        },
-        {
-          "title": "ChatGPTにチャットロック機能が追加、PIN/生体認証で機密情報を保護",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2149977.html"
-        },
-        {
-          "title": "GoogleがApple CarPlay向けに会話型Geminiナビゲーションを導入",
-          "source_url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"
-        },
-        {
-          "title": "OpenAIのAIエージェントが安全監視システムを無効化し、虚偽報告",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
-        },
-        {
-          "title": "AIエージェントの行動がバグ修正後に予期せぬ変更をもたらすリスクが指摘",
-          "source_url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/"
-        },
-        {
-          "title": "AIが自ら構築したラップトップ向けコーディングモデル「Flint」が登場",
-          "source_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
-        },
-        {
-          "title": "Ouraが新しいフィットネス指標を追加、ワークアウトが身体に与える影響を詳細に可視化",
-          "source_url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/"
-        },
-        {
-          "title": "Honorが10,000mAh超バッテリーと240Hz OLED搭載のゲーミングスマホ・タブレットを発表",
-          "source_url": "https://9to5google.com/2026/10/21/honors-new-gaming-phone-tablet-have-10000-mah-batteries-fans-up-to-240hz-oled-display/"
-        },
-        {
-          "title": "Z世代の半数がAIの仕事への影響に不安を感じ、「前の時代に生まれたかった」と回答",
-          "source_url": "https://www.gizmodo.jp/article/half-of-gen-z-is-concerned-or-anxious-about-ais-impact-on-jobs-survey-dvy/"
-        },
-        {
-          "title": "デジタル庁が「神Excel」対策ツール「Harunobu」を公開、AI連携でデータ整備を支援",
-          "source_url": ""
-        },
-        {
-          "title": "ReactOSがNTFSインストールサポートを達成、Windows互換OS開発で大きな節目",
-          "source_url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
-        },
-        {
-          "title": "シーメンスがAI製造ツールを試験導入、PCB検査準備と生産計画を効率化",
-          "source_url": "https://www.engineering.com/siemens-tests-ai-manufacturing-tools-at-erlangen-plant/"
-        },
-        {
-          "title": "モーター1個で飛行・方向転換が可能な自作ドローンが登場",
-          "source_url": "https://gigazine.net/news/20261021-drone-with-one-motor/"
-        },
-        {
-          "title": "日立がGPU冷却用コールドプレートを開発、消費電力を約30％削減",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news067.html"
-        },
-        {
-          "title": "GoogleがNVIDIAの牙城を崩すべく、AIアプリ開発者向けツールで攻勢",
-          "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-        },
-        {
-          "title": "Intelが米アリゾナ州のFab 62を2028年末までに稼働開始、国内製造能力を強化",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2150134.html"
-        },
-        {
-          "title": "【続報】AIが発見したPHPの重大脆弱性「PHP2Shell」と広範な影響",
-          "source_url": "https://www.wiz.io/blog/php2shell-php-rce"
-        },
-        {
-          "title": "【続報】偽造TLS証明書問題、eMudhraの中間鍵が1バイトの脆弱な秘密鍵で侵害",
-          "source_url": "https://gigazine.net/news/20261022-emudhra-problem/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-23",
       "stories": [
         {
@@ -810,6 +725,91 @@
         {
           "title": "ウクライナのスタートアップ、ロシア製ドローンのカメラ映像を逆手に取るポケット型ガジェットを開発",
           "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "stories": [
+        {
+          "title": "グーグル、安価な小型分類器でモデルと推論深度を切り替えるトークン節約手法を公開",
+          "source_url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/"
+        },
+        {
+          "title": "オープンAI、エージェント開発における「トークン浪費」防止とモデル使い分けの鉄則を提示",
+          "source_url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/"
+        },
+        {
+          "title": "プリファード・ネットワークス、高精度な翻訳特化型LLM「PLaMo 3 Translate」をオープン公開",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/"
+        },
+        {
+          "title": "オープンAI、Linuxカーネルの特権昇格脆弱性948件を自律AIパイプラインで一挙に検証・修正",
+          "source_url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
+        },
+        {
+          "title": "アイナ、極小画面・ジョイスティック・マイクを搭載したAIエージェント操作用スマートリングを発表",
+          "source_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+        },
+        {
+          "title": "グルーヴエックス、家族型ロボット「LOVOT」のゴジラ特別仕様モデルを限定受注開始",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153799.html"
+        },
+        {
+          "title": "サンコー、発火リスクを大幅低減した実売3,980円の「PD対応半固体モバイルバッテリー」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2152153.html"
+        },
+        {
+          "title": "フェーズ3D、金属3Dプリンター向け次世代インプロセス「フリンジ検査」ハードウェアを発表",
+          "source_url": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing"
+        },
+        {
+          "title": "グアダラハラ大学、タッチ画面が操作できる3Dプリント義手用リサイクル導電フィラメントを開発",
+          "source_url": "https://3dprintingindustry.com/news/recycled-filament-lets-3d-printed-prosthetics-use-touchscreens-256132/?utm_source=rss&utm_medium=rss&utm_campaign=recycled-filament-lets-3d-printed-prosthetics-use-touchscreens"
+        },
+        {
+          "title": "タルトゥ大学ら、自身の「人工血液」から紫外線センサーを自己成長させる蛾型ロボットを開発",
+          "source_url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/"
+        },
+        {
+          "title": "米中間選挙に合わせて実施された住民投票で、AIデータセンター建設規制が46件可決",
+          "source_url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/"
+        },
+        {
+          "title": "ギットハブ、AIが作業履歴を振り返り知見を自律整理する「Copilot Dreaming」を発表",
+          "source_url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html"
+        },
+        {
+          "title": "シノブ・グループ、基板試作を即時手配できるオンラインPCBサービス「Synov-Proto」を発表",
+          "source_url": "https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/"
+        },
+        {
+          "title": "テクノダイナミックス、歳差運動を取り入れた新機構「同軸ローラーカム」減速機を考案",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/102500008/"
+        },
+        {
+          "title": "ボストン・ダイナミクス、荷降ろしを毎時1,000箱に高速化した「Stretch Gen 2」を公開",
+          "source_url": "https://www.engineering.com/boston-dynamics-unveils-upgraded-stretch-gen-2-robot/"
+        },
+        {
+          "title": "実験的遺伝子治療を受けた患者で難治性てんかんの発作が劇的に減少、Nature誌に報告",
+          "source_url": "https://www.nature.com/articles/d41586-026-03566-2"
+        },
+        {
+          "title": "アルテラ、広範な組込み市場をカバーする新FPGA・SoC「Agilex 2X」を発表",
+          "source_url": "https://www.altera.com/newsroom/agilex-2x"
+        },
+        {
+          "title": "インド政府、2年以内の独自GPU開発と国産RISC-Vプロセッサ商用化を宣言",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry"
+        },
+        {
+          "title": "唾液のミネラルを取り込んで歯のエナメル質を自律再生させる革新的ゲルが開発",
+          "source_url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm"
+        },
+        {
+          "title": "Bluetooth規格団体、通信速度を従来の約4倍（最大7.5Mbps）にする「Bluetooth HDT」を採択",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154146.html"
         }
       ]
     }
