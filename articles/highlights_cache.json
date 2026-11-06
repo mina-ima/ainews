@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-23",
-      "stories": [
-        {
-          "title": "オープンAI、判断専用API「Decisions API」の競合となる意思決定モデルを一般公開",
-          "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
-        },
-        {
-          "title": "アンスロピック、離席中も自律的にタスクを処理し続ける常時稼働型AI「Claude Duet」を発表",
-          "source_url": "https://claude.com/product/claude-duet"
-        },
-        {
-          "title": "【続報】PHPの重大脆弱性「PHP2Shell」が世界規模で猛威、OpenAIやCloudflareが影響確認・防御ツールを緊急公開",
-          "source_url": ""
-        },
-        {
-          "title": "1Password、AIエージェントがパスワードを直接見ずに代理ログインできる新機能を発売",
-          "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-        },
-        {
-          "title": "TSMC、サプライチェーンから中国製レアアース磁石の排除を要請",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations"
-        },
-        {
-          "title": "マイクロン、20年続けた「4F² DRAM」セルの研究開発を突如中止",
-          "source_url": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations"
-        },
-        {
-          "title": "【続報】認証局eMudhraの秘密鍵漏洩問題を受け、TLS証明書ビジネスからの全面撤退を正式発表",
-          "source_url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html"
-        },
-        {
-          "title": "PFU、HHKB生誕30周年を記念したアルミ削り出し筐体の300台限定モデル「HHKB Professional Elite」を発表",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2149954.html"
-        },
-        {
-          "title": "ASMR専用に特化した完全ワイヤレスイヤホン「ZE3000 ASMR for TINGLE」がクラウドファンディングに登場",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2150402.html"
-        },
-        {
-          "title": "エフィエント、3Dプリント製パーツで過酷環境に対応する金属プリンター用粉末を発表",
-          "source_url": "https://www.engineering.com/formlabs-introduces-nylon-11-pro-powder-for-fuse-sls-printers/"
-        },
-        {
-          "title": "エコフロー、3000Wh超の大容量で冷蔵庫を長期間稼働できるポータブル電源「DELTA 4」シリーズを発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2150125.html"
-        },
-        {
-          "title": "アジリティ・ロボティクス、人型ロボット「Digit 5」の大幅刷新モデルを公開",
-          "source_url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign"
-        },
-        {
-          "title": "マイクロソフト、医療用AIが難症例で一般医師を上回る診断精度を達成したと発表",
-          "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-        },
-        {
-          "title": "ソニーセミコンダクタ、医療用で業界初となる5mデジタル伝送対応の1mm角使い捨て内視鏡センサーを発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2149864.html"
-        }
-      ]
-    },
-    {
       "date": "2026-10-26",
       "stories": [
         {
@@ -810,6 +749,51 @@
         {
           "title": "Bluetooth規格団体、通信速度を従来の約4倍（最大7.5Mbps）にする「Bluetooth HDT」を採択",
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154146.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "stories": [
+        {
+          "title": "OpenAI、セキュリティ研究向け特化型AI「GPT-6 Cyber」を発表",
+          "source_url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
+        },
+        {
+          "title": "グーグル、会話ベースで動画編集が可能な「Gemini Omni 1.2 Flash」を公開",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+        },
+        {
+          "title": "Meta、表情豊かなアバターと音声対話ができるAIエージェント「Muse」の新機能を発表",
+          "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+        },
+        {
+          "title": "ファーウェイ、ANCとLDACに対応しながら8,000円台を実現した完全ワイヤレスイヤフォン「FreeBuds SE 5 MAX」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2154261.html"
+        },
+        {
+          "title": "日本エイサー、上下2画面を1台で実現する折りたたみ式デュアルモニターを発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2154354.html"
+        },
+        {
+          "title": "中国・中台研究チーム、金属3Dプリンティングで「1メートルのチタン単結晶」の作製に成功",
+          "source_url": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/?utm_source=rss&utm_medium=rss&utm_campaign=pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals"
+        },
+        {
+          "title": "AIエージェントの安全なPOSIXランタイム「AegisKernel」が登場",
+          "source_url": "https://adikshatriyag-crypto.github.io/aegis-kernel/"
+        },
+        {
+          "title": "世界初、脈絡のない素材を組み合わせた3Dプリント「ミクロニードル付き透湿パッチ」が開発",
+          "source_url": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing"
+        },
+        {
+          "title": "グローバルファウンドリーズ、EUV不要で7nm級性能を実現する「FDX Fusion」技術の詳細を発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow"
+        },
+        {
+          "title": "コレステラーゼ細菌から着想を得た水中でも強固に接着するバイオ接着剤",
+          "source_url": "https://www.nature.com/articles/d41586-026-03630-x"
         }
       ]
     }
