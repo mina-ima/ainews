@@ -796,6 +796,87 @@
           "source_url": "https://www.nature.com/articles/d41586-026-03630-x"
         }
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "stories": [
+        {
+          "title": "軽量モデルが困難時のみClaude Opusを呼び出すハイブリッド判定手法、精度維持しつつ推論コストを75％削減",
+          "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution"
+        },
+        {
+          "title": "2D図面からフィーチャー履歴付き3D CADデータを自律生成するAIエージェント「Hacadly」が登場",
+          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html"
+        },
+        {
+          "title": "HPとハイペリオン（Hyperion）、超硬合金「炭化タングステン」の3Dプリント量産実用化に向け戦略提携",
+          "source_url": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/?utm_source=rss&utm_medium=rss&utm_campaign=hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet"
+        },
+        {
+          "title": "クロード・コード（Claude Code）の設定ファイルからパスワードやAPIキーが流出、公開GitHubに1,100件以上が露出",
+          "source_url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
+        },
+        {
+          "title": "OpenSSHにパスワードなしで侵入を許す脆弱性「SSHole」が発覚、公開後わずか数時間で攻撃が多発",
+          "source_url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+        },
+        {
+          "title": "マイクロソフト（Microsoft）「ペイント」にリモートコード実行の脆弱性、修正はMicrosoft Store経由でのみ配信",
+          "source_url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
+        },
+        {
+          "title": "オープンAI（OpenAI）、評価額1.25兆ドル（約190兆円）で追加110億ドルの巨額資金調達を実施",
+          "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
+          "title": "AI需要による世界的なメモリ高騰「RAMageddon」が直撃、オッポ（Oppo）が次期最上位スマホの開発を中止か",
+          "source_url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/"
+        },
+        {
+          "title": "ニトリ、猫じゃらしと爪とぎが一体化したペット向け空気清浄機「NR-201CAT」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153879.html"
+        },
+        {
+          "title": "周囲にあるスマートグラスを自動検知してプライバシー侵害を警告するオープンソースアプリ「Nearby Glasses」",
+          "source_url": "https://gigazine.net/news/20261107-nearby-glasses/"
+        },
+        {
+          "title": "電子レンジだけで食パン1枚のハーフホットサンドが手軽に焼ける「Toffy レンジウェル」が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153931.html"
+        },
+        {
+          "title": "電力と水資源の逼迫により、東南アジアにおけるAIデータセンターの建設計画に急ブレーキ",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
+        },
+        {
+          "title": "ディスコード（Discord）がElectronを廃止しRust製へ刷新、メモリ消費量を70％削減し起動待ち時間をゼロに",
+          "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+        },
+        {
+          "title": "デンソー（DENSO）、ベテラン技術者の暗黙知を引き出しPLC制御ソフトの検図をAIで自動化",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03783/102600006/"
+        },
+        {
+          "title": "人型（ヒューマノイド）ロボットが自宅を清掃代行する新サービスが米国で実証、生活支援の現場へ",
+          "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+        },
+        {
+          "title": "唾液で手軽に薬物血中濃度を検査できるペロペロキャンディ型医療センサー「Lollylab」が開発",
+          "source_url": "https://newatlas.com/good-thinking/lollylab-lollipop-medication-sensor/"
+        },
+        {
+          "title": "TSMC、エヌビディア（NVIDIA）からの「3D DRAM」製造要請を否定、メモリ不足緩和への先端技術は数年先か",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability"
+        },
+        {
+          "title": "シリコンウェハーに空気孔を開けるだけで平坦な紫外線集光ミラーに変換、小型光学系の革新へ",
+          "source_url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
+        },
+        {
+          "title": "NTTドコモの「5G SA」サービスで最大158万人に通信障害、交換機メモリ異常とDB更新の競合が原因と判明",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154545.html"
+        }
+      ]
     }
   ]
 }

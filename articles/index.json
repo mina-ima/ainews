@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "date": "2026-11-08",
+      "title": "AI・テクノロジーニュース 2026-11-08",
+      "article_count": 19,
+      "audio_url": "https://github.com/mina-ima/ainews/releases/download/news-2026-11-08/2026-11-08.mp3",
+      "audio_size_mb": 5.6,
+      "audio_credit": "Microsoft Edge TTS (Nanami)"
+    },
+    {
       "date": "2026-11-07",
       "title": "AI・テクノロジーニュース 2026-11-07",
       "article_count": 10,
