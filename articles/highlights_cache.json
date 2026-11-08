@@ -877,6 +877,43 @@
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154545.html"
         }
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "stories": [
+        {
+          "title": "エヌビディア、CEOジェンスン・フアン氏と中国人スパイに関する取締役会調査を発表",
+          "source_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "title": "オープンAI、評価額1.25兆ドルで追加110億ドルの巨額資金調達を実施",
+          "source_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
+        },
+        {
+          "title": "オープンソースAI「Ripple-65B Preview」、上位モデルを凌駕する性能を低コストで実現",
+          "source_url": "https://gigazine.net/news/20261108-ripple-65b-preview/"
+        },
+        {
+          "title": "【続報】Claude Codeの設定ファイル露出問題、1,100件以上のパスワードやAPIキーがGitHub上に流出",
+          "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+        },
+        {
+          "title": "ダイヤモンドファウンドリー、世界初の200mm単結晶ダイヤモンドウェハーを開発",
+          "source_url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
+        },
+        {
+          "title": "UGREEN「トランスミッター＆レシーバー」：古いオーディオ機器やテレビをワイヤレス化するBluetooth 6.0対応アダプター",
+          "source_url": "https://www.gizmodo.jp/article/312429-2611-amazon-ugreen-transmitter/"
+        },
+        {
+          "title": "アンスロピック、データセンター向けガス火力発電確保へ34億ドルの大型契約を締結",
+          "source_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
+        },
+        {
+          "title": "トヨタ自動車、中長期方針でロボティクス事業への参入を正式発表",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110600043/"
+        }
+      ]
     }
   ]
 }
