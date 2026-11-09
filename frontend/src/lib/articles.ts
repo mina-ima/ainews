@@ -18,9 +18,10 @@ const REPO = "mina-ima/ainews";
 const BRANCH = "main";
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/articles`;
 
-// ローカル開発時はファイルシステムから、Vercel上はGitHubから取得
+// ローカル開発時はファイルシステムから、Vercel上はGitHubから取得。
+// articles/ はデプロイ物にも含まれる（＝デプロイ時点の古い版）ので存在判定は使えない
 const ARTICLES_DIR = path.join(process.cwd(), "..", "articles");
-const isLocal = fs.existsSync(ARTICLES_DIR);
+const isLocal = !process.env.VERCEL;
 
 export async function getIndex(): Promise<IndexData> {
   if (isLocal) {
