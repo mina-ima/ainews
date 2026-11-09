@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-26",
-      "stories": [
-        {
-          "title": "オープンAIとアンスロピックが推論コストを最大80％大幅値下げ、AIエージェントの「トークン浪費」対策が本格化",
-          "source_url": "https://minimaxir.com/2026/10/cheap-llms/"
-        },
-        {
-          "title": "グーグル、TPU上でネイティブ動作する推論エンジン「vLLM」と「SGLang」を公開",
-          "source_url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/"
-        },
-        {
-          "title": "ギットハブ、Teams内で通知から即座にコードを自動生成・修正できるCopilot連携機能を発表",
-          "source_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams"
-        },
-        {
-          "title": "セレブラス、ウエハスケール巨大チップで「1兆パラメータ級」フロンティアAIの高速運用を実証",
-          "source_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-        },
-        {
-          "title": "エージェント通信規格「MCP」に企業向けゼロタッチ認可機能が登場、ID連携で安全接続を実現",
-          "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/"
-        },
-        {
-          "title": "ブロック、MacBook M4 Max上で完全ローカル動作する超リアルな音声対話モデル「Dessa」を公開",
-          "source_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
-        },
-        {
-          "title": "10年前の古典的画像CNNが最新フロンティアLLMを凌駕、皮膚がん診断精度で判明",
-          "source_url": "https://lynchlab.net/llm-skin-cancer"
-        },
-        {
-          "title": "米アポロのエコノミストが警鐘、「AI投資はテック業界以外に実質的な金銭的リターンをもたらしていない」",
-          "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
-        },
-        {
-          "title": "アップル初の折りたたみ機「iPhone Duo」で画面割れが相次ぐ、iFixit分解でヒンジ構造の課題が判明",
-          "source_url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
-        },
-        {
-          "title": "歩行や荷運びの負荷を大幅軽減、ゲーム着想の軽量エクソスケルトン「DNSYS Z1」が実用化",
-          "source_url": "https://www.gizmodo.jp/article/dnsys-z1-deathstranding2-omt/"
-        },
-        {
-          "title": "タニタとアラジンが共同開発、魚を完璧に焼き上げることに特化した異色のオーブントースターが登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/column/iikoto/2150825.html"
-        },
-        {
-          "title": "ガーミン、走行中の安全性を高める音声操作対応のGPSサイクルコンピューター「Edge 1060」を発表",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2150785.html"
-        },
-        {
-          "title": "3Dプリント人工筋肉で自律運動と環境発電を両立、英大学が次世代ソフトロボット技術を開発",
-          "source_url": "https://3dprintingindustry.com/news/robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles-255915/?utm_source=rss&utm_medium=rss&utm_campaign=robots-that-move-sense-and-harvest-energy-dmu-turns-to-3d-printed-muscles"
-        },
-        {
-          "title": "ピオポリー、レーザーオートレベリングを搭載した大型ペレット式3Dプリンター「Giga 800」を発売",
-          "source_url": "https://3dprintingindustry.com/news/peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer-255881/?utm_source=rss&utm_medium=rss&utm_campaign=peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer"
-        },
-        {
-          "title": "AIエージェントの多くがボット対策システム「hCaptcha」や「Turnstile」を容易に突破、調査で判明",
-          "source_url": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/"
-        },
-        {
-          "title": "LLMゲートウェイ「LiteLLM」のマスターキー流出、悪意あるPythonパッケージが配信される深刻被害",
-          "source_url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html"
-        },
-        {
-          "title": "長距離メッシュ無線「Meshtastic」を利用したカスタム基板によるペット追跡デバイスが登場",
-          "source_url": "https://hackaday.com/2026/10/25/meshtastic-pet-tracking/"
-        },
-        {
-          "title": "顔写真1枚からがん治療の生存率を高精度予測、4200万枚を学習したAIモデル「FaceAge」が登場",
-          "source_url": "https://newatlas.com/medical/photo-predict-cancer-treatment-faceage-facesurvival/"
-        },
-        {
-          "title": "英政府、AIによる生物兵器リスクに対処する世界初の「AIバイオセキュリティ研究所」に1億ポンド投資",
-          "source_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "米空軍とスペースX、軌道上から遭難者へ緊急支援物資を精密投下する「Starfall」の実証に成功",
-          "source_url": "https://newatlas.com/military/usaf-spacex-capsule-survival-kit-from-orbit/"
-        }
-      ]
-    },
-    {
       "date": "2026-10-27",
       "stories": [
         {
@@ -912,6 +827,83 @@
         {
           "title": "トヨタ自動車、中長期方針でロボティクス事業への参入を正式発表",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110600043/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "stories": [
+        {
+          "title": "【続報】エヌビディアのジェンスン・フアンCEO、中国スパイ疑惑をめぐり米議会公聴会へ召喚",
+          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-ceo-jensen-huang-summoned-to-congressional-committee-over-affair-with-alleged-chinese-spy-says-recent-reports-raise-concerns-over-security-protocols-and-ties-to-chinese-intelligence"
+        },
+        {
+          "title": "アンスロピック、最新フラッグシップAIモデル「Claude Fable 5.2」および「Mythos 5.2」を発表",
+          "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+        },
+        {
+          "title": "【深堀り】RustとWebGPUで構築されたオープンソースの軽量3Dモデラー「KetchUp」が登場",
+          "source_url": "https://ketchup3d.github.io/app/"
+        },
+        {
+          "title": "【続報】アンスロピック、データセンター向け1.7GWのガス発電設備確保に34億ドルを投入",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/anthropic-skips-six-year-waitlist-with-massive-usd3-4-billion-gas-turbine-generator-deal-firm-takes-over-onepwrs-orders-secures-1-7gw-of-capacity-to-power-ai-data-centers"
+        },
+        {
+          "title": "植物の光合成を阻害せず発電する農業特化型「マゼンタ太陽光パネル」が登場",
+          "source_url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/"
+        },
+        {
+          "title": "世界的なメモリ不足で中古スマホからDRAMを回収して再実装する「リボール」が急増",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/memory-shortage-spurs-smartphone-makers-to-melt-used-memory-off-old-devices-then-re-solder-it-onto-new-products-recycled-memory-to-keep-budget-phones-affordable-reballing-adoption-to-double-by-2027"
+        },
+        {
+          "title": "アンスロピック、電子回路設計におけるClaudeの自律設計・検証能力を実証",
+          "source_url": "https://www.anthropic.com/research/claude-electronics-design"
+        },
+        {
+          "title": "グーグル、独自次世代AI半導体「TPU 8tx」および「TPU 8i Max」を発表し脱GPUを加速",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2154906.html"
+        },
+        {
+          "title": "インフィニオン、業界の節目となる300mm（12インチ）SiCパワー半導体ウェハーを開発",
+          "source_url": "https://www.infineon.com/press-release/2026/infpr202611-028"
+        },
+        {
+          "title": "DeepX、5W未満で1000億パラメータLLMを推論可能な第2世代オンデバイスAIチップを発表",
+          "source_url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/"
+        },
+        {
+          "title": "オープンAI、ゲームボーイ互換機「Chromatic」との謎のコラボ動画を公開",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2154894.html"
+        },
+        {
+          "title": "Apple Watchのバンドに合体する極小AIボイスレコーダー「Memoket Gem」が登場",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html"
+        },
+        {
+          "title": "ソニー、「PlayStation Portal」にストレージ内蔵の新色ミッドナイトブラックを発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2154751.html"
+        },
+        {
+          "title": "SwitchBot、スマートキーと忘れ物防止が一体化した極薄カード「スマートトラッカーカード」を投入",
+          "source_url": "https://www.gizmodo.jp/article/296674-2611-switchbot-smart-lacquer-card-2/"
+        },
+        {
+          "title": "A4用紙1枚に2TBを記録できる肉眼不可視のナノQRコード技術が開発",
+          "source_url": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/"
+        },
+        {
+          "title": "睡眠トラッカー各社、ユーザーの脳波データを同意なくAI学習に流用していたことが発覚",
+          "source_url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested"
+        },
+        {
+          "title": "ニトリに不正アクセス、最大3,762万件の個人・法人顧客情報が流出した可能性",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/"
+        },
+        {
+          "title": "美団、卓上精密ピッキングを実現するビジョン・言語・行動（VLA）基底モデル「MR0」を公開",
+          "source_url": "https://arxiv.org/abs/2611.08577"
         }
       ]
     }
