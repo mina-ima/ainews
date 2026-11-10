@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-27",
-      "stories": [
-        {
-          "title": "アンスロピック、初の株式公開に向け米国SECにS-1を正式提出",
-          "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
-        },
-        {
-          "title": "ブロック、人間の会話音声のみで学習した全二重音声モデル「Dessa」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/"
-        },
-        {
-          "title": "アップル、薄さ5.4mmと有機ELディスプレイを採用した新型「iPad mini」を発表",
-          "source_url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/"
-        },
-        {
-          "title": "【続報】アップル、折りたたみスマホ「iPhone Duo」の画面割れ問題について公式に言及",
-          "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
-        },
-        {
-          "title": "【続報】PHPの重大脆弱性「PHP2Shell」やBrotli圧縮の欠陥を受け、業界全体で緊急パッチ適用が急務に",
-          "source_url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
-        },
-        {
-          "title": "日本HP、最大1兆パラメータに対応する大規模AI向けワークステーションを発表",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html"
-        },
-        {
-          "title": "マイクロソフト、コスト削減を目的に全世界で最大6万人の希望退職を実施へ",
-          "source_url": "https://www.reuters.com/technology/microsoft-is-offering-buyouts-around-60000-employees-business-insider-reports-2026-10-26/"
-        },
-        {
-          "title": "シマンテックやシーメンス、AIを活用したプリント基板（PCB）の自動検査ワークフローを開発",
-          "source_url": "https://www.engineering.com/siemens-nvidia-develop-ai-workflow-for-pcb-inspection/"
-        },
-        {
-          "title": "エヌビディア、AIインフラ上のエージェント実行に対して2,000ドルの年間ソフトウェア料を検討",
-          "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform"
-        },
-        {
-          "title": "中国研究チーム、24コア光ファイバーで秒間3.2ペタビットのリアルタイム通信の世界記録を達成",
-          "source_url": "https://www.tomshardware.com/networking/3-2-pb-s-real-time-optical-fiber-transfer-speed-world-record-claimed-by-chinese-team-speed-fast-enough-to-download-more-than-20-000-4k-movies-in-one-second"
-        }
-      ]
-    },
-    {
       "date": "2026-10-28",
       "stories": [
         {
@@ -904,6 +859,75 @@
         {
           "title": "美団、卓上精密ピッキングを実現するビジョン・言語・行動（VLA）基底モデル「MR0」を公開",
           "source_url": "https://arxiv.org/abs/2611.08577"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "stories": [
+        {
+          "title": "オービタル・マター、宇宙空間の無重力・真空中での3Dプリントに世界で初成功",
+          "source_url": "https://3dprintingindustry.com/news/orbital-matter-3d-prints-a-solar-array-boom-in-the-open-vacuum-of-space-256302/?utm_source=rss&utm_medium=rss&utm_campaign=orbital-matter-3d-prints-a-solar-array-boom-in-the-open-vacuum-of-space"
+        },
+        {
+          "title": "ノースウェスタン大学、高機能材料向け3Dプリント成形時間を1/4に縮小する「DIAL」法を開発",
+          "source_url": "https://3dprintingindustry.com/news/northwestern-unveils-new-3d-printing-method-dial-a-hybrid-method-for-functional-materials-256350/?utm_source=rss&utm_medium=rss&utm_campaign=northwestern-unveils-new-3d-printing-method-dial-a-hybrid-method-for-functional-materials"
+        },
+        {
+          "title": "AMD、Zen 6アーキテクチャ採用の第6世代EPYC「Venice」を出荷開始",
+          "source_url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast"
+        },
+        {
+          "title": "アドビ、PhotoshopやPremiereなど主要アプリの「MCP」対応を発表",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2155043.html"
+        },
+        {
+          "title": "ニューヨーク州でAI安全法が施行、大手AI開発企業に安全性登録と重大事案の報告を義務化",
+          "source_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+        },
+        {
+          "title": "グーグル、Kubernetes上でAIエージェントの集約率を10倍に高める「Agent Substrate」をオープンソース化",
+          "source_url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html"
+        },
+        {
+          "title": "グーグル、Android端末対応の純正スマートタグ「Pixel Tag」を正式発売",
+          "source_url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
+        },
+        {
+          "title": "オーラ、高解像度化と低価格を実現した10インチカラー電子ペーパー額縁を発表",
+          "source_url": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/"
+        },
+        {
+          "title": "ホース不要で1回約14円、ドウシシャが急速ふとん乾燥機「ふとんジェット」を発売",
+          "source_url": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/"
+        },
+        {
+          "title": "サンスター文具、レトロな見た目を忠実に再現した「カセットテープメジャー」第2弾を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2154891.html"
+        },
+        {
+          "title": "オープンソース推論エンジン「SGLang」に致命的脆弱性、NEAR AIのサーバーが侵入被害",
+          "source_url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html"
+        },
+        {
+          "title": "元Cyanogen創業者ら、ローカルAI実行に特化した次世代OS「KORA」を発表",
+          "source_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
+        },
+        {
+          "title": "プリント基板の落下・衝撃故障を実機試作前に仮想評価するシミュレーション技術が登場",
+          "source_url": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/"
+        },
+        {
+          "title": "グーグル・ディープマインド、実世界での器用さと安全性を強化した「Gemini Robotics 2.5」を発表",
+          "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+        },
+        {
+          "title": "既存の骨粗しょう症治療薬に認知症発症リスクを24%低下させる効果、12万人規模の調査で発覚",
+          "source_url": "https://www.sciencedaily.com/releases/2026/11/261108233037.htm"
+        },
+        {
+          "title": "JR東日本、超広帯域無線（UWB）を用いた「ウォークスルー改札」を2028年春より本格導入",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html"
         }
       ]
     }
