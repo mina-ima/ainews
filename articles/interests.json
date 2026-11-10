@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:17:47.777509+09:00",
+  "updated_at": "2026-11-11T08:02:55.207128+09:00",
   "items": [
     {
       "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
@@ -28,6 +28,97 @@
       "date": "2026-10-20",
       "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148346.html",
       "importance": 3
+    },
+    {
+      "title": "Meta、表情豊かなアバターと音声対話ができるAIエージェント「Muse」の新機能を発表",
+      "category": "AIプロダクト",
+      "date": "2026-11-07",
+      "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "importance": 4
+    },
+    {
+      "title": "コレステラーゼ細菌から着想を得た水中でも強固に接着するバイオ接着剤",
+      "category": "材料・ナノテク",
+      "date": "2026-11-07",
+      "source_url": "https://www.nature.com/articles/d41586-026-03630-x",
+      "importance": 4
+    },
+    {
+      "title": "軽量モデルが困難時のみClaude Opusを呼び出すハイブリッド判定手法、精度維持しつつ推論コストを75％削減",
+      "category": "LLM・生成AI",
+      "date": "2026-11-08",
+      "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "importance": 5
+    },
+    {
+      "title": "クロード・コード（Claude Code）の設定ファイルからパスワードやAPIキーが流出、公開GitHubに1,100件以上が露出",
+      "category": "セキュリティ",
+      "date": "2026-11-08",
+      "source_url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "importance": 5
+    },
+    {
+      "title": "マイクロソフト（Microsoft）「ペイント」にリモートコード実行の脆弱性、修正はMicrosoft Store経由でのみ配信",
+      "category": "セキュリティ",
+      "date": "2026-11-08",
+      "source_url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "importance": 3
+    },
+    {
+      "title": "電力と水資源の逼迫により、東南アジアにおけるAIデータセンターの建設計画に急ブレーキ",
+      "category": "エネルギー・環境技術",
+      "date": "2026-11-08",
+      "source_url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+      "importance": 4
+    },
+    {
+      "title": "ディスコード（Discord）がElectronを廃止しRust製へ刷新、メモリ消費量を70％削減し起動待ち時間をゼロに",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-11-08",
+      "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "importance": 4
+    },
+    {
+      "title": "シリコンウェハーに空気孔を開けるだけで平坦な紫外線集光ミラーに変換、小型光学系の革新へ",
+      "category": "材料・ナノテク",
+      "date": "2026-11-08",
+      "source_url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "importance": 4
+    },
+    {
+      "title": "オープンソースAI「Ripple-65B Preview」、上位モデルを凌駕する性能を低コストで実現",
+      "category": "LLM・生成AI",
+      "date": "2026-11-09",
+      "source_url": "https://gigazine.net/news/20261108-ripple-65b-preview/",
+      "importance": 4
+    },
+    {
+      "title": "アンスロピック、最新フラッグシップAIモデル「Claude Fable 5.2」および「Mythos 5.2」を発表",
+      "category": "LLM・生成AI",
+      "date": "2026-11-10",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "importance": 5
+    },
+    {
+      "title": "【深堀り】RustとWebGPUで構築されたオープンソースの軽量3Dモデラー「KetchUp」が登場",
+      "category": "3Dプリンティング・製造",
+      "date": "2026-11-10",
+      "source_url": "https://ketchup3d.github.io/app/",
+      "importance": 5
+    },
+    {
+      "title": "Apple Watchのバンドに合体する極小AIボイスレコーダー「Memoket Gem」が登場",
+      "category": "ガジェット・民生機器",
+      "date": "2026-11-10",
+      "source_url": "https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2154974.html",
+      "importance": 3
+    },
+    {
+      "title": "A4用紙1枚に2TBを記録できる肉眼不可視のナノQRコード技術が開発",
+      "category": "その他先端技術",
+      "date": "2026-11-10",
+      "source_url": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
+      "importance": 4
     }
   ]
 }
