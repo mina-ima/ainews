@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-28",
-      "stories": [
-        {
-          "title": "グーグル、音声対応とリアルタイム操作を実現した次世代世界モデル「Genie 4」を発表",
-          "source_url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
-        },
-        {
-          "title": "Anthropic、初の株式公開に向け米国SECにS-1を正式提出",
-          "source_url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
-        },
-        {
-          "title": "プリント基板の光通信製造を加速する「APC」が新規格群を発表",
-          "source_url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950"
-        },
-        {
-          "title": "警察がAIを活用した「不審な運転パターン」によるドライバーの取り締まりを開始し物議",
-          "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
-        },
-        {
-          "title": "アップル、M6チップ搭載の新型14インチ「MacBook Pro」を発表",
-          "source_url": ""
-        },
-        {
-          "title": "防衛装備品のアンルビル、クアルコムと提携し完全米国製の新型ノートPC「BlueChip」を投入",
-          "source_url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/"
-        },
-        {
-          "title": "アップル、M6チップ搭載でAI処理を5倍高速化した新型「iMac」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2151699.html"
-        },
-        {
-          "title": "【続報】アップル、折りたたみスマホ「iPhone Duo」の画面割れ問題について交換対応を表明",
-          "source_url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack"
-        }
-      ]
-    },
-    {
       "date": "2026-10-29",
       "stories": [
         {
@@ -928,6 +891,83 @@
         {
           "title": "JR東日本、超広帯域無線（UWB）を用いた「ウォークスルー改札」を2028年春より本格導入",
           "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "stories": [
+        {
+          "title": "【続報】メタの対話AIエージェント「Muse」、アップルウォッチやスマートウォッチに対応拡大",
+          "source_url": "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/"
+        },
+        {
+          "title": "グーグル・ディープマインド、Signalの暗号化基盤を自律検証する形式検証AI「AlphaProof Code」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "title": "アマゾン、社内AIをClaudeから自社製意思決定モデルに刷新し推論コストを98％削減",
+          "source_url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/"
+        },
+        {
+          "title": "スペースX、84層の超多層基板を採用した宇宙データセンター向けシステム「Kessel」を開発",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board"
+        },
+        {
+          "title": "シーメンス、プリント基板の信号・電源検証ツール「HyperLynx」に自律型AIエージェントを統合",
+          "source_url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/"
+        },
+        {
+          "title": "グーグル・ディープマインド、DNA変異と難治性疾患の関係を細胞レベルで解明する「AlphaGenome 2」を発表",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+        },
+        {
+          "title": "米国政府、AI悪用によるバイオテロを未然に防ぐため合成DNAの注文に新規制を導入",
+          "source_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
+        },
+        {
+          "title": "アマゾン傘下のリング、室内をAIで自動巡回する家庭用防犯ドローン「Ring Drone Cam」を正式発表",
+          "source_url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        },
+        {
+          "title": "PFU、アルミ削り出し筐体を採用した33万円の30周年記念キーボード「HHKB Professional Elite」を発売",
+          "source_url": "https://gigazine.net/news/20261111-hhkb-professional-elite-usage/"
+        },
+        {
+          "title": "バウヒュッテ、ベッドを遮光個室シアター化する「つっぱり式スクリーンスタンドセット」を発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2155532.html"
+        },
+        {
+          "title": "プルサ、電子機器製造ライン向けに静電気破壊を防ぐ炭素複合3Dプリント用フィラメントを発売",
+          "source_url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics"
+        },
+        {
+          "title": "タニオビス、1,050度超に耐えるニオブ合金製ロケットノズルのマルチレーザー3Dプリントに成功",
+          "source_url": "https://3dprintingindustry.com/news/taniobis-prints-crack-free-niobium-rocket-nozzles-on-four-laser-system-256357/?utm_source=rss&utm_medium=rss&utm_campaign=taniobis-prints-crack-free-niobium-rocket-nozzles-on-four-laser-system"
+        },
+        {
+          "title": "ソフトバンク、AIデータセンター向けガスタービンの仮予約を解約し約37億ドルの巨額損失を計上",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity"
+        },
+        {
+          "title": "xAIの自律開発エージェント「Grok Build」で作成されたアプリ3万5,000件が認証不備で公開状態に",
+          "source_url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
+        },
+        {
+          "title": "アマゾン・ウェブ・サービス、AIエージェントの安全な自律実行に向け軽量VM「AWS Nitro Sandboxes」を提供開始",
+          "source_url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+        },
+        {
+          "title": "ノルウェーのサーモン養殖場で3,500台のレーザー搭載自律潜水AIロボットが稼働、薬品不使用の駆除を実現",
+          "source_url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
+        },
+        {
+          "title": "北海道大学発スタートアップのレタラ、安全・高推力なハイブリッドロケットエンジンの実用化へ前進",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/103000041/"
+        },
+        {
+          "title": "IBM、次世代超電導量子プロセッサ「Quantum Nighthawk」を発表し1,000量子ビットへの道筋を示す",
+          "source_url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027"
         }
       ]
     }
