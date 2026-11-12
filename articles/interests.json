@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T08:02:55.207128+09:00",
+  "updated_at": "2026-11-13T08:45:41.202387+09:00",
   "items": [
     {
       "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
@@ -118,6 +118,13 @@
       "category": "その他先端技術",
       "date": "2026-11-10",
       "source_url": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
+      "importance": 4
+    },
+    {
+      "title": "グーグル、Kubernetes上でAIエージェントの集約率を10倍に高める「Agent Substrate」をオープンソース化",
+      "category": "LLM・生成AI",
+      "date": "2026-11-11",
+      "source_url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
       "importance": 4
     }
   ]
