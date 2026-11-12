@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-29",
-      "stories": [
-        {
-          "title": "【続報】Google、サイバーセキュリティを強化した次世代フロンティアモデル「Gemini 4 Carbon」を発表",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
-        },
-        {
-          "title": "Google、AIエージェント向けにGeminiとSearchのアプリ連携を拡大",
-          "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-        },
-        {
-          "title": "【続報】OpenAIとAnthropic、LLM推論コストを最大80%大幅値下げ",
-          "source_url": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/"
-        },
-        {
-          "title": "【続報】PHP2Shell脆弱性、AI悪用で政府機関も被害に直面し「Vulnpocalypse」の懸念",
-          "source_url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html"
-        },
-        {
-          "title": "UEFIファームウェアのコード実行脆弱性、地球上の大半のサーバーに影響",
-          "source_url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
-        },
-        {
-          "title": "【続報】認証局eMudhra、秘密鍵漏洩問題を受けTLS証明書事業から全面撤退",
-          "source_url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
-        },
-        {
-          "title": "LLMエージェントへのプロンプトインジェクション攻撃、Model Context Protocolを介して機密情報漏洩の可能性",
-          "source_url": "https://arxiv.org/abs/2610.36108"
-        },
-        {
-          "title": "AIエージェントがPCBをオンデマンド製造する工場「The Grid」が稼働開始",
-          "source_url": "https://www.circuithub.com/post/unveiling-the-grid"
-        },
-        {
-          "title": "【続報】Anthropic、Claudeを活用した筋ジストロフィー治療薬開発を加速",
-          "source_url": "https://www.anthropic.com/research/early-progress-drug-development"
-        },
-        {
-          "title": "【続報】Anthropic、IPOに向けたS-1を正式提出し「壊滅的リスク」を警告",
-          "source_url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "Google DeepMind、音声対応とリアルタイム操作を実現した次世代世界モデル「Genie 4」を発表",
-          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-        },
-        {
-          "title": "AI学習データ不足を補うため、閉鎖したスタートアップのデータが活用される",
-          "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
-        },
-        {
-          "title": "Anthropic、Claudeの学習データにスタンフォード大学教授の書籍を無断使用",
-          "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
-        },
-        {
-          "title": "Amazon、AI利用の生産性指標「トークンマキシング」を警告し、エンジニアに長期的な成果を重視するよう指示",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim"
-        },
-        {
-          "title": "【続報】Apple、M6チップ搭載のタッチスクリーンMacBook Proを発表",
-          "source_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
-        },
-        {
-          "title": "Amazon、Alexa+対応のスマートクロック「Echo Time」とスマートフォトフレームを発表",
-          "source_url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/"
-        },
-        {
-          "title": "ソニー、アニメキャラクターを机に飾れる5万円台の裸眼3Dディスプレイ「ELF-MN1」を発表",
-          "source_url": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/"
-        },
-        {
-          "title": "東芝、家庭用初の半導体発振技術を採用した電子レンジで加熱ムラを軽減",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2151532.html"
-        },
-        {
-          "title": "フィンランドのトゥルク大学、単一レイヤーで複数金属を3Dプリントする技術を開発",
-          "source_url": "https://3dprintingindustry.com/news/university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research-256002/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-turku-can-now-3d-print-different-metals-in-a-single-layer-for-fusion-and-aerospace-research"
-        },
-        {
-          "title": "AIチップ需要の高まりでSKハイニックスが2029年までメモリ完売",
-          "source_url": "https://www.pcmag.com/news/sk-hynix-major-memory-vendor-basically-sold-out-through-2029"
-        }
-      ]
-    },
-    {
       "date": "2026-10-30",
       "stories": [
         {
@@ -968,6 +883,71 @@
         {
           "title": "IBM、次世代超電導量子プロセッサ「Quantum Nighthawk」を発表し1,000量子ビットへの道筋を示す",
           "source_url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "stories": [
+        {
+          "title": "【続報】メタ（Meta）、対話AI「Muse」専用メールアドレス機能を開始し電子メール送受信・カレンダー調整の完全自動化へ",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/"
+        },
+        {
+          "title": "グーグル（Google）、処理速度と知能を大幅強化した新フラッグシップモデル「Gemini 4 Hydrogen」を発表",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "title": "スウェーデンの「EcoDataCenter」、木造構造と100%再エネを採用した環境調和型データセンターを公開",
+          "source_url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun"
+        },
+        {
+          "title": "「Notion AI」のチャットログ漏えい懸念が拡大、国内企業で会議内容や機密データの流出報告が相次ぐ",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/"
+        },
+        {
+          "title": "グーグル（Google）、就業時間外もAIがコード開発を継続する「Google Antigravity」のリモートエージェント機能を公開",
+          "source_url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html"
+        },
+        {
+          "title": "AWS、ローカルPC上で完全なAWS環境を再現・エミュレートする公式無料ツール「AWSエミュレータ」をリリース",
+          "source_url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html"
+        },
+        {
+          "title": "【続報】エヌビディア（NVIDIA）のジェンスン・フアンCEOが不倫・密輸疑惑を受け即時辞任、暫定CEOにコレット・クレスCFO",
+          "source_url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+        },
+        {
+          "title": "旭化成、AIと自動化実験装置を融合し材料開発プロセスを自律化する「スマートラボラトリー」を開設",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03462/"
+        },
+        {
+          "title": "反復・長期タスクにおけるAIコーディングエージェントのコード劣化を検証するベンチマーク「SlopCodeBench」が登場",
+          "source_url": "https://gigazine.net/news/20261112-slopcodebench/"
+        },
+        {
+          "title": "アンカー（Anker）、ミリ波レーダーで無入眠測定するスマート睡眠スピーカー「Anker SleepLab」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2156045.html"
+        },
+        {
+          "title": "松戸家、スマホをかざすと故人の声や映像が蘇るスマート位牌「想音（おもね）」を発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2155549.html"
+        },
+        {
+          "title": "ナッシング（Nothing）、画面を排した小型ポータブルAIボイスレコーダーのティザー画像を公開",
+          "source_url": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/"
+        },
+        {
+          "title": "BCN3D、AIパラメトリックデザインを内蔵しCADデータ不要で部品生成する産業用3Dプリンター「Aurora」を発表",
+          "source_url": ""
+        },
+        {
+          "title": "アルティウム（Altium）、防衛・安全規格に対応した高セキュリティなクラウド基板（PCB）設計プラットフォーム技術を検証",
+          "source_url": "https://www.engineering.com/what-secure-cloud-pcb-platforms-must-prove-to-engineering-teams/"
+        },
+        {
+          "title": "パナソニック、職人の暗黙知をAI・ロボットで自動化する「フィジカルAI」に250人体制で注力",
+          "source_url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html"
         }
       ]
     }
