@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-10-31",
-      "stories": [
-        {
-          "title": "オープンAIのサム・アルトマンCEO「RAMはPCよりデータセンターに配分すべき」と発言し波紋",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization"
-        },
-        {
-          "title": "バイナンスで史上最大規模となる63億ドルの暗号資産盗難被害が発生、北朝鮮ハッカー集団の関与浮上",
-          "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "title": "カーソル（Cursor）上のClaude Code拡張機能に悪質なバックドアが混入するサプライチェーン攻撃が発生",
-          "source_url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
-        },
-        {
-          "title": "村田製作所、AIサーバー需要に対応し積層セラミックコンデンサ（MLCC）生産等に5年間で約9,500億円を投資",
-          "source_url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-murata-to-invest-6.3bn-in-capacitor-production-for-ai-over-5-years"
-        },
-        {
-          "title": "グーグル、宇宙空間に配置したTPU搭載衛星で小型LLM「Gemma 4」の軌道上動作に成功",
-          "source_url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
-        },
-        {
-          "title": "インテル、量子ソフトウェア領域の強化に向けクラシック（Classiq）を23億ドルで買収合意",
-          "source_url": "https://www.reuters.com/technology/intel-buy-quantum-firm-classiq-about-23-billion-bloomberg-news-reports-2026-10-27/"
-        },
-        {
-          "title": "グーグル、LLMの継続的学習で知識保持率を高める「Sleep（睡眠）」フレームワークを発表",
-          "source_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/"
-        },
-        {
-          "title": "カメラとAIでネジ頭を自動判別し最適なビットを教えてくれる多機能電動ドライバーが登場",
-          "source_url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter"
-        },
-        {
-          "title": "AIがリアルタイムで炎の複雑な揺らめきをシミュレートする本物そっくりの「デジタルキャンドル」が登場",
-          "source_url": "https://gigazine.net/news/20261030-digital-candle/"
-        },
-        {
-          "title": "テスラ車が動く巨大モバイルバッテリーに、日本対応の給電アダプター（V2L）が正式発表",
-          "source_url": "https://www.gizmodo.jp/article/2610-tesla-v2l-adapter-japan/"
-        },
-        {
-          "title": "ニコン、米国防総省からトマホークミサイル製造向け大型金属3Dプリンターを受注",
-          "source_url": "https://3dprintingindustry.com/news/taller-printers-more-tomahawks-nikon-am-wins-department-of-war-contract-256066/?utm_source=rss&utm_medium=rss&utm_campaign=taller-printers-more-tomahawks-nikon-am-wins-department-of-war-contract"
-        },
-        {
-          "title": "名作FPS『DOOM』のゲームエンジン上でトランスフォーマー計算を実行する驚愕の実験「Doomformer」",
-          "source_url": "https://github.com/mottopanikeiku/doomformer"
-        },
-        {
-          "title": "ロボットの精緻作業に向け視覚・言語・行動に触覚を加えた「VTLAモデル」開発が加速",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/mag/nmc/18/00203/00004/"
-        },
-        {
-          "title": "骨再生用スキャフォールドの3Dプリント設計を12秒で自動生成するAI「ScaffoldForge」が開発",
-          "source_url": "https://3dprintingindustry.com/news/ai-model-designs-3d-printed-bone-scaffolds-in-12-seconds-256086/?utm_source=rss&utm_medium=rss&utm_campaign=ai-model-designs-3d-printed-bone-scaffolds-in-12-seconds"
-        },
-        {
-          "title": "キオクシア、AI需要の爆発により中間純利益2.2兆円を達成し上場後初の配当を実施",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html"
-        },
-        {
-          "title": "100%光伝送ネットワーク「IOWN」が東京〜台北間を17ミリ秒の超低遅延で接続実証",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html"
-        }
-      ]
-    },
-    {
       "date": "2026-11-01",
       "stories": [
         {
@@ -956,6 +887,91 @@
         {
           "title": "マイクロチップ（Microchip Technology）、毎秒800回の極小容量検知が可能なロボット触覚用デジタイザ「ATFCD52」を発表",
           "source_url": "https://www.engineering.com/microchip-introduces-tactile-sensing-digitizer-for-robotics/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "stories": [
+        {
+          "title": "【続報】OpenAIのChatGPT Wallet、AIエージェントによる自動決済機能を提供",
+          "source_url": ""
+        },
+        {
+          "title": "【続報】AIエージェントの安全な実行環境「AWS Nitro Sandboxes」提供開始",
+          "source_url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
+        },
+        {
+          "title": "【続報】Claude Meetings発表、AIがWeb会議の議事録作成・質問応答を自動化",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2156234.html"
+        },
+        {
+          "title": "【続報】AIによる天才数学者ゲーデルの未解読手記解析、数百の未公表定理を発見",
+          "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+        },
+        {
+          "title": "【続報】AIによる電子回路設計の自律検証、AnthropicがClaudeで実証",
+          "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323"
+        },
+        {
+          "title": "【続報】Claudeの誤動作によるデータ損失とAIエージェントの信頼性課題",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits"
+        },
+        {
+          "title": "【続報】Googleの次世代フラッグシップAIモデル「Gemini 4 Hydrogen」発表",
+          "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+        },
+        {
+          "title": "【続報】iPhone Duo、購入者の30%が返品か？海外メディアが衝撃データ公開",
+          "source_url": "https://internet.watch.impress.co.jp/docs/yajiuma/2156142.html"
+        },
+        {
+          "title": "【続報】AI×裸眼3Dディスプレイ、2D映像をリアルタイム3D変換",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/"
+        },
+        {
+          "title": "【続報】データセンターの排熱を活用したエビ養殖、NTT系が実証実験",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/"
+        },
+        {
+          "title": "【続報】Notion AIのチャットログ漏洩懸念、委託先問題とデータ非保持の課題",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/"
+        },
+        {
+          "title": "【続報】マネックス証券、不正アクセスで顧客情報113万件超漏洩の恐れ",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html"
+        },
+        {
+          "title": "【続報】Googleの社内コーディングAI「GfG」、Geminiと1兆トークン学習で開発効率半減",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/"
+        },
+        {
+          "title": "【続報】AIが作業履歴を振り返り知見を自律整理する「Copilot Dreaming」",
+          "source_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"
+        },
+        {
+          "title": "【続報】プリント基板の衝撃・落下故障を仮想評価するシミュレーション技術",
+          "source_url": "https://content.knowledgehub.wiley.com/shifting-reliability-left-guided-virtual-validation-for-electronics-shock-and-drop-testing/"
+        },
+        {
+          "title": "【続報】パナソニック、職人の暗黙知をAI・ロボットで自動化する「フィジカルAI」に注力",
+          "source_url": ""
+        },
+        {
+          "title": "【続報】Microchip、ロボット触覚用デジタイザ「ATFCD52」を発表",
+          "source_url": "https://www.engineering.com/microchip-introduces-tactile-sensing-digitizer-for-robotics/"
+        },
+        {
+          "title": "【続報】エヌビディアCEO辞任とAI半導体市場の激動",
+          "source_url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+        },
+        {
+          "title": "【続報】旭化成、AIと自動化で材料開発プロセスを自律化する「スマートラボラトリー」開設",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03462/"
+        },
+        {
+          "title": "【続報】米航空管制システム、フロッピーディスク時代から脱却",
+          "source_url": "https://newatlas.com/aircraft/us-air-traffic-control-system-farewell-floppy-disk/"
         }
       ]
     }
