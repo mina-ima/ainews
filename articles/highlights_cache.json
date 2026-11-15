@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-01",
-      "stories": [
-        {
-          "title": "【続報】オープンAIとアンスロピックが推論コストを最大80％大幅値下げ",
-          "source_url": ""
-        },
-        {
-          "title": "腸にヒントを得たバクテリアバイオバッテリー、8倍の発電量",
-          "source_url": "https://newatlas.com/energy/villi-small-intestine-inspired-microbial-fuel-cell/"
-        },
-        {
-          "title": "【続報】中国ハッカー集団、AI搭載ARTEXで世界200以上の組織を標的に",
-          "source_url": ""
-        },
-        {
-          "title": "【続報】シーメンス、AI製造ツールを試験導入しPCB検査準備と生産計画を効率化",
-          "source_url": ""
-        },
-        {
-          "title": "Google、宇宙空間に配置したTPU搭載衛星で小型LLM「Gemma 4」の軌道上動作に成功",
-          "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
-        },
-        {
-          "title": "【続報】ソニー小型空間再現ディスプレイ「ELF-MN1」に予想を大幅に上回る注文",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2152708.html"
-        }
-      ]
-    },
-    {
       "date": "2026-11-02",
       "stories": [
         {
@@ -972,6 +943,91 @@
         {
           "title": "【続報】米航空管制システム、フロッピーディスク時代から脱却",
           "source_url": "https://newatlas.com/aircraft/us-air-traffic-control-system-farewell-floppy-disk/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "stories": [
+        {
+          "title": "【深堀り】カーソル（Cursor）上の公式「Claude Code」拡張機能が乗っ取り被害、APIキー流出が発端",
+          "source_url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+        },
+        {
+          "title": "ノーコードAI開発ツール「Lovable」で構築されたアプリからパスポート画像や20万件超の個人通信が露出",
+          "source_url": "https://www.crissyfield.de/research/lovable-en/"
+        },
+        {
+          "title": "AMD製CPUの暗号化仮想マシン保護「SEV-SNP」を突破する新脆弱性「Mior」「Skyfall」が発覚",
+          "source_url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html"
+        },
+        {
+          "title": "【続報】エヌビディア（NVIDIA）のフアン前CEO復帰を求め15万人が署名、マスク氏ら賛同も米議会は追及強化",
+          "source_url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1"
+        },
+        {
+          "title": "米連邦地裁、サムスン・SKハイニックス・マイクロンに対するDRAM価格カルテル訴訟の継続を容認",
+          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge"
+        },
+        {
+          "title": "スペースX（SpaceX）、大型宇宙船「スターシップ」第15回飛行試験でタワーによる空中キャッチ回収に成功",
+          "source_url": "https://www.spacex.com/launches/starship-flight-15"
+        },
+        {
+          "title": "米ULAの新型ロケット「ヴァルカン」、アマゾンの衛星40基の打ち上げで初のミッション全損事故",
+          "source_url": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+        },
+        {
+          "title": "他のニューラルネットワークの「ブラックボックス」内部を可視化・診断するAIデバッグ技術が開発",
+          "source_url": "https://www.nature.com/articles/d41586-026-03679-8"
+        },
+        {
+          "title": "生成AIは英語以外の非英語言語処理で大幅に多くの電力を浪費する、ミシガン大学が報告",
+          "source_url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"
+        },
+        {
+          "title": "ソニー（SONY）、金メッキ無酸素銅切削シャーシを採用した65万円超の超弩級ウォークマン「NW-WM1ZM3」を発表",
+          "source_url": "https://gigazine.net/news/20261115-sony-nw-wm1zm3-wm1am3-zx900/"
+        },
+        {
+          "title": "インスタ360（Insta360）、カラー電子ペーパー画面と32bit float録音を備えたワイヤレスマイク「Insta360 Mic Pro」を投入",
+          "source_url": "https://gigazine.net/news/20261115-insta360-mic-pro-usage/"
+        },
+        {
+          "title": "日用品を表情豊かな電子ペットに変えて習慣化を促す極小AIガジェット「OATs」が登場",
+          "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+        },
+        {
+          "title": "サンワサプライ、本体液晶でバッテリー残量や接続状況をリアルタイム表示する静音マウス「MA-WBIRS550」を発売",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2156461.html"
+        },
+        {
+          "title": "積層段差を滑らかにするオープンソースの3軸曲面3Dスライサー「PancakeSlicer」が無償公開",
+          "source_url": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development"
+        },
+        {
+          "title": "平地でも建設可能な「山がいらない揚水発電」が登場、水より高密度な特殊流体で落差不足を克服",
+          "source_url": "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/"
+        },
+        {
+          "title": "クラウドフレア（Cloudflare）、AIエージェント操作に特化した超軽量ヘッドレスブラウザ「Kitesurf」をオープンソース公開",
+          "source_url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html"
+        },
+        {
+          "title": "オープンソースDB「PostgreSQL 19」のリリースが異例の延期、AIコードレビューの混乱が影響か",
+          "source_url": "https://www.publickey1.jp/blog/26/postgresql_194ai.html"
+        },
+        {
+          "title": "3ドルのArduinoとAIエージェントを連携させ、旧車ジープのECU電子制御基板を自律リバースエンジニアリング",
+          "source_url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+        },
+        {
+          "title": "猛禽類の飛翔に着想、上昇気流を羽の微細制御で捉えて長時間滞空する鳥型ロボット「Floaty」",
+          "source_url": "https://newatlas.com/drones/floaty-flying-robot-updrafts/"
+        },
+        {
+          "title": "アルツハイマー病は記憶喪失の最大10年前から脳萎縮が始まる、ジョンズ・ホプキンス大が解明",
+          "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
         }
       ]
     }
