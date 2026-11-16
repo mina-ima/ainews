@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-02",
-      "stories": [
-        {
-          "title": "オープンAIやグーグルら、AI学習スクレイピング拒否の統一規格をrobots.txtへ導入表明",
-          "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
-        },
-        {
-          "title": "ブラジルの裁判で訴状にプロンプトインジェクションを隠蔽、裁判所AIを操ろうとした弁護士が摘発",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000"
-        },
-        {
-          "title": "CanonicalのLXDおよびMicroCloudにCVSS 10.0の致命的欠陥、秘密鍵なしで認証突破",
-          "source_url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
-        },
-        {
-          "title": "【続報】サム・アルトマンCEO、データセンター用メモリ確保に向けサムスン首脳50人と緊急会談",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers"
-        },
-        {
-          "title": "オラクル、アーム製「AGI CPU」を2027年にOCIクラウドへ投入へ",
-          "source_url": "https://www.engineering.com/oracle-plans-arm-agi-cpu-for-oci-in-2027/"
-        },
-        {
-          "title": "エヌビディア、40言語対応の高精度音声認識・翻訳AI「Nemotron 3.5 Transcribe」を無償公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2152693.html"
-        },
-        {
-          "title": "Windows上で完全ローカル動作する無料音声生成ツール「VoiceStudio」が登場",
-          "source_url": "https://gigazine.net/news/20261101-voicestudio/"
-        },
-        {
-          "title": "マインクラフトに放たれた50体の自律AIエージェント、官僚主義に陥り文明崩壊",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
-        },
-        {
-          "title": "エクスリアル、Android XRを搭載した新世代有線XRヘッドセット「Xreal Aura」を発表",
-          "source_url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/"
-        },
-        {
-          "title": "ナッシング、削り出しアルミとチタン採用の近未来ワイヤレスヘッドホン「Headphone (1) Pro」",
-          "source_url": "https://gigazine.net/news/20261101-nothing-headphone-1-pro/"
-        },
-        {
-          "title": "専用メガネで画面が遠くに見える、眼精疲労を軽減する新発想タブレット「MYOFREE」",
-          "source_url": "https://www.gizmodo.jp/article/myofree/"
-        },
-        {
-          "title": "シャープ、2027年度省エネ基準達成のAI・防カビ搭載エアコン「Rシリーズ」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2152232.html"
-        },
-        {
-          "title": "ローカルGPUで高精細3Dメッシュを生成するオープンソースAI「Hi3D V1.0」が公開",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2152546.html"
-        },
-        {
-          "title": "ネット経由で匂いをデジタル伝送・再現する嗅覚インターフェース「Scentronic」",
-          "source_url": "https://newatlas.com/vr/scentronic-smells-sent-over-internet/"
-        },
-        {
-          "title": "雨粒の力でも発電する「全天候型ペロブスカイト太陽電池」が登場",
-          "source_url": "https://www.gizmodo.jp/article/2610-all-weather-perovskite-solar-cells/"
-        },
-        {
-          "title": "JavaScriptランタイム「Bun 1.4.4」、Prettier比300倍高速なコードフォーマッタを搭載",
-          "source_url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html"
-        },
-        {
-          "title": "身長4メートルの超巨大油圧式人型ロボット「Neo1」、危険な重工業現場向けに公開",
-          "source_url": "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/"
-        },
-        {
-          "title": "集束超音波とナノ粒子を用い、難治性脳腫瘍「膠芽腫」を攻撃する革新的新治療法",
-          "source_url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
-        }
-      ]
-    },
-    {
       "date": "2026-11-03",
       "stories": [
         {
@@ -1028,6 +951,87 @@
         {
           "title": "アルツハイマー病は記憶喪失の最大10年前から脳萎縮が始まる、ジョンズ・ホプキンス大が解明",
           "source_url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "stories": [
+        {
+          "title": "カリフォルニア州、OpenAIを提訴 - AIエージェントの安全対策不足を指摘",
+          "source_url": "https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf"
+        },
+        {
+          "title": "米国、AIチップの輸出規制を強化 - 中国企業によるリモートアクセスを阻止",
+          "source_url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+        },
+        {
+          "title": "【続報】AnthropicのClaude MythosがAMD GPUオンボーディング期間を大幅短縮",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat"
+        },
+        {
+          "title": "llama.cpp v1.0.0が初のメジャーリリース、ローカルAIエコシステムの基盤強化へ",
+          "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        },
+        {
+          "title": "Google、AIエージェントが悪用する自律型ハッキングフレームワークを初観測",
+          "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+        },
+        {
+          "title": "【続報】AIデータセンターの電力消費、一部の州の電力使用量に匹敵",
+          "source_url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"
+        },
+        {
+          "title": "【続報】NVIDIAジェンスン・フアンCEO退任と半導体業界への影響",
+          "source_url": ""
+        },
+        {
+          "title": "次世代半導体材料「酸化ガリウム」が電力ロス大幅低減でAI需要狙う",
+          "source_url": ""
+        },
+        {
+          "title": "Google、AI講座「Google AI プロフェッショナル認定証」を先着1万人に無料提供",
+          "source_url": ""
+        },
+        {
+          "title": "Jordan Belfort氏のAI音声スタートアップ「Tone」が営業AIを開発",
+          "source_url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/"
+        },
+        {
+          "title": "GoogleマップのAIチャットボットが旅行計画を自動作成、目的地間の推奨も",
+          "source_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+        },
+        {
+          "title": "iPhone Duoに顔認証機能が追加、既存ハードウェアで実現",
+          "source_url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
+        },
+        {
+          "title": "Teenage Engineering、ピッチコントロール付きCDプレーヤーを開発中か",
+          "source_url": "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/"
+        },
+        {
+          "title": "Samsung、Galaxy Studioヘッドホンがリーク - タッチコントロールと2色展開",
+          "source_url": "https://9to5google.com/2026/11/16/samsungs-galaxy-studio-headphones-leak-with-touch-controls-two-colors/"
+        },
+        {
+          "title": "Apple Watch Series 12がブラックフライデーで史上最安値に",
+          "source_url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"
+        },
+        {
+          "title": "太陽光発電所での羊放牧が経済・生態系に利益をもたらす",
+          "source_url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+        },
+        {
+          "title": "Microsoft、大規模メール障害の原因は7月の修正プログラムの欠陥と発表",
+          "source_url": ""
+        },
+        {
+          "title": "日清紡、両面実装可能なシリコンマザーボードを開発 - 実装面積を最大90%削減",
+          "source_url": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/"
+        },
+        {
+          "title": "ウェアラブル超音波パッチが薬や手術なしでREM睡眠を促進",
+          "source_url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
         }
       ]
     }
