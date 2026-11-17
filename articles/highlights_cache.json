@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-03",
-      "stories": [
-        {
-          "title": "Momentic、アプリ利用でバグを自動検出するAIエージェントを発表",
-          "source_url": "https://momentic.ai/"
-        },
-        {
-          "title": "日新技研、大規模言語モデルを活用し過去の技術文書をAIで検索・活用するシステムを構築",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03783/102000004/"
-        },
-        {
-          "title": "42AI、人間行動を予測する世界モデルを開発し6250万ドルを調達",
-          "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
-        },
-        {
-          "title": "New York TimesらがBraveブラウザをAIスクレイピングとペイウォール回避で提訴",
-          "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
-        },
-        {
-          "title": "南アフリカ、最高性能の国産AIモデル開発を目標に掲げ予算投入",
-          "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
-        },
-        {
-          "title": "【続報】Anthropic、IPOに向けたAI支出コミットメントを公開",
-          "source_url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f"
-        },
-        {
-          "title": "【続報】AnthropicのClaude、有料プラン「Max 20x」を「Ultra」に改称し利用制限を撤廃",
-          "source_url": ""
-        },
-        {
-          "title": "【続報】Google、次世代フロンティアモデル「Gemini 4 Argon」を発表",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-        },
-        {
-          "title": "【続報】OpenAI、データセンターの電力安定化プログラム「Grid Protectors Program」を発表",
-          "source_url": "https://openai.com/index/grid-protectors-program"
-        },
-        {
-          "title": "【続報】Apple、タッチスクリーン搭載MacBook Proの価格を発表",
-          "source_url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/"
-        },
-        {
-          "title": "【続報】XREAL、Android XR搭載の空間コンピューティングARグラス「XREAL AURA」を国内発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2153244.html"
-        },
-        {
-          "title": "Ninja、電子レンジとエアフライヤーを兼ねる初の複合型レンジを発表",
-          "source_url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/"
-        },
-        {
-          "title": "XREAL、輝度向上と60fps 3D変換対応のARグラス新フラッグシップ「1 Pro+」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2153175.html"
-        },
-        {
-          "title": "Casio、誰でも簡単に演奏できる「Feel Sync」技術搭載キーボードを発表",
-          "source_url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/"
-        },
-        {
-          "title": "GKN Aerospace、レーザーワイヤDEDのNadcap認証を世界で初めて取得",
-          "source_url": "https://3dprintingindustry.com/news/first-in-the-world-gkn-aerospace-gets-nadcap-approval-for-laser-wire-ded-256135/?utm_source=rss&utm_medium=rss&utm_campaign=first-in-the-world-gkn-aerospace-gets-nadcap-approval-for-laser-wire-ded"
-        },
-        {
-          "title": "Google、Androidパートナーが構築した130万台規模のボットネットを解体",
-          "source_url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
-        },
-        {
-          "title": "【続報】GitHub Copilot Fusionが正式リリース、最適なAIモデルを自動選択",
-          "source_url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html"
-        },
-        {
-          "title": "Google、Android/iOSアプリへのQuick Share直接統合SDKを来年提供",
-          "source_url": "https://9to5google.com/2026/11/02/quick-share-sdk-apps/"
-        },
-        {
-          "title": "Marvell、Lumentumを1150億ドルで買収合意 - テック史上最大級の買収",
-          "source_url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
-        },
-        {
-          "title": "NVIDIA、Blackwell GPUのHPC/AIワークロードベンチマークを公開",
-          "source_url": "https://arxiv.org/abs/2610.41919"
-        }
-      ]
-    },
-    {
       "date": "2026-11-04",
       "stories": [
         {
@@ -1032,6 +947,43 @@
         {
           "title": "ウェアラブル超音波パッチが薬や手術なしでREM睡眠を促進",
           "source_url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "stories": [
+        {
+          "title": "OpenAI、専門業務向け最上位「GPT-6.2 Astra」と汎用「GPT-6.2 Sol」を発表",
+          "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        },
+        {
+          "title": "【続報】NVIDIA取締役会、ジェンスン・フアン前CEOの復帰を否定し新委員会設立へ",
+          "source_url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "title": "SwitchBotがブランド10周年、モップ自動洗浄付きロボット掃除機や手のりAIペットなどを発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2157249.html"
+        },
+        {
+          "title": "SwitchBot、最大31.5インチの大型電子ペーパー「AIアートキャンバス 2」を発売",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2157256.html"
+        },
+        {
+          "title": "SwitchBot、直径28cmのコンパクト設計でモップ洗いもこなすロボット掃除機「S30」",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2157179.html"
+        },
+        {
+          "title": "パナソニック、ミラーレスの機動性とシネマ画質を融合したコンパクトシネマカメラ「SHX1」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2155635.html"
+        },
+        {
+          "title": "マイクロソフト、高性能かつ低価格な新コーディングAI「MAI Code 2」などを発表",
+          "source_url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+        },
+        {
+          "title": "NICT、外付けレンズ不要で最大2.1Gbpsの高速通信を実現する「深紫外マイクロLED」を開発",
+          "source_url": "https://internet.watch.impress.co.jp/docs/news/2157191.html"
         }
       ]
     }
