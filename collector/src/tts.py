@@ -23,6 +23,9 @@ import httpx
 VOICE = "ja-JP-NanamiNeural"  # Microsoft 日本語女性音声（高品質）
 MAX_CHUNK_CHARS = 1500
 MAX_RETRIES = 3
+# 1エンジンにかけてよい合計時間。どちらも「1リクエストごと」の timeout しか無く、遅い応答が
+# 続くと合計は青天井になる。超えたら諦めて後攻へ回す（Actions のステップ timeout は25分）。
+ENGINE_TIMEOUT_SEC = 600
 
 VOICEVOX_URL = os.environ.get("VOICEVOX_URL", "http://localhost:50021")
 VOICEVOX_SPEAKER = 2  # 四国めたん ノーマル
@@ -75,7 +78,9 @@ async def _edge_tts(chunks: list[str]) -> bytes:
 
 def _voicevox(chunks: list[str]) -> bytes:
     """VOICEVOX エンジン(HTTP)で合成し、WAV を連結して ffmpeg で MP3 にする"""
-    with httpx.Client(base_url=VOICEVOX_URL, timeout=300) as client:
+    # wait_for はスレッドを止められないので、ここでも自分で締切を見て抜ける
+    stop_at = time.monotonic() + ENGINE_TIMEOUT_SEC
+    with httpx.Client(base_url=VOICEVOX_URL, timeout=120) as client:
         # Actions では収集と並行してコンテナを起動しているので、起動完了を待つ
         deadline = time.monotonic() + 180
         while True:
@@ -88,6 +93,8 @@ def _voicevox(chunks: list[str]) -> bytes:
                 time.sleep(3)
         frames, params = [], None
         for chunk in chunks:
+            if time.monotonic() > stop_at:
+                raise TimeoutError(f"{ENGINE_TIMEOUT_SEC}秒で終わらず打ち切り")
             sp = {"speaker": VOICEVOX_SPEAKER}
             q = client.post("/audio_query", params={**sp, "text": chunk})
             q.raise_for_status()
@@ -124,12 +131,13 @@ async def generate_mp3(text: str, output_path: str, date: str) -> str:
     for name, credit, synth in engines:
         print(f"  TTSエンジン: {name}")
         try:
-            audio = await synth()
+            audio = await asyncio.wait_for(synth(), ENGINE_TIMEOUT_SEC)
             if not audio:
                 raise RuntimeError("audioデータが空")
         except Exception as e:
-            print(f"  {name} 失敗: {e}")
-            errors.append(f"{name}: {e}")
+            reason = str(e) or f"{ENGINE_TIMEOUT_SEC}秒で終わらず打ち切り"  # wait_for の TimeoutError は空文字
+            print(f"  {name} 失敗: {reason}")
+            errors.append(f"{name}: {reason}")
             continue
         with open(output_path, "wb") as out:
             out.write(audio)

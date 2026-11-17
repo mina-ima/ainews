@@ -408,6 +408,8 @@ def sanitize_result(result: object, valid_urls: set[str]) -> dict:
 # 503 spike は数分〜数十分で収まることがある。全モデル全滅は spike のピークに
 # 当たった可能性が高く、次の保険 cron は40分以上先なので待って撃ち直す価値がある。
 GEMINI_RETRY_WAIT_SEC = 300
+# 1リクエストの上限。2026-11-18 の実測で成功は7秒、503 が返るまで最長100秒かかるモデルがあった
+GEMINI_TIMEOUT_MS = 120_000
 
 
 async def _try_gemini(user_prompt: str) -> dict | None:
@@ -431,7 +433,9 @@ async def _gemini_sweep(user_prompt: str) -> dict | None:
     best_model = ""
 
     for api_key in api_keys:
-        client = genai.Client(api_key=api_key)
+        # google-genai は既定で HTTP timeout 無し（応答が来ないと永久に待つ）。単位はミリ秒。
+        # 超過は下の except で拾われ、次のモデルへ進む
+        client = genai.Client(api_key=api_key, http_options={"timeout": GEMINI_TIMEOUT_MS})
         models = _discover_models(client)
         for model in models:
             try:
