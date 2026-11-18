@@ -954,36 +954,60 @@
       "date": "2026-11-18",
       "stories": [
         {
-          "title": "OpenAI、専門業務向け最上位「GPT-6.2 Astra」と汎用「GPT-6.2 Sol」を発表",
-          "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+          "title": "【続報】OpenAI、GPT‑6.2 AstraがARC‑AGI‑3ベンチマークで100%スコアを取得",
+          "source_url": "https://twitter.com/arcprize/status/2122751233442156678"
         },
         {
-          "title": "【続報】NVIDIA取締役会、ジェンスン・フアン前CEOの復帰を否定し新委員会設立へ",
-          "source_url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
+          "title": "Nvidia、シンガポール売上の開示停止と1040億ドルの売上報告",
+          "source_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
         },
         {
-          "title": "SwitchBotがブランド10周年、モップ自動洗浄付きロボット掃除機や手のりAIペットなどを発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2157249.html"
+          "title": "Google、AI回答が検索トラフィックを40%削減",
+          "source_url": "https://revscope.co/blog/search-seo-geo-2026/"
         },
         {
-          "title": "SwitchBot、最大31.5インチの大型電子ペーパー「AIアートキャンバス 2」を発売",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2157256.html"
+          "title": "Google、Gemini Decisions APIで高速マルチモーダル意思決定を提供",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
         },
         {
-          "title": "SwitchBot、直径28cmのコンパクト設計でモップ洗いもこなすロボット掃除機「S30」",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2157179.html"
+          "title": "OpenAI、ChatGPT for Salesプラグインで営業支援を自動化",
+          "source_url": "https://openai.com/index/introducing-chatgpt-for-sales"
         },
         {
-          "title": "パナソニック、ミラーレスの機動性とシネマ画質を融合したコンパクトシネマカメラ「SHX1」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2155635.html"
+          "title": "OpenAI、法務特化モデル『Astra for Law』が業界トップ評価を獲得",
+          "source_url": "https://openai.com/index/astra-law-6-2"
         },
         {
-          "title": "マイクロソフト、高性能かつ低価格な新コーディングAI「MAI Code 2」などを発表",
-          "source_url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
+          "title": "【続報】Claude Codeチーム、AIエージェントの検証手法を公開",
+          "source_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
         },
         {
-          "title": "NICT、外付けレンズ不要で最大2.1Gbpsの高速通信を実現する「深紫外マイクロLED」を開発",
-          "source_url": "https://internet.watch.impress.co.jp/docs/news/2157191.html"
+          "title": "ハーバード研究、AIコーディングエージェントがボトルネックをコードレビューへシフト",
+          "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
+        },
+        {
+          "title": "OpenAI、NATOと協力しAIを活用したサイバー防衛支援を開始",
+          "source_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        },
+        {
+          "title": "OpenAI、チリ政府と提携しAI導入支援とスタートアップ育成を開始",
+          "source_url": "https://openai.com/index/introducing-openai-for-chile"
+        },
+        {
+          "title": "Xreal Aura、軽量ARグラスとコンパクトコンピューティングパックで次世代空間コンピューティング体験を提供",
+          "source_url": "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review"
+        },
+        {
+          "title": "Farsoon、シリーズ生産向け大型金属LPBFプラットフォーム『FS4X』を発表",
+          "source_url": "https://www.engineering.com/farsoon-launches-fs4x-metal-lpbf-platform-for-series-production/"
+        },
+        {
+          "title": "Snapmaker、FormnextでU1ツールチェンジャー3Dプリンターとフルカラー混色アクセサリを展示",
+          "source_url": ""
+        },
+        {
+          "title": "ICON、テキサスで12,649 sq ftの大型3Dプリント商業施設建設を開始",
+          "source_url": ""
         }
       ]
     }
