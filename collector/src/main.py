@@ -21,8 +21,12 @@ HIGHLIGHTS_CACHE = ARTICLES_DIR / "highlights_cache.json"
 RECENT_DAYS = 14  # 3日だと間隔を空けた再掲（10/01→10/04→10/07）を見逃した
 
 
-def _load_recent_stories() -> list[dict]:
-    """過去RECENT_DAYS日分のハイライトタイトル・URLを返す"""
+def _load_recent_stories(date: str) -> list[dict]:
+    """過去RECENT_DAYS日分のハイライトタイトル・URLを返す
+
+    対象日 date 自身のエントリは除く。含めると同じ日の再生成（手動 dispatch・訓練）で
+    その日の朝の記事が「既出」として丸ごと落ちる（2026-11-18）。
+    """
     if not HIGHLIGHTS_CACHE.exists():
         return []
     try:
@@ -32,7 +36,7 @@ def _load_recent_stories() -> list[dict]:
     cutoff = (datetime.now(JST) - timedelta(days=RECENT_DAYS)).strftime("%Y-%m-%d")
     stories: list[dict] = []
     for entry in cache.get("entries", []):
-        if entry.get("date", "") >= cutoff:
+        if entry.get("date", "") >= cutoff and entry.get("date") != date:
             stories.extend(entry.get("stories", []))
     return stories
 
@@ -82,7 +86,7 @@ async def run() -> None:
 
     # 3. Gemini で要約（過去3日の既出ニュースを除外）
     print("Step 2: AI要約中...")
-    recent_stories = _load_recent_stories()
+    recent_stories = _load_recent_stories(date)
     if recent_stories:
         print(f"  (過去{RECENT_DAYS}日間の既出ニュース: {len(recent_stories)}件を除外対象として渡す)")
     data = await summarize_news(items, recent_stories, interests_section=interests_section)
