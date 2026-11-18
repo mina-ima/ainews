@@ -67,6 +67,9 @@ jobs:
       - name: Start VOICEVOX engine
         if: steps.guard.outputs.skip != 'true'
         continue-on-error: true  # 起動できなくても edge-tts だけで続行する
+        # 通常 43〜87秒。2026-11-18 の訓練実行で10分以上固まった（イメージ取得か apt）。
+        # 打ち切っても continue-on-error で先へ進み、音声は edge-tts だけで作る
+        timeout-minutes: 5
         run: |
           docker run -d --rm -p 50021:50021 voicevox/voicevox_engine:cpu-latest
           command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
