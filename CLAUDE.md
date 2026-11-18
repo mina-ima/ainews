@@ -13,7 +13,7 @@
 ## 技術スタック
 
 - ニュース収集: Hacker News API + RSS
-- AI要約: Google Gemini 2.5 Flash (無料枠) → Groq Llama (フォールバック)
+- AI要約: Google Gemini → Cloudflare Workers AI gpt-oss-120b → 見出し一覧（要約なし）
 - TTS: edge-tts (Microsoft Nanami) と VOICEVOX (四国めたん) を日替わりで先行、失敗時のみ他方。両方ダメなら音声なしで配信
 - MP3保存: GitHub Releases
 - フロント: Next.js + Vercel
@@ -32,4 +32,5 @@ cd frontend && pnpm dev
 ## 環境変数 (collector/.env)
 
 - `GEMINI_KEY_*` - Google Gemini APIキー（複数可）
-- `GROQ_API_KEY` - Groq APIキー（フォールバック）
+- `CLOUDFLARE_AI_TOKEN` - Cloudflare Workers AI APIトークン
+- `CLOUDFLARE_ACCOUNT_ID` - Cloudflare アカウントID

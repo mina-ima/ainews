@@ -89,10 +89,20 @@ async def run() -> None:
     highlights = data.get("highlights", [])
     print(f"  → {len(highlights)}件のハイライトを生成")
 
+    fallback = bool(data.get("fallback"))
+    index_path = ARTICLES_DIR / "index.json"
+    if fallback and index_path.exists():
+        index_data = json.loads(index_path.read_text())
+        if any(entry.get("date") == date for entry in index_data.get("articles", [])):
+            print("  当日分の記事が既にあるため簡易版を保存しません")
+            return
+    if fallback and os.environ.get("CI"):
+        print("::warning::要約AIが利用できないため簡易版を配信します")
+
     # 最終ガード: 収集件数に対してハイライトが極端に少ない場合は警告を残す
     # (CI環境ではログに ::warning:: を出して気づけるようにする)
     MIN_FINAL_HIGHLIGHTS = 3
-    if len(highlights) < MIN_FINAL_HIGHLIGHTS and len(items) >= 50:
+    if not fallback and len(highlights) < MIN_FINAL_HIGHLIGHTS and len(items) >= 50:
         msg = (
             f"ハイライト数が異常に少ない (収集{len(items)}件 / 最終{len(highlights)}件)。"
             "LLMモデルの応答品質低下の可能性あり。"
@@ -108,27 +118,31 @@ async def run() -> None:
     md_path.write_text(md_content, encoding="utf-8")
     print(f"  → {md_path}")
 
-    # 4. TTS 音声生成
-    print("Step 4: MP3音声生成中...")
-    tts_text = generate_tts_text(data, date)
-    mp3_path = str(ARTICLES_DIR / f"{date}.mp3")
-    # TTS は外部サービス依存で落ちやすい。音声が作れなくても記事は配信する
-    try:
-        audio_credit = await generate_mp3(tts_text, mp3_path, date)
-        mp3_size = os.path.getsize(mp3_path) / (1024 * 1024)
-        print(f"  → {mp3_path} ({mp3_size:.1f}MB)")
-    except Exception as e:
+    if fallback:
         mp3_size = None
-        Path(mp3_path).unlink(missing_ok=True)  # 途中まで書いたMP3をReleaseに上げない
-        msg = f"MP3生成失敗のため音声なしで配信: {e}"
-        print(f"::warning::{msg}" if os.environ.get("CI") else f"  [警告] {msg}")
+        (ARTICLES_DIR / f"{date}.mp3").unlink(missing_ok=True)
+        print("Step 4: 簡易版のため音声生成をスキップ")
+    else:
+        # 4. TTS 音声生成
+        print("Step 4: MP3音声生成中...")
+        tts_text = generate_tts_text(data, date)
+        mp3_path = str(ARTICLES_DIR / f"{date}.mp3")
+        # TTS は外部サービス依存で落ちやすい。音声が作れなくても記事は配信する
+        try:
+            audio_credit = await generate_mp3(tts_text, mp3_path, date)
+            mp3_size = os.path.getsize(mp3_path) / (1024 * 1024)
+            print(f"  → {mp3_path} ({mp3_size:.1f}MB)")
+        except Exception as e:
+            mp3_size = None
+            Path(mp3_path).unlink(missing_ok=True)  # 途中まで書いたMP3をReleaseに上げない
+            msg = f"MP3生成失敗のため音声なしで配信: {e}"
+            print(f"::warning::{msg}" if os.environ.get("CI") else f"  [警告] {msg}")
 
-    # 5. ハイライトキャッシュ保存
-    _save_highlights_cache(date, highlights)
+        # 5. ハイライトキャッシュ保存
+        _save_highlights_cache(date, highlights)
 
     # 6. index.json 更新
     print("Step 6: index.json 更新中...")
-    index_path = ARTICLES_DIR / "index.json"
     if index_path.exists():
         index_data = json.loads(index_path.read_text())
     else:
@@ -143,6 +157,8 @@ async def run() -> None:
         "title": f"AI・テクノロジーニュース {date}",
         "article_count": len(highlights),
     }
+    if fallback:
+        entry["fallback"] = True
     if mp3_size is not None:
         entry["audio_url"] = audio_url
         entry["audio_size_mb"] = round(mp3_size, 1)

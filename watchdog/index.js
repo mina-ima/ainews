@@ -12,12 +12,22 @@ export default {
         headers: {
           Authorization: `Bearer ${env.GITHUB_TOKEN}`,
           Accept: "application/vnd.github+json",
+          ...init.headers,
           "User-Agent": "ainews-watchdog",
         },
       });
 
     const date = new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10); // JST
-    if ((await gh(`/contents/articles/${date}.md`)).ok) return console.log(`${date}: 生成済み`);
+    const indexResponse = await gh("/contents/articles/index.json", {
+      headers: { Accept: "application/vnd.github.raw+json" },
+    });
+    // 取得・解析に失敗したら「未生成」として先へ進む。重複生成より未配信のほうが痛い。
+    // 簡易版（fallback）の日も未完了扱いにして、LLM が復旧していれば正式版で上書きさせる
+    const index = indexResponse.ok ? await indexResponse.json().catch(() => null) : null;
+    if (!index) console.log(`index.json を読めず（${indexResponse.status}）。未生成として続行`);
+    if (index?.articles?.some((entry) => entry.date === date && !entry.fallback)) {
+      return console.log(`${date}: 生成済み`);
+    }
 
     // 遅れて来た schedule が走っている最中なら任せる（dispatch は guard を素通りして上書きするため）
     const { workflow_runs = [] } = await (await gh(`/actions/workflows/${WORKFLOW}/runs?per_page=5`)).json();

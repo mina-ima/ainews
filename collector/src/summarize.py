@@ -1,8 +1,9 @@
-"""Google Gemini / Groq API でニュースを日本語要約・構造化"""
+"""ニュースを日本語要約・構造化"""
 
 from __future__ import annotations
 
-import asyncio
+import html
+import time
 import difflib
 import json
 import os
@@ -11,7 +12,7 @@ from pathlib import Path
 from datetime import datetime, timezone, timedelta
 
 from google import genai
-from groq import Groq
+import httpx
 
 from .search import NewsItem
 
@@ -405,20 +406,13 @@ def sanitize_result(result: object, valid_urls: set[str]) -> dict:
     }
 
 
-# 503 spike は数分〜数十分で収まることがある。全モデル全滅は spike のピークに
-# 当たった可能性が高く、次の保険 cron は40分以上先なので待って撃ち直す価値がある。
-GEMINI_RETRY_WAIT_SEC = 300
 # 1リクエストの上限。2026-11-18 の実測で成功は7秒、503 が返るまで最長100秒かかるモデルがあった
 GEMINI_TIMEOUT_MS = 120_000
-
-
-async def _try_gemini(user_prompt: str) -> dict | None:
-    result = await _gemini_sweep(user_prompt)
-    if result is not None or not _get_gemini_keys():
-        return result
-    print(f"  Gemini 全モデル失敗。{GEMINI_RETRY_WAIT_SEC}秒待って1回だけ再試行")
-    await asyncio.sleep(GEMINI_RETRY_WAIT_SEC)
-    return await _gemini_sweep(user_prompt)
+# Gemini 段全体の予算。無応答のモデルが続くと 120秒 × モデル数 × キー数になり、Workers AI に
+# 届く前に Actions のステップ timeout（25分）で kill される。待って撃ち直すのは watchdog（30分間隔）の役目
+GEMINI_BUDGET_SEC = 480
+FALLBACK_CATEGORY = "見出し一覧（要約なし）"
+FALLBACK_NOTICE = "本日は要約AIが利用できなかったため、収集した記事の見出しをそのまま掲載しています。AIの復旧後に正式版へ自動で差し替わります。"
 
 
 async def _gemini_sweep(user_prompt: str) -> dict | None:
@@ -432,12 +426,20 @@ async def _gemini_sweep(user_prompt: str) -> dict | None:
     best_count = 0
     best_model = ""
 
+    started = time.monotonic()
+    budget_exceeded = False
     for api_key in api_keys:
+        if budget_exceeded:
+            break
         # google-genai は既定で HTTP timeout 無し（応答が来ないと永久に待つ）。単位はミリ秒。
         # 超過は下の except で拾われ、次のモデルへ進む
         client = genai.Client(api_key=api_key, http_options={"timeout": GEMINI_TIMEOUT_MS})
         models = _discover_models(client)
         for model in models:
+            if time.monotonic() - started >= GEMINI_BUDGET_SEC:
+                print("  Gemini の試行時間上限に達したため終了")
+                budget_exceeded = True
+                break
             try:
                 response = client.models.generate_content(
                     model=model,
@@ -484,7 +486,7 @@ async def _gemini_sweep(user_prompt: str) -> dict | None:
                     continue
                 print(f"  Gemini エラー ({model}): {e}")
 
-    # 全モデル試したが基準未達: 最良結果があれば返す (Groqフォールバックより既出URL除外などのデータが使えるため)
+    # 全モデル試したが基準未達: 最良結果があれば返す
     if best_result is not None:
         print(f"  (警告: 全モデル基準未達。最良結果を採用: {best_model}, {best_count}件)")
         _save_last_model(best_model)
@@ -492,27 +494,62 @@ async def _gemini_sweep(user_prompt: str) -> dict | None:
     return None
 
 
-async def _try_groq(user_prompt: str) -> dict | None:
-    api_key = os.environ.get("GROQ_API_KEY", "")
-    if not api_key:
+async def _try_workers_ai(user_prompt: str) -> dict | None:
+    token = os.environ.get("CLOUDFLARE_AI_TOKEN", "")
+    account_id = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
+    if not token or not account_id:
+        print("  Workers AI エラー: 認証情報が未設定")
+        return None
+    try:
+        async with httpx.AsyncClient(timeout=240) as client:
+            response = await client.post(
+                f"https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run/@cf/openai/gpt-oss-120b",
+                headers={"Authorization": f"Bearer {token}"},
+                json={"messages": [{"role": "system", "content": SYSTEM_PROMPT},
+                                   {"role": "user", "content": user_prompt}],
+                      "response_format": {"type": "json_object"},
+                      "max_tokens": 12000, "temperature": 0.3},
+            )
+        if response.status_code != 200:
+            print(f"  Workers AI エラー: HTTP {response.status_code} {response.text[:300]}")
+            return None
+        payload = response.json()
+        if not payload.get("success"):
+            print(f"  Workers AI エラー: {str(payload.get('errors'))[:300]}")
+            return None
+        result = json.loads(payload["result"]["choices"][0]["message"]["content"], strict=False)
+        if not isinstance(result, dict) or not isinstance(result.get("highlights"), list) or not result["highlights"]:
+            print("  Workers AI エラー: highlights が空")
+            return None
+        print(f"  (使用: Workers AI gpt-oss-120b, {len(result['highlights'])}件)")
+        return result
+    except Exception as e:
+        # httpx の例外文には URL（アカウントID）までしか入らず、トークンは含まれない
+        print(f"  Workers AI エラー: {type(e).__name__}: {e}")
         return None
 
-    try:
-        client = Groq(api_key=api_key)
-        response = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt},
-            ],
-            temperature=0.3,
-            response_format={"type": "json_object"},
-        )
-        print("  (使用: Groq llama-3.3-70b)")
-        return json.loads(response.choices[0].message.content, strict=False)
-    except Exception as e:
-        print(f"  Groq エラー: {e}")
-        return None
+
+def build_fallback_digest(items: list[NewsItem], recent_stories: list[dict] | None) -> dict:
+    recent_urls = {s.get("source_url") for s in (recent_stories or []) if s.get("source_url")}
+    sources: dict[str, list[NewsItem]] = {}
+    for item in items:
+        if item.url not in recent_urls:
+            sources.setdefault(item.source, []).append(item)
+    highlights = []
+    while sources and len(highlights) < MAX_HIGHLIGHTS:
+        for source in list(sources):
+            item = sources[source].pop(0)
+            highlights.append({"title": item.title, "category": FALLBACK_CATEGORY,
+                               "summary": html.unescape(re.sub(r"<[^>]*>", "", item.summary or "")),
+                               "importance": 3, "source_title": item.source, "source_url": item.url})
+            if not sources[source]:
+                del sources[source]
+            if len(highlights) >= MAX_HIGHLIGHTS:
+                break
+    result = sanitize_result({"highlights": highlights, "trend_summary": ""},
+                             {item.url for item in items})
+    result["fallback"] = True
+    return result
 
 
 async def summarize_news(
@@ -520,20 +557,21 @@ async def summarize_news(
     recent_stories: list[dict] | None = None,
     interests_section: str = "",
 ) -> dict:
-    """ニュースを要約（Gemini → Groq フォールバック）
+    """ニュースを要約（Gemini → Workers AI → 見出し一覧）
 
     interests_section: 過去 `[x] 興味あり` を要約に注入する深堀り指示文
     """
     user_prompt = _build_user_prompt(items, recent_stories, interests_section)
 
-    result = await _try_gemini(user_prompt)
+    # AINEWS_SKIP_GEMINI: 代替経路の訓練用（collect.yml の skip_gemini 入力）
+    result = None if os.environ.get("AINEWS_SKIP_GEMINI") else await _gemini_sweep(user_prompt)
     if result is None:
-        result = await _try_groq(user_prompt)
+        result = await _try_workers_ai(user_prompt)
     if result is None:
-        raise RuntimeError(
-            "全てのLLM APIでエラー。GOOGLE_API_KEY/GEMINI_KEY_* または GROQ_API_KEY を設定してください。\n"
-            "Groq APIキーは https://console.groq.com で無料取得できます。"
-        )
+        digest = build_fallback_digest(items, recent_stories)
+        if not digest["highlights"]:
+            raise RuntimeError("簡易版に掲載できるニュースがありません")
+        return digest
 
     # 以降は正規化済みの値だけを扱う（型・範囲・URLの出所をここで固定）
     result = sanitize_result(result, {item.url for item in items})
@@ -601,6 +639,8 @@ def generate_markdown(
         f"# テクノロジー・デイリーレポート {date}（{weekday}）",
         "",
     ]
+    if data.get("fallback"):
+        lines += [f"> {FALLBACK_NOTICE}", ""]  # 末尾の「今日の注目ポイント」だと読まれない
 
     highlights = data.get("highlights", [])
     if highlights:
