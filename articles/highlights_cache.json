@@ -954,60 +954,64 @@
       "date": "2026-11-18",
       "stories": [
         {
-          "title": "【続報】OpenAI、GPT‑6.2 AstraがARC‑AGI‑3ベンチマークで100%スコアを取得",
-          "source_url": "https://twitter.com/arcprize/status/2122751233442156678"
+          "title": "Microsoft、MAI Code 2 と Code 2 Flash をGitHub Copilotに搭載",
+          "source_url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/"
         },
         {
-          "title": "Nvidia、シンガポール売上の開示停止と1040億ドルの売上報告",
-          "source_url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"
+          "title": "Google、Spark AIエージェントを「Tasks」に名称変更し無料化",
+          "source_url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
         },
         {
-          "title": "Google、AI回答が検索トラフィックを40%削減",
+          "title": "NVIDIA、ジェンセン・フアン退任後もオープンソースAI戦略を継続",
+          "source_url": ""
+        },
+        {
+          "title": "Google AI、検索トラフィックを40%削減",
           "source_url": "https://revscope.co/blog/search-seo-geo-2026/"
         },
         {
-          "title": "Google、Gemini Decisions APIで高速マルチモーダル意思決定を提供",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+          "title": "OpenAI、GPT‑6.2 Astra と Sol を発表",
+          "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
         },
         {
-          "title": "OpenAI、ChatGPT for Salesプラグインで営業支援を自動化",
-          "source_url": "https://openai.com/index/introducing-chatgpt-for-sales"
+          "title": "Google検索、Gemini 4 Hydrogenで大幅アップグレード",
+          "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
         },
         {
-          "title": "OpenAI、法務特化モデル『Astra for Law』が業界トップ評価を獲得",
-          "source_url": "https://openai.com/index/astra-law-6-2"
-        },
-        {
-          "title": "【続報】Claude Codeチーム、AIエージェントの検証手法を公開",
+          "title": "Claude Codeチームが語る検証手法",
           "source_url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/"
         },
         {
-          "title": "ハーバード研究、AIコーディングエージェントがボトルネックをコードレビューへシフト",
+          "title": "uBlock OriginにUXSS脆弱性、ワンクリックで任意JS実行が可能に",
+          "source_url": "https://gigazine.net/news/20261118-ublock-origin-uxss-vulnerability/"
+        },
+        {
+          "title": "ハーバード研究者、AIコーディングエージェントがボトルネックをコードレビューにシフトしたと指摘",
           "source_url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/"
         },
         {
-          "title": "OpenAI、NATOと協力しAIを活用したサイバー防衛支援を開始",
-          "source_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+          "title": "reTONE、古いAndroidスマホを高音質音楽プレーヤーに変換",
+          "source_url": "https://www.gizmodo.jp/article/2611-retone-android-music-player/"
         },
         {
-          "title": "OpenAI、チリ政府と提携しAI導入支援とスタートアップ育成を開始",
-          "source_url": "https://openai.com/index/introducing-openai-for-chile"
-        },
-        {
-          "title": "Xreal Aura、軽量ARグラスとコンパクトコンピューティングパックで次世代空間コンピューティング体験を提供",
-          "source_url": "https://www.tomshardware.com/peripherals/wearable-tech/xreal-aura-review"
-        },
-        {
-          "title": "Farsoon、シリーズ生産向け大型金属LPBFプラットフォーム『FS4X』を発表",
-          "source_url": "https://www.engineering.com/farsoon-launches-fs4x-metal-lpbf-platform-for-series-production/"
-        },
-        {
-          "title": "Snapmaker、FormnextでU1ツールチェンジャー3Dプリンターとフルカラー混色アクセサリを展示",
+          "title": "NVIDIA取締役会、ジェンセン・フアン氏のCEO復帰はなしと表明",
           "source_url": ""
         },
         {
-          "title": "ICON、テキサスで12,649 sq ftの大型3Dプリント商業施設建設を開始",
+          "title": "Gemini Decisions API、マルチモーダル意思決定を高速かつ校正",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "title": "Stringman、オープンソースのピック＆プレイスロボットが登場",
+          "source_url": "https://gigazine.net/news/20261117-stringman-cable-robot/"
+        },
+        {
+          "title": "欧州、次世代コンピュータチップ波に備える計画を発表",
           "source_url": ""
+        },
+        {
+          "title": "NVIDIA、第3四半期決算が予想を上回り、指針を上方修正",
+          "source_url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303"
         }
       ]
     }
