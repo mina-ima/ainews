@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-04",
-      "stories": [
-        {
-          "title": "Anthropicが最新のIPO修正書類を提出 第3四半期売上高は約169億ドルに拡大",
-          "source_url": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/"
-        },
-        {
-          "title": "AI推論スタートアップのFal、評価額が160億ドルに倍増",
-          "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
-        },
-        {
-          "title": "バイナンス、63億ドル規模の暗号資産盗難は偽の面接やAIツールの悪用によるものと発表",
-          "source_url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html"
-        },
-        {
-          "title": "写真1枚から裏側まで3Dモデルを生成するオープンソースAI「Idol」が公開、コンシューマGPUで稼働",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2153055.html"
-        },
-        {
-          "title": "足元を360度温めるライソンの「巻くコタツ」が冬の防寒家電として注目",
-          "source_url": "https://www.gizmodo.jp/article/2611-maku-kotatsu/"
-        },
-        {
-          "title": "バンダイナムコグループ等も関心、最大9ツールを自動交換するBambu Labの第3世代3Dプリンター「H3C」",
-          "source_url": "https://3dprintingindustry.com/news/bambu-lab-launches-h3c-technical-specifications-and-pricing-256200/?utm_source=rss&utm_medium=rss&utm_campaign=bambu-lab-launches-h3c-technical-specifications-and-pricing"
-        },
-        {
-          "title": "富士フイルム、AI時代のアーカイブ需要増大に対応して磁気テープ生産を5倍に増強",
-          "source_url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"
-        }
-      ]
-    },
-    {
       "date": "2026-11-05",
       "stories": [
         {
@@ -1012,6 +979,47 @@
         {
           "title": "NVIDIA、第3四半期決算が予想を上回り、指針を上方修正",
           "source_url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "stories": [
+        {
+          "title": "マイクロソフト、Ignite 2026でコーディング特化AI「MAI Code 2」などを発表",
+          "source_url": "https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html"
+        },
+        {
+          "title": "オープンAI、新フラッグシップモデル「GPT-6.2 Astra」と日常向けの「GPT-6.2 Sol」を発表",
+          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2157619.html"
+        },
+        {
+          "title": "【続報】エヌビディア取締役会、ジェンスン・フアン前CEOの復帰を否定し従業員への給与・株主優待引き上げで動揺を収拾へ",
+          "source_url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-promises-employee-pay-raises-equity-before-december-to-quell-unrest-in-wake-of-jensen-huang-scandal-at-first-all-hands-meeting-since-ceos-departure-staff-offered-perks-told-were-going-to-be-fine"
+        },
+        {
+          "title": "オープンAIモデルを活用した半導体・シリコン回路設計の自律最適化が進展",
+          "source_url": "https://openai.com/index/advancing-chip-design-with-our-models/"
+        },
+        {
+          "title": "IBM、2つのNighthawkチップを結合し1,040量子ビットの超電導システムを構築",
+          "source_url": "https://www.nextplatform.com/compute/2026/11/17/ibm-links-two-nighthawk-r3-chips-to-make-a-1040-qubit-quantum-system/5310545"
+        },
+        {
+          "title": "オープンAI、企業のAIエージェントの紹介内容を確認できるB2B向け管理機能をベータ公開",
+          "source_url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html"
+        },
+        {
+          "title": "グーグル・ディープマインド、実時間でインタラクティブな世界モデル「Genie 4」を一般公開",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/"
+        },
+        {
+          "title": "ネット接続をあえて排除した異色の通話特化携帯「INFOBAR ZERO」がKDDIから登場",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/"
+        },
+        {
+          "title": "ソニー、初心者向けエントリーモデルとしてaptX Adaptive対応の最新ターンテーブルを発表",
+          "source_url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/"
         }
       ]
     }
