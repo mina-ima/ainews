@@ -1,67 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-05",
-      "stories": [
-        {
-          "title": "OpenAI、コード生成ツール強化のため「Pierre Computer」を買収",
-          "source_url": "https://openai.com/index/openai-to-acquire-pierre/"
-        },
-        {
-          "title": "オープンAI、実務的な日常タスクのAI遂行能力を測る新ベンチマーク「LifeVal」を発表",
-          "source_url": "https://gigazine.net/news/20261104-openai-lifeval/"
-        },
-        {
-          "title": "バイナンスの63億ドル不正流出、偽の採用面接とAIツールの悪用が原因と判明",
-          "source_url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
-        },
-        {
-          "title": "Google、出荷前のAndroid端末に犯罪用バックドアを仕掛けた中国メーカーとの取引を停止",
-          "source_url": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/"
-        },
-        {
-          "title": "洗濯機で丸洗いできるタッチ画面付き服の袖ディスプレイが開発",
-          "source_url": "https://www.gizmodo.jp/article/2611-smart-sleeve-display-washable-clothing/"
-        },
-        {
-          "title": "AIジンバルで自ら投写方向を変えるJMGOのフラッグシッププロジェクタ「IRIS Ultra Max」",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2153438.html"
-        },
-        {
-          "title": "トレイラー接続でもRVのような快適性を実現する、大型ルーフテントが発表",
-          "source_url": "https://newatlas.com/tents/rv-giants-dual-room-roof-tent-makes-car-top-camping-more-like-rving/"
-        },
-        {
-          "title": "インターネット接続なしでAIも使えるオープンソースのオフライン知識検索ツール「Project NOMAD」",
-          "source_url": "https://gigazine.net/news/20261104-project-nomad/"
-        },
-        {
-          "title": "わずか800ドルのオープンソース製ルームスケールグリッパーロボット「Stringman」が登場",
-          "source_url": "https://neufangled.com/"
-        },
-        {
-          "title": "クアルコム、128GBメモリ搭載の150W AIアクセラレータカード「Cloud AI 100 Ultra」を投入",
-          "source_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra"
-        },
-        {
-          "title": "任天堂の主要ロムチップ供給元マクロニクス、AIデータセンター需要へのシフトでROM事業から撤退へ",
-          "source_url": "https://kotaku.com/nintendo-switch-cart-rom-physical-media-data-centers-manufacture-2000753293"
-        },
-        {
-          "title": "AMD、第4四半期にインテルを上回る売上高を予測し過去最高へ",
-          "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections"
-        },
-        {
-          "title": "住友ゴムが挑んだ物理法則を覆す「低温で軟化」する究極のオールシーズンタイヤの秘密",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03444/110200046/"
-        },
-        {
-          "title": "ウクライナのスタートアップ、ロシア製ドローンのカメラ映像を逆手に取るポケット型ガジェットを開発",
-          "source_url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
-        }
-      ]
-    },
-    {
       "date": "2026-11-06",
       "stories": [
         {
@@ -1020,6 +959,83 @@
         {
           "title": "ソニー、初心者向けエントリーモデルとしてaptX Adaptive対応の最新ターンテーブルを発表",
           "source_url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "stories": [
+        {
+          "title": "アンスロピック（Anthropic）がナスダック上場、時価総額2兆ドルを突破",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "title": "グーグル（Google）、macOS版GeminiにPC自律操作機能「Computer Use」を追加",
+          "source_url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+        },
+        {
+          "title": "グーグル（Google）、Claude Fable 5.2同等性能を半額で実現する「Gemini 4 Neon」を発表",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/"
+        },
+        {
+          "title": "世界のAIデータセンター電力需要、2030年までに倍増し英国全土の消費量（50GW）に相当か",
+          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-power-demand-will-double-by-2030-thanks-to-usd4-trillion-in-spending-adding-an-entire-great-britain-to-energy-strain-93-large-ai-factories-with-projected-capacity-of-around-50-gigawatts"
+        },
+        {
+          "title": "メタ（Meta）の対話AI「Muse」、他人の個人情報露出や対話データの混同トラブルが発覚",
+          "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+        },
+        {
+          "title": "PHPに7件の深刻な脆弱性が発覚、リモートコード実行の危険で緊急パッチが公開",
+          "source_url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
+        },
+        {
+          "title": "アンスロピック（Anthropic）のAI「Claude」、ブラックホール物理学の未解決問題2件を突破",
+          "source_url": "https://www.anthropic.com/research/claude-black-hole-physics"
+        },
+        {
+          "title": "アンカー（Anker）、冷却ファン内蔵で発熱を抑えるQi2 25W対応モバイルバッテリーを発売",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2157819.html"
+        },
+        {
+          "title": "LG、キャスター付きスタンドで家じゅう移動できる31.5型4Kスマートモニター「Swing AI」を発表",
+          "source_url": "https://av.watch.impress.co.jp/docs/news/2157973.html"
+        },
+        {
+          "title": "故人の写真や音声をAIが自動整理して思い出を呼び起こすスマート仏壇「コハコ」が登場",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2157401.html"
+        },
+        {
+          "title": "全指を包み込んで直感操作できる指装着型の関節型ゲーミングマウス「Borslon」が登場",
+          "source_url": "https://newatlas.com/computers/borslon-finger-worn-gaming-mouse/"
+        },
+        {
+          "title": "高密度GaNパワー半導体基板の熱・EMI設計課題に関する技術解析が公開",
+          "source_url": "https://www.electronicsweekly.com/news/business/thermal-and-emi-challenges-in-high-density-gan-power-converters-2026-11/"
+        },
+        {
+          "title": "NTT、ロボットの失敗を事前予測して回避する「フィジカルAI」技術を開発",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03478/"
+        },
+        {
+          "title": "ウェイモ（Waymo）、カリフォルニア州の規制を受け全米の高速道路で自動運転タクシーの運行を停止",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
+        },
+        {
+          "title": "オーストラリアの研究チーム、ヒト肝臓を体外で世界最長の7週間生存させることに成功",
+          "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+        },
+        {
+          "title": "オープンAI（OpenAI）、自社開発AIで独自チップ「Jalapeño」やAMD製GPUの設計を自動最適化",
+          "source_url": "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/"
+        },
+        {
+          "title": "【続報】エヌビディア（NVIDIA）取締役会、ジェンスン・フアン前CEOの復帰を否定しアーム（Arm）のルネ・ハースCEOに打診",
+          "source_url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+        },
+        {
+          "title": "BAEシステムズ、敵に察知されず脅威を特定する受動型「ゴーストレーダー」を発表",
+          "source_url": "https://newatlas.com/military/bae-systems-ghost-passive-radar/"
         }
       ]
     }
