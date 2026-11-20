@@ -1,91 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-06",
-      "stories": [
-        {
-          "title": "グーグル、安価な小型分類器でモデルと推論深度を切り替えるトークン節約手法を公開",
-          "source_url": "https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/"
-        },
-        {
-          "title": "オープンAI、エージェント開発における「トークン浪費」防止とモデル使い分けの鉄則を提示",
-          "source_url": "https://kn.itmedia.co.jp/kn/article/2611/05/2000002770/"
-        },
-        {
-          "title": "プリファード・ネットワークス、高精度な翻訳特化型LLM「PLaMo 3 Translate」をオープン公開",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/"
-        },
-        {
-          "title": "オープンAI、Linuxカーネルの特権昇格脆弱性948件を自律AIパイプラインで一挙に検証・修正",
-          "source_url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html"
-        },
-        {
-          "title": "アイナ、極小画面・ジョイスティック・マイクを搭載したAIエージェント操作用スマートリングを発表",
-          "source_url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-        },
-        {
-          "title": "グルーヴエックス、家族型ロボット「LOVOT」のゴジラ特別仕様モデルを限定受注開始",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153799.html"
-        },
-        {
-          "title": "サンコー、発火リスクを大幅低減した実売3,980円の「PD対応半固体モバイルバッテリー」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2152153.html"
-        },
-        {
-          "title": "フェーズ3D、金属3Dプリンター向け次世代インプロセス「フリンジ検査」ハードウェアを発表",
-          "source_url": "https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229/?utm_source=rss&utm_medium=rss&utm_campaign=phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing"
-        },
-        {
-          "title": "グアダラハラ大学、タッチ画面が操作できる3Dプリント義手用リサイクル導電フィラメントを開発",
-          "source_url": "https://3dprintingindustry.com/news/recycled-filament-lets-3d-printed-prosthetics-use-touchscreens-256132/?utm_source=rss&utm_medium=rss&utm_campaign=recycled-filament-lets-3d-printed-prosthetics-use-touchscreens"
-        },
-        {
-          "title": "タルトゥ大学ら、自身の「人工血液」から紫外線センサーを自己成長させる蛾型ロボットを開発",
-          "source_url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/"
-        },
-        {
-          "title": "米中間選挙に合わせて実施された住民投票で、AIデータセンター建設規制が46件可決",
-          "source_url": "https://gigazine.net/news/20261105-us-data-center-vote-reject/"
-        },
-        {
-          "title": "ギットハブ、AIが作業履歴を振り返り知見を自律整理する「Copilot Dreaming」を発表",
-          "source_url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html"
-        },
-        {
-          "title": "シノブ・グループ、基板試作を即時手配できるオンラインPCBサービス「Synov-Proto」を発表",
-          "source_url": "https://www.electronicsweekly.com/news/business/manufacturing/electronica-synov-proto-launches-as-online-pcb-prototyping-service-2026-11/"
-        },
-        {
-          "title": "テクノダイナミックス、歳差運動を取り入れた新機構「同軸ローラーカム」減速機を考案",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/102500008/"
-        },
-        {
-          "title": "ボストン・ダイナミクス、荷降ろしを毎時1,000箱に高速化した「Stretch Gen 2」を公開",
-          "source_url": "https://www.engineering.com/boston-dynamics-unveils-upgraded-stretch-gen-2-robot/"
-        },
-        {
-          "title": "実験的遺伝子治療を受けた患者で難治性てんかんの発作が劇的に減少、Nature誌に報告",
-          "source_url": "https://www.nature.com/articles/d41586-026-03566-2"
-        },
-        {
-          "title": "アルテラ、広範な組込み市場をカバーする新FPGA・SoC「Agilex 2X」を発表",
-          "source_url": "https://www.altera.com/newsroom/agilex-2x"
-        },
-        {
-          "title": "インド政府、2年以内の独自GPU開発と国産RISC-Vプロセッサ商用化を宣言",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry"
-        },
-        {
-          "title": "唾液のミネラルを取り込んで歯のエナメル質を自律再生させる革新的ゲルが開発",
-          "source_url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm"
-        },
-        {
-          "title": "Bluetooth規格団体、通信速度を従来の約4倍（最大7.5Mbps）にする「Bluetooth HDT」を採択",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154146.html"
-        }
-      ]
-    },
-    {
       "date": "2026-11-07",
       "stories": [
         {
@@ -1036,6 +951,83 @@
         {
           "title": "BAEシステムズ、敵に察知されず脅威を特定する受動型「ゴーストレーダー」を発表",
           "source_url": "https://newatlas.com/military/bae-systems-ghost-passive-radar/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "stories": [
+        {
+          "title": "【続報】メタ（Meta）の対話AI「Muse」、専用メールアドレス作成を無料ユーザー含む全ユーザーへ拡大",
+          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/"
+        },
+        {
+          "title": "アンスロピック（Anthropic）の研究者、AI「Claude」を用いて数学の超難問「リーマン予想」の証明に成功と発表",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-mathematician-claims-to-have-solved-167-year-old-math-problem-with-claude-riemann-hypothesis-proof-allegedly-discovered-but-remains-unconfirmed"
+        },
+        {
+          "title": "AIが追加学習なしで自らのパラメータを直接書き換える「再帰的自己改善」に成功",
+          "source_url": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/"
+        },
+        {
+          "title": "オープンAI（OpenAI）、ChatGPTの高速稼働を維持する自律改善基盤「Performance Factory」を解説",
+          "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        },
+        {
+          "title": "【続報】アンスロピック（Anthropic）、巨額IPO直後にハイテク株全体の下落波に飲まれ株価急落",
+          "source_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "ティーンエイジ・エンジニアリング（Teenage Engineering）、回転ディスクを見せるスケルトンポータブルCDプレーヤー「EP/BC-1」を発表",
+          "source_url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth"
+        },
+        {
+          "title": "スマートリング「エバーリング（Evering）」、万博公式キャラ「ミャクミャク」限定のタッチ決済モデルを発表",
+          "source_url": "https://www.gizmodo.jp/article/evering-myaku-myaku/"
+        },
+        {
+          "title": "サンワサプライ、カスタマーハラスメント（カスハラ）対策に最適なクリップ式小型ボディカメラを発売",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2157903.html"
+        },
+        {
+          "title": "エイスース（ASUS）、世界初となる720Hz超高リフレッシュレート対応の24.5型有機ELゲーミングモニターを投入",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2158343.html"
+        },
+        {
+          "title": "シグナル（Signal）、OS統合型AIエージェントのデータ取得を防ぐためスクリーンショットを全遮断",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+        },
+        {
+          "title": "LLMを組み込んで被害者管理や遠隔操作を自動化する悪質アンドロイド（Android）マルウェア「Bazuka」が判明",
+          "source_url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+        },
+        {
+          "title": "Windows 11のロック画面を「ナレーター」経由で突破可能なゼロデイ脆弱性「FastUnlock」が露呈",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2158179.html"
+        },
+        {
+          "title": "プリント基板（PCB）実装工程における潜在的エラーと収益低下要因を解明する技術解析が公開",
+          "source_url": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/"
+        },
+        {
+          "title": "ホンダ（Honda）、新型大型HEVでドメイン型電子基板アーキテクチャと車載「Dolby Atmos」を初採用",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03284/111800014/"
+        },
+        {
+          "title": "ビーワイディー（BYD）、ダッシュボード内へ完全に格納可能な折りたたみステアリング車を発表",
+          "source_url": "https://newatlas.com/automotive/byd-fang-cheng-bao-tai-9-folding-steering-wheel/"
+        },
+        {
+          "title": "インテル（Intel）、最先端「18A」プロセスの歩留まり70％達成でマイクロソフト（Microsoft）と契約",
+          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-yields-hit-70-percent-as-company-signs-microsoft-as-emib-customer-the-first-company-to-publicly-commit-to-intels-new-packaging-technology"
+        },
+        {
+          "title": "AIが新しいCPUアーキテクチャの発見・設計・検証までを全自動達成「Frostbite」登場",
+          "source_url": "https://architectlabs.com/blog/frostbite"
+        },
+        {
+          "title": "ファイソン（Phison）、NPUと64GBメモリを基板に統合した「計算ストレージSSD」を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller"
         }
       ]
     }
