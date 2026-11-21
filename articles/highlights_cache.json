@@ -1,51 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-07",
-      "stories": [
-        {
-          "title": "OpenAI、セキュリティ研究向け特化型AI「GPT-6 Cyber」を発表",
-          "source_url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
-        },
-        {
-          "title": "グーグル、会話ベースで動画編集が可能な「Gemini Omni 1.2 Flash」を公開",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-        },
-        {
-          "title": "Meta、表情豊かなアバターと音声対話ができるAIエージェント「Muse」の新機能を発表",
-          "source_url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-        },
-        {
-          "title": "ファーウェイ、ANCとLDACに対応しながら8,000円台を実現した完全ワイヤレスイヤフォン「FreeBuds SE 5 MAX」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2154261.html"
-        },
-        {
-          "title": "日本エイサー、上下2画面を1台で実現する折りたたみ式デュアルモニターを発表",
-          "source_url": "https://pc.watch.impress.co.jp/docs/news/2154354.html"
-        },
-        {
-          "title": "中国・中台研究チーム、金属3Dプリンティングで「1メートルのチタン単結晶」の作製に成功",
-          "source_url": "https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242/?utm_source=rss&utm_medium=rss&utm_campaign=pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals"
-        },
-        {
-          "title": "AIエージェントの安全なPOSIXランタイム「AegisKernel」が登場",
-          "source_url": "https://adikshatriyag-crypto.github.io/aegis-kernel/"
-        },
-        {
-          "title": "世界初、脈絡のない素材を組み合わせた3Dプリント「ミクロニードル付き透湿パッチ」が開発",
-          "source_url": "https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing"
-        },
-        {
-          "title": "グローバルファウンドリーズ、EUV不要で7nm級性能を実現する「FDX Fusion」技術の詳細を発表",
-          "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow"
-        },
-        {
-          "title": "コレステラーゼ細菌から着想を得た水中でも強固に接着するバイオ接着剤",
-          "source_url": "https://www.nature.com/articles/d41586-026-03630-x"
-        }
-      ]
-    },
-    {
       "date": "2026-11-08",
       "stories": [
         {
@@ -1028,6 +983,83 @@
         {
           "title": "ファイソン（Phison）、NPUと64GBメモリを基板に統合した「計算ストレージSSD」を発表",
           "source_url": "https://www.tomshardware.com/pc-components/ssds/phison-details-ssd-with-a-built-in-npu-and-64gb-of-memory-that-supports-pytorch-and-llama-cpp-running-on-the-drive-second-design-merges-fast-pslc-cache-and-qlc-capacity-behind-one-controller"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "stories": [
+        {
+          "title": "悪意あるWebページを1枚開くだけで対話AI「Meta Muse」の会話履歴やメモリが流出する深刻な脆弱性が判明",
+          "source_url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html"
+        },
+        {
+          "title": "攻撃者が自律型AIエージェントを悪用し、医療画像サーバーの未知の脆弱性を突いてルート権限を奪取",
+          "source_url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html"
+        },
+        {
+          "title": "デジタル庁、政府共通インフラのファイル共有サービスで第三者アクセスによる情報漏洩の可能性を発表",
+          "source_url": ""
+        },
+        {
+          "title": "難治性膵臓がんの生存率を飛躍的に高める新経口薬「Daraxonrasib」が劇的な臨床成果を発表",
+          "source_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+        },
+        {
+          "title": "AIエージェントは「仲間AI」に助けを求める際、機密パスワードを自ら差し出す傾向があることが判明",
+          "source_url": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/"
+        },
+        {
+          "title": "富士フイルム、デジタル全盛の時代にあえて味わうモノクロ専用「写ルンです Black and White」を発売",
+          "source_url": "https://www.gizmodo.jp/article/fujifilm_utsurundesu-black-and-white_review/"
+        },
+        {
+          "title": "レトロゲームの4:3画面を引き伸ばさずにそのまま遊べる縦型Androidゲーム機「KONKR Pocket BLOCK」が登場",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2158302.html"
+        },
+        {
+          "title": "オムロン、日本体育大学と共同開発した本格筋トレ・トレーニー向け体組成計「カラダスキャン」を発表",
+          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2158273.html"
+        },
+        {
+          "title": "フラウンホーファーIAPT、金属3Dプリント品から超音波でサポート構造を自動除去する技術を開発",
+          "source_url": ""
+        },
+        {
+          "title": "生きた大腸菌や海洋細菌を演算素子として組み込んだ世界初の「バイオコンピュータ」が稼働",
+          "source_url": "https://newatlas.com/computers/biological-computer-living-bacteria/"
+        },
+        {
+          "title": "35年前の「スーパーファミコン」でChatGPTを爆速動作させるSuper FX 2搭載カスタムモッドが話題に",
+          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies"
+        },
+        {
+          "title": "パキスタンで太陽光発電の導入が急爆発、送電網の収容能力を超過する分散エネルギーのパラダイムシフトが発生",
+          "source_url": "https://www.bbc.com/news/articles/ckvg2n2q3103o"
+        },
+        {
+          "title": "レトロなMS-DOS環境でそのまま動作する軽量AIコーディングアシスタント「ClawDOS」が公開",
+          "source_url": "http://ricapar.net/ClawDOS/"
+        },
+        {
+          "title": "マイコン「ESP32」でレトロなモノクロ液晶表示器を駆動するカスタム基板実装が登場",
+          "source_url": "https://hackaday.com/2026/11/21/esp32-drives-mda-display-for-wireless-terminal/"
+        },
+        {
+          "title": "正面衝突の強い衝撃を変形フレームで吸収しそのまま飛翔し続ける柔軟ドローン「FlexiQuad」が登場",
+          "source_url": "https://newatlas.com/drones/flexible-drone-survives-head-on-collisions/"
+        },
+        {
+          "title": "ラピダス、2nm最先端プロセスでのSRAMメモリ試作に苦戦、2027年の量産計画に懸念",
+          "source_url": ""
+        },
+        {
+          "title": "スペースX、建物内の電波死角をゼロにする屋上設置型の超小型スターリンク基地局を設計完了",
+          "source_url": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/"
+        },
+        {
+          "title": "中国の宇宙ステーション「天宮」にて宇宙空間で絶対零度に近い9.7ピコケルビンの極低温原子冷却に成功",
+          "source_url": "https://gigazine.net/news/20261121-10-picokelvin-quantum/"
         }
       ]
     }
