@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-11-17T09:03:11.448747+09:00",
+  "updated_at": "2026-11-23T08:11:58.448895+09:00",
   "items": [
-    {
-      "title": "推論トークンを最大55%削減し2.6倍高速化する「ハイブリッド推論エージェント」が登場",
-      "category": "LLM・生成AI",
-      "date": "2026-10-19",
-      "source_url": "https://arxiv.org/abs/2610.18861",
-      "importance": 5
-    },
-    {
-      "title": "テキサスA&M大学、グミ状ゲル「サロゲル」で建物の室温を自律調節し空調電力を削減",
-      "category": "材料・ナノテク",
-      "date": "2026-10-19",
-      "source_url": "https://newatlas.com/materials/heat-storing-salogel-construction-energy/",
-      "importance": 4
-    },
-    {
-      "title": "自然言語プロンプトだけで生成されたRust製オープンソースCAD「SolidCraft」が登場",
-      "category": "3Dプリンティング・製造",
-      "date": "2026-10-20",
-      "source_url": "https://3dprintingindustry.com/news/vibecoded-clones-of-solidworks-and-autocad-released-as-open-source-255770/?utm_source=rss&utm_medium=rss&utm_campaign=vibecoded-clones-of-solidworks-and-autocad-released-as-open-source",
-      "importance": 4
-    },
-    {
-      "title": "抱っこ中は自動追従、危険時は自動停止するスマート電動ベビーカーが初公開",
-      "category": "ロボティクス・自動化",
-      "date": "2026-10-20",
-      "source_url": "https://kaden.watch.impress.co.jp/docs/news/2148346.html",
-      "importance": 3
-    },
     {
       "title": "Meta、表情豊かなアバターと音声対話ができるAIエージェント「Muse」の新機能を発表",
       "category": "AIプロダクト",
@@ -146,6 +118,55 @@
       "category": "AI研究",
       "date": "2026-11-16",
       "source_url": "https://www.nature.com/articles/d41586-026-03679-8",
+      "importance": 4
+    },
+    {
+      "title": "クラウドフレア（Cloudflare）、AIエージェント操作に特化した超軽量ヘッドレスブラウザ「Kitesurf」をオープンソース公開",
+      "category": "ソフトウェア・開発ツール",
+      "date": "2026-11-16",
+      "source_url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+      "importance": 4
+    },
+    {
+      "title": "llama.cpp v1.0.0が初のメジャーリリース、ローカルAIエコシステムの基盤強化へ",
+      "category": "LLM・生成AI",
+      "date": "2026-11-17",
+      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "importance": 4
+    },
+    {
+      "title": "次世代半導体材料「酸化ガリウム」が電力ロス大幅低減でAI需要狙う",
+      "category": "半導体・チップ",
+      "date": "2026-11-17",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "Google、AI講座「Google AI プロフェッショナル認定証」を先着1万人に無料提供",
+      "category": "AIプロダクト",
+      "date": "2026-11-17",
+      "source_url": "",
+      "importance": 4
+    },
+    {
+      "title": "GoogleマップのAIチャットボットが旅行計画を自動作成、目的地間の推奨も",
+      "category": "AIプロダクト",
+      "date": "2026-11-17",
+      "source_url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "importance": 4
+    },
+    {
+      "title": "iPhone Duoに顔認証機能が追加、既存ハードウェアで実現",
+      "category": "ガジェット・民生機器",
+      "date": "2026-11-17",
+      "source_url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+      "importance": 4
+    },
+    {
+      "title": "日清紡、両面実装可能なシリコンマザーボードを開発 - 実装面積を最大90%削減",
+      "category": "プリント基板・電子実装",
+      "date": "2026-11-17",
+      "source_url": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
       "importance": 4
     }
   ]
