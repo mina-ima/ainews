@@ -1,87 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-08",
-      "stories": [
-        {
-          "title": "軽量モデルが困難時のみClaude Opusを呼び出すハイブリッド判定手法、精度維持しつつ推論コストを75％削減",
-          "source_url": "https://hightouch.com/blog/llm-judges-identity-resolution"
-        },
-        {
-          "title": "2D図面からフィーチャー履歴付き3D CADデータを自律生成するAIエージェント「Hacadly」が登場",
-          "source_url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html"
-        },
-        {
-          "title": "HPとハイペリオン（Hyperion）、超硬合金「炭化タングステン」の3Dプリント量産実用化に向け戦略提携",
-          "source_url": "https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246/?utm_source=rss&utm_medium=rss&utm_campaign=hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet"
-        },
-        {
-          "title": "クロード・コード（Claude Code）の設定ファイルからパスワードやAPIキーが流出、公開GitHubに1,100件以上が露出",
-          "source_url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
-        },
-        {
-          "title": "OpenSSHにパスワードなしで侵入を許す脆弱性「SSHole」が発覚、公開後わずか数時間で攻撃が多発",
-          "source_url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
-        },
-        {
-          "title": "マイクロソフト（Microsoft）「ペイント」にリモートコード実行の脆弱性、修正はMicrosoft Store経由でのみ配信",
-          "source_url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
-        },
-        {
-          "title": "オープンAI（OpenAI）、評価額1.25兆ドル（約190兆円）で追加110億ドルの巨額資金調達を実施",
-          "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
-        },
-        {
-          "title": "AI需要による世界的なメモリ高騰「RAMageddon」が直撃、オッポ（Oppo）が次期最上位スマホの開発を中止か",
-          "source_url": "https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/"
-        },
-        {
-          "title": "ニトリ、猫じゃらしと爪とぎが一体化したペット向け空気清浄機「NR-201CAT」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153879.html"
-        },
-        {
-          "title": "周囲にあるスマートグラスを自動検知してプライバシー侵害を警告するオープンソースアプリ「Nearby Glasses」",
-          "source_url": "https://gigazine.net/news/20261107-nearby-glasses/"
-        },
-        {
-          "title": "電子レンジだけで食パン1枚のハーフホットサンドが手軽に焼ける「Toffy レンジウェル」が登場",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153931.html"
-        },
-        {
-          "title": "電力と水資源の逼迫により、東南アジアにおけるAIデータセンターの建設計画に急ブレーキ",
-          "source_url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia"
-        },
-        {
-          "title": "ディスコード（Discord）がElectronを廃止しRust製へ刷新、メモリ消費量を70％削減し起動待ち時間をゼロに",
-          "source_url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
-        },
-        {
-          "title": "デンソー（DENSO）、ベテラン技術者の暗黙知を引き出しPLC制御ソフトの検図をAIで自動化",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03783/102600006/"
-        },
-        {
-          "title": "人型（ヒューマノイド）ロボットが自宅を清掃代行する新サービスが米国で実証、生活支援の現場へ",
-          "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-        },
-        {
-          "title": "唾液で手軽に薬物血中濃度を検査できるペロペロキャンディ型医療センサー「Lollylab」が開発",
-          "source_url": "https://newatlas.com/good-thinking/lollylab-lollipop-medication-sensor/"
-        },
-        {
-          "title": "TSMC、エヌビディア（NVIDIA）からの「3D DRAM」製造要請を否定、メモリ不足緩和への先端技術は数年先か",
-          "source_url": "https://www.tomshardware.com/pc-components/dram/tsmc-denies-exploring-3d-dram-at-nvidias-request-advanced-memory-tech-is-still-years-from-market-viability"
-        },
-        {
-          "title": "シリコンウェハーに空気孔を開けるだけで平坦な紫外線集光ミラーに変換、小型光学系の革新へ",
-          "source_url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html"
-        },
-        {
-          "title": "NTTドコモの「5G SA」サービスで最大158万人に通信障害、交換機メモリ異常とDB更新の競合が原因と判明",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2154545.html"
-        }
-      ]
-    },
-    {
       "date": "2026-11-09",
       "stories": [
         {
@@ -1060,6 +979,75 @@
         {
           "title": "中国の宇宙ステーション「天宮」にて宇宙空間で絶対零度に近い9.7ピコケルビンの極低温原子冷却に成功",
           "source_url": "https://gigazine.net/news/20261121-10-picokelvin-quantum/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "stories": [
+        {
+          "title": "【続報】数学の超難問「リーマン予想」のClaudeによる証明、Lean形式検証コミュニティが「正当」と公式認定",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/"
+        },
+        {
+          "title": "オープンルーター（OpenRouter）、AI推論事業者3社による数ヶ月間のプロンプト盗難を特定し即時遮断",
+          "source_url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+        },
+        {
+          "title": "サイエンス・コーポレーション（Science Corp.）、2mmの網膜チップ「PRIMA」で失明患者の「読む視力」を再生",
+          "source_url": "https://www.gizmodo.jp/article/science-prima-retinal-implant/"
+        },
+        {
+          "title": "山科精器、25kgの冷凍バターを品質を損なわずに自動カットする業務用マシン「BataSla」を開発",
+          "source_url": "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/"
+        },
+        {
+          "title": "Kindleのページめくりを腕のボタンで完全ハンズフリー化する極小リモコン「Kindle Click」が登場",
+          "source_url": "https://www.androidpolice.com/kindle-click-changed-way-i-use-paperwhite-back-on-the-treadmill/"
+        },
+        {
+          "title": "インフラ遮断時でもサバイバル知識や医療データをPC内に全ローカル保存・閲覧できる「Lastbook」",
+          "source_url": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/"
+        },
+        {
+          "title": "ユーグリーン（UGREEN）、発熱による充電低下を防ぐ液冷ファン内蔵の25W MagSafeモバイルバッテリーを投入",
+          "source_url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/"
+        },
+        {
+          "title": "アックストラ3D（Axtra3D）、可溶性金型と耐熱樹脂を組み合わせた産業用3Dプリント技術「xMOLD」を発表",
+          "source_url": "https://www.engineering.com/axtra3d-adds-xmold-and-ataru-black-for-lumia-x1/"
+        },
+        {
+          "title": "走行・停車中にEVを自動充電するルーフ装着型ソーラーラック「DartSolar」が登場",
+          "source_url": "https://newatlas.com/automotive/dartsolar-roof-mounted-solar-charging-ev/"
+        },
+        {
+          "title": "PythonアプリをRustで高速化する自律アシスト型Webサーバー「Muru」が公開",
+          "source_url": "https://simonwillison.net/2026/Nov/21/muru/"
+        },
+        {
+          "title": "プリント基板実装の生産性を向上、E-BOMとM-BOMの分断を防ぐ統合設計シームレス化の手法",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/01187/00089/"
+        },
+        {
+          "title": "マイコン「ESP32」を接続するだけで超小型USB Wi-Fiアダプター化するオープンソース基板実装が登場",
+          "source_url": "https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/"
+        },
+        {
+          "title": "極限環境での高速駆動を実現する流体制御型「ソフトロボット」のレース用機体が開発",
+          "source_url": "https://hackaday.com/2026/11/22/soft-robot-made-for-the-races/"
+        },
+        {
+          "title": "マイクロソフト（Microsoft）、エージェント型AIワークロードに最適化した次世代Arm CPU「Azure Cobalt 200」を発表",
+          "source_url": "https://www.engineering.com/microsoft-announces-azure-cobalt-200-general-availability/"
+        },
+        {
+          "title": "水星探査機「ベピコロンボ（BepiColombo）」、8年の旅路を経て水星周回軌道へ最終到達",
+          "source_url": "https://www.nature.com/articles/d41586-026-03803-8"
+        },
+        {
+          "title": "シラ（Sila）とパナソニック、10億ドル規模のシリコンアノード電池材料供給契約を締結",
+          "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
         }
       ]
     }
