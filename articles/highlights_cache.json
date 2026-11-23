@@ -1,43 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-09",
-      "stories": [
-        {
-          "title": "エヌビディア、CEOジェンスン・フアン氏と中国人スパイに関する取締役会調査を発表",
-          "source_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
-        },
-        {
-          "title": "オープンAI、評価額1.25兆ドルで追加110億ドルの巨額資金調達を実施",
-          "source_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/"
-        },
-        {
-          "title": "オープンソースAI「Ripple-65B Preview」、上位モデルを凌駕する性能を低コストで実現",
-          "source_url": "https://gigazine.net/news/20261108-ripple-65b-preview/"
-        },
-        {
-          "title": "【続報】Claude Codeの設定ファイル露出問題、1,100件以上のパスワードやAPIキーがGitHub上に流出",
-          "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-        },
-        {
-          "title": "ダイヤモンドファウンドリー、世界初の200mm単結晶ダイヤモンドウェハーを開発",
-          "source_url": "https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors"
-        },
-        {
-          "title": "UGREEN「トランスミッター＆レシーバー」：古いオーディオ機器やテレビをワイヤレス化するBluetooth 6.0対応アダプター",
-          "source_url": "https://www.gizmodo.jp/article/312429-2611-amazon-ugreen-transmitter/"
-        },
-        {
-          "title": "アンスロピック、データセンター向けガス火力発電確保へ34億ドルの大型契約を締結",
-          "source_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
-        },
-        {
-          "title": "トヨタ自動車、中長期方針でロボティクス事業への参入を正式発表",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110600043/"
-        }
-      ]
-    },
-    {
       "date": "2026-11-10",
       "stories": [
         {
@@ -1048,6 +1011,63 @@
         {
           "title": "シラ（Sila）とパナソニック、10億ドル規模のシリコンアノード電池材料供給契約を締結",
           "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "stories": [
+        {
+          "title": "Google、AIモードでGoogleドライブやウォレット連携を開始 - よりパーソナルな回答を提供",
+          "source_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+        },
+        {
+          "title": "Amazon、AI最適化技術を持つDecartを買収 - トレーニウムチップ販売へ",
+          "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        },
+        {
+          "title": "GLM-5.4、ループトランスフォーマーで汎用的なコーディング能力向上へ",
+          "source_url": "https://z.ai/blog/glm-5.4"
+        },
+        {
+          "title": "NariQ、Qwen3.8-27Bを10GBファイルでBF16レベルの性能で動作させる",
+          "source_url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF"
+        },
+        {
+          "title": "PerplexityとIntelligenceの関係性についての考察",
+          "source_url": "https://openai.com/index/perplexity-and-intelligence/"
+        },
+        {
+          "title": "Nothing、AI文字起こし機能を搭載した完全ワイヤレスイヤホン「Ear (note)」を発表",
+          "source_url": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/"
+        },
+        {
+          "title": "Nospeaker、MacBookのトラックパッドを音声出力デバイスに変換",
+          "source_url": "https://github.com/os6/nospeaker"
+        },
+        {
+          "title": "スーダンで中世の教会跡を発見、中世最大級の教会か",
+          "source_url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527"
+        },
+        {
+          "title": "Bluetooth経由でのトレーラーブレーキ乗っ取り攻撃「Brake Check」",
+          "source_url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/"
+        },
+        {
+          "title": "Kagi Mail (public beta) 公開 - 広告なし・プライバシー重視のメールサービス",
+          "source_url": "https://blog.kagi.com/kagi-mail-public-beta"
+        },
+        {
+          "title": "Elixir HLS、Elixirで記述された関数からFPGA回路を生成",
+          "source_url": "https://github.com/elixir-hls/elixir-hls"
+        },
+        {
+          "title": "Erlangでドンキー・カーを復活させるプロジェクト",
+          "source_url": "https://underjord.io/reviving-the-donkey-car-with-erlang.html"
+        },
+        {
+          "title": "MRAMの基礎：磁気メモリが組み込みフラッシュを置き換える仕組み",
+          "source_url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/"
         }
       ]
     }
