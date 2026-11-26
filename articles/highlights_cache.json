@@ -1,83 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-12",
-      "stories": [
-        {
-          "title": "【続報】メタの対話AIエージェント「Muse」、アップルウォッチやスマートウォッチに対応拡大",
-          "source_url": "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/"
-        },
-        {
-          "title": "グーグル・ディープマインド、Signalの暗号化基盤を自律検証する形式検証AI「AlphaProof Code」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-alphaproof-code/"
-        },
-        {
-          "title": "アマゾン、社内AIをClaudeから自社製意思決定モデルに刷新し推論コストを98％削減",
-          "source_url": "https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/"
-        },
-        {
-          "title": "スペースX、84層の超多層基板を採用した宇宙データセンター向けシステム「Kessel」を開発",
-          "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board"
-        },
-        {
-          "title": "シーメンス、プリント基板の信号・電源検証ツール「HyperLynx」に自律型AIエージェントを統合",
-          "source_url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/"
-        },
-        {
-          "title": "グーグル・ディープマインド、DNA変異と難治性疾患の関係を細胞レベルで解明する「AlphaGenome 2」を発表",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-        },
-        {
-          "title": "米国政府、AI悪用によるバイオテロを未然に防ぐため合成DNAの注文に新規制を導入",
-          "source_url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna"
-        },
-        {
-          "title": "アマゾン傘下のリング、室内をAIで自動巡回する家庭用防犯ドローン「Ring Drone Cam」を正式発表",
-          "source_url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
-        },
-        {
-          "title": "PFU、アルミ削り出し筐体を採用した33万円の30周年記念キーボード「HHKB Professional Elite」を発売",
-          "source_url": "https://gigazine.net/news/20261111-hhkb-professional-elite-usage/"
-        },
-        {
-          "title": "バウヒュッテ、ベッドを遮光個室シアター化する「つっぱり式スクリーンスタンドセット」を発売",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2155532.html"
-        },
-        {
-          "title": "プルサ、電子機器製造ライン向けに静電気破壊を防ぐ炭素複合3Dプリント用フィラメントを発売",
-          "source_url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics"
-        },
-        {
-          "title": "タニオビス、1,050度超に耐えるニオブ合金製ロケットノズルのマルチレーザー3Dプリントに成功",
-          "source_url": "https://3dprintingindustry.com/news/taniobis-prints-crack-free-niobium-rocket-nozzles-on-four-laser-system-256357/?utm_source=rss&utm_medium=rss&utm_campaign=taniobis-prints-crack-free-niobium-rocket-nozzles-on-four-laser-system"
-        },
-        {
-          "title": "ソフトバンク、AIデータセンター向けガスタービンの仮予約を解約し約37億ドルの巨額損失を計上",
-          "source_url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity"
-        },
-        {
-          "title": "xAIの自律開発エージェント「Grok Build」で作成されたアプリ3万5,000件が認証不備で公開状態に",
-          "source_url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html"
-        },
-        {
-          "title": "アマゾン・ウェブ・サービス、AIエージェントの安全な自律実行に向け軽量VM「AWS Nitro Sandboxes」を提供開始",
-          "source_url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html"
-        },
-        {
-          "title": "ノルウェーのサーモン養殖場で3,500台のレーザー搭載自律潜水AIロボットが稼働、薬品不使用の駆除を実現",
-          "source_url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths"
-        },
-        {
-          "title": "北海道大学発スタートアップのレタラ、安全・高推力なハイブリッドロケットエンジンの実用化へ前進",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/03181/103000041/"
-        },
-        {
-          "title": "IBM、次世代超電導量子プロセッサ「Quantum Nighthawk」を発表し1,000量子ビットへの道筋を示す",
-          "source_url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027"
-        }
-      ]
-    },
-    {
       "date": "2026-11-13",
       "stories": [
         {
@@ -1004,6 +927,47 @@
         {
           "title": "MacBookのトラックパッドの振動モーターをスピーカー化するオープンソース「NO SPEAKER」が登場",
           "source_url": "https://gigazine.net/news/20261125-no-speaker-macbook-trackpad/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "stories": [
+        {
+          "title": "【続報】エヌビディア取締役会、ジェンスン・フアン前CEOの復帰を正式決定、一方でS&Pは格下げを検討",
+          "source_url": ""
+        },
+        {
+          "title": "キオクシアとエヌビディア、SSDでGPUメモリをペタバイト級に拡張するAI向け実証を開始",
+          "source_url": "https://pc.watch.impress.co.jp/docs/news/2159567.html"
+        },
+        {
+          "title": "FCC、スペースXによる最大100万基の宇宙データセンター用衛星「Starmind」の配備を承認",
+          "source_url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "title": "米ニューヨーク・タイムズ紙、写真家に対し「ユーザーにも不透明なAI機能」が含まれる最新Photoshopへのアップデートを禁止",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+        },
+        {
+          "title": "OpenAI、新モデル「GPT-6.2 Astra」等の使用量計算の誤りを修正、ヘビーユーザーは上限到達が40%早く",
+          "source_url": "https://twitter.com/thsottiaux/status/2125784147889393806"
+        },
+        {
+          "title": "海外音楽配信サービス「TIDAL」、完全AI生成楽曲の蔓延を受けて約2700万曲を全削除へ",
+          "source_url": "https://internet.watch.impress.co.jp/docs/yajiuma/2159409.html"
+        },
+        {
+          "title": "エイサー、インテル製チップ搭載で価格を抑えたポータブルゲーミングPC「Predator Atlas 8」を発表",
+          "source_url": ""
+        },
+        {
+          "title": "香港科技大学、力が加わるほど硬化する新奇なチタン合金の3Dプリントに成功",
+          "source_url": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/"
+        },
+        {
+          "title": "MCPに新機能「Skills over MCP」登場、AIエージェントへのツール接続と操作スキルの共有を標準化",
+          "source_url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html"
         }
       ]
     }
