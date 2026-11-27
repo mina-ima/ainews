@@ -1,71 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-13",
-      "stories": [
-        {
-          "title": "【続報】メタ（Meta）、対話AI「Muse」専用メールアドレス機能を開始し電子メール送受信・カレンダー調整の完全自動化へ",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/"
-        },
-        {
-          "title": "グーグル（Google）、処理速度と知能を大幅強化した新フラッグシップモデル「Gemini 4 Hydrogen」を発表",
-          "source_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
-        },
-        {
-          "title": "スウェーデンの「EcoDataCenter」、木造構造と100%再エネを採用した環境調和型データセンターを公開",
-          "source_url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun"
-        },
-        {
-          "title": "「Notion AI」のチャットログ漏えい懸念が拡大、国内企業で会議内容や機密データの流出報告が相次ぐ",
-          "source_url": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/"
-        },
-        {
-          "title": "グーグル（Google）、就業時間外もAIがコード開発を継続する「Google Antigravity」のリモートエージェント機能を公開",
-          "source_url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html"
-        },
-        {
-          "title": "AWS、ローカルPC上で完全なAWS環境を再現・エミュレートする公式無料ツール「AWSエミュレータ」をリリース",
-          "source_url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html"
-        },
-        {
-          "title": "【続報】エヌビディア（NVIDIA）のジェンスン・フアンCEOが不倫・密輸疑惑を受け即時辞任、暫定CEOにコレット・クレスCFO",
-          "source_url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
-        },
-        {
-          "title": "旭化成、AIと自動化実験装置を融合し材料開発プロセスを自律化する「スマートラボラトリー」を開設",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03462/"
-        },
-        {
-          "title": "反復・長期タスクにおけるAIコーディングエージェントのコード劣化を検証するベンチマーク「SlopCodeBench」が登場",
-          "source_url": "https://gigazine.net/news/20261112-slopcodebench/"
-        },
-        {
-          "title": "アンカー（Anker）、ミリ波レーダーで無入眠測定するスマート睡眠スピーカー「Anker SleepLab」を発表",
-          "source_url": "https://k-tai.watch.impress.co.jp/docs/news/2156045.html"
-        },
-        {
-          "title": "松戸家、スマホをかざすと故人の声や映像が蘇るスマート位牌「想音（おもね）」を発売",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2155549.html"
-        },
-        {
-          "title": "ナッシング（Nothing）、画面を排した小型ポータブルAIボイスレコーダーのティザー画像を公開",
-          "source_url": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/"
-        },
-        {
-          "title": "BCN3D、AIパラメトリックデザインを内蔵しCADデータ不要で部品生成する産業用3Dプリンター「Aurora」を発表",
-          "source_url": ""
-        },
-        {
-          "title": "アルティウム（Altium）、防衛・安全規格に対応した高セキュリティなクラウド基板（PCB）設計プラットフォーム技術を検証",
-          "source_url": "https://www.engineering.com/what-secure-cloud-pcb-platforms-must-prove-to-engineering-teams/"
-        },
-        {
-          "title": "パナソニック、職人の暗黙知をAI・ロボットで自動化する「フィジカルAI」に250人体制で注力",
-          "source_url": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html"
-        }
-      ]
-    },
-    {
       "date": "2026-11-14",
       "stories": [
         {
@@ -968,6 +903,35 @@
         {
           "title": "MCPに新機能「Skills over MCP」登場、AIエージェントへのツール接続と操作スキルの共有を標準化",
           "source_url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "stories": [
+        {
+          "title": "スイス政府、重要インフラへの攻撃でAI駆動型サイバー攻撃を確認（4件中3件）",
+          "source_url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+        },
+        {
+          "title": "【続報】エヌビディア、米国の対中規制強化を受けてマレーシアなど東南アジアへのAIサーバー出荷を一時停止",
+          "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "title": "京セラ、AI・データセンター需要を狙い5年間で9000億円の設備投資を計画",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/"
+        },
+        {
+          "title": "ソフトバンク、聴覚障害社員向けにスマホ内で完結するスマートグラス文字起こしシステムを独自開発",
+          "source_url": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/"
+        },
+        {
+          "title": "Google、AIエージェントによるWorkspace連携でMCPサーバーの利用を義務化",
+          "source_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+        },
+        {
+          "title": "住友ゴム、韓国CARIMAと協業し国内法人向け3Dプリンター事業に参入",
+          "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03484/"
         }
       ]
     }
