@@ -1,75 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-11-14",
-      "stories": [
-        {
-          "title": "オープンAI（OpenAI）、「ChatGPT Wallet」を発表——AIエージェントによる自動決済・購買代行を実現",
-          "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
-        },
-        {
-          "title": "WebGPUで完全ローカル・リアルタイムに13言語の音声認識を行えるWebツール「Voxtral Mini 4B Realtime WebGPU」が登場",
-          "source_url": "https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/"
-        },
-        {
-          "title": "パナソニック（Panasonic）、モバイル入力操作による画面推移をAIで事前予測する現場作業用「世界モデル」を開発",
-          "source_url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12162/"
-        },
-        {
-          "title": "ローレンス・リバモア国立研究所（LLNL）、2光子重合3Dプリント技術により核融合部材の製造時間を10日から1日に縮小",
-          "source_url": "https://3dprintingindustry.com/news/llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization-256578/?utm_source=rss&utm_medium=rss&utm_campaign=llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization"
-        },
-        {
-          "title": "トレザー（Trezor）の暗号資産ウォレットに悪質な「基板インプラント」混入が発覚、シードフレーズ漏えいの危険",
-          "source_url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
-        },
-        {
-          "title": "ポストグレSQL（PostgreSQL）、22年間潜伏していたリモートコード実行脆弱性など計52件のセキュリティホールを一挙修正",
-          "source_url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
-        },
-        {
-          "title": "【続報】エヌビディア（NVIDIA）取締役会、フアン氏辞任に伴う後任CEO候補としてアーム（Arm）のルネ・ハースCEOに打診",
-          "source_url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926"
-        },
-        {
-          "title": "AIを用いて天才数学者ゲーデルの未解読手記を解析、ノートに埋もれた数百もの「未公表の定理」を解読",
-          "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
-        },
-        {
-          "title": "ナブ・カサ（Nabu Casa）、非スマート家電をスマートホーム機器へ拡張する接続アダプター「Home Assistant Connect AUX-2」を発売",
-          "source_url": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/"
-        },
-        {
-          "title": "キークロン（Keychron）、トラックボールの位置・角度を自在に微調整できるエルゴノミクスマウス「Keychron T1 HE」を発表",
-          "source_url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable"
-        },
-        {
-          "title": "ジェックス（GEX）、部屋に散らかる猫や犬の抜け毛を24時間吸引・ろ過するペット専用集毛機「ファースイーパー」を発表",
-          "source_url": "https://kaden.watch.impress.co.jp/docs/news/2153852.html"
-        },
-        {
-          "title": "東芝ライフスタイル（AUREX）、CDジャケットを飾ってディスプレイできるスリムオーディオ「AX-WSR20」を発表",
-          "source_url": "https://av.watch.impress.co.jp/docs/news/2156256.html"
-        },
-        {
-          "title": "太陽光を外部バッテリーなしで直接パワフルな機械運動に変換するソフトロボット「SunLightBots」",
-          "source_url": "https://arxiv.org/abs/2611.14729"
-        },
-        {
-          "title": "ビーワイディー（BYD）、アブダビで自動運転とロボットアームを組み合わせた「5分間ロボットEV急速充電スタンド」を公開",
-          "source_url": "https://newatlas.com/automotive/byd-solar-robot-flash-charging-station-abu-dhabi/"
-        },
-        {
-          "title": "FPGA「Tang Nano 20K」を活用し、レトロPCのプリント基板上プロセッサを置換・高速化するモジュラー基板開発",
-          "source_url": "https://hackaday.com/2026/11/12/upgrade-your-coco-the-modern-way/"
-        },
-        {
-          "title": "マイクロチップ（Microchip Technology）、毎秒800回の極小容量検知が可能なロボット触覚用デジタイザ「ATFCD52」を発表",
-          "source_url": "https://www.engineering.com/microchip-introduces-tactile-sensing-digitizer-for-robotics/"
-        }
-      ]
-    },
-    {
       "date": "2026-11-15",
       "stories": [
         {
@@ -932,6 +863,59 @@
         {
           "title": "住友ゴム、韓国CARIMAと協業し国内法人向け3Dプリンター事業に参入",
           "source_url": "https://xtech.nikkei.com/atcl/nxt/news/24/03484/"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "stories": [
+        {
+          "title": "【続報】オープンAI、新モデル「GPT-6.2 Astra」を巡りアップルを提訴",
+          "source_url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/"
+        },
+        {
+          "title": "【続報】キャラクター・ドット・AIの破産競売で2100万人分のプライベート会話が流出危機、42州の司法長官が差し止め要求",
+          "source_url": "https://www.chosun.com/english/industry-en/2026/11/27/C4UJBF7FORHGNAJTE4G27BS7JQ/"
+        },
+        {
+          "title": "Hugging Face上で流通したGGUF形式のローカルAIモデルに隠しマルウェア、2400人が被害に",
+          "source_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/"
+        },
+        {
+          "title": "スパコン「富岳」公開ページの脆弱性を突いた不正アクセスで4597人分の情報流出の恐れ",
+          "source_url": "https://www.gizmodo.jp/article/2611-top500-supercomputer-fugaku-security-incident/"
+        },
+        {
+          "title": "【続報】エヌビディア前CEOジェンスン・フアン氏の復帰を正式決定、一方で東南アジアへのチップ出荷は一時停止",
+          "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "title": "グローバルのDRAM不足は予想より早期に緩和か、TrendForceが2027年の価格安定予測を発表",
+          "source_url": "https://www.tomshardware.com/pc-components/dram/memory-shortage-could-ease-years-earlier-than-ram-makers-claim-trendforce-says-ram-pricing-will-stabilize-in-2027-and-drop-in-2028"
+        },
+        {
+          "title": "【続報】アンスロピック、Claudeによる研究タスク「サボタージュ疑惑」を否定",
+          "source_url": "https://techcrunch.com/2026/11/28/anthropic-denies-that-claude-is-trained-to-sabotage-work/"
+        },
+        {
+          "title": "磁力でどこでもメガネ置き場を作れる999円の強力ネオジム磁石ホルダー「YIBOOOM」",
+          "source_url": "https://www.gizmodo.jp/article/2611-yibooom-magnetic-glasses-holder/"
+        },
+        {
+          "title": "Apple Watch Ultra用チタニウムミラネーゼループレビュー：ゴム並みの軽さと布のようななめらかさ",
+          "source_url": "https://www.gizmodo.jp/article/2611-apple-watch-ultra-titanium-milanese-loop/"
+        },
+        {
+          "title": "USB-Cケーブルをマグネット式に変換するCIOのL字型アダプタ、デスク周りをスッキリ整理",
+          "source_url": "https://www.gizmodo.jp/article/306452-2611-amazon-cio-magnethenkanadaptor/"
+        },
+        {
+          "title": "トランプ氏の投稿を「数ミリ秒早く読める」先行API、月額最大1600万円で販売拡大",
+          "source_url": "https://www.gizmodo.jp/article/2611-trumps-social-media-early-access-api/"
+        },
+        {
+          "title": "使用済み風力ブレードを一瞬で2000℃に加熱しグラフェンに変換する新手法、清華大学が開発",
+          "source_url": "https://www.gizmodo.jp/article/2611-wind-turbine-blade-recycling-graphene/"
         }
       ]
     }
